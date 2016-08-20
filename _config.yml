@@ -1,0 +1,47 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: sektoraler Heilpraktiker für Physiotherapie - Fortbildung und Prüfung
+email: info@heilpraktiker-physiotherapie.com    
+description: >
+  Awesome site description here
+logo: "/assets/images/logosvg.svg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://heilpraktiker-physiotherapie.github.io" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+name: 'Arne Brödel'
+bio: >
+  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
+  Ne solet nostrum complectitur pri, vis ut inani populo.
+author_image: "/assets/images/author.jpg"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+  
+permalink: /blog/:title
+
+
+gems:
+  - jekyll-paginate
+
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []

@@ -1,0 +1,70 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" viewBox="0 0 1044.2 1083.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea2634;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: #51bde4;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="766.5" cy="340.72" r="277.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0.06" stop-color="#5ee600"/>
+      <stop offset="0.07" stop-color="#62e706" stop-opacity="0.97"/>
+      <stop offset="0.09" stop-color="#6ee819" stop-opacity="0.9"/>
+      <stop offset="0.1" stop-color="#81eb37" stop-opacity="0.79"/>
+      <stop offset="0.12" stop-color="#9bef61" stop-opacity="0.62"/>
+      <stop offset="0.14" stop-color="#bdf597" stop-opacity="0.41"/>
+      <stop offset="0.16" stop-color="#e6fbd7" stop-opacity="0.16"/>
+      <stop offset="0.18" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.19" stop-color="#e7fbd9" stop-opacity="0.15"/>
+      <stop offset="0.22" stop-color="#c3f6a0" stop-opacity="0.37"/>
+      <stop offset="0.26" stop-color="#a4f16f" stop-opacity="0.56"/>
+      <stop offset="0.29" stop-color="#8bed47" stop-opacity="0.72"/>
+      <stop offset="0.32" stop-color="#77ea28" stop-opacity="0.84"/>
+      <stop offset="0.35" stop-color="#69e812" stop-opacity="0.93"/>
+      <stop offset="0.38" stop-color="#61e604" stop-opacity="0.98"/>
+      <stop offset="0.41" stop-color="#5ee600"/>
+      <stop offset="0.54" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.54" stop-color="#f9fef6" stop-opacity="0.04"/>
+      <stop offset="0.55" stop-color="#d9f9c3" stop-opacity="0.24"/>
+      <stop offset="0.55" stop-color="#bcf594" stop-opacity="0.42"/>
+      <stop offset="0.56" stop-color="#a2f16c" stop-opacity="0.58"/>
+      <stop offset="0.57" stop-color="#8ded4a" stop-opacity="0.71"/>
+      <stop offset="0.57" stop-color="#7ceb2f" stop-opacity="0.82"/>
+      <stop offset="0.58" stop-color="#6ee91a" stop-opacity="0.9"/>
+      <stop offset="0.59" stop-color="#65e70b" stop-opacity="0.96"/>
+      <stop offset="0.61" stop-color="#60e603" stop-opacity="0.99"/>
+      <stop offset="0.63" stop-color="#5ee600"/>
+      <stop offset="0.72" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.73" stop-color="#ddfac9" stop-opacity="0.21"/>
+      <stop offset="0.74" stop-color="#bbf594" stop-opacity="0.42"/>
+      <stop offset="0.75" stop-color="#9ff067" stop-opacity="0.6"/>
+      <stop offset="0.76" stop-color="#87ec41" stop-opacity="0.74"/>
+      <stop offset="0.76" stop-color="#75ea25" stop-opacity="0.86"/>
+      <stop offset="0.77" stop-color="#68e810" stop-opacity="0.94"/>
+      <stop offset="0.78" stop-color="#61e604" stop-opacity="0.98"/>
+      <stop offset="0.79" stop-color="#5ee600"/>
+      <stop offset="0.88" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.89" stop-color="#ecfce1" stop-opacity="0.12"/>
+      <stop offset="0.91" stop-color="#c7f6a6" stop-opacity="0.35"/>
+      <stop offset="0.92" stop-color="#a7f173" stop-opacity="0.55"/>
+      <stop offset="0.94" stop-color="#8ded4a" stop-opacity="0.71"/>
+      <stop offset="0.95" stop-color="#78ea29" stop-opacity="0.84"/>
+      <stop offset="0.97" stop-color="#6ae812" stop-opacity="0.93"/>
+      <stop offset="0.99" stop-color="#61e605" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#5ee600"/>
+    </radialGradient>
+  </defs>
+  <title>b15a8357-b14e-4acc-be58-d730473a5648</title>
+  <polygon class="cls-1" points="360 243.5 525 243.5 525 441.5 360 441.5 360 603.5 156 603.5 156 441.5 0 441.5 0 243.5 156 243.5 156 75.5 360 75.5 360 243.5"/>
+  <path class="cls-2" d="M766.5,63.2c151.2,0,277.5,126.3,277.5,277.5S917.7,618.2,766.5,618.2,489,491.9,489,340.7,615.3,63.2,766.5,63.2Z"/>
+  <path class="cls-3" d="M728.9,39.2C619-14,440-11,312.1,36.1L286.5,6.7,245.3,126.3l124.2-24.1L347,80C442,32,608.3,30,697,75.5l-30.2,26.7L791,126.3,749.8,6.7Z"/>
+  <path class="cls-3" d="M407.7,787.7C373.8,815.8,351,858.5,351,915.5c0,223,348,225.7,348,0,0-52.6-18.8-92.7-47.7-120.6h0l73.3-189.4,55.9,25.2L742.1,420.3l-163,138.4,55.9,12.1L565.3,751a201.2,201.2,0,0,0-70.5-1.5l-65.9-175,55.9-12.1L321.9,424,283.5,634.4l55.9-25.2,69,178.3"/>
+</svg>

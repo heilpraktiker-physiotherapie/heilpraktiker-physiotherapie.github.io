@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html ⚡ lang="de">
+  {% include head.html %}
+    {% include header.md %}
+    <body>
+       <amp-sidebar id="sidebar" layout="nodisplay" side="right">
+        <amp-img class="amp-close-image hoveropacity midgrey" src="assets/images/closeX.svg" width="40" height="40" alt="close sidebar" on="tap:sidebar.toggle" role="button" tabindex="0"></amp-img>
+          <ul>
+          {% assign sorted_pages = site.pages | sort:"name" %}
+           {% for my_page in sorted_pages %}
+              {% if my_page.title %}
+              <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}"><button class="barbuttons">{{ my_page.title }}</button></a></li>
+              {% endif %}
+            {% endfor %}
+            </ul>
+
+    </amp-sidebar>
+        <div id="layoutcontent">
+        {{ content }}
+
+        </div>
+        {% include footer.html %}
+  </body>
+    
+</html>
