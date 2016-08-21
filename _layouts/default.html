@@ -7,14 +7,15 @@ layout: compress
     {% include header.md %}
     <body>
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
-        <amp-img class="amp-close-image hoveropacity midgrey" src="assets/images/closeX.svg" width="40" height="40" alt="close sidebar" on="tap:sidebar.toggle" role="button" tabindex="0"></amp-img>
+        <amp-img class="amp-close-image hoveropacity midgrey" src="{{site.baseurl}}/assets/images/closeX.svg" width="40" height="40" alt="close sidebar" on="tap:sidebar.toggle" role="button" tabindex="0"></amp-img>
           <ul>
-          {% assign sorted_pages = site.pages | sort:"name" %}
-           {% for my_page in sorted_pages %}
-              {% if my_page.title %}
-              <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}"><button class="barbuttons">{{ my_page.title }}</button></a></li>
-              {% endif %}
-            {% endfor %}
+              <li><a class="page-link" href="{{ site.baseurl }}/termine-und-anmeldung/"><button class="barbuttons">Termine und Anmeldung</button></a></li>
+              <li><a class="page-link" href="{{ site.baseurl }}/die-fortbildung/"><button class="barbuttons">Die Fortbildung</button></a></li>
+              <li><a class="page-link" href="{{ site.baseurl }}/voraussetzungen-und-anerkennung/"><button class="barbuttons">Voraussetzungen und Anerkennung</button></a></li>
+              <li><a class="page-link" href="{{ site.baseurl }}/hp-physio/"><button class="barbuttons">Infos zum sektoralen HP Physio</button></a></li>
+              <li><a class="page-link" href="{{ site.baseurl }}/kontakt/"><button class="barbuttons">Kontakt</button></a></li>
+              <li><a class="page-link" href="{{ site.baseurl }}/aktuelles/"><button class="barbuttons">Aktuelles</button></a></li>
+              <li><a class="page-link" href="{{ site.baseurl }}/downloads/"><button class="barbuttons">Downloads</button></a></li>
             </ul>
 
     </amp-sidebar>

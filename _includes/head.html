@@ -20,6 +20,12 @@
   <style amp-custom>
   {% capture include_to_scssify %}
     {% include styles.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+ {% capture include_to_scssify %} 
+      {%if page.scssfile%}
+      {%include {{page.scssfile}} %}
+      {%endif%}
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>
@@ -32,5 +38,6 @@
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
     <script async custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>
+      <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
   <script async src="https://cdn.ampproject.org/v0.js"></script>
 </head>

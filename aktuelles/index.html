@@ -1,0 +1,19 @@
+---
+layout: page
+title: Aktuelles
+---
+
+
+  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+  <article class="posts">
+      {% for post in paginator.posts %}
+    <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
+      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br/>
+      <time itemprop="dateCreated" datetime="{{post.date}}">
+          {{post.date | date:"%d.%m.%Y"}}
+        </time>
+        <p>{{post.excerpt | strip_html}} <a href="{{site.baseurl}}{{post.url}}" title="read more" class="more">weiter lesen...</a></p>
+    </article>
+  {% endfor %} 
+  </article>
+ 

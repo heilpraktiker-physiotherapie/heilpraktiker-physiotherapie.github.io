@@ -13,7 +13,10 @@ description: >
 logo: "/assets/images/logosvg.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://heilpraktiker-physiotherapie.github.io" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
+
+paginate:	2 # The number of posts to show per page on your homepage
+paginate_path: '/aktuelles/page:num/'
 
 name: 'Arne Brödel'
 bio: >
@@ -29,7 +32,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
   
-permalink: /blog/:title
+#permalink: /blog/:title
 
 
 gems:
