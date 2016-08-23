@@ -23,8 +23,11 @@ bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
   Ne solet nostrum complectitur pri, vis ut inani populo.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: PhysioHP
+twitter_url: https://twitter.com/PhysioHP
+facebook_url: https://www.facebook.com/HeilpraktikerPhysiotherapie/
+googleplus_url: https://plus.google.com/+Heilpraktikerphysiotherapiecom
+youtube_url: https://www.youtube.com/c/Heilpraktikerphysiotherapiecom
 
 # Build settings
 markdown: kramdown
@@ -37,6 +40,7 @@ kramdown:
 
 gems:
   - jekyll-paginate
+  - jekyll-github-metadata
 
 
 compress_html:

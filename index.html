@@ -11,10 +11,10 @@ layout: default
     <div id="videosocial" class="fullsize">
         <div class="left followbar">
             <div class="sharespacer">Wir bei</div>
-            <amp-img src="assets/images/FacebookRectBlue.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img>
-            <amp-img src="assets/images/TwitterRectBlue.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img>
-            <amp-img src="assets/images/GPlusRectRed.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img>
-            <amp-img src="assets/images/YouTubeRectRed.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img>
+            <a target="_blank" href="{{%site.facebook_url%}}"><amp-img src="assets/images/FacebookRectBlue.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img></a>
+            <a target="_blank" href="{{%site.twitter_url%}}"><amp-img src="assets/images/TwitterRectBlue.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img></a> 
+            <a target="_blank" href="{{%site.googleplus_url%}}"><amp-img src="assets/images/GPlusRectRed.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img></a>
+            <a target="_blank" href="{{%site.youtube_url%}}"> <amp-img src="assets/images/YouTubeRectRed.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"></amp-img></a>
             <div class="sharespacer">Kontakt</div>
             <amp-img src="assets/images/EmailRectGreen.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"> </amp-img>
             <amp-img src="assets/images/TelephoneRectBlue.svg" class="hoveropacity" alt="an image" layout="fixed" width="60px" height="44px"> </amp-img>
@@ -24,7 +24,7 @@ layout: default
         </div>
         <div id="socialbar">
             <div class="sharespacer">Teilen</div>
-            <amp-social-share class="hoveropacity" type="facebook"></amp-social-share>
+            <amp-social-share class="hoveropacity" type="facebook" data-param-app_id="1377337912294444" data-param-text="Fortbildung zum Heilpraktiker für Physiotherapie" data-param-href="{{%site.url%}}{{%site.baseurl%}}"></amp-social-share>
             <amp-social-share class="hoveropacity" type="twitter"></amp-social-share>
             <amp-social-share class="hoveropacity" type="gplus"></amp-social-share>
             <amp-social-share class="hoveropacity" type="whatsapp" height="44px" width="60px" layout="fixed" data-share-endpoint="whatsapp://send" data-param-text="Sieh mal: TITLE - CANONICAL_URL"></amp-social-share>
@@ -34,7 +34,9 @@ layout: default
     <div class="clearfix"></div>
     <main>
         <section class="lightgrey boxshadow fontalt fullwidthtextbar">
-            <div class="maincontentarea"><strong>Schön, dass Du uns gefunden hast</strong>
+            <div id="welcometext">
+               <article>
+               <strong>Schön, dass Du uns gefunden hast</strong>
                 <br/>und damit die wichtigste Quelle für Informationen zum
                 <h3><pre> Heilpraktiker für Physiotherapie </pre></h3> und das hingabevollste Team für die
                 <h3><pre> Fortbildung zur Anerkennung nach Aktenlage.</pre></h3>
@@ -43,7 +45,9 @@ layout: default
                 <h3><pre> erfolgreich in den Direktzugang starten</pre></h3>.
                 <br>
                 <br> Auch Du kannst Dich hoffentlich bald dazu zählen. <strong>Diese Entscheidung wird Deinen Berufsalltag verändern.</strong>
-                <br> Alle wichtigen Informationen findest Du auf dieser Seite. </div>
+                <br> Alle wichtigen Informationen findest Du auf dieser Seite. 
+                </article>
+                </div>
         </section>
         <section class="maincontentarea">
             <amp-carousel id="dozentencarousel" width="852" height="398" layout="responsive" type="slides" autoplay delay="7000">
