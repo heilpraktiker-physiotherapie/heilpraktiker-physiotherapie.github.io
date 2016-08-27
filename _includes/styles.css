@@ -130,7 +130,7 @@ li {
 footer {
   height: 40px;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 4px;
   z-index: 1; }
   /* line 147, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .followbar {
@@ -418,91 +418,93 @@ footer #emailbutton:hover + #contactform + #contactform:hover {
   display: block; }
 
 /* ___________________________________________________________________________________      */
-@media (max-width: 1188px) {
+@media (min-width: 870px) {
   /* line 445, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
-  .navbuttonsbar {
-    display: none; }
-  /* line 448, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
-  nav {
-    height: 50px; }
-  /* line 451, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
-  #socialbar {
-    display: none; }
-  /* line 454, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
-  #videosocial .followbar {
-    display: none; }
-  /* line 458, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
-  #videocontainer {
-    width: 100%; } }
-
-@media (min-width: 1189px) {
-  /* line 466, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   #sidebartogglebutton {
     display: none; } }
 
+@media (max-width: 869px) {
+  /* line 451, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  .navbuttonsbar {
+    display: none; }
+  /* line 454, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  nav {
+    height: 50px;
+    background-color: transparent;
+    border-bottom-style: none; }
+  /* line 459, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  #socialbar {
+    display: none; }
+  /* line 462, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  #videosocial .followbar {
+    display: none; }
+  /* line 466, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  #videocontainer {
+    width: 100%; } }
+
 @media (max-width: 1050px) {
-  /* line 472, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 475, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   #visit .gplus {
     display: none; }
-  /* line 475, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 478, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .sharespacer {
     margin: 0; } }
 
 @media (max-width: 960px) {
-  /* line 482, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 485, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   #share .whatsapp {
     display: none; }
-  /* line 485, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 488, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .sharespacer.big {
     display: none; }
-  /* line 488, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 491, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .sharespacer.small {
     display: block; } }
 
 @media (max-width: 750px) {
-  /* line 495, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 498, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   #share .gplus {
     display: none; } }
 
 @media (max-width: 690px) {
-  /* line 502, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 505, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .youtube {
     display: none; } }
 
 @media (max-width: 630px) {
-  /* line 509, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 512, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   #visit {
     display: none; }
-  /* line 513, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 516, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   h1 {
     font-size: 1.4em; }
-  /* line 516, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 519, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   h2 {
     font-size: 1.2em; } }
 
 @media (max-width: 570px) {
-  /* line 523, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 526, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   main {
     width: 96%; }
-  /* line 526, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 529, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   .fullwidthtextbar {
     margin-left: -1.9%;
     margin-right: -1.9%;
     padding: 1em 4% 1em 4%; } }
 
 @media (max-width: 490px) {
-  /* line 533, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 536, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .sharespacer {
     display: none; }
-  /* line 536, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 539, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   footer .sharespacer.small {
     display: none; }
-  /* line 539, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 542, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   body {
     font-size: 0.8em; } }
 
 @media (max-width: 420px) {
-  /* line 545, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
+  /* line 548, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
   #AuswahlSection button {
     padding: 2px; } }
 

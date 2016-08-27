@@ -13,10 +13,10 @@
         </button>
         
         <div class="navbuttonsbar right">
-              <a class="page-link" href="{{ site.baseurl }}/termine-und-anmeldung/"><button class="barbuttons">Termine und Anmeldung</button></a>
-              <a class="page-link" href="{{ site.baseurl }}/die-fortbildung/"><button class="barbuttons">Die Fortbildung</button></a>
-              <a class="page-link" href="{{ site.baseurl }}/voraussetzungen-und-anerkennung/"><button class="barbuttons">Voraussetzungen und Anerkennung</button></a>
-              <a class="page-link" href="{{ site.baseurl }}/hp-physio/"><button class="barbuttons">Infos zum sektoralen HP Physio</button></a>
+              <a class="page-link" href="{{ site.baseurl }}/termine-und-anmeldung/"><button class="barbuttons">Termine</button></a>
+              <a class="page-link" href="{{ site.baseurl }}/die-fortbildung/"><button class="barbuttons">Fortbildung</button></a>
+              <a class="page-link" href="{{ site.baseurl }}/voraussetzungen-und-anerkennung/"><button class="barbuttons">Voraussetzungen</button></a>
+              <a class="page-link" href="{{ site.baseurl }}/hp-physio/"><button class="barbuttons">Infos zum HP Physio</button></a>
               <a class="page-link" href="{{ site.baseurl }}/kontakt/"><button class="barbuttons">Kontakt</button></a>
               <a class="page-link" href="{{ site.baseurl }}/aktuelles/"><button class="barbuttons">Aktuelles</button></a>
               <a class="page-link" href="{{ site.baseurl }}/downloads/"><button class="barbuttons">Downloads</button></a>
