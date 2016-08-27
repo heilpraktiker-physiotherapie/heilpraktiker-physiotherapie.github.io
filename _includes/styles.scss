@@ -21,8 +21,6 @@ html, body{
 body {
     font-family: $font-family-postits;
     font-size: 0.86rem;
-    padding-bottom: 60px;
-    margin-bottom: 60px;
 
 
 
@@ -142,10 +140,6 @@ li {
 }
 
 footer {
-    position: fixed;
-    bottom:0;
-    left: 0;
-    right:0;
     height: 40px;
     width: 100%;
     margin-top: 10px;
