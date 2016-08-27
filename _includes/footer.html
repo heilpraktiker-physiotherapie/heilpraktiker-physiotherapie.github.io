@@ -1,17 +1,30 @@
 <footer class="site-footer midgrey">
         <button class="barbuttons"><b>Impressum</b></button>
         <div class="left followbar socialbuttons">
-            <div class="sharespacer">Wir bei</div>
-            <amp-img src="{{ site.baseurl }}/assets/images/FacebookRectBlue.svg" alt="an image" layout="responsive" width="60px" height="44px"></amp-img>
+           <div id="share">
+            <div class="sharespacer big">Teile diese Seite</div>
+            <div class="sharespacer small">Teilen</div>
+            <amp-social-share class="hoveropacity" type="facebook" data-param-app_id="1377337912294444" data-param-text="Fortbildung zum Heilpraktiker für Physiotherapie" data-param-href="{{%site.url%}}{{%site.baseurl%}}{{%page.url%}}"></amp-social-share>
+            <amp-social-share class="twitter" type="twitter"></amp-social-share>
+            <amp-social-share  class="gplus" type="gplus"></amp-social-share>
+            <amp-social-share class="whatsapp" type="whatsapp" data-share-endpoint="whatsapp://send" data-param-text="Sieh mal: TITLE - CANONICAL_URL"></amp-social-share>
+            </div>
+            <div id="visit">
+            <div class="sharespacer big">Besuch uns bei</div>
+            <div class="sharespacer small">Wir bei</div>
+            <amp-img src="{{ site.baseurl }}/assets/images/FacebookRectBlue.svg" alt="an image" width="60px" height="44px"></amp-img>
             <amp-img src="{{ site.baseurl }}/assets/images/TwitterRectBlue.svg" class="twitter" alt="an image" layout="responsive" width="60px" height="44px"></amp-img>
             <amp-img src="{{ site.baseurl }}/assets/images/GPlusRectRed.svg" class="gplus" alt="an image" layout="responsive" width="60px" height="44px"></amp-img>
             <amp-img src="{{ site.baseurl }}/assets/images/YouTubeRectRed.svg" class="youtube" alt="an image" layout="responsive" width="60px" height="44px"></amp-img>
+            </div>
+            <div id="contact">
             <div class="sharespacer">Kontakt</div>
             <a href="{{site.baseurl}}/kontakt/" target="_blank"><amp-img id="emailbutton" src="{{ site.baseurl }}/assets/images/EmailRectGreen.svg" alt="an image" layout="responsive" width="60px" height="44px"> </amp-img></a>
             <a id="phoneimg"  href="tel:+4917624317369">
             <amp-img src="{{ site.baseurl }}/assets/images/TelephoneRectBlue.svg" alt="an image" layout="responsive" width="60px" height="44px"></amp-img></a>
             <div id="phonenumber">
                 0176- 243 173 69
+            </div>
             </div>
         </div>
     </footer>

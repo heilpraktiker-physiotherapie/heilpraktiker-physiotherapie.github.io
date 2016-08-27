@@ -1,3 +1,5 @@
+
+$siteurl-baseurl:"{{%site.url%}}{{%site.baseurl%}}";
 $font-family-heading: "Trebuchet MS", Helvetica, sans-serif;
 $font-family-postits: "Book Antiqua", Palatino, serif;
 $font-family-text:Helvetica, Arial, sans-serif;
@@ -65,7 +67,7 @@ pre {
 }
 
 button {
-    border-style: none;
+    border-style:none;
     vertical-align: middle;
 }
 
@@ -108,7 +110,7 @@ amp-sidebar {
 
 amp-social-share[type=whatsapp] {
     background-color: #25D366;
-    background-image: url(assets/images/WhatsApp.svg);
+    background-image: url($siteurl-baseurl+'/assets/images/WhatsApp.svg');
     width: 60px;
     height: 44px;
 }
@@ -144,20 +146,38 @@ footer {
     bottom:0;
     left: 0;
     right:0;
-    height: 50px;
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
     z-index: 1;
-    margin-top: 20px;
     .followbar {
         height: 100%;
         float: left;
+        div{
+            float: left;
+        }
         amp-img {
-            width: 50/44*60px ;
+            width: 40/44*60px ;
             margin: 0 2px 0 2px;
             float: left;
-            height: 50px;
+            height: 40px;
             opacity: 0.7;
         }
         amp-img:hover{
+            box-sizing: border-box;
+            opacity: 1;
+            border-style: inset;
+            border-width: 2px;
+            border-color: #ffffff;
+        }
+        amp-social-share {
+            width: 40/44*60px ;
+            margin: 0 2px 0 2px;
+            float: left;
+            height: 40px;
+            opacity: 0.7;
+        }
+        amp-social-share:hover{
             box-sizing: border-box;
             opacity: 1;
             border-style: inset;
@@ -168,6 +188,10 @@ footer {
     .sharespacer {
         padding: 3px 0px;
         float: left;
+        width: auto;
+    }
+    .sharespacer.small {
+        display: none;
     }
     .barbuttons {
         float: right;
@@ -362,23 +386,12 @@ amp-youtube {
     }
 }
 
-#videosocial {
+#introvid {
     margin: auto;
     max-width: 1400px;
     width: 100%;
-    .followbar {
-        width: 10%;
-    }
-    .followbar * {
-        float: right;
-        clear: both;
-        margin-bottom: 2px;
-    }
 }
 
-#videocontainer {
-    width: 80%;
-}
 
 #socialbar {
     float: left;
@@ -461,45 +474,48 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
     }
 
 }
-@media (min-width:651px){
-    footer {
-        height: 40px;
-        width: 100%;
-        margin-top: 10px;
-        .followbar {
-            height: 100%;
-            float: left;
-            amp-img {
-                width: 40/44*60px ;
-                margin: 0 2px 0 2px;
-                float: left;
-                height: 40px;
-                opacity: 0.7;
-            }
-            amp-img:hover{
-                box-sizing: border-box;
-                opacity: 1;
-                border-style: inset;
-                border-width: 2px;
-                border-color: #ffffff;
-            }
-        }
-        .sharespacer {
-            padding: 3px 0px;
-            float: left;
-        }
-        .barbuttons {
-            float: right;
-            height: 100%px;
-            box-sizing: border-box;
-        }
-
-}
-}
-@media (max-width: 650px) {
-    footer .sharespacer {
+@media (max-width: 1050px){
+     #visit .gplus {
         display: none;
     }
+    footer .sharespacer{
+        margin: 0;
+    }
+    
+}
+
+@media (max-width: 960px){
+    #share .whatsapp{
+        display: none;
+    }
+    footer .sharespacer.big {
+        display: none;
+    }
+    footer .sharespacer.small{
+        display: block;
+        
+    }
+}
+
+@media (max-width: 750px){
+    #share .gplus {
+        display: none;
+    }
+    
+}
+
+@media (max-width: 690px){
+        footer .youtube {
+            display: none;
+        }
+    
+
+}
+@media (max-width: 630px) {
+    #visit{
+        display: none;
+    }
+
     h1 {
         font-size: 1.4em;
     }
@@ -509,9 +525,7 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 }
 
 @media (max-width: 570px) {
-    footer .gplus {
-        display: none;
-    }
+   
     main {
         width: 96%;
     }
@@ -522,17 +536,18 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
     }
 }
     @media (max-width: 490px) {
-        footer .twitter {
+        footer .sharespacer {
             display: none;
+        }
+         footer .sharespacer.small{
+                display: none;
         }
         body {
             font-size: 0.8em;
         }
     }
     @media (max-width: 420px) {
-        footer .youtube {
-            display: none;
-        }
+        
         #AuswahlSection button {
             padding: 2px;
         }
