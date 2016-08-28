@@ -16,6 +16,6 @@ Auch bei facebook, twitter, google+ und youtube kannst Du uns finden, folgen und
 Gib uns einfach ein "Gefällt mir" bei facebook und schon kriegst Du dort die Neuigkeiten und interessantes Wissen im Stream angezeigt.
 <br/>
 
-<iframe id="contactform" src="https://heilpraktiker-physiotherapie.github.io/websiteassets/contactform.html" width="390" height="410" frameborder="0" scrolling="no">Loading...</iframe>
+<iframe id="contactform" src="https://heilpraktiker-physiotherapie.github.io/websiteassets/contactform.html" scrolling="no">Loading...</iframe>
 
 

@@ -3,7 +3,7 @@ $siteurl-baseurl:"{{%site.url%}}{{%site.baseurl%}}";
 $font-family-heading: "Trebuchet MS", Helvetica, sans-serif;
 $font-family-postits: "Book Antiqua", Palatino, serif;
 $font-family-text:Helvetica, Arial, sans-serif;
-$font-size-strong: 1.16em;
+$font-size-strong: 1.1em;
 $bg-blue: #3f93b1;
 $bg-green: #49b300;
 $bg-red: #ea2634;
@@ -11,35 +11,31 @@ $bg-lightgrey: #e6e6e6;
 $bg-midgrey: #aaaaaa;
 
 /*        _________________________________________________________*/
-
 html, body{
    margin:0;
    padding:0;
-    height: 100%;
     
+}
+html{
+    font-size: 20px;
 }
 body {
     font-family: $font-family-postits;
-    font-size: 0.86rem;
-
-
-
-    
+    font-size: 1.0rem;
 }
 #layoutcontent{
             padding:10px;
            padding-bottom:60px;
             background-color: #ffffff;
-
         }
 
 h1 {
     font-family: $font-family-heading;
-    font-size: 1.9em;
+    font-size: 1.6em;
 }
 
 h2 {
-    font-size: 1.6em;
+    font-size: 1.3em;
     font-family: $font-family-heading;
 }
 
@@ -67,6 +63,8 @@ pre {
 button {
     border-style:none;
     vertical-align: middle;
+    font-size: 1em;
+    font-family: $font-family-heading;
 }
 
 button:hover {
@@ -101,6 +99,7 @@ amp-sidebar {
     width: 250px;
     padding-right: 10px;
     padding-left: 0px;
+    font-size: 0.8em;
     ul {
         padding-left: 8px;
     }
@@ -123,7 +122,6 @@ amp-social-share[type=whatsapp] {
 li {
     margin-bottom: 6px;
     list-style: none;
-    font-size: 20px;
     button {
         padding: 10px 10px;
         font-weight: bold;
@@ -143,7 +141,7 @@ footer {
     height: 40px;
     width: 100%;
     margin-top: 4px;
-    z-index: 1;
+    font-size: 14px;
     .followbar {
         height: 100%;
         float: left;
@@ -285,6 +283,10 @@ amp-youtube {
 
 .clearfix {
     clear: both;
+}
+
+.navbuttonsbar{
+    height: 100%;
 }
 
 .navbuttonsbar .lastbutton {
@@ -433,6 +435,10 @@ amp-youtube {
     //display: none;
     margin: auto;
     padding: 0;
+    width: 100%;
+    max-width: 500px;
+    height: 410px;
+
 }
 footer #emailbutton:hover + #contactform +#contactform:hover{
     display: block;
@@ -440,14 +446,18 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 
 
 /* ___________________________________________________________________________________      */
-
-@media (min-width: 870px) {
+@media(max-width:1100px){
+    nav button{
+        font-size: 0.8em;
+    }
+}
+@media (min-width: 930px) {
     #sidebartogglebutton {
         display: none;
     }
 
 }
-@media (max-width: 869px) {
+@media (max-width: 929px) {
     .navbuttonsbar {
         display: none;
     }
@@ -482,9 +492,6 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 }
 
 @media (max-width: 960px){
-    #share .whatsapp{
-        display: none;
-    }
     footer .sharespacer.big {
         display: none;
     }
@@ -532,20 +539,30 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
         padding: 1em 4% 1em 4%;
     }
 }
-    @media (max-width: 490px) {
-        footer .sharespacer {
+@media (max-width: 490px) {
+    footer .sharespacer {
+        display: none;
+    }
+     footer .sharespacer.small{
             display: none;
-        }
-         footer .sharespacer.small{
-                display: none;
-        }
-        body {
-            font-size: 0.8em;
-        }
     }
-    @media (max-width: 420px) {
-        
-        #AuswahlSection button {
-            padding: 2px;
-        }
+    body {
+        font-size: 0.8em;
     }
+}
+@media (max-width: 420px) {
+
+    #AuswahlSection button {
+        padding: 2px;
+    }
+}
+@media (max-width:360px){
+    footer .barbuttons{
+        font-size: 10px;
+        padding: 4px 0px;
+    }
+    #AuswahlSection button{
+        font-size: 0.8em;
+        width: 96%;
+    }
+}
