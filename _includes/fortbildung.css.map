@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "fortbildung.css",
+  "sources": [
+    "fortbildung.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": ";AAAA,EAAE,CAAA;EACE,UAAU,EAAE,IAAK,GADlB",
+  "names": []
+}

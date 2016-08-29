@@ -4,7 +4,7 @@ title: Die Fortbildung
 scssfile: fortbildung.scss
 ---
 
-Wie ist die Fortbildung zum Heilpraktiker für Physiotherapie aufgebaut?
+### Wie ist die Fortbildung zum Heilpraktiker für Physiotherapie aufgebaut?  
 Intensives multimediales Lernen, vermittelt kompakt alle Grundlagen des Direktzugangs
 
 Die komplette Fortbildung zum Heilpraktiker für Physiotherapie dauert üblicherweise bei uns 6 Tage und beinhaltet 64 Unterrichtsstunden aufgeteilt auf 2 mal 3 Tage.
@@ -21,43 +21,49 @@ Zukünftig erwarten Dich auch immer mehr "e-learning" Inhalte wie z.B. interakti
 
 Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf den Inhalten und Anstößen der Fortbildung aufbauen zu können.
 	
-Wer leitet den Unterricht?
+### Wer leitet den Unterricht?
 Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement der Dozenten
 
-Und weil uns das bewusst ist, hat dies auch höchsten Stellenwert bei uns. Diesen Stellenwert sollten auch Sie daran setzen und zwar grundsätzlich, egal bei welchem Thema. Selbst wenn das Curriculum verschiedener Anbieter auf den ersten Blick sehr ähnlich erscheinen mag, so wird es doch einen riesigen Unterschied machen, wo Sie die Fortbildung buchen.
-
-In NRW ist es beispielsweise möglich, dass ein Heilpraktiker die gesamte Fortbildung alleine abhält.
-So kann es sein, dass Sie bei einem Heilpraktiker im Unterricht landen, der vorrangig z.B. homöopathisch tätig ist und mit Physiotherapie praktisch nichts zu tun hat.
-Würden Sie wirklich erwarten dort die Dinge vermittelt zu bekommen, die für einen modernen Physiotherapeuten
-
-Es geht hier keineswegs darum alle Konkurrenz schlecht zu reden. Es gibt gute Anbieter mit passionierten und hochqualifizierten Dozenten. Aber diese stellen die Ausnahme dar. 
-Sie tun sich keinen Gefallen einfach beim nächstgelegenen oder beim billigsten Anbieter zu buchen. Wenn aus der Beschreibung der Fortbildung nicht hervorgeht, wer Sie unterrichtet und Sie nicht die Qualifikation nachvollziehen können, sollten Sie nicht buchen. 
+Und weil uns das bewusst ist, hat dies auch höchsten Stellenwert bei uns und hoffentlich auch bei Dir.  
+Selbst wenn das Curriculum verschiedener Anbieter auf den ersten Blick sehr ähnlich erscheinen mag, so wird es doch einen riesigen Unterschied machen, wo DU die Fortbildung absolviert hast.
 
 Wir unterrichten als Team: Anwalt, Mediziner und Heilpraktiker für Physiotherapie, jeder deckt seine Spezialgebiete ab.
 
+In NRW ist es beispielsweise möglich, dass ein Heilpraktiker die gesamte Fortbildung alleine abhält.
+Wir halten dies nicht für sinnvoll. Das Thema ist dafür einfach zu komplex.  
+Ein Jurist der regelmäßig Physiotherapeuten/Innen und Heilpraktiker/Innen für Physiotherapie vertritt, kann die Fragen der Berufskunde viel qualifizierter beantworten als ein Heilpraktiker.  
+Ein Physiotherapeut und Heilpraktiker für Physiotherapie weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
+Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinmediziner und Internisten sicherlich am besten befähigt.
+Weniger als die beste Besetzung solltest Du nicht akzeptieren.
+Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen müssen, hinterher wissen, dass sich der Weg gelohnt hat.
 
-Warum sollte ich dazu eine Fortbildung besuchen? 
+
+### Warum sollte ich dazu eine Fortbildung besuchen? 
 Unser Fachwissen macht den Unterschied, zwischen potentiellen Möglichkeiten und spürbarem Erfolg
 
-	Es gibt Physiotherapeuten, die haben sich alleine auf die Prüfung zum sektoralen Heilpraktiker vorbereitet, haben bestanden und setzen die neugewonnene Freiheit hervorragend in der Praxis um.
-	Das jedoch ist die Ausnahme und wenn es geschafft wurde, hat es immer enorm viel Eigenarbeit erfordert, sich richtig in die Materie einzuarbeiten.
-	Den Meisten gelingt das nicht. 
-	Es gibt viele Themen zu beachten um sicher, erfolgreich und erfüllend als Heilpraktiker für Physiotherapie tätig zu werden.
-	Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen ist es, zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
-	Wir sind ein Team von Experten, für das Wissen was Ihnen fehlt, für erfolgreichen Umgang mit dem Direktzugang.
-	
-	Sie erlernen Berufskunde, so praxisrelevant und erhellend wie nie zuvor. Greifbar und sofort umsetzbar.
-	Sie erlernen wichtige Grundlagen des medizinischen Screening und der Differentialdiagnostik bis hin zur praktischen orientierenden Untersuchung aller vitaler Körperfunktionen, der Medikamentenanamnese, Grundlagen der Laboruntersuchung und der Interpretation bildgebender Verfahren.
-	Sie erlernen alle von den Gesundheitsämtern geforderten Kenntnisse wie z.B. im Bereich der Krankheitslehre.
-	Sie erlernen die besten Strategien und Vorgehensweisen zur Abrechnung Ihrer Leistungen.
-	Sie lernen Tips und Tricks der Praxis kennen, um das Beste aus Ihren Möglichkeiten rauszuholen.
-	Sie können vor Ort all Ihre Fragen klären und sich auf die Antworten verlassen.
-	
-	Darüber hinaus, können Sie sich die Prüfung beim Gesundheitsamt in der Regel sparen.
-	Insbesondere in NRW, Niedersachen, Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayern, aber auch vielen anderen Bundesländern kommen Sie so auf verlässlichem kurzen Wege zu Ihrer Erlaubniserteilung.
-	Mehr zu den Voraussetzungen zur Anerkenunng nach Aktenlage erfährst Du hier.
-	
-	Dort wo es Schwierigkeiten gibt, unterstützen wir Sie auf dem Weg zur Erlaubniserteilung und darüber hinaus.
-	
-	Wir bringen Sie auf einen erfolgreichen Weg!
+Es gibt Physiotherapeuten, die haben sich alleine auf die Prüfung zum sektoralen Heilpraktiker vorbereitet, haben bestanden und setzen die neugewonnene Freiheit gut in der Praxis um.  
+Das jedoch ist die Ausnahme und bedarf immer großem persönlichen Aufwand und Zeit.  
+Es gibt viele Themen zu beachten um sicher, erfolgreich und erfüllend als Heilpraktiker für Physiotherapie tätig zu werden.
+
+Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen ist es, zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
+Wir sind ein Team von Experten, für das Wissen was Dir noch fehlt, für Deinen erfolgreichen Umgang mit dem Direktzugang.
+
+Du erlernst:
+
+- Berufskunde, so praxisrelevant und erhellend wie nie zuvor. Greifbar und sofort umsetzbar  
+- wichtige Grundlagen des medizinischen Screening und der Differentialdiagnostik bis hin zur praktischen orientierenden Untersuchung aller vitaler Körperfunktionen, der Medikamentenanamnese, Grundlagen der Laboruntersuchung und der Interpretation bildgebender Verfahren  
+- alle von den Gesundheitsämtern geforderten Kenntnisse wie z.B. im Bereich der Krankheitslehre  
+- die besten Strategien und Vorgehensweisen zur Abrechnung Deiner Leistungen
+- Tips und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen  
+Sie können vor Ort all Ihre Fragen klären und sich auf die Antworten verlassen.
+
+> Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.url}}{{site.baseurl}}/downloads/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)
+
+Darüber hinaus, kannst Du Dir die Prüfung beim Gesundheitsamt in der Regel sparen.  
+Egal ob in NRW, Niedersachen, Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayern oder vielen anderen Bundesländern, kommst Du so auf effektivem Wege zu Deiner Erlaubniserteilung.  
+Mehr zu den [Voraussetzungen zur Anerkennung nach Aktenlage erfährst Du hier]({{site.url}}{{site.baseurl}}/voraussetzungen-und-anerkennung/).
+
+Dort wo es Schwierigkeiten gibt, unterstützen wir Dich gerne auf dem Weg zur Erlaubniserteilung und darüber hinaus.
+
+### Wir bringen Dich auf einen erfolgreichen Weg als Heilpraktiker für Physiotherapie!
 	
