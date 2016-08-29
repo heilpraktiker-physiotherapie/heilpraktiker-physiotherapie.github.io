@@ -2,7 +2,7 @@
 $siteurl-baseurl:"{{%site.url%}}{{%site.baseurl%}}";
 $font-family-heading: "Trebuchet MS", Helvetica, sans-serif;
 $font-family-postits: "Book Antiqua", Palatino, serif;
-$font-family-text:Helvetica, Arial, sans-serif;
+$font-family-text: Helvetica, Arial, sans-serif;
 $font-size-strong: 1.1em;
 $bg-blue: #3f93b1;
 $bg-green: #49b300;
@@ -20,7 +20,7 @@ html{
     font-size: 20px;
 }
 body {
-    font-family: $font-family-postits;
+    font-family: $font-family-text;
     font-size: 1.0rem;
 }
 #layoutcontent{
@@ -324,9 +324,8 @@ amp-youtube {
 
 #mainheader {
     margin: 0px;
-    margin-top: 40px;
     padding: 0;
-    padding-top: 1em;
+    padding-top: 0.6em;
     
      h2, h1 {
     text-align: center;
@@ -400,6 +399,7 @@ amp-youtube {
     max-width: 85em;
     margin-left: auto;
     margin-right: auto;
+    font-family: $font-family-postits;
 }
 #dozentencarousel {
     margin: auto;
@@ -554,6 +554,9 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 
     #AuswahlSection button {
         padding: 2px;
+    }
+    #welcometext{
+        font-size: 0.8em;
     }
 }
 @media (max-width:360px){
