@@ -8,10 +8,10 @@ title: Infos zum sektoralen HP Physio
 
 Das Fachgebiet der Physiotherapie hat sich in den letzten Jahrzehnten enorm entwickelt.   
 Mit zunehmender Akademisierung, Internationalisierung und digitaler Verknüpfung, beschleunigt sich diese Entwicklung von Tag zu Tag geradezu exponentiell.  
-Die Entwicklung des Status der Physiotherapie in Deutschland,  steht aber seit Jahrzehnten nahezu still.
+Die Entwicklung des Status der Physiotherapie in Deutschland, steht aber seit Jahrzehnten nahezu still.
 
-Insbesondere im durch Kriege und Industrialisierung geprägten späten 19. und frühen 20. Jahrhundert, entwickelte sich die Krankengymnastik in Deutschland sehr stark zum Heilhilfsberuf aus. Es wurde vorrangig nach einem ärztlichen Eingriff Maßnahmen der Mobilisation, der physikalischen Therapie und der Massage nach einem von Arzt konkret vorgegebenen Schema durchgeführt.  
-Die Krankengymnastinnen (es gab fast ausschließlich Frauen in dem Beruf) waren Assistentinnen der Arztes, die ihm zeitaufwendige Aufgaben abnehmen sollten.
+Insbesondere im durch Kriege und Industrialisierung geprägten späten 19. und frühen 20. Jahrhundert, entwickelte sich die Krankengymnastik in Deutschland sehr stark zum Heilhilfsberuf aus. Es wurde vorrangig nach einem ärztlichen Eingriff Maßnahmen der Mobilisation, der physikalischen Therapie und der Massage nach einem vom Arzt konkret vorgegebenen Schema durchgeführt.  
+Die Krankengymnastinnen (es gab fast ausschließlich Frauen in dem Beruf) waren Assistentinnen des Arztes, die ihm zeitaufwendige Aufgaben abnehmen sollten.
 
 Das Berufsbild wurde seitdem jedoch immer komplexer. Statt anfänglich ca. 1 Jahr Ausbildung, bedarf es heute mindestens 3 Jahren.  
 Auf diesen muss mit häufigen umfangreichen Fortbildung und mittlerweile immer öfter mit einem Studium aufgebaut werden, um halbwegs aktuell bleiben zu können. Auch wenn Deutschland im internationalen Vergleich hier sicherlich noch hinterherläuft, die Akademisierung ist in vollem Gange.
@@ -20,7 +20,7 @@ Trotz enormer Kompetenz auf den Gebieten der Analyse von Beschwerden des Bewegun
 
 Diese Diskrepanz ist nicht nur ärgerlich für die betroffenen Physiotherapeuten, sondern schädlich für das ganze System.  
 Ärzte müssen über Maßnahmen entscheiden, für die sie nur unzureichend ausgebildet sind.  
-Physiotherapeuten können Ihren Beruf nicht so ausüben, wie es auf Grundlage Ihrer Ausbildung, die besten Erfolge und die beste Kosten-Nutzen-Relation verspricht.  
+Physiotherapeuten können Ihren Beruf nicht so ausüben, wie es die besten Erfolge und die beste Kosten-Nutzen-Relation verspricht.  
 Die Patienten haben keinen direkten Zugang zur bestmöglichen Therapie bei vielen Beschwerden am Bewegungsapparat.  
 Das Wohl der Patienten als Individuen und Ihre wirtschaftliche Leistungsfähigkeit leiden darunter genauso, wie die Effizienz des Ressourceneinsatzes. 
 
@@ -36,24 +36,25 @@ Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker heilkun
 Auch wenn diese nicht explizit erwähnt werden, bedeutet dies für alle Gesundheitsfachberufe, dass diese nur unter der Verantwortung eines Arztes \(oder Heilpraktikers\) delegierbare Anwendungen zu heilkundlichen \(therapeutischen\) Zwecken durchführen dürfen.
 
 Bei vielen ausgebildeten Therapeuten sorgt dieses Gesetz immer wieder für Unverständnis und Ärger. Aber letztendlich, ist dieses Gesetz heute wohl mehr Segen als Fluch für alle Physiotherapeuten.  
-Ein Heilpraktiker benötigt überhaupt keine Ausbildung und darf die vielfältige und sogar invasive Maßnahmen an Patienten durchführen.  
-Lediglich eine schriftliche und mündliche Prüfung beim Gesundheitsamt muss er vorher bestehen. Ein ausgebildeter und sehr umfangreich geprüfter Therapeut, darf ohne Verordnung im Grunde gar nicht behandeln. Das scheint in keinem vernünftigen Verhältnis zu stehen.
+Ein Heilpraktiker benötigt überhaupt keine Ausbildung und darf vielfältige und sogar invasive Maßnahmen an Patienten durchführen.  
+Lediglich eine schriftliche und mündliche Prüfung beim Gesundheitsamt muss er vorher bestehen. Ein ausgebildeter und sehr umfangreich geprüfter Physiotherapeut, darf ohne Verordnung im Grunde gar nicht behandeln. Das scheint in keinem vernünftigen Verhältnis zu stehen.
 
-Allerdings sind es auch einfach 2 ganz unterschiedliche Dinge und daher kaum zu vergleichen.  
+Allerdings sind es auch einfach zwei ganz unterschiedliche Dinge und daher kaum zu vergleichen.  
 Bei einer staatlich anerkannten Berufsausbildung geht es um das erlernen berufstypischer Fähigkeiten und Fertigkeiten nach gewissen Standards.  
 Jeder Patient und Arzt kann sich so darauf verlassen, dass ein Physiotherapeut die berufstypischen Maßnahmen kennt und durchführen kann.  
 Die Erlaubnis die Berufsbezeichnung "Physiotherapeut/in" zu tragen bescheinigt frei formuliert: "Person X hat das Wissen und die praktischen Fähigkeiten entsprechend der Ausbildungsverordnung erlernt und unter Beweis gestellt diese zu beherrschen.  
 Er/Sie ist in der Lage physiotherapeutische Maßnahmen sicher und korrekt am Patienten anzuwenden".  
 Es geht dabei um die korrekte Ausführung einer entsprechenden therapeutischen Maßnahme.
 Beim Heilpraktiker ist das anders. Die korrekte Ausführung therapeutischer Maßnahmen wird hier nicht geprüft und deren Beherrschung nicht bescheinigt.  
-Unter "Beweis" gestellt werden, muss vom Anwärter lediglich, dass er bei der Anwendung heilkundlicher Maßnahmen keine Gefahr für den Patienten und die Allgemeinheit darstellt.   
+Unter "Beweis" gestellt werden, muss vom Anwärter lediglich, dass er bei der Auswahl heilkundlicher Maßnahmen keine Gefahr für den Patienten und die Allgemeinheit darstellt.   
 Im Grunde muss der Heilpraktiker wissen was er darf und was er nicht darf und er muss wissen, wie er die Situationen differenzieren kann.   
-Darauf werden auf der anderen Seite wiederum Physiotherapeuten/innen in Ihrer Berufsausbildung weder direkt vorbereitet, noch am Ende darauf geprüft.   Diese Differenzierung (Diagnostik) muss daher zunächst jemand anderes (ein Arzt oder Heilpraktiker) durchführen, bevor der Physiotherapeut tätig werden darf.
+Darauf werden wiederum Physiotherapeuten/innen in Ihrer Berufsausbildung weder direkt vorbereitet, noch am Ende entsprechend geprüft.   
+Diese Differenzierung (Diagnostik) muss daher zunächst jemand anderes (ein Arzt oder Heilpraktiker) durchführen, bevor der Physiotherapeut tätig werden darf.
 Es sind also zwei verschiedene Dinge.
 
 Der Heilpraktiker wiederum darf streng genommen nach dem Ablegen der Prüfung auch nicht einfach therapeutisch tätig werden. 
-Auch der Heilpraktiker darf "den Bereich des sicheren Könnens" nicht verlassen. Er muss also  angemessen sicher beherrschen was er anwenden möchte, um es auch anwenden zu dürfen. 
-Die Einschätzung, ob er genügend Fähigkeiten und Fertigkeiten besitzt, obliegt ihm allerdings selber, zumindest solange Ihn niemand wegen einer Schädigung verklagt und ein Richter eine Einschätzung dazu finden muss.  
+Auch der Heilpraktiker darf "den Bereich des sicheren Könnens" nicht verlassen. Er muss also angemessen sicher beherrschen, was er anwenden möchte, um es auch anwenden zu dürfen. 
+Die Einschätzung, ob er genügend Fähigkeiten und Fertigkeiten besitzt, obliegt ihm allerdings erstmal selber, zumindest solange Ihn niemand wegen einer Schädigung verklagt und ein Richter eine Einschätzung dazu finden muss.  
 Dann müsste der Heilpraktiker im Zweifel entsprechende Kenntnisse nachweisen.
 
 ### Dann kam der sektorale Heilpraktiker 
@@ -81,13 +82,13 @@ Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt 
 \"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
 Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf. Das stimmt auch. 
 Die Einschätzung jedoch, dass es den Physiotherapeuten an therapeutischen Techniken und Methoden mangelt, um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Physiotherapie einfach nicht gerecht.  
-Die entscheidende Einschränkung ist, wie ein Physiotherapeut \(m\/w\) die eigenen Fähigkeiten zur Anwendung bringen darf. 
+Die entscheidende Einschränkung ist, wie ein Physiotherapeut \(m/w\) die eigenen Fähigkeiten zur Anwendung bringen darf. 
 
 Der "große" Heilpraktiker darf prinzipiell auf ein größeres Spektrum an Maßnahmen zurückgreifen. Allerdings muss man auch die Sinnhaftigkeit vieler häufig verwendeter "alternativer" Maßnahmen in Frage stellen. Die Vorbereitung zum "großen" Heilpraktiker erfordert weit mehr Aufwand und ist mit dem Erlernen vieler Inhalte verbunden, die für Physiotherapeuten von geringer oder vollkommen fehlender Relevanz sind.
 
 Der sektorale Heilpraktiker für Physiotherapie ist in der Lage, die großartigen Möglichkeiten der Physiotherapie genauso einzusetzen, wie der Therapeut selbst es für richtig hält und der Patient es benötigt.  
-Der Therapeut wählt und bestimmt, gemeinsam mit dem Patienten, die Mittel, den Umfang und die Frequenz der Therapie. Dabei kann er sich vollkommen Variable an Bedarf und Bedürfnisse anpassen.
 
+- Der Therapeut wählt und bestimmt, gemeinsam mit dem Patienten, die Mittel, den Umfang und die Frequenz der Therapie. Dabei kann er sich vollkommen Variable an Bedarf und Bedürfnisse anpassen.
 - Patienten ohne Verordnung können direkt behandelt werden
 - Patienten die keine Folgeverordnung mehr bekommen, können ebenso vollkommen rechtsicher weiterbehandelt werden
 - Patienten die eine Verordnung haben, können ergänzende notwendige und sinnvolle Maßnahmen oder zusätzliche Therapieeinheiten erhalten

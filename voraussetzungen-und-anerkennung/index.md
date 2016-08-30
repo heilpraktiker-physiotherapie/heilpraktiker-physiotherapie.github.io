@@ -5,7 +5,8 @@ title: Voraussetzungen und Anerkennung
 ---
 
 Um an unserer Fortbildung teilnehmen zu können, musst Du vorab keine Nachweise erbringen.  
-Vielmehr vervollständigen die Urkunden, die Du nach Teilnahme und Prüfung von uns erhälst, Deine notwendigen Unterlagen, um bei Deinem Gesundheitsamt die Erlaubniserteilung des Heilpraktiker für Physiotherapie zu erhalten. 
+Vielmehr vervollständigen die Urkunden, die Du nach Teilnahme und Prüfung von uns erhälst, Deine notwendigen Unterlagen.
+Mit diesen kannst Du dann die Erlaubniserteilung des Heilpraktiker für Physiotherapie bei Deinem zuständigen Gesundheitsamt beantragen.
 
 Folgende Kriterien sind dafür zu kennen:
 
@@ -27,7 +28,7 @@ Daran haben sich letztendlich die zuständigen Behörden auf unterster Verwaltun
 Diese müssen letztendlich entscheiden, ob die Heilpraktikererlaubnis zu erteilen ist oder nicht.
 Leider interpretieren die zuständigen Verwaltungsangestellten und Amtärzte/innen die bestehenden Bedigungen recht unterschiedlich und oft sehr intransparent.
 
- > Die unten aufgeführten Bedingungen können sich zwischenzeitlich ändern. Solltest Du den Eindruck haben, eine Information ist nicht mehr aktuell informiere uns bitte.
+ > Die unten aufgeführten Bedingungen können sich zwischenzeitlich ändern. Solltest Du den Eindruck haben, eine Information ist nicht mehr aktuell, informiere uns bitte.
 
 Vorbildlich ist hier **NRW**. Landesweit hat das Gesundheitsamt Düsseldorf die Verantwortung für die Erlaubniserteilung des sektoralen Heilpraktiker für Physiotherapie übertragen bekommen.  
 Insbesondere in Bezug auf die Anerkennung nach Aktenlage, gibt es so klare und transparente Kriterien.  
@@ -36,7 +37,7 @@ Fortbildungsanbieter können Ihr Konzept und Curriculum amtsärztlich überprüf
 
 
 In **Niedersachsen** ist dies ähnlich. Das Ministerium für Soziales, Gesundheit und Gleichstellung übernimmt die Verantwortung die Eignung von Fortbildungen zu überprüfen. Erfüllt ein Anbieter alle Voraussetzungen, gibt das Sozialministerium die entsprechende Information an alle Gesundheitsämter weiter und erteilt dem Anbieter eine Urkunde.  
-Auch hier können sich die Teilnehmer/innen darauf verlassen Ihre Anerkennung nach Aktenlage zu erhalten, wenn der Fortbildungsanbieter akkreditiert wurde.
+Auch hier können sich die Teilnehmer/innen darauf verlassen, Ihre Anerkennung nach Aktenlage zu erhalten, wenn der Fortbildungsanbieter akkreditiert wurde.
 
 
 **Rheinland-Pfalz** orientiert sich stark an NRW. Liegt dem Fortbildungsanbieter eine entsprechende Akkreditierung aus NRW oder auch Niedersachsen vor, so wird auch hier die Anerkennung nach Aktenlage erteilt.  
@@ -58,9 +59,9 @@ Seit dem Beschluss klappt dies bislang bei uns auch ohne Schwierigkeiten.
 
 
 In **Hessen** gibt es auch seit einiger Zeit klare Regelungen, wann auf die Prüfung beim Gesundheitsamt verzichtet werden kann und somit die Anerkennung nach Aktenlage zu erteilen ist. 
-Diese sind recht allgemein gehalten aber dennoch klar formuliert und meist klappt die Anerkennung nach Aktenlage problemlos.
-Leider gibt es in Hessen keine Behörde, die klar federführend ist. 
-So behalten es sich einzelne Gesundheitsämter vor, grundsätzlich auf die mündliche Überprüfung zu bestehen, obwohl Sie dabei ganz klar deutschlandweites Recht und auch landesweite Vorgaben ignorieren.  
+Diese sind recht allgemein gehalten aber dennoch klar formuliert und meist klappt die Anerkennung nach Aktenlage problemlos.  
+Leider gibt es in Hessen keine Behörde, die klar federführend ist.  
+So behalten es sich einzelne Gesundheitsämter vor, grundsätzlich auf die mündliche Überprüfung zu bestehen, obwohl Sie dabei deutschlandweites Recht und auch landesweite Vorgaben ignorieren.  
 Letztendlich haben alle unsere Teilnehmer aus Hessen Ihre Anerkennung nach Aktenlage erhalten und ich bin sicher, wir werden auch in Zukunft für alle Teilnehmer/innen Wege finden.
 
 
@@ -75,9 +76,9 @@ Für uns bedeutet das entsprechend, dass es leider wenig Sinn macht eine Fortbil
 
 
 Auch in **Thüringen** sind die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie repräsentiert und die Anerkennung nach Aktenlage vorgesehen.  
-Dafür muss der Anwärter eine staatlich anerkannte Aus-,Fort- oder Weiterbildung nachweisen, welche die geforderten Inhalte entsprechend abdeckt.  
+Dafür muss der Anwärter eine staatlich anerkannte Aus-, Fort- oder Weiterbildung nachweisen, welche die geforderten Inhalte entsprechend abdeckt.  
 Leider sind die zuständigen Verwaltungsangestellten nicht gewillt konkrete Angaben zu machen, unter welchen Voraussetzungen die Anerkennung nach Aktenlage sicher erteilt wird. Die Betonung liegt auf der Einzelfallentscheidung. Berufserfahrung spielt hier eine Rolle und zum Teil können auch weitere fachspezifische Fortbildungen wie MT die Anerkennung nach Aktenlage begünstigen.
-Grundsätzlich können Anwärter aus Thrüringen aber mit der Anerkennung nach Aktenlage rechnen, wenn sie unsere Fortbildung besucht haben.
+Grundsätzlich haben Anwärter aus Thrüringen aber allerbste Chancen auf Anerkennung nach Aktenlage, wenn sie unsere Fortbildung besucht haben.
 
 
   > Du findest keine Information zu Deinem Bundesland? Dann nutze einfach [unser Kontaktformular]({{site.baseurl}}/kontakt/) für Deine Frage. Arne hilft Dir gerne weiter.
