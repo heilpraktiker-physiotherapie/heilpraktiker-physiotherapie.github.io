@@ -41,6 +41,7 @@ kramdown:
 gems:
   - jekyll-paginate
   - jekyll-github-metadata
+  
 
 
 compress_html:

@@ -41,10 +41,10 @@ layout: default
             </span>
           </p>
           <hr>
-          <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+          <p class="published">Published <time datetime="{{ page.date | date: '%F %R' }}">{{ page.date | date_to_string }}</time></p>
         </section>
       </div>
-      {{/post}}
+      {{post}}
       <div class="isRight">
         <h5 class="index-headline featured"><span>Supported by</span></h5>
         <footer class="site-footer">
