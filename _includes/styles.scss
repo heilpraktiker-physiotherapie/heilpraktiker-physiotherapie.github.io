@@ -365,6 +365,7 @@ amp-youtube {
     background-color: #ffffff;
     margin-top: -10px;
     margin-left: -10px;
+    padding-top: 10px;
     border-style: solid;
     border-top-style: none;
     border-right-style: none;
@@ -410,14 +411,25 @@ amp-youtube {
 }
 
 #welcometext{
-    max-width: 85em;
+    max-width: 60em;
     margin-left: auto;
     margin-right: auto;
     font-family: $font-family-postits;
 }
 #dozentencarousel {
     margin: auto;
-    max-width: 852px;
+    div img{
+        max-width: 30%;
+        display: inline-block;
+    }
+    .dozenttext{
+        width: 70%;
+        height: 100%;
+        display: inline-block;
+    }
+    .dozentquote{
+    }
+    
     .amp-carousel-button {
         opacity: 0.1;
         &:hover {

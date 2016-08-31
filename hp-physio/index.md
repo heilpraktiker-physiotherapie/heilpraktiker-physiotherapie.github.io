@@ -27,7 +27,7 @@ Das Wohl der Patienten als Individuen und Ihre wirtschaftliche Leistungsfähigke
 
 ## Der Heilpraktiker für Physiotherapie
 
-### Direktzugang per Abkürzung
+### Direktzugang per \"Abkürzung\"
 
 Das Physiotherapeuten Patienten auf ärztliche Anweisung hin behandeln dürfen und mit welchen Methoden Sie das dürfen, ist im Masseur- und Physiotherapeutengesetz (MPhG) geregelt.  
 Dass es überhaupt einer Verordnung bedarf, dafür ist jedoch das Heilpraktikergesetz verantwortlich. 

@@ -15,7 +15,7 @@
               <a class="page-link" href="{{site.baseurl}}/voraussetzungen-und-anerkennung/"><button class="barbuttons">Voraussetzungen</button></a>
               <a class="page-link" href="{{site.baseurl}}/hp-physio/"><button class="barbuttons">Infos zum HP Physio</button></a>
               <a class="page-link" href="{{site.baseurl}}/kontakt/"><button class="barbuttons">Kontakt</button></a>
-              <a class="page-link" href="{{site.baseurl}}/aktuelles/"><button class="barbuttons">Aktuelles</button></a>
+              <a class="page-link" href="{{site.baseurl}}/blog/"><button class="barbuttons">Blog</button></a>
               <a class="page-link" href="{{site.baseurl}}/downloads/"><button class="barbuttons">Downloads</button></a>
         </div>
     </nav>

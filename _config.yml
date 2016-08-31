@@ -16,7 +16,7 @@ url: "http://heilpraktiker-physiotherapie.github.io" # the base hostname & proto
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
 
 paginate:	2 # The number of posts to show per page on your homepage
-paginate_path: '/aktuelles/page:num/'
+paginate_path: '/blog/page:num/'
 
 name: 'Arne Brödel'
 bio: >
