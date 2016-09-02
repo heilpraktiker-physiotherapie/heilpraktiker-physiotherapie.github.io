@@ -215,9 +215,7 @@ blockquote{
     font-style: italic;
     color:#555555;
     border-left: 2px solid #ddd;
-    p{
-        margin-left: 1em;
-    }
+    padding-left: 1em;
 }
 
 /*_________________________________________________________________*/
@@ -384,6 +382,7 @@ amp-youtube {
 #AuswahlSection {
     margin: auto;
     margin-top: 0em;
+    margin-bottom: 4em;
     button {
         margin: 2px;
         width: 48%;
@@ -597,5 +596,10 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
     #AuswahlSection button{
         font-size: 0.8em;
         width: 96%;
+    }
+}
+#shortintros {
+    article{
+        margin-bottom: 2em;
     }
 }
