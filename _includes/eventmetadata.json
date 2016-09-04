@@ -2,8 +2,18 @@
   "@context": "http://schema.org",
   "@type": "EducationEvent",
   "name": "Fortbildung Heilpraktiker Physiotherapie",
+    "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker für Physiotherapie",
+    "image": "",
+    "performer": {
+        "@type": "Person",
+        "givenName": "Arne",
+        "familyName": "Brödel"
+        
+    },
+    "url": "{{include.event.link}}",
   "location": {
     "@type": "PostalAddress",
+    "name": "{{include.event.ortsbezeichnung}}",
     "addressCountry": "Germany",
     "addressLocality": "{{include.event.ort}}",
     "postalCode": "{{include.event.plz}}",
