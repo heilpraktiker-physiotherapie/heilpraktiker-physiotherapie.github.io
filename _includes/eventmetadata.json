@@ -15,6 +15,6 @@
     "url": "{{include.event.link}}"
   },
   "startDate": "{{include.event.startdate}}",
-    "endDate": "{{include.event.enddate}},
+    "endDate": "{{include.event.enddate}}"
   }
 }
