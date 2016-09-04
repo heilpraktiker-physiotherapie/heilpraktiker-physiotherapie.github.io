@@ -12,7 +12,7 @@ description: >
   Awesome site description here
 logo: "/assets/images/logosvg.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://heilpraktiker-physiotherapie.github.io" # the base hostname & protocol for your site
+url: "https://heilpraktiker-physiotherapie.github.io" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
 
 paginate:	2 # The number of posts to show per page on your homepage
