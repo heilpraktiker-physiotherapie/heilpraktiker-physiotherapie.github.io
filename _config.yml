@@ -8,8 +8,7 @@
 # Site settings
 title: sektoraler Heilpraktiker für Physiotherapie - Fortbildung und Prüfung
 email: info@heilpraktiker-physiotherapie.com    
-description: >
-  Awesome site description here
+description: Heilpraktiker für Physiotherapie - Fortbildung inklusive Prüfung zur Anerkennung nach Aktenlage, in NRW, Niedersachsen, Rheinland-Pfalz, Hessen, Baden-Württemberg, Bayern, Sachsen, Thüringen, Berlin und anderen Bundesländern  
 logo: "/assets/images/logosvg.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hpphysio.com" # the base hostname & protocol for your site
@@ -19,9 +18,7 @@ paginate:	2 # The number of posts to show per page on your homepage
 paginate_path: '/blog/page:num/'
 
 name: 'Arne Brödel'
-bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+bio: Physiotherapeut, Heilpraktiker für Physiotherapie
 author_image: "/assets/images/author.jpg"
 twitter_username: PhysioHP
 twitter_url: https://twitter.com/PhysioHP

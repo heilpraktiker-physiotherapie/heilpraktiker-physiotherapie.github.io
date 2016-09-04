@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "EducationEvent",
+  "name": "Fortbildung Heilpraktiker Physiotherapie",
+  "location": {
+    "@type": "PostalAddress",
+    "addressCountry": "Germany",
+    "addressLocality": "{{include.event.ort}}",
+    "postalCode": "{{include.event.plz}}",
+      "addressRegion": "{{include.event.land}}",
+      "streetAddress": "{{include.event.str}}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "{{include.event.link}}"
+  },
+  "startDate": "{{include.event.startdate}}",
+    "endDate": "{{include.event.enddate}},
+  }
+}

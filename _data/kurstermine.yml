@@ -1,11 +1,19 @@
 - datum: 30.09.2016 bis 02.10.2016 und 28.10.2016 bis 30.10.2016
-  ort: Lemgo, NRW
+  startdate: 2016-09-30t12:00
+  enddate: 2016-10-30t18:00 
+  ort: Lemgo
+  plz: 32657 
+  str: Klingenberg 18
+  land: Nordrhein-Westfalen -NRW
   preis: 590€
   link: https://www.edoobox.com/iframe/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.137334?edref=hppt
   color: blue
   
 - datum: 11.11.2016 bis 13.11.2016 und 02.12.2016 bis 04.12.2016
-  ort: Wiesbaden, Hessen
+  ort: Wiesbaden
+  plz: 65203
+  str: Rathausstraße 57
+  land: Hessen
   preis: 620€
   link: https://www.edoobox.com/iframe/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.137335?edref=hppt
   color: green

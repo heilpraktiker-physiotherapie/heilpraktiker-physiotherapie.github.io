@@ -8,10 +8,13 @@ Gute Entscheidung! Versprochen ;-)
 Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum Heilpraktiker für Physiotherapie finden.  
 Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
+<script type="application/ld+json">
+  {% include eventmetadata.json event=kurs %}
+  </script>
 <div markdown="0" class="kurstermincontainer">
    <div class="kursbackground  {{kurs.color}}"></div>
    <div class="kurstermincontent">
-    <span>Kursort: {{ kurs.ort}}</span> <br/>
+    <span>Kursort: {{kurs.ort}}</span> <br/>
     <span>Kurstage: {{kurs.datum}}</span> <br/>
     <span>Preis: {{kurs.preis}}</span> <br/>
     <a target="_blank" href="{{kurs.link}}">Hier klicken zur Anmeldung</a>
