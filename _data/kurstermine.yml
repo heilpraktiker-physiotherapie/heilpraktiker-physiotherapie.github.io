@@ -11,7 +11,7 @@
   color: blue
   
 - datum: 11.11.2016 bis 13.11.2016 und 02.12.2016 bis 04.12.2016
-startdate: 2016-11-11t12:00
+  startdate: 2016-11-11t12:00
   enddate: 2016-12-04t18:00 
   ortsbezeichnung: Badhaus Schwarz
   ort: Wiesbaden
