@@ -7,7 +7,7 @@
         "@type": "ImageObject",
         "url": "https://hpphysio.com/assets/images/schema-logo-hppt.jpg",
         "height": "60",
-        "widht":"600"
+        "width":"600"
   },
     "performer": {
         "@type": "Person",
