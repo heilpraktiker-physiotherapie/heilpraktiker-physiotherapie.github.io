@@ -18,13 +18,13 @@
       "@type": "ImageObject",
       "url": "{{ site.logojpg | prepend: site.baseurl | prepend: site.url }}",
        "height": "60",
-        "widht":"600"
+        "width":"600"
     }
   },
   "image": {
     "@type": "ImageObject",
     "url": "{{ site.logojpg | prepend: site.baseurl | prepend: site.url }}",
     "height": "60",
-    "widht":"600"
+    "width":"600"
   }
 }
