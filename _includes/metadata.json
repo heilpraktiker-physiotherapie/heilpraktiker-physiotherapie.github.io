@@ -16,11 +16,15 @@
     "name": "{{ site.title }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.logopng | prepend: site.baseurl | prepend: site.url }}"
+      "url": "{{ site.logojpg | prepend: site.baseurl | prepend: site.url }}",
+       "height": "60",
+        "widht":"600"
     }
   },
   "image": {
     "@type": "ImageObject",
-    "url": "{{ site.logopng | prepend: site.baseurl | prepend: site.url }}"
+    "url": "{{ site.logojpg | prepend: site.baseurl | prepend: site.url }}"
+      "height": "60",
+        "widht":"600"
   }
 }
