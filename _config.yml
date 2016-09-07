@@ -9,9 +9,9 @@
 title: sektoraler Heilpraktiker für Physiotherapie - Fortbildung und Prüfung
 email: info@heilpraktiker-physiotherapie.com    
 description: Heilpraktiker für Physiotherapie - Fortbildung inklusive Prüfung zur Anerkennung nach Aktenlage, in NRW, Niedersachsen, Rheinland-Pfalz, Hessen, Baden-Württemberg, Bayern, Sachsen, Thüringen, Berlin und anderen Bundesländern  
-logo: "/assets/images/logosvg.svg"
-logo600jpg: "/assets/images/LogoHPPT600.jpg"
-Bannerjpg: "/assets/images/BannerHPPT.jpg"
+logo: "https://hpphysio.com/assets/images/LogoHPPT.svg"
+logo600jpg: "https://hpphysio.com/assets/images/LogoHPPT600.jpg"
+Bannerjpg: "https://hpphysio.com/assets/images/BannerHPPT.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hpphysio.com" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
