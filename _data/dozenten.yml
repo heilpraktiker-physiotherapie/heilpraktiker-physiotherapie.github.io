@@ -1,30 +1,35 @@
 - name: Arne Brödel
   vorname: Arne
   nachname: Brödel
-  beruf: Physiotherapeut, sektoraler Heilpraktiker für Physiotherapie
+  halffaceimg: /assets/images/halfFaceArne.jpg
+  beruf: sektoraler Heilpraktiker für Physiotherapie
   zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
   
 - name: Benjamin Alt
   vorname: Benjamin
   nachname: Alt
+  halffaceimg: /assets/images/halfFaceBenjamin.jpg
   beruf: Rechtsanwalt, Schwerpunkt Medizinrecht
-  zitat: Auf dem Weg zum Heilpraktiker für Physiotherapie liegen viele rechtliche Fallstricke. Ich zeige Ihnen die sicheren Pfade für dauerhaften Erfolg.
+  zitat: Ich zeige Ihnen die sicheren Pfade für dauerhaften Erfolg als Heilpraktiker für Physiotherapie.
   
 - name: Dr. med. Konstantin Hauß
   vorname: Konstantin
   nachname: Hauß
+  halffaceimg: /assets/images/halfFaceKonni.jpg
   beruf: Arzt, Allgemeinmediziner
-  zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
+  zitat: Ich freue mich darauf, gemeinsam mit den Teilnehmern, an den Methoden der klinischen Untersuchung zu arbeiten.
   
 - name: Dr. med. Friedo Brödel
   vorname: Friedo
   nachname: Brödel
+  halffaceimg: /assets/images/halfFaceFriedo.jpg
   beruf: Arzt, Allgemeinmediziner
   zitat: Sicher Diagnostizieren gehört zu den größten Herausforderungen im Alltag eines Arztes. Jetzt auch zu dem der Physios.
   
 - name: Dr. med. Jürgen Pohl
   vorname: Jürgen
   nachname: Pohl
+  halffaceimg: /assets/images/halfFaceArne.jpg
   beruf: Arzt, Internist
   zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
   

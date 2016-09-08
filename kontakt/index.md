@@ -16,6 +16,6 @@ Auch bei [facebook]({{site.facebook_url}}){:target="_blank"}, [twitter]({{site.t
 Gib uns einfach ein "Gefällt mir" bei [facebook]({{site.facebook_url}}){:target="_blank"} und schon kriegst Du dort die Neuigkeiten und interessantes Wissen im Stream angezeigt.
 <br/>
 
-<iframe id="contactform" src="{{site.basurl}}/websiteassets/contactform.html">Loading...</iframe>
+<iframe id="contactform" src="{{site.url}}{{site.basurl}}/websiteassets/contactform.html">Loading...</iframe>
 
 

@@ -1,0 +1,32 @@
+.breakingbar{
+    width: 100%;
+    height: 4px;
+    background-color: #49b300;
+    margin-bottom: 1em;
+}
+
+.postthumbcont{
+    width: 40%;
+    max-width:400px;
+    min-width: 200px;
+    min-height: 100px;
+    float: left;
+    
+}
+
+.posttextcont{
+    overflow: auto;
+    min-width: 20em;
+}
+
+@media (max-width: 660px){
+    .postthumbcont{
+        position: relative;
+        width: 100%;
+        max-width: 660px;
+    }
+}
+
+.posts{
+    position: relative;
+}

@@ -1,19 +1,29 @@
 ---
 layout: page
-title: Blog
+title: Heilpraktiker für Physiotherapie - Blog
+scssfile: blog.scss
 ---
 
 
-  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <article class="posts">
+  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Abonniere diesen Blog als rss-feed</span></a>
+  <br/>
+  <section class="posts">
       {% for post in paginator.posts %}
     <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
-      <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a><br/>
+     <div class="postthumbcont">
+         <amp-img class="postthumb" src="{{post.thumb}}" width="200" height="100" layout="responsive"></amp-img>
+     </div>
+<!--    <div class="posttextcont">-->
+      <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a><br/>
       <time itemprop="dateCreated" datetime="{{post.date}}">
           {{post.date | date:"%d.%m.%Y"}}
         </time>
         <p>{{post.excerpt | strip_html}} <a href="{{site.baseurl}}{{post.url}}" title="read more" class="more">weiter lesen...</a></p>
+<!--    </div>-->
+   
     </article>
+    
+    <div class="breakingbar clearfix"></div>
   {% endfor %} 
-  </article>
+  </section>
  

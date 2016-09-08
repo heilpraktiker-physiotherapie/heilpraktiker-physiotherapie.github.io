@@ -9,41 +9,40 @@ layout: default
             <!--<amp-youtube id="introvid" width="960" height="540" layout="responsive" data-videoid="lBTCB7yLs8Y" class="fullsize"> </amp-youtube>
     <div class="clearfix"></div>-->
     <main>
+       <section>
+            <amp-carousel id="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
+               {% for dozent in site.data.dozenten %}
+                <div>
+                 <div class="imagewrapper">
+                    <amp-img class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
+                 </div>
+                   <div class="dozenttext">
+                       <div class="dozentquote">
+                        "{{dozent.zitat}}"
+                    </div>
+                    <div class="dozentname">
+                        {{dozent.name}} <br/> {{dozent.beruf}}
+                    </div>
+                   </div>
+               </div>
+               {% endfor %}
+            </amp-carousel>
+        </section>
         <section class="lightgrey boxshadow fontalt fullwidthtextbar">
             <div id="welcometext">
                <article>
                <strong>Schön, dass Du uns gefunden hast</strong>
                 <br/>und damit die wichtigste Quelle für Informationen zum
-                <h3><pre> Heilpraktiker für Physiotherapie </pre></h3> und das hingabevollste Team für die
-                <h3><pre> Fortbildung zur Anerkennung nach Aktenlage.</pre></h3>
+                <h3> Heilpraktiker für Physiotherapie </h3> und das hingabevollste Team für die
+                <h3> Fortbildung zur Anerkennung nach Aktenlage.</h3>
                 <br>
-                <br>Schon viele<h3><pre> Physiotherapeuten und Physiotherapeutinnen aus ganz Deutschland </pre></h3>konnten mit unserem Engagement
-                <h3><pre> erfolgreich in den Direktzugang starten</pre></h3>.
+                <br>Schon viele<h3> Physiotherapeuten und Physiotherapeutinnen aus ganz Deutschland, </h3>konnten mit unserem Engagement
+                <h3> erfolgreich in den Direktzugang starten</h3>.
                 <br>
                 <br> Auch Du kannst Dich hoffentlich bald dazu zählen. <strong>Diese Entscheidung wird Deinen Berufsalltag verändern.</strong>
                 <br> Alle wichtigen Informationen findest Du auf dieser Seite. 
                 </article>
                 </div>
-        </section>
-        <section>
-            <amp-carousel id="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
-                <div>
-                 <div class="imagewrapper">
-                    <amp-img class="carousel-halffaceimg" src="assets/images/halfFaceArne.jpg" width="161" height="400" layout="responsive"/>
-                 </div>
-                   <div class="dozenttext">
-                       <div class="dozentquote">
-                        "Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren."
-                    </div>
-                    <div class="dozentname">
-                        Arne Brödel <br/> sektoraler Heilpraktiker für Physiotherapie
-                    </div>
-                   </div>
-               </div>
-                <amp-img src="assets/images/Arne.jpg" alt="" width="852" height="398" layout="responsive"></amp-img>
-                <amp-img src="assets/images/Benjamin.jpg" alt="" width="852" height="398" layout="responsive"></amp-img>
-                <amp-img src="assets/images/Friedo.jpg" alt="" width="852" height="398" layout="responsive"></amp-img>
-            </amp-carousel>
         </section>
         <section>
             <div > <strong><br/><strong>Wähle einfach wonach Du suchst:</strong></strong>

@@ -1,0 +1,32 @@
+/* line 1, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/blog.scss */
+.breakingbar {
+  width: 100%;
+  height: 4px;
+  background-color: #49b300;
+  margin-bottom: 1em; }
+
+/* line 8, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/blog.scss */
+.postthumbcont {
+  width: 40%;
+  max-width: 400px;
+  min-width: 200px;
+  min-height: 100px;
+  float: left; }
+
+/* line 17, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/blog.scss */
+.posttextcont {
+  overflow: auto;
+  min-width: 20em; }
+
+@media (max-width: 660px) {
+  /* line 23, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/blog.scss */
+  .postthumbcont {
+    position: relative;
+    width: 100%;
+    max-width: 660px; } }
+
+/* line 30, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/blog.scss */
+.posts {
+  position: relative; }
+
+/*# sourceMappingURL=blog.css.map */

@@ -7,7 +7,7 @@
         </button>
         </a>
         <button id="sidebartogglebutton" on="tap:sidebar.toggle" class="barbuttons">
-            <amp-img src="{{site.baseurl}}/assets/images/Burger.svg" alt="an image" layout="fixed" width="40px" height="40px"></amp-img>
+            <amp-img src="{{site.baseurl}}/assets/images/Burger.svg" alt="an image" layout="fixed" width="40px" height="36px"></amp-img>
         </button>
         <div class="navbuttonsbar right">
               <a class="page-link" href="{{site.baseurl}}/termine-und-anmeldung/"><button class="barbuttons">Termine</button></a>
