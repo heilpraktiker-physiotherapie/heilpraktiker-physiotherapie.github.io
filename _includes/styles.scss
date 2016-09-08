@@ -83,14 +83,18 @@ nav {
     z-index: 99;
     width: 100%;
     height: 40px;
-    background-color: #ffffff;
+    background-color: #fff;
     border-bottom-style: solid;
     border-bottom-width: thin;
     border-bottom-color: #A1A1A1;
     .navbuttonsbar {
         position: absolute;
-        top: 0px;
+        top: 4px;
+        height: 36px;
         right: 0px;
+        .barbuttons{
+            padding: 5px;
+        }
     }
 }
 
@@ -257,13 +261,10 @@ blockquote{
     margin: 0px 0px;
     padding: 10px 10px;
     border-width: medium;
+    background-color: #fff;
     border-left-style: solid;
     border-left-color: #FFFFFF;
     border-right-style: solid;
-    background-color: #ffffff;
-    color: #333333;
-    box-shadow: none;
-    height: 100%;
 }
 
 .barbuttons:hover {
@@ -332,6 +333,11 @@ amp-youtube {
 
 
 /*______________________________________________________________*/
+
+#topline{
+    width: 100%;
+    height: 4px;
+}
 
 #mainheader {
     margin-top: 0px;
@@ -417,16 +423,25 @@ amp-youtube {
 }
 #dozentencarousel {
     margin: auto;
-    div img{
-        max-width: 30%;
+    .imagewrapper{
+        width: percentage(161/852);
+        height: 100%;
+        float: left;
         display: inline-block;
     }
     .dozenttext{
-        width: 70%;
+        width: 81%;
         height: 100%;
         display: inline-block;
     }
     .dozentquote{
+        font-family: $font-family-postits;
+        margin-top: 3em;
+        font-size: 1.3em;
+        margin-bottom: 1em;
+    }
+    .dozentname{
+        font-size: 1em;
     }
     
     .amp-carousel-button {
@@ -477,6 +492,28 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
         font-weight: bold;
     }
 }
+
+
+@media (max-width: 1050px){
+     #visit .gplus {
+        display: none;
+    }
+    footer .sharespacer{
+        margin: 0;
+    }
+    
+}
+
+@media (max-width: 960px){
+    footer .sharespacer.big {
+        display: none;
+    }
+    footer .sharespacer.small{
+        display: block;
+        
+    }
+}
+
 @media (min-width: 930px) {
     #sidebartogglebutton {
         display: none;
@@ -507,26 +544,13 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 }
 
 
-@media (max-width: 1050px){
-     #visit .gplus {
-        display: none;
-    }
-    footer .sharespacer{
-        margin: 0;
-    }
-    
-}
-
-@media (max-width: 960px){
-    footer .sharespacer.big {
-        display: none;
-    }
-    footer .sharespacer.small{
-        display: block;
-        
+@media (max-width:800px){
+    #dozentencarousel {
+        .dozenttext{
+            font-size: 0.8em;
+        }
     }
 }
-
 @media (max-width: 750px){
     #share .gplus {
         display: none;
@@ -539,6 +563,12 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
             display: none;
         }
     
+     #dozentencarousel {
+        .dozentquote{
+            margin-top: 0.8em;
+            margin-bottom: 0.8em;
+        }
+    }
 
 }
 @media (max-width: 630px) {
@@ -577,6 +607,11 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
     }
     body {
         font-size: 0.8em;
+    }
+     #dozentencarousel {
+        .dozentquote{
+            font-size: 1.2em;
+        }
     }
 }
 @media (max-width: 420px) {
