@@ -57,12 +57,12 @@ Du erlernst:
 - Tips und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen  
 Du kannst vor Ort all Deine Fragen klären und Dich auf die Antworten verlassen.
 
-> Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.url}}{{site.baseurl}}/downloads/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)
+> Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.baseurl}}/downloads/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)
 
 Darüber hinaus, kannst Du Dir die Prüfung beim Gesundheitsamt in der Regel sparen.  
 Egal ob in NRW, Niedersachen, Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayern oder vielen anderen Bundesländern, kommst Du so auf effektivem Wege zu Deiner Erlaubniserteilung.  
 
- > Mehr zu den [Voraussetzungen zur Anerkennung nach Aktenlage erfährst Du hier]({{site.url}}{{site.baseurl}}/voraussetzungen-und-anerkennung/).
+ > Mehr zu den [Voraussetzungen zur Anerkennung nach Aktenlage erfährst Du hier]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
 
 Dort wo es Schwierigkeiten gibt, unterstützen wir Dich gerne auf dem Weg zur Erlaubniserteilung und darüber hinaus.
 

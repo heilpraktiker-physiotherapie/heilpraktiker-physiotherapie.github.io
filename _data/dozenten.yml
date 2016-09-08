@@ -1,0 +1,30 @@
+- name: Arne Brödel
+  vorname: Arne
+  nachname: Brödel
+  beruf: Physiotherapeut, sektoraler Heilpraktiker für Physiotherapie
+  zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
+  
+- name: Benjamin Alt
+  vorname: Benjamin
+  nachname: Alt
+  beruf: Rechtsanwalt, Schwerpunkt Medizinrecht
+  zitat: Auf dem Weg zum Heilpraktiker für Physiotherapie liegen viele rechtliche Fallstricke. Ich zeige Ihnen die sicheren Pfade für dauerhaften Erfolg.
+  
+- name: Dr. med. Konstantin Hauß
+  vorname: Konstantin
+  nachname: Hauß
+  beruf: Arzt, Allgemeinmediziner
+  zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
+  
+- name: Dr. med. Friedo Brödel
+  vorname: Friedo
+  nachname: Brödel
+  beruf: Arzt, Allgemeinmediziner
+  zitat: Sicher Diagnostizieren gehört zu den größten Herausforderungen im Alltag eines Arztes. Jetzt auch zu dem der Physios.
+  
+- name: Dr. med. Jürgen Pohl
+  vorname: Jürgen
+  nachname: Pohl
+  beruf: Arzt, Internist
+  zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
+  
