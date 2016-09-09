@@ -30,6 +30,10 @@ main {
     padding-right: 10%;
     margin-bottom: 2em;
     display: inline-block;
+    section{
+        max-width: 58em;
+        margin: auto;
+    }
 }
 
 h1 {
@@ -311,6 +315,7 @@ amp-youtube {
     margin-right: -12.4%;
     padding: 1em 14% 1em 14%;
     font-size: 1.2em;
+    max-width: none;
 }
 
 .relativepos {
@@ -331,6 +336,41 @@ amp-youtube {
 .post{
     max-width: 58em;
     margin: auto;
+}
+
+.dozentencarousel {
+    margin: auto;
+    max-width: 1260px;
+    .imagewrapper{
+        width: percentage(168/852);
+        height: 100%;
+        float: left;
+        display: inline-block;
+    }
+    .dozenttext{
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+    }
+    .dozentquote{
+        font-family: $font-family-postits;
+        margin-top: 3em;
+        font-size: 1.3em;
+        margin-bottom: 1em;
+    }
+    .dozentname{
+        font-size: 1em;
+    }
+    
+    .amp-carousel-button {
+        opacity: 0.1;
+        &:hover {
+            opacity: 0.9;
+        }
+    }
+    &:hover .amp-carousel-button {
+        opacity: 0.6;
+    }
 }
 
 
@@ -372,6 +412,7 @@ amp-youtube {
     margin-top: -10px;
     margin-left: -10px;
     padding-top: 10px;
+    padding-left: 10px;
     border-style: solid;
     border-top-style: none;
     border-right-style: none;
@@ -423,51 +464,18 @@ amp-youtube {
     margin-right: auto;
     font-family: $font-family-postits;
 }
-#dozentencarousel {
-    margin: auto;
-    .imagewrapper{
-        width: percentage(161/852);
-        height: 100%;
-        float: left;
-        display: inline-block;
-    }
-    .dozenttext{
-        width: 81%;
-        height: 100%;
-        display: inline-block;
-    }
-    .dozentquote{
-        font-family: $font-family-postits;
-        margin-top: 3em;
-        font-size: 1.3em;
-        margin-bottom: 1em;
-    }
-    .dozentname{
-        font-size: 1em;
-    }
-    
-    .amp-carousel-button {
-        opacity: 0.1;
-        &:hover {
-            opacity: 0.9;
-        }
-    }
-    &:hover .amp-carousel-button {
-        opacity: 0.6;
-    }
-}
 
 
 #sidebartogglebutton {
     float: right;
     margin: 4px 10px 0px 0px;
-    padding: 2px 10px;
-    border-right-style: none;
+    padding: 2px 4px;
+    border-style: groove;
+    border-width: 2px;
+    border-radius: 4px;
     &:hover {
         border-color: #FFFFFF;
         color: #FFFFFF;
-        border-bottom-style: none;
-        border-top-style: none;
         background-color: #333333;
         box-shadow: none;
     }
@@ -539,12 +547,36 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
     body{
         padding-top: 50px;
     }
+    main {
+        width: 96%;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .fullwidthtextbar {
+        margin-left: -1.9%;
+        margin-right: -1.9%;
+        padding: 1em 4% 1em 4%;
+    }
+    
+    .post-title{
+        text-align: center;
+        margin-top: 0px;
+    }
+    #homebt{
+        width: 60px;
+        height: 60px;
+        border-radius: 30px;
+        margin-top: -5px;
+        margin-bottom: -5px;
+        padding-top: 5px;
+       
+    }
 
 }
 
 
 @media (max-width:800px){
-    #dozentencarousel {
+    .dozentencarousel {
         .dozenttext{
             font-size: 0.8em;
         }
@@ -562,7 +594,7 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
             display: none;
         }
     
-     #dozentencarousel {
+     .dozentencarousel {
         .dozentquote{
             margin-top: 0.8em;
             margin-bottom: 0.8em;
@@ -585,16 +617,7 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 
 @media (max-width: 570px) {
    
-    main {
-        width: 96%;
-        padding-left: 2%;
-        padding-right: 2%;
-    }
-    .fullwidthtextbar {
-        margin-left: -1.9%;
-        margin-right: -1.9%;
-        padding: 1em 4% 1em 4%;
-    }
+    
 
 }
 @media (max-width: 490px) {
@@ -607,7 +630,7 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
     body {
         font-size: 0.8em;
     }
-     #dozentencarousel {
+     .dozentencarousel {
         .dozentquote{
             font-size: 1.2em;
         }
@@ -625,7 +648,7 @@ footer #emailbutton:hover + #contactform +#contactform:hover{
 @media (max-width:360px){
     footer .barbuttons{
         font-size: 10px;
-        padding: 4px 0px;
+        padding: 12px 0px;
     }
     #AuswahlSection button{
         font-size: 0.8em;

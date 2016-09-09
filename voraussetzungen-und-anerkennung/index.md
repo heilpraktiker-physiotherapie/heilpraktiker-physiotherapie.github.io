@@ -5,7 +5,7 @@ title: Voraussetzungen und Anerkennung
 ---
 
 Um an unserer Fortbildung teilnehmen zu können, musst Du vorab keine Nachweise erbringen.  
-Vielmehr vervollständigen die Urkunden, die Du nach Teilnahme und Prüfung von uns erhälst, Deine notwendigen Unterlagen.
+Vielmehr vervollständigen die Urkunden, die Du nach Teilnahme und Prüfung von uns erhältst, Deine notwendigen Unterlagen.
 Mit diesen kannst Du dann die Erlaubniserteilung des Heilpraktiker für Physiotherapie bei Deinem zuständigen Gesundheitsamt beantragen.
 
 Folgende Kriterien sind dafür zu kennen:
@@ -26,7 +26,7 @@ Diese ist aber recht unkonkret und enthält keine Hinweise zur Durchführung in 
 Hier legen Gerichtsentscheide, insbesondere vom Bundesverwaltungsgericht, die Grundlage. Aber auch diese bleiben sehr allgemein.  
 Daran haben sich letztendlich die zuständigen Behörden auf unterster Verwaltungsebene zu halten. Dies sind üblicherweise die örtlich zuständigen Ordnungs- bzw. Gesundheitsämter.  
 Diese müssen letztendlich entscheiden, ob die Heilpraktikererlaubnis zu erteilen ist oder nicht.
-Leider interpretieren die zuständigen Verwaltungsangestellten und Amtärzte/innen die bestehenden Bedigungen recht unterschiedlich und oft sehr intransparent.
+Leider interpretieren die zuständigen Verwaltungsangestellten und Amtsärzte/innen die bestehenden Bedingungen recht unterschiedlich und oft sehr intransparent.
 
  > Die unten aufgeführten Bedingungen können sich zwischenzeitlich ändern. Solltest Du den Eindruck haben, eine Information ist nicht mehr aktuell, informiere uns bitte.
 
@@ -52,7 +52,7 @@ In **Berlin** gibt es sehr knappe Vorgaben zur Anerkennung nach Aktenlage. Anwä
 Unsere Fortbildung tut dies unzweifelhaft und staatlich anerkannt. Der Anerkennung nach Aktenanlage steht allen Teilnehmer aus Berlin somit nichts im Wege.
 
 
-In **Bayern** war es lange Zeit zwar gesetzlich vorgesehen, praktisch aber kaum möglich die Anerkennung nach Akenlage zu erhalten, ohne diese gerichtlich einzuklagen.  
+In **Bayern** war es lange Zeit zwar gesetzlich vorgesehen, praktisch aber kaum möglich die Anerkennung nach Aktenlage zu erhalten, ohne diese gerichtlich einzuklagen.  
 Nun aber hat das Bayerisches Staatsministerium für Gesundheit und Pflege klare Vorgaben und Kriterien für die Nachqualifikation veröffentlicht.  
 Erfüllen Fortbildungen alle darin genannten Anforderungen, so ist nun auch in Bayern die Anerkennung nach Aktenlage zu erteilen.  
 Seit dem Beschluss klappt dies bislang bei uns auch ohne Schwierigkeiten.
@@ -78,7 +78,7 @@ Für uns bedeutet das entsprechend, dass es leider wenig Sinn macht eine Fortbil
 Auch in **Thüringen** sind die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie repräsentiert und die Anerkennung nach Aktenlage vorgesehen.  
 Dafür muss der Anwärter eine staatlich anerkannte Aus-, Fort- oder Weiterbildung nachweisen, welche die geforderten Inhalte entsprechend abdeckt.  
 Leider sind die zuständigen Verwaltungsangestellten nicht gewillt konkrete Angaben zu machen, unter welchen Voraussetzungen die Anerkennung nach Aktenlage sicher erteilt wird. Die Betonung liegt auf der Einzelfallentscheidung. Berufserfahrung spielt hier eine Rolle und zum Teil können auch weitere fachspezifische Fortbildungen wie MT die Anerkennung nach Aktenlage begünstigen.
-Grundsätzlich haben Anwärter aus Thrüringen aber allerbste Chancen auf Anerkennung nach Aktenlage, wenn sie unsere Fortbildung besucht haben.
+Grundsätzlich haben Anwärter aus Thüringen aber die besten Chancen auf Anerkennung nach Aktenlage, wenn sie unsere Fortbildung besucht haben.
 
 
   > Du findest keine Information zu Deinem Bundesland? Dann nutze einfach [unser Kontaktformular]({{site.baseurl}}/kontakt/) für Deine Frage. Arne hilft Dir gerne weiter.

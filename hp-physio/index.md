@@ -103,7 +103,7 @@ Der Heilpraktiker für Physiotherapie kann schnell und ohne Umwege Abhilfe schaf
 
 Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
 Während sonst der Arzt die Aufgabe hat, Patienten vor der Überweisung zum Therapeuten auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen hin zu untersuchen, die sich evtl. mit Beschwerden am Bewegungsapparat präsentieren könnten, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  
-Gibt es Hinweise auf Krebserkrankungen, Herzleiden, Erkrankungen abdomineller Organe, Gefäß- oder Nervenschäden? Welchen Einfluss könnten Medikamente haben? Wie groß ist der Einfluß psychogener oder psychosomatischer Faktoren?
+Gibt es Hinweise auf Krebserkrankungen, Herzleiden, Erkrankungen abdomineller Organe, Gefäß- oder Nervenschäden? Welchen Einfluss könnten Medikamente haben? Welche Rolle spielen psychogene oder psychosomatische Faktoren?  
 Das und vieles mehr, muss der Therapeut sicher und verlässlich einschätzen können.
 
 Wer überzeugt ist, dass er mit physiotherapeutischen Mitteln seine Patienten nicht adäquat behandeln kann und auf fachfremde Methoden zurückgreifen muss, der benötigt den "großen" Heilpraktiker.  

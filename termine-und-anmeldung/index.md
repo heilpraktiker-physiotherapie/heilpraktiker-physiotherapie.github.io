@@ -30,7 +30,7 @@ Wir sind dabei nicht an einen festen Ort gebunden, sondern in vielen Orten Deuts
 Wer es eilig hat, muss vielleicht etwas weiter fahren. Es sind ja nur 2 Wochenenden und die Reise zu uns lohnt sich.
 
 
-Zur Zeit sind wir vorallem in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz und Bayern unterwegs, um Physiotherapeuten/Innen auf dem Weg zum Heilpraktiker für Physiotherapie zu begleiten.
+Zur Zeit sind wir vor allem in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz und Bayern unterwegs, um Physiotherapeuten/Innen auf dem Weg zum Heilpraktiker für Physiotherapie zu begleiten.
  
 Für die meisten Teilnehmer/innen der Fortbildung ist es egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.
 
@@ -41,7 +41,7 @@ Es haben auch schon Teilnehmer aus Baden-Württemberg die Anerkennung erhalten, 
 Weitere Informationen zu den einzelnen Bundesländern findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
 
 Die Anmeldung erfolgt über unser Online-Anmeldeformular. Klicke dafür einfach oben auf dieser Seite auf Button bei Deinem gewählten Termin.  
-Wer eine staatliche Bildungsföderung wie den Bildungsscheck nutzt, gibt einfach im Formular als Gutschein-Code das Wort "Bildungsscheck" ein.
+Wer eine staatliche Bildungsförderung wie den Bildungsscheck nutzt, gibt einfach im Formular als Gutschein-Code das Wort "Bildungsscheck" ein.
 
 Die Fortbildung findet zur Zeit immer an 2 mal 3 Tagen statt, von Freitag 12 Uhr bis Sonntag 18 Uhr.
 Weitere Informationen zu [unserer Fortbildung zum Heilpraktiker für Physiotherapie, findest Du unter Fortbildung]({{site.baseurl}}/die-fortbildung/).

@@ -12,15 +12,25 @@ Wir beginnen meist freitags gegen 12 Uhr und verabschieden uns sonntags gegen 18
 Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt. 
 Auch wenn das Niveau durchaus hoch ist, bestehen die meisten Teilnahme dank der effektiven Vorbereitung die Prüfung auf Anhieb. Wenn ein Teilnehmer die notwendige Punktzahl nicht erreichen sollte, so sind Nachprüfungen problemlos und kostenfrei möglich. 
 
-Der Inahlt wird präsentiert von echten Experten auf Ihrem Gebiet. 
+Der Inhalt wird präsentiert von echten Experten auf Ihrem Gebiet. 
 Ob Anwalt, Mediziner oder Heilpraktiker für Physiotherapie, alle brennen für Ihr Thema und können praxisnah vermitteln.
 
 Du erhältst von uns ein umfangreiches Skript zur Prüfungsvorbereitung für den Teil der Differentialdiagnostik und der Berufskunde. 
-Dazu viele wertvolle Handouts zu den verschiedenen Themen der Fortbildung wie Screening, Differentialdiagnostik, körperliche Untersuchung, Praxistips, Abrechnung und vieles mehr.
+Dazu viele wertvolle Handouts zu den verschiedenen Themen der Fortbildung wie Screening, Differentialdiagnostik, körperliche Untersuchung, Praxistipps, Abrechnung und vieles mehr.
 Zukünftig erwarten Dich auch immer mehr "e-learning" Inhalte wie z.B. interaktive Lernvideos.
 
 Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf den Inhalten und Anstößen der Fortbildung aufbauen zu können.
-	
+<div markdown="0">
+    <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="4000">
+       {% for image in site.static_files %}
+            {% if image.path contains 'images/fortbildung-caroussel1' %}
+                <amp-img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="852" layout="responsive"></amp-img>
+            {% endif %}
+        {% endfor %}
+    </amp-carousel>
+</div>
+<br/>  
+  
 ### Wer leitet den Unterricht?
 Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement der Dozenten
 
@@ -36,17 +46,38 @@ Ein Physiotherapeut und Heilpraktiker für Physiotherapie weiß am besten, welch
 Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinmediziner und Internisten sicherlich am besten befähigt.
 Weniger als die beste Besetzung solltest Du nicht akzeptieren.
 Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
-
+<div markdown="0">
+    <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
+           {% for dozent in site.data.dozenten %}
+            <div>
+             <div class="imagewrapper">
+                <amp-img class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
+             </div>
+               <div class="dozenttext">
+                   <div class="dozentquote">
+                    "{{dozent.zitat}}"
+                </div>
+                <div class="dozentname">
+                    {{dozent.name}} <br/> {{dozent.beruf}}
+                </div>
+               </div>
+           </div>
+           {% endfor %}
+        </amp-carousel>
+</div>
+<br/>
 
 ### Warum sollte ich dazu eine Fortbildung besuchen? 
 Unser Fachwissen macht den Unterschied, zwischen potentiellen Möglichkeiten und spürbarem Erfolg
 
-Es gibt Physiotherapeuten, die haben sich alleine auf die Prüfung zum sektoralen Heilpraktiker vorbereitet, haben bestanden und setzen die neugewonnene Freiheit gut in der Praxis um.  
-Das jedoch ist die Ausnahme und bedarf immer großem persönlichen Aufwand und Zeit.  
-Es gibt viele Themen zu beachten, um sicher, erfolgreich und erfüllend als Heilpraktiker für Physiotherapie tätig zu werden.
+Es ist nicht zwingend erforderlich unserer Fortbildung zu besuchen um Heilpraktiker für Physiotherapie zu werden. 
+Sich jedoch alleine auf eine Prüfung beim Gesundheitsam vorzubereiten, ist für die meisten sehr mühsam, zeitaufwendig und unsicher.  
+Mit unserer Fortbildung und der Anerkennung nach Aktenlage, gehst Du den kürzeren und vor allem besser planbaren Weg.
 
-Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen ist es, zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
-Wir sind ein Team von Experten, für das Wissen was Dir noch fehlt, für Deinen erfolgreichen Umgang mit dem Direktzugang.
+Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als Heilpraktiker für Physiotherapie.
+Es gibt viele Themen zu beachten, um sicher, erfolgreich und erfüllend als Heilpraktiker für Physiotherapie tätig zu werden.
+Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen, ist es zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
+Wir sind ein Team von Experten, für das Wissen was Dir noch fehlt, um das Potential Deiner Therapie im Direktzugang optimal zu nutzen.
 
 Du erlernst:
 
@@ -54,7 +85,7 @@ Du erlernst:
 - wichtige Grundlagen des medizinischen Screening und der Differentialdiagnostik bis hin zur praktischen orientierenden Untersuchung aller vitaler Körperfunktionen, der Medikamentenanamnese, Grundlagen der Laboruntersuchung und der Interpretation bildgebender Verfahren  
 - alle von den Gesundheitsämtern geforderten Kenntnisse wie z.B. im Bereich der Krankheitslehre  
 - die besten Strategien und Vorgehensweisen zur Abrechnung Deiner Leistungen
-- Tips und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen  
+- Tipps und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen  
 Du kannst vor Ort all Deine Fragen klären und Dich auf die Antworten verlassen.
 
 > Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.baseurl}}/downloads/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)

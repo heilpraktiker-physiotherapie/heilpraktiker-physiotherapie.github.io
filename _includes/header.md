@@ -3,7 +3,7 @@
         <div class="green" id="topline"/>
          <a href="{{site.baseurl}}/" class="logo">
            <button id="homebt">
-            <amp-img src="{{site.baseurl}}/assets/images/LogoHPPT.svg" alt="Welcome" height="60" width="60"></amp-img>
+            <amp-img src="{{site.baseurl}}/assets/images/LogoHPPT.svg" alt="Welcome" height="60" width="60" layout="responsive"></amp-img>
         </button>
         </a>
         <button id="sidebartogglebutton" on="tap:sidebar.toggle" class="barbuttons">
