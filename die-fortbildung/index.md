@@ -71,7 +71,7 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
 Unser Fachwissen macht den Unterschied, zwischen potentiellen Möglichkeiten und spürbarem Erfolg
 
 Es ist nicht zwingend erforderlich unserer Fortbildung zu besuchen um Heilpraktiker für Physiotherapie zu werden. 
-Sich jedoch alleine auf eine Prüfung beim Gesundheitsam vorzubereiten, ist für die meisten sehr mühsam, zeitaufwendig und unsicher.  
+Sich jedoch alleine auf eine Prüfung beim Gesundheitsamt vorzubereiten, ist für die meisten sehr mühsam, zeitaufwendig und unsicher.  
 Mit unserer Fortbildung und der Anerkennung nach Aktenlage, gehst Du den kürzeren und vor allem besser planbaren Weg.
 
 Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als Heilpraktiker für Physiotherapie.
