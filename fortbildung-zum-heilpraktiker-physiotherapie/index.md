@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Die Fortbildung
+title: Mit unserer Fortbildung erfolgreich starten als Heilpraktiker für Physiotherapie
 scssfile: fortbildung.scss
 ---
 
@@ -88,7 +88,7 @@ Du erlernst:
 - Tipps und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen  
 Du kannst vor Ort all Deine Fragen klären und Dich auf die Antworten verlassen.
 
-> Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.baseurl}}/downloads/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)
+> Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.baseurl}}/downloads-formulare-und-hilfen-zum-heilpraktiker-physiotherapie/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)
 
 Darüber hinaus, kannst Du Dir die Prüfung beim Gesundheitsamt in der Regel sparen.  
 Egal ob in NRW, Niedersachen, Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayern oder vielen anderen Bundesländern, kommst Du so auf effektivem Wege zu Deiner Erlaubniserteilung.  

@@ -44,7 +44,7 @@ Die Anmeldung erfolgt über unser Online-Anmeldeformular. Klicke dafür einfach 
 Wer eine staatliche Bildungsförderung wie den Bildungsscheck nutzt, gibt einfach im Formular als Gutschein-Code das Wort "Bildungsscheck" ein.
 
 Die Fortbildung findet zur Zeit immer an 2 mal 3 Tagen statt, von Freitag 12 Uhr bis Sonntag 18 Uhr.
-Weitere Informationen zu [unserer Fortbildung zum Heilpraktiker für Physiotherapie, findest Du unter Fortbildung]({{site.baseurl}}/die-fortbildung/).
+Weitere Informationen zu [unserer Fortbildung zum Heilpraktiker für Physiotherapie, findest Du unter Fortbildung]({{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/).
 
 Falls Du oben auf dieser Seite keinen geeigneten Termin findest, trage Dich doch bitte in [unseren Newsletter "Interessiert an weiteren Kursen" ein](https://www.edoobox.com/de/book/D3.D3.QBhUp2ejQFqSCyQLTPX5QEVOll2hHc7Gg70HtcVF2.hKWYB2.d0mSFORpLbuLj4F2.cnlmlWB9E4B2.VMpZGnqDuRIeNXf/?edref=hppt){:target="_blank"}. Dann wirst Du über alle neuen Termine schnellstmöglich informiert.
 

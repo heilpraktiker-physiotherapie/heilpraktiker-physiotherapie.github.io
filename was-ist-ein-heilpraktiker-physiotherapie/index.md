@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Infos zum sektoralen HP Physio
+title: Informationen zum sektoralen Heilpraktiker für Physiotherapie
 
 ---
 

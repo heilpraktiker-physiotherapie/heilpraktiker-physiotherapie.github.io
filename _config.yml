@@ -17,7 +17,7 @@ url: "https://hpphysio.com" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
 
 paginate:	2 # The number of posts to show per page on your homepage
-paginate_path: '/blog/page:num/'
+paginate_path: '/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/page:num/'
 
 name: 'Arne Brödel'
 bio: Physiotherapeut, Heilpraktiker für Physiotherapie
@@ -34,7 +34,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
   
-#permalink: /blog/:title
+#permalink: /neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/:title
 
 
 gems:
