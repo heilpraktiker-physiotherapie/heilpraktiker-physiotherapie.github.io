@@ -75,7 +75,7 @@ Sich jedoch alleine auf eine Prüfung beim Gesundheitsamt vorzubereiten, ist fü
 Mit unserer Fortbildung und der Anerkennung nach Aktenlage, gehst Du den kürzeren und vor allem besser planbaren Weg.
 
 Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als Heilpraktiker für Physiotherapie.
-Es gibt viele Themen zu beachten, um sicher, erfolgreich und erfüllend als Heilpraktiker für Physiotherapie tätig zu werden.
+Es gibt viele Themen zu beachten, um sicher, erfolgreich und erfüllend als sektoraler Heilpraktiker tätig zu werden.
 Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen, ist es zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
 Wir sind ein Team von Experten, für das Wissen was Dir noch fehlt, um das Potential Deiner Therapie im Direktzugang optimal zu nutzen.
 
@@ -97,5 +97,5 @@ Egal ob in NRW, Niedersachen, Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayer
 
 Dort wo es Schwierigkeiten gibt, unterstützen wir Dich gerne auf dem Weg zur Erlaubniserteilung und darüber hinaus.
 
-### Wir bringen Dich auf einen erfolgreichen Weg als Heilpraktiker für Physiotherapie!
+### Wir bringen Dich auf einen erfolgreichen Weg als sektoraler Heilpraktiker für Physiotherapie!
 	

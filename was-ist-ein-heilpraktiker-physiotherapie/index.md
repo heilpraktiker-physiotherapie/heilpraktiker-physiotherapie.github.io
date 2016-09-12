@@ -6,7 +6,7 @@ title: Informationen zum sektoralen Heilpraktiker für Physiotherapie
 
 ## Physiotherapeuten - viel mehr als der verlängerte Arm des Arztes
 
-Das Fachgebiet der Physiotherapie hat sich in den letzten Jahrzehnten enorm entwickelt.   
+Das Fachgebiet der Physiotherapie hat sich in den letzten Jahrzehnten rasant entwickelt.   
 Mit zunehmender Akademisierung, Internationalisierung und digitaler Verknüpfung, beschleunigt sich diese Entwicklung von Tag zu Tag geradezu exponentiell.  
 Die Entwicklung des Status der Physiotherapie in Deutschland, steht aber seit Jahrzehnten nahezu still.
 
@@ -22,14 +22,14 @@ Diese Diskrepanz ist nicht nur ärgerlich für die betroffenen Physiotherapeuten
 Ärzte müssen über Maßnahmen entscheiden, für die sie nur unzureichend ausgebildet sind.  
 Physiotherapeuten können Ihren Beruf nicht so ausüben, wie es die besten Erfolge und die beste Kosten-Nutzen-Relation verspricht.  
 Die Patienten haben keinen direkten Zugang zur bestmöglichen Therapie bei vielen Beschwerden am Bewegungsapparat.  
-Das Wohl der Patienten als Individuen und Ihre wirtschaftliche Leistungsfähigkeit leiden darunter genauso, wie die Effizienz des Ressourceneinsatzes. 
+Das Wohl der Betroffenen als Individuen und Ihre wirtschaftliche Leistungsfähigkeit leiden darunter genauso, wie die Effizienz des Ressourceneinsatzes. 
 
 
 ## Der Heilpraktiker für Physiotherapie
 
 ### Direktzugang per \"Abkürzung\"
 
-Das Physiotherapeuten Patienten auf ärztliche Anweisung hin behandeln dürfen und mit welchen Methoden Sie das dürfen, ist im Masseur- und Physiotherapeutengesetz (MPhG) geregelt.  
+Das Physiotherapeuten auf ärztliche Anweisung hin behandeln dürfen und mit welchen Methoden Sie das dürfen, ist im Masseur- und Physiotherapeutengesetz (MPhG) geregelt.  
 Dass es überhaupt einer Verordnung bedarf, dafür ist jedoch das Heilpraktikergesetz verantwortlich. 
 
 Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker heilkundlich tätig werden dürfen. 
@@ -43,10 +43,10 @@ Allerdings sind es auch einfach zwei ganz unterschiedliche Dinge und daher kaum 
 Bei einer staatlich anerkannten Berufsausbildung geht es um das erlernen berufstypischer Fähigkeiten und Fertigkeiten nach gewissen Standards.  
 Jeder Patient und Arzt kann sich so darauf verlassen, dass ein Physiotherapeut die berufstypischen Maßnahmen kennt und durchführen kann.  
 Die Erlaubnis die Berufsbezeichnung "Physiotherapeut/in" zu tragen bescheinigt frei formuliert: "Person X hat das Wissen und die praktischen Fähigkeiten entsprechend der Ausbildungsverordnung erlernt und unter Beweis gestellt diese zu beherrschen.  
-Er/Sie ist in der Lage physiotherapeutische Maßnahmen sicher und korrekt am Patienten anzuwenden".  
+Er/Sie ist in der Lage physiotherapeutische Maßnahmen sicher und korrekt anzuwenden".  
 Es geht dabei um die korrekte Ausführung einer entsprechenden therapeutischen Maßnahme.
 Beim Heilpraktiker ist das anders. Die korrekte Ausführung therapeutischer Maßnahmen wird hier nicht geprüft und deren Beherrschung nicht bescheinigt.  
-Unter "Beweis" gestellt werden, muss vom Anwärter lediglich, dass er bei der Auswahl heilkundlicher Maßnahmen keine Gefahr für den Patienten und die Allgemeinheit darstellt.   
+Unter "Beweis" gestellt werden, muss vom Anwärter lediglich, dass er bei der Auswahl heilkundlicher Maßnahmen keine Gefahr für den Einzelnen und die Allgemeinheit darstellt.   
 Im Grunde muss der Heilpraktiker wissen was er darf und was er nicht darf und er muss wissen, wie er die Situationen differenzieren kann.   
 Darauf werden wiederum Physiotherapeuten/innen in Ihrer Berufsausbildung weder direkt vorbereitet, noch am Ende entsprechend geprüft.   
 Diese Differenzierung (Diagnostik) muss daher zunächst jemand anderes (ein Arzt oder Heilpraktiker) durchführen, bevor der Physiotherapeut tätig werden darf.
@@ -65,7 +65,7 @@ Für die Sicherstellung ausreichender Fähigkeiten in Bezug auf Differentialdiag
 Somit haben Patienten jetzt die Möglichkeit direkt mit Ihren Beschwerden einen Physiotherapeuten aufzusuchen.  
 Sie sollen darauf vertrauen können, dass dieser die physiotherapeutischen Maßnahmen beherrscht und gleichzeitig auch in der Lage ist zu erkennen, wann andere Maßnahmen als die der Physiotherapie indiziert sind.
 
-Einige Physiotherapeuten äußern ein gewisses Unbehagen bzgl. des Heilpraktiker für Physiotherapie. Es sei eine Abwertung der physiotherapeutischen Ausbildung, wenn erst der Heilpraktiker den Direktzugang ermögliche.  
+Einige Physiotherapeuten äußern ein gewisses Unbehagen bzgl. des sektoralen Heilpraktiker für Physiotherapie. Es sei eine Abwertung der physiotherapeutischen Ausbildung, wenn erst der Heilpraktiker den Direktzugang ermögliche.  
 Tatsächlich aber sollte man es im Gegenteil als Aufwertung wahrnehmen.  
 Der Direktzugang zur Physiotherapie ohne Heilpraktikererlaubnis war stets in weiter Ferne.  
 Es wurde aber gerichtlich festgestellt, dass Physiotherapeuten schon fast alles mitbringen für den Direktzugang.   
@@ -77,7 +77,7 @@ Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am J
 
 Zumindest wenn man es schafft, die Möglichkeiten die sich einem bieten auch zu nutzen.
 Das gelingt leider nicht jedem und daher äußern sich manche unzufrieden.  
-Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt alte Arbeits- und Vermarktungsgewohnheiten aufzubrechen, dann lassen sich alle Faktoren physiotherapeutischer Tätigkeit enorm verbessern.
+Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt alte Arbeits- und Vermarktungsgewohnheiten aufzubrechen, dann lassen sich alle Faktoren physiotherapeutischer Tätigkeit spürbar verbessern.
 
 \"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
 Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf. Das stimmt auch. 
@@ -90,7 +90,7 @@ Der sektorale Heilpraktiker für Physiotherapie ist in der Lage, die großartige
 
 - Der Therapeut wählt und bestimmt, gemeinsam mit dem Patienten, die Mittel, den Umfang und die Frequenz der Therapie. Dabei kann er sich vollkommen Variable an Bedarf und Bedürfnisse anpassen.
 - Patienten ohne Verordnung können direkt behandelt werden
-- Patienten die keine Folgeverordnung mehr bekommen, können ebenso vollkommen rechtsicher weiterbehandelt werden
+- ohne Forlgeverordnung, kann ebenso vollkommen rechtsicher weiterbehandelt werden
 - Patienten die eine Verordnung haben, können ergänzende notwendige und sinnvolle Maßnahmen oder zusätzliche Therapieeinheiten erhalten
 - alle heilkundlichen Maßnahmen sind von der Umsatzsteuer befreit
 
@@ -102,9 +102,9 @@ Darüber hinaus bleiben viele Patienten auf dem Weg hängen, da die Ärzte liebe
 Der Heilpraktiker für Physiotherapie kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
 
 Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
-Während sonst der Arzt die Aufgabe hat, Patienten vor der Überweisung zum Therapeuten auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen hin zu untersuchen, die sich evtl. mit Beschwerden am Bewegungsapparat präsentieren könnten, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  
+Während sonst der Arzt die Aufgabe hat, vor der Überweisung zum Therapeuten, Untersuchungen auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen durchzuführen, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  
 Gibt es Hinweise auf Krebserkrankungen, Herzleiden, Erkrankungen abdomineller Organe, Gefäß- oder Nervenschäden? Welchen Einfluss könnten Medikamente haben? Welche Rolle spielen psychogene oder psychosomatische Faktoren?  
 Das und vieles mehr, muss der Therapeut sicher und verlässlich einschätzen können.
 
 Wer überzeugt ist, dass er mit physiotherapeutischen Mitteln seine Patienten nicht adäquat behandeln kann und auf fachfremde Methoden zurückgreifen muss, der benötigt den "großen" Heilpraktiker.  
-**Alle diejenigen die erkennen, dass mit einer Fokussierung auf optimale physiotherapeutische Versorgung, den meisten Patienten viel mehr geholfen werden kann, als mit dem Aufweichen des eigenen Kompetenzfeldes, sollten sich aber bewusst für den Heilpraktiker für Physiotherapie entscheiden.**  
+**Alle diejenigen die erkennen, dass mit einer Fokussierung auf optimale physiotherapeutische Versorgung, den meisten Patienten viel mehr geholfen werden kann, als mit dem Aufweichen des eigenen Kompetenzfeldes, sollten sich aber bewusst für den sektoralen Heilpraktiker für Physiotherapie entscheiden.**  

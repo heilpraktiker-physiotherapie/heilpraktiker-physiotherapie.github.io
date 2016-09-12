@@ -5,7 +5,7 @@ scssfile: termine.scss
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  
 Gute Entscheidung! Versprochen ;-)  
-Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum Heilpraktiker für Physiotherapie finden.  
+Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum sektoralen Heilpraktiker für Physiotherapie finden.  
 Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
 <script type="application/ld+json">

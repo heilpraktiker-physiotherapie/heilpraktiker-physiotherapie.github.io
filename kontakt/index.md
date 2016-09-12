@@ -4,7 +4,7 @@ title: Kontakt
 
 ---
 
-Wir beraten Dich vor Deiner Entscheidung, helfen während der Fortbildung und sind auch für Rückfragen in Deiner Zukunft als Heilpraktiker für Physiotherapie auf vielen Kanälen zu erreichen.
+Wir beraten Dich vor Deiner Entscheidung, helfen während der Fortbildung und sind auch für Rückfragen in Deiner Zukunft als Heilpraktiker/in für Physiotherapie auf vielen Kanälen zu erreichen.
 
 Nutze einfach das Medium, welches Dir am besten liegt.
 
