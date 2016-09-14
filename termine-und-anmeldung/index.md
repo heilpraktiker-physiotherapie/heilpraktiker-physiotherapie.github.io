@@ -23,7 +23,7 @@ Unsere aktuellen Termine sind:
 {% endfor %}
 <div class="clearfix"></div>
 Hast Du noch keinen passenden Termin gefunden? Keine Sorge, es kommen bald neue.
-Bitte trag Dich direkt [hier in unsere Liste](https://www.edoobox.com/de/book/D3.D3.QBhUp2ejQFqSCyQLTPX5QEVOll2hHc7Gg70HtcVF2.hKWYB2.d0mSFORpLbuLj4F2.cnlmlWB9E4B2.VMpZGnqDuRIeNXf/?edref=hppt){:target="_blank"} ein und wir informieren Dich sobald neue Termine feststehen.
+Bitte schreib uns ruhig direkt [eine Nachricht über unser Kontaktformular]({{site.baeurl}}/kontakt/) und wir informieren Dich sobald neue Termine feststehen.
 
 Die Termine werden üblicherweise zwischen 4 und 8 Monaten im Voraus bekannt gegeben.
 Wir sind dabei nicht an einen festen Ort gebunden, sondern in vielen Orten Deutschlands wechselnd unterwegs. So sollte auch für Dich in absehbarer Zeit ein Kurs erreichbar sein. 
