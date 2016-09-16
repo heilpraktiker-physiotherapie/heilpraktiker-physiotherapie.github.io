@@ -14,7 +14,7 @@ Unsere aktuellen Termine sind:
 <div markdown="0" class="kurstermincontainer">
    <div class="kursbackground  {{kurs.color}}"></div>
    <div class="kurstermincontent">
-    <span>Kursort: {{kurs.ort}}</span> <br/>
+    <span>Kursort: {{kurs.ort}} in {{kurs.land}}</span> <br/>
     <span>Kurstage: {{kurs.datum}}</span> <br/>
     <span>Preis: {{kurs.preis}}</span> <br/>
     <a target="_blank" href="{{kurs.link}}">Hier klicken zur Anmeldung</a>

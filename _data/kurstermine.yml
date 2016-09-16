@@ -5,7 +5,7 @@
   ort: Lemgo
   plz: 32657 
   str: Klingenberg 18
-  land: Nordrhein-Westfalen -NRW
+  land: Nordrhein-Westfalen
   preis: 590€
   link: https://www.edoobox.com/iframe/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.137334?edref=hppt
   color: blue
@@ -21,3 +21,27 @@
   preis: 620€
   link: https://www.edoobox.com/iframe/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.137335?edref=hppt
   color: green
+  
+- datum: 20.01.2017 bis 22.01.2017 und 10.02.2017 bis 12.02.2017
+  startdate: 2017-01-20t12:00
+  enddate: 2017-02-12t18:00 
+  ortsbezeichnung: Hans-Weinberger-Akademie
+  ort: Schweinfurt
+  plz: 97422
+  str: Robert-Koch-Straße 10
+  land: Bayern
+  preis: 620€
+  link: https://www.edoobox.com/iframe/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.164526?edref=hppt
+  color: red
+  
+- datum: 29.09.2017 bis 01.10.2017 und 13.10.2017 bis 15.10.2017
+  startdate: 2017-09-29t12:00
+  enddate: 2017-10-15t18:00 
+  ortsbezeichnung: IFEAS
+  ort: Stadthagen
+  plz: 31655
+  str: Dorfstraße 2
+  land: Niedersachsen
+  preis: 620€
+  link: https://ifeas.javis.de/onlineregistration/92/registration
+  color: blue
