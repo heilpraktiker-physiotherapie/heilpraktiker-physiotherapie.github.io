@@ -34,6 +34,18 @@
   link: https://www.edoobox.com/iframe/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.164526?edref=hppt
   color: red
   
+- datum: 24.03. bis 26.03.2017 und 28.04. bis 30.04.2017
+  startdate: 2017-03-24t12:00
+  enddate: 2017-04-28t18:00 
+  ortsbezeichnung: Badhaus Schwarz
+  ort: Wiesbaden
+  plz: 65203
+  str: Rathausstraße 57
+  land: Hessen
+  preis: 620€
+  link: https://www.edoobox.com/de/book/D3.D3.wQLaAkHpzQ4qU0B2.2aOF1wbB2.2B2.7rAGB2.b2E2BnJqB9ANFt7a4qakGwFYR4LZzp0gNoTxdyFOE6xkBO67e5kdyYzB/
+  color: blue
+  
 - datum: 29.09.2017 bis 01.10.2017 und 13.10.2017 bis 15.10.2017
   startdate: 2017-09-29t12:00
   enddate: 2017-10-15t18:00 
@@ -44,4 +56,5 @@
   land: Niedersachsen
   preis: 620€
   link: https://ifeas.javis.de/onlineregistration/92/registration
-  color: blue
+  color: green
+  
