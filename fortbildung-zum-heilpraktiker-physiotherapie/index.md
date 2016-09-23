@@ -47,23 +47,23 @@ Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinm
 Weniger als die beste Besetzung solltest Du nicht akzeptieren.
 Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
 <div markdown="0">
-    <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
-           {% for dozent in site.data.dozenten %}
-            <div>
-             <div class="imagewrapper">
-                <amp-img class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
-             </div>
-               <div class="dozenttext">
-                   <div class="dozentquote">
-                    "{{dozent.zitat}}"
-                </div>
-                <div class="dozentname">
-                    {{dozent.name}} <br/> {{dozent.beruf}}
-                </div>
+     <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
+               {% for dozent in site.data.dozenten %}
+                <div vocab="http://schema.org/" typeof="Person">
+                 <div class="imagewrapper">
+                    <amp-img property="image" class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
+                 </div>
+                   <div class="dozenttext">
+                       <div class="dozentquote">
+                        "{{dozent.zitat}}"
+                    </div>
+                    <div class="dozentname">
+                        <span property="name">{{dozent.name}}</span> <br/> {{dozent.beruf}}
+                    </div>
+                   </div>
                </div>
-           </div>
-           {% endfor %}
-        </amp-carousel>
+               {% endfor %}
+            </amp-carousel>
 </div>
 <br/>
 
