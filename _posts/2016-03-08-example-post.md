@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bald gehts los
+comments: true
 excerpt_separator: <!-- more -->
 ---
 

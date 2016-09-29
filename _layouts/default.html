@@ -20,8 +20,16 @@
 
     </amp-sidebar>
     {% include header.md %}
-        {{ content }}
-        {% include footer.html %}
+    {{ content }}
+    {% if page.comments %}
+       <amp-iframe width=600 height=140
+            layout="responsive"
+            sandbox="allow-scripts allow-same-origin allow-modals allow-popups"
+            resizable
+            src="{{site.url}}/websiteassets/disqus.html#{{page.url}}">
+       </amp-iframe>
+    {% endif %}
+    {% include footer.html %}
    <amp-analytics type="googleanalytics" id="analytics2">
 <script type="application/json">
 {
