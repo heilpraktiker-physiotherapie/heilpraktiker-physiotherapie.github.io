@@ -22,11 +22,12 @@
     {% include header.md %}
     {{ content }}
     {% if page.comments %}
-       <amp-iframe width=600 height=140
+      <amp-iframe width=600 height=140
             layout="responsive"
             sandbox="allow-scripts allow-same-origin allow-modals allow-popups"
-            resizable="resizable"
-            src="https://arnold85.github.io/websiteassets/disqusamp">
+            resizable
+            src="https://cdn.rawgit.com/maxxeight/disqusAMP/master/disqus-amp.html?shortname=hpphysio&url={{page.url}}">
+<div overflow tabindex=0 role=button aria-label="Disqus Comments">Disqus Comments</div> 
            <amp-img layout="fill" src="{{site.baseurl}}/assets/images/BannerHPPT.jpg" placeholder></amp-img>
        </amp-iframe>
     {% endif %}
