@@ -7,13 +7,13 @@ scssfile: fortbildung.scss
 ### Wie ist die Fortbildung zum Heilpraktiker Physiotherapie aufgebaut?  
 Intensives multimediales Lernen, vermittelt kompakt alle Grundlagen des Direktzugangs
 
-Die komplette Fortbildung zum Heilpraktiker Physiotherapie dauert bei uns üblicherweise 6 Tage, aufgeteilt auf 2 mal 3 Tage, und beinhaltet 64 Unterrichtsstunden.  
+Die komplette Fortbildung zum <em>Heilpraktiker Physiotherapie</em> dauert bei uns üblicherweise 6 Tage, aufgeteilt auf 2 mal 3 Tage, und beinhaltet 64 Unterrichtsstunden.  
 Wir beginnen meist freitags gegen 12 Uhr und verabschieden uns sonntags gegen 18 Uhr. 
 Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt. 
 Auch wenn das Niveau durchaus hoch ist, bestehen die meisten Teilnahme dank der effektiven Vorbereitung die Prüfung auf Anhieb. Wenn ein Teilnehmer die notwendige Punktzahl nicht erreichen sollte, so sind Nachprüfungen problemlos und kostenfrei möglich. 
 
 Der Inhalt wird präsentiert von echten Experten auf Ihrem Gebiet. 
-Ob Anwalt, Mediziner oder Heilpraktiker Physiotherapie, alle brennen für Ihr Thema und können praxisnah vermitteln.
+Ob Anwalt, Mediziner oder <em>Heilpraktiker Physiotherapie</em>, alle brennen für Ihr Thema und können praxisnah vermitteln.
 
 Du erhältst von uns ein umfangreiches Skript zur Prüfungsvorbereitung für den Teil der Differentialdiagnostik und der Berufskunde. 
 Dazu viele wertvolle Handouts zu den verschiedenen Themen der Fortbildung wie Screening, Differentialdiagnostik, körperliche Untersuchung, Praxistipps, Abrechnung und vieles mehr.
@@ -37,28 +37,28 @@ Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement de
 Und weil uns das bewusst ist, hat dies auch höchsten Stellenwert bei uns und hoffentlich auch bei Dir.  
 Selbst wenn das Curriculum verschiedener Anbieter auf den ersten Blick sehr ähnlich erscheinen mag, so wird es doch einen riesigen Unterschied machen, wo Du die Fortbildung absolviert hast.
 
-Wir unterrichten als Team: Anwalt, Mediziner und Heilpraktiker Physiotherapie, jeder deckt seine Spezialgebiete ab.
+Wir unterrichten als Team: Anwalt, Mediziner und <em>Heilpraktiker Physiotherapie</em>, jeder deckt seine Spezialgebiete ab.
 
 In NRW ist es beispielsweise möglich, dass ein Heilpraktiker die gesamte Fortbildung alleine abhält.
 Wir halten dies nicht für sinnvoll. Das Thema ist dafür einfach zu komplex.  
 Ein Jurist, der regelmäßig Physiotherapeuten/Innen und Heilpraktiker/Innen für Physiotherapie vertritt, kann die Fragen der Berufskunde viel qualifizierter beantworten als ein Heilpraktiker.  
-Ein Physiotherapeut und Heilpraktiker Physiotherapie weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
+Ein Physiotherapeut und <em>Heilpraktiker Physiotherapie</em> weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
 Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinmediziner und Internisten sicherlich am besten befähigt.
 Weniger als die beste Besetzung solltest Du nicht akzeptieren.
 Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
 <div markdown="0">
      <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
                {% for dozent in site.data.dozenten %}
-                <div vocab="http://schema.org/" typeof="Person">
+                <div> 
                  <div class="imagewrapper">
-                    <amp-img property="image" class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
+                    <amp-img class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
                  </div>
                    <div class="dozenttext">
                        <div class="dozentquote">
                         "{{dozent.zitat}}"
                     </div>
                     <div class="dozentname">
-                        <span property="name">{{dozent.name}}</span> <br/> {{dozent.beruf}}
+                        <span>{{dozent.name}}</span> <br/> {{dozent.beruf}}
                     </div>
                    </div>
                </div>
@@ -70,11 +70,11 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
 ### Warum sollte ich dazu eine Fortbildung besuchen? 
 Unser Fachwissen macht den Unterschied, zwischen potentiellen Möglichkeiten und spürbarem Erfolg
 
-Es ist nicht überall zwingend erforderlich unserer Fortbildung zu besuchen um Heilpraktiker Physiotherapie zu werden. 
+Es ist nicht überall zwingend erforderlich unserer Fortbildung zu besuchen um <em>Heilpraktiker Physiotherapie</em> zu werden. 
 Sich jedoch alleine auf eine Prüfung beim Gesundheitsamt vorzubereiten, ist für die meisten sehr mühsam, zeitaufwendig und unsicher.  
 Mit unserer Fortbildung und der Anerkennung nach Aktenlage, gehst Du den kürzeren und vor allem besser planbaren Weg.
 
-Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als Heilpraktiker Physiotherapie.
+Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als <em>Heilpraktiker Physiotherapie</em>.
 Es gibt viele Themen zu beachten, um sicher, erfolgreich und erfüllend als sektoraler Heilpraktiker tätig zu werden.
 Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen, ist zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
 Wir sind ein Team von Experten, für das Wissen was Dir noch fehlt, um das Potential Deiner Therapie im Direktzugang optimal zu nutzen.

@@ -99,7 +99,7 @@ Gerade bei muskuloskeletalen Beschwerden, wollen viele akute Hilfe und Erleichte
 Insbesondere Selbstständige scheuen den Gang zum Physiotherapeuten, da üblicherweise ein langer Umweg über den Arzt notwendig ist.  
 Das ist zu zeitaufwendig und mühsam, um die zwar oft sehr unangenehmen und hinderlichen aber nicht akut bedrohlichen Probleme zeitnah anzugehen.  
 Darüber hinaus bleiben viele Patienten auf dem Weg hängen, da die Ärzte lieber eigene Leistungen anbieten, auch weil Sie das Potential der Physiotherapie oft nicht kennen oder aus betriebswirtschaftlichen Erwägungen.  
-Der Heilpraktiker Physiotherapie kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
+Der <em>Heilpraktiker Physiotherapie</em> kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
 
 Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
 Während sonst der Arzt die Aufgabe hat, vor der Überweisung zum Therapeuten, Untersuchungen auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen durchzuführen, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  
