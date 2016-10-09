@@ -6,7 +6,7 @@ title: Voraussetzungen und Anerkennung
 
 Um an unserer Fortbildung teilnehmen zu können, musst Du vorab keine Nachweise erbringen.  
 Vielmehr vervollständigen die Urkunden, die Du nach Teilnahme und Prüfung von uns erhältst, Deine notwendigen Unterlagen.
-Mit diesen kannst Du dann die Erlaubniserteilung des Heilpraktiker für Physiotherapie bei Deinem zuständigen Gesundheitsamt beantragen.
+Mit diesen kannst Du dann die Erlaubniserteilung des Heilpraktiker Physiotherapie bei Deinem zuständigen Gesundheitsamt beantragen.
 
 Folgende Kriterien sind dafür zu kennen:
 
@@ -22,7 +22,7 @@ Folgende Kriterien sind dafür zu kennen:
     - Einige Bundesländer erwarten zusätzlich Berufserfahrung als Physiotherapeut/in von 4 bis 5 Jahren
 
 Die Erlaubniserteilung zur Ausübung des Berufes des Heilpraktikers, geschieht grundsätzlich deutschlandweit nach dem Heilpraktikergesetz bzw. dessen ergänzender Durchführungsverordnung.  
-Diese ist aber recht unkonkret und enthält keine Hinweise zur Durchführung in Bezug auf den Heilpraktiker für Physiotherapie.  
+Diese ist aber recht unkonkret und enthält keine Hinweise zur Durchführung in Bezug auf den Heilpraktiker Physiotherapie.  
 Hier legen Gerichtsentscheide, insbesondere vom Bundesverwaltungsgericht, die Grundlage. Aber auch diese bleiben sehr allgemein.  
 Daran haben sich letztendlich die zuständigen Behörden auf unterster Verwaltungsebene zu halten. Dies sind üblicherweise die örtlich zuständigen Ordnungs- bzw. Gesundheitsämter.  
 Diese müssen letztendlich entscheiden, ob die Heilpraktikererlaubnis zu erteilen ist oder nicht.
@@ -30,7 +30,7 @@ Leider interpretieren die zuständigen Verwaltungsangestellten und Amtsärzte/in
 
  > Die unten aufgeführten Bedingungen können sich zwischenzeitlich ändern. Solltest Du den Eindruck haben, eine Information ist nicht mehr aktuell, informiere uns bitte.
 
-Vorbildlich ist hier **NRW**. Landesweit hat das Gesundheitsamt Düsseldorf die Verantwortung für die Erlaubniserteilung des sektoralen Heilpraktiker für Physiotherapie übertragen bekommen.  
+Vorbildlich ist hier **NRW**. Landesweit hat das Gesundheitsamt Düsseldorf die Verantwortung für die Erlaubniserteilung des Heilpraktiker Physiotherapie übertragen bekommen.  
 Insbesondere in Bezug auf die Anerkennung nach Aktenlage, gibt es so klare und transparente Kriterien.  
 Fortbildungsanbieter können Ihr Konzept und Curriculum amtsärztlich überprüfen lassen. Wird der Kurs als geeignet anerkannt, so können Teilnehmer/innen auch sicher sein die Anerkennung nach Aktenlage zu erhalten.  
 4 Jahre Berufserfahrung wird vorausgesetzt.
@@ -59,14 +59,14 @@ Seit dem Beschluss klappt dies bislang bei uns auch ohne Schwierigkeiten.
 
 
 In **Hessen** gibt es auch seit einiger Zeit klare Regelungen, wann auf die Prüfung beim Gesundheitsamt verzichtet werden kann und somit die Anerkennung nach Aktenlage zu erteilen ist. 
-Diese sind recht allgemein gehalten aber dennoch klar formuliert und meist klappt die Anerkennung nach Aktenlage problemlos.  
+Diese sind recht allgemein gehalten, aber dennoch klar formuliert und meist klappt die Anerkennung nach Aktenlage problemlos.  
 Leider gibt es in Hessen keine Behörde, die klar federführend ist.  
 So behalten es sich einzelne Gesundheitsämter vor, grundsätzlich auf die mündliche Überprüfung zu bestehen, obwohl Sie dabei deutschlandweites Recht und auch landesweite Vorgaben ignorieren.  
 Letztendlich haben alle unsere Teilnehmer aus Hessen Ihre Anerkennung nach Aktenlage erhalten und ich bin sicher, wir werden auch in Zukunft für alle Teilnehmer/innen Wege finden.
 
 
 **Baden-Württemberg** ist auch etwas komplizierter, was die Anerkennung nach Aktenlage angeht.
-Die allgemeine Interpretation des Urteils des Bundesverwaltungsgericht zum Heilpraktiker für Physiotherapie gibt vor, dass auf die Überprüfung beim Gesundheitsamt verzichtet werden kann, wenn der Anwärter nachweisen kann, die notwendigen Kenntnisse in einer staatlich anerkannten Fortbildung erworben zu haben.  
+Die allgemeine Interpretation des Urteils des Bundesverwaltungsgericht zum Heilpraktiker Physiotherapie gibt vor, dass auf die Überprüfung beim Gesundheitsamt verzichtet werden kann, wenn der Anwärter nachweisen kann, die notwendigen Kenntnisse in einer staatlich anerkannten Fortbildung erworben zu haben.  
 Das Gesundheitsministerium selber, ist als zuständige staatliche Behörde aber nicht gewillt eine solche Anerkennung zu erteilen. Diese Anerkennung gibt es so nur in NRW und Niedersachsen. 
 Diese Akkreditierung wird auch in Baden-Württemberg anerkannt, allerdings offiziell nur dann, wenn die Fortbildung auch dort stattgefunden hat, wo diese akkreditiert wurde.  
 Ziemlich kompliziert.  

@@ -2,7 +2,7 @@
   "@context": "http://schema.org",
   "@type": "EducationEvent",
   "name": "Fortbildung Heilpraktiker Physiotherapie",
-    "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker für Physiotherapie",
+    "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Physiotherapie",
      "image": {
         "@type": "ImageObject",
         "url": "https://hpphysio.com/assets/images/schema-logo-hppt.jpg",

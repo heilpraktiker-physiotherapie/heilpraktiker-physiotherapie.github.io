@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Informationen zum sektoralen Heilpraktiker für Physiotherapie
+title: Informationen zum sektoralen Heilpraktiker Physiotherapie
 
 ---
 
@@ -22,17 +22,17 @@ Diese Diskrepanz ist nicht nur ärgerlich für die betroffenen Physiotherapeuten
 Ärzte müssen über Maßnahmen entscheiden, für die sie nur unzureichend ausgebildet sind.  
 Physiotherapeuten können Ihren Beruf nicht so ausüben, wie es die besten Erfolge und die beste Kosten-Nutzen-Relation verspricht.  
 Die Patienten haben keinen direkten Zugang zur bestmöglichen Therapie bei vielen Beschwerden am Bewegungsapparat.  
-Das Wohl der Betroffenen als Individuen und Ihre wirtschaftliche Leistungsfähigkeit leiden darunter genauso, wie die Effizienz des Ressourceneinsatzes. 
+Das Wohl der Betroffenen als Individuen und Ihre wirtschaftliche Leistungsfähigkeit leiden darunter, genauso wie die Effizienz des Ressourceneinsatzes. 
 
 
-## Der Heilpraktiker für Physiotherapie
+## Der Heilpraktiker Physiotherapie
 
 ### Direktzugang per \"Abkürzung\"
 
 Das Physiotherapeuten auf ärztliche Anweisung hin behandeln dürfen und mit welchen Methoden Sie das dürfen, ist im Masseur- und Physiotherapeutengesetz (MPhG) geregelt.  
 Dass es überhaupt einer Verordnung bedarf, dafür ist jedoch das Heilpraktikergesetz verantwortlich. 
 
-Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker heilkundlich tätig werden dürfen. 
+Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker eigenständig heilkundlich tätig werden dürfen. 
 Auch wenn diese nicht explizit erwähnt werden, bedeutet dies für alle Gesundheitsfachberufe, dass diese nur unter der Verantwortung eines Arztes \(oder Heilpraktikers\) delegierbare Anwendungen zu heilkundlichen \(therapeutischen\) Zwecken durchführen dürfen.
 
 Bei vielen ausgebildeten Therapeuten sorgt dieses Gesetz immer wieder für Unverständnis und Ärger. Aber letztendlich, ist dieses Gesetz heute wohl mehr Segen als Fluch für alle Physiotherapeuten.  
@@ -99,7 +99,7 @@ Gerade bei muskuloskeletalen Beschwerden, wollen viele akute Hilfe und Erleichte
 Insbesondere Selbstständige scheuen den Gang zum Physiotherapeuten, da üblicherweise ein langer Umweg über den Arzt notwendig ist.  
 Das ist zu zeitaufwendig und mühsam, um die zwar oft sehr unangenehmen und hinderlichen aber nicht akut bedrohlichen Probleme zeitnah anzugehen.  
 Darüber hinaus bleiben viele Patienten auf dem Weg hängen, da die Ärzte lieber eigene Leistungen anbieten, auch weil Sie das Potential der Physiotherapie oft nicht kennen oder aus betriebswirtschaftlichen Erwägungen.  
-Der Heilpraktiker für Physiotherapie kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
+Der Heilpraktiker Physiotherapie kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
 
 Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
 Während sonst der Arzt die Aufgabe hat, vor der Überweisung zum Therapeuten, Untersuchungen auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen durchzuführen, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  

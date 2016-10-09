@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Mit unserer Fortbildung erfolgreich starten als Heilpraktiker für Physiotherapie
+title: Mit unserer Fortbildung erfolgreich starten als Heilpraktiker Physiotherapie
 scssfile: fortbildung.scss
 ---
 
-### Wie ist die Fortbildung zum Heilpraktiker für Physiotherapie aufgebaut?  
+### Wie ist die Fortbildung zum Heilpraktiker Physiotherapie aufgebaut?  
 Intensives multimediales Lernen, vermittelt kompakt alle Grundlagen des Direktzugangs
 
-Die komplette Fortbildung zum Heilpraktiker für Physiotherapie dauert bei uns üblicherweise 6 Tage, aufgeteilt auf 2 mal 3 Tage, und beinhaltet 64 Unterrichtsstunden.  
+Die komplette Fortbildung zum Heilpraktiker Physiotherapie dauert bei uns üblicherweise 6 Tage, aufgeteilt auf 2 mal 3 Tage, und beinhaltet 64 Unterrichtsstunden.  
 Wir beginnen meist freitags gegen 12 Uhr und verabschieden uns sonntags gegen 18 Uhr. 
 Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt. 
 Auch wenn das Niveau durchaus hoch ist, bestehen die meisten Teilnahme dank der effektiven Vorbereitung die Prüfung auf Anhieb. Wenn ein Teilnehmer die notwendige Punktzahl nicht erreichen sollte, so sind Nachprüfungen problemlos und kostenfrei möglich. 
 
 Der Inhalt wird präsentiert von echten Experten auf Ihrem Gebiet. 
-Ob Anwalt, Mediziner oder Heilpraktiker für Physiotherapie, alle brennen für Ihr Thema und können praxisnah vermitteln.
+Ob Anwalt, Mediziner oder Heilpraktiker Physiotherapie, alle brennen für Ihr Thema und können praxisnah vermitteln.
 
 Du erhältst von uns ein umfangreiches Skript zur Prüfungsvorbereitung für den Teil der Differentialdiagnostik und der Berufskunde. 
 Dazu viele wertvolle Handouts zu den verschiedenen Themen der Fortbildung wie Screening, Differentialdiagnostik, körperliche Untersuchung, Praxistipps, Abrechnung und vieles mehr.
@@ -37,12 +37,12 @@ Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement de
 Und weil uns das bewusst ist, hat dies auch höchsten Stellenwert bei uns und hoffentlich auch bei Dir.  
 Selbst wenn das Curriculum verschiedener Anbieter auf den ersten Blick sehr ähnlich erscheinen mag, so wird es doch einen riesigen Unterschied machen, wo Du die Fortbildung absolviert hast.
 
-Wir unterrichten als Team: Anwalt, Mediziner und Heilpraktiker für Physiotherapie, jeder deckt seine Spezialgebiete ab.
+Wir unterrichten als Team: Anwalt, Mediziner und Heilpraktiker Physiotherapie, jeder deckt seine Spezialgebiete ab.
 
 In NRW ist es beispielsweise möglich, dass ein Heilpraktiker die gesamte Fortbildung alleine abhält.
 Wir halten dies nicht für sinnvoll. Das Thema ist dafür einfach zu komplex.  
 Ein Jurist, der regelmäßig Physiotherapeuten/Innen und Heilpraktiker/Innen für Physiotherapie vertritt, kann die Fragen der Berufskunde viel qualifizierter beantworten als ein Heilpraktiker.  
-Ein Physiotherapeut und Heilpraktiker für Physiotherapie weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
+Ein Physiotherapeut und Heilpraktiker Physiotherapie weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
 Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinmediziner und Internisten sicherlich am besten befähigt.
 Weniger als die beste Besetzung solltest Du nicht akzeptieren.
 Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
@@ -70,13 +70,13 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
 ### Warum sollte ich dazu eine Fortbildung besuchen? 
 Unser Fachwissen macht den Unterschied, zwischen potentiellen Möglichkeiten und spürbarem Erfolg
 
-Es ist nicht zwingend erforderlich unserer Fortbildung zu besuchen um Heilpraktiker für Physiotherapie zu werden. 
+Es ist nicht überall zwingend erforderlich unserer Fortbildung zu besuchen um Heilpraktiker Physiotherapie zu werden. 
 Sich jedoch alleine auf eine Prüfung beim Gesundheitsamt vorzubereiten, ist für die meisten sehr mühsam, zeitaufwendig und unsicher.  
 Mit unserer Fortbildung und der Anerkennung nach Aktenlage, gehst Du den kürzeren und vor allem besser planbaren Weg.
 
-Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als Heilpraktiker für Physiotherapie.
+Viel wichtiger jedoch als die Hilfe auf dem Weg zur Erlaubniserteilung, ist unsere Unterstützung für Deinen Erfolg als Heilpraktiker Physiotherapie.
 Es gibt viele Themen zu beachten, um sicher, erfolgreich und erfüllend als sektoraler Heilpraktiker tätig zu werden.
-Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen, ist es zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
+Der einfachste und sinnvollste Weg, sich dieses Wissen anzueignen, ist zu uns zu kommen und sich beim Start in die neue Freiheit helfen zu lassen.
 Wir sind ein Team von Experten, für das Wissen was Dir noch fehlt, um das Potential Deiner Therapie im Direktzugang optimal zu nutzen.
 
 Du erlernst:
@@ -85,7 +85,8 @@ Du erlernst:
 - wichtige Grundlagen des medizinischen Screening und der Differentialdiagnostik bis hin zur praktischen orientierenden Untersuchung aller vitaler Körperfunktionen, der Medikamentenanamnese, Grundlagen der Laboruntersuchung und der Interpretation bildgebender Verfahren  
 - alle von den Gesundheitsämtern geforderten Kenntnisse wie z.B. im Bereich der Krankheitslehre  
 - die besten Strategien und Vorgehensweisen zur Abrechnung Deiner Leistungen
-- Tipps und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen  
+- Tipps und Tricks der Praxis, um das Beste aus Deinen Möglichkeiten rauszuholen
+
 Du kannst vor Ort all Deine Fragen klären und Dich auf die Antworten verlassen.
 
 > Ein ausführliches [Curriculum findest Du hier in unserem Downloadbereich]({{site.baseurl}}/downloads-formulare-und-hilfen-zum-heilpraktiker-physiotherapie/). Ein paar \"Extras\" warten aber immer noch auf die Teilnehmer ;-\)

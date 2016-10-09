@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: sektoraler Heilpraktiker für Physiotherapie - Fortbildung und Prüfung
+title: sektoraler Heilpraktiker Physiotherapie - Fortbildung und Prüfung
 email: info@heilpraktiker-physiotherapie.com    
-description: Heilpraktiker für Physiotherapie - Fortbildung inklusive Prüfung zur Anerkennung nach Aktenlage, in NRW, Niedersachsen, Rheinland-Pfalz, Hessen, Baden-Württemberg, Bayern und anderen Bundesländern  
+description: Heilpraktiker Physiotherapie - Fortbildung inklusive Prüfung zur Anerkennung nach Aktenlage, in NRW, Niedersachsen, Rheinland-Pfalz, Hessen, Baden-Württemberg, Bayern und anderen Bundesländern  
 logo: "https://hpphysio.com/assets/images/LogoHPPT.svg"
 logo600jpg: "https://hpphysio.com/assets/images/LogoHPPT600.jpg"
 Bannerjpg: "https://hpphysio.com/assets/images/BannerHPPT.jpg"
@@ -20,7 +20,7 @@ paginate:	2 # The number of posts to show per page on your homepage
 paginate_path: '/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/page:num/'
 
 name: 'Arne Brödel'
-bio: Physiotherapeut, Heilpraktiker für Physiotherapie
+bio: Physiotherapeut, Heilpraktiker (Physiotherapie)
 author_image: "/assets/images/author.jpg"
 twitter_username: PhysioHP
 twitter_url: https://twitter.com/PhysioHP
