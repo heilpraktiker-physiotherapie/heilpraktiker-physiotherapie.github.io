@@ -22,15 +22,15 @@
     {% include header.md %}
     {{ content }}
     {% if page.comments %}
-      <amp-iframe width=600 height=140
+      <amp-iframe class="disqus-iframe" width=600 height=300
             layout="responsive"
             sandbox="allow-scripts allow-same-origin allow-modals allow-popups"
             resizable
-            src="https://cdn.rawgit.com/maxxeight/disqusAMP/master/disqus-amp.html?shortname=hpphysio&url={{site.url}}">
-<div overflow tabindex=0 role=button aria-label="Disqus Comments">Disqus Comments</div> 
-           <amp-img layout="fill" src="{{site.baseurl}}/assets/images/BannerHPPT.jpg" placeholder></amp-img>
+            src="https://cdn.rawgit.com/maxxeight/disqusAMP/master/disqus-amp.html?shortname=hpphysio&url={{site.url}}"> 
+           <amp-img overflow layout="fill" src="{{site.baseurl}}/assets/images/BannerHPPT.jpg" placeholder></amp-img>
        </amp-iframe>
     {% endif %}
+    <span class="homelink">zurück zur Startseite <a href="{{site.baseurl}}/">Fortbildung Heilpraktiker Physiotherapie (HP Physio)</a></span>
     {% include footer.html %}
    <amp-analytics type="googleanalytics" id="analytics2">
 <script type="application/json">
