@@ -6,7 +6,7 @@ title: Voraussetzungen und Anerkennung
 
 Um an unserer Fortbildung teilnehmen zu können, musst Du vorab keine Nachweise erbringen.  
 Vielmehr vervollständigen die Urkunden, die Du nach Teilnahme und Prüfung von uns erhältst, Deine notwendigen Unterlagen.
-Mit diesen kannst Du dann die Erlaubniserteilung des <em>Heilpraktiker Physiotherapie</em> bei Deinem zuständigen Gesundheitsamt beantragen.
+Mit diesen kannst Du dann die Erlaubniserteilung des <em>Heilpraktiker Physiotherapie</em> nach Aktenlage bei Deinem zuständigen Gesundheitsamt beantragen.
 
 Folgende Kriterien sind dafür zu kennen:
 
@@ -18,7 +18,7 @@ Folgende Kriterien sind dafür zu kennen:
     - Fachliche Eignung, also ausreichende medizinische und differentialdiagnostische Kenntnisse und ausreichend Kenntnisse der Berufskunde für Heilpraktiker
 - Speziell für den sektoralen Heilpraktiker für Physiotherapie:
     - wird der Nachweis der physiotherapeutischen Ausbildung verlangt \(Berufsurkunde\)
-    - kann die Erteilung der Erlaubnis nach Aktenlage erfolgen, wenn der/die Anwärter/in entsprechend Nachqualifikation \(unsere Fortbildung\) nachweisen kann
+    - kann die Erteilung der Erlaubnis nach Aktenlage erfolgen, wenn der/die Anwärter/in entsprechende Nachqualifikation \(unsere Fortbildung\) nachweisen kann
     - Einige Bundesländer erwarten zusätzlich Berufserfahrung als Physiotherapeut/in von 4 bis 5 Jahren
 
 Die Erlaubniserteilung zur Ausübung des Berufes des Heilpraktikers, geschieht grundsätzlich deutschlandweit nach dem Heilpraktikergesetz bzw. dessen ergänzender Durchführungsverordnung.  
@@ -55,7 +55,7 @@ Unsere Fortbildung tut dies unzweifelhaft und staatlich anerkannt. Der Anerkennu
 In **Bayern** war es lange Zeit zwar gesetzlich vorgesehen, praktisch aber kaum möglich die Anerkennung nach Aktenlage zu erhalten, ohne diese gerichtlich einzuklagen.  
 Nun aber hat das Bayerisches Staatsministerium für Gesundheit und Pflege klare Vorgaben und Kriterien für die Nachqualifikation veröffentlicht.  
 Erfüllen Fortbildungen alle darin genannten Anforderungen, so ist nun auch in Bayern die Anerkennung nach Aktenlage zu erteilen.  
-Seit dem Beschluss klappt dies bislang bei uns auch ohne Schwierigkeiten.
+Seit dem Beschluss klappt dies bei uns auch ohne Schwierigkeiten.
 
 
 In **Hessen** gibt es auch seit einiger Zeit klare Regelungen, wann auf die Prüfung beim Gesundheitsamt verzichtet werden kann und somit die Anerkennung nach Aktenlage zu erteilen ist. 
@@ -66,8 +66,8 @@ Letztendlich haben alle unsere Teilnehmer aus Hessen Ihre Anerkennung nach Akten
 
 
 **Baden-Württemberg** ist auch etwas komplizierter, was die Anerkennung nach Aktenlage angeht.
-Die allgemeine Interpretation des Urteils des Bundesverwaltungsgericht zum <em>Heilpraktiker Physiotherapie</em> gibt vor, dass auf die Überprüfung beim Gesundheitsamt verzichtet werden kann, wenn der Anwärter nachweisen kann, die notwendigen Kenntnisse in einer staatlich anerkannten Fortbildung erworben zu haben.  
-Das Gesundheitsministerium selber, ist als zuständige staatliche Behörde aber nicht gewillt eine solche Anerkennung zu erteilen. Diese Anerkennung gibt es so nur in NRW und Niedersachsen. 
+Die allgemeine Interpretation des Urteils des Bundesverwaltungsgericht zum <em>Heilpraktiker Physiotherapie</em> gibt vor, dass auf die Überprüfung beim Gesundheitsamt verzichtet werden kann, wenn der Anwärter nachweisen kann die notwendigen Kenntnisse in einer staatlich anerkannten Fortbildung erworben zu haben.  
+Das Gesundheitsministerium selber ist als zuständige staatliche Behörde aber nicht gewillt eine solche Anerkennung zu erteilen. Diese Anerkennung gibt es so nur in NRW und Niedersachsen. 
 Diese Akkreditierung wird auch in Baden-Württemberg anerkannt, allerdings offiziell nur dann, wenn die Fortbildung auch dort stattgefunden hat, wo diese akkreditiert wurde.  
 Ziemlich kompliziert.  
 Letztendlich bedeutet dies für Anwärter aus Baden-Württemberg, dass Sie eine unserer Fortbildungen in NRW oder Niedersachsen besuchen müssen, um sicher von der Anerkennung nach Aktenlage in Baden-Württemberg ausgehen zu können.  

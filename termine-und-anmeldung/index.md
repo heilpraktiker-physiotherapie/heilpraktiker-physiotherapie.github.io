@@ -27,12 +27,11 @@ Bitte schreib uns ruhig direkt [eine Nachricht über unser Kontaktformular]({{si
 
 Die Termine werden üblicherweise zwischen 4 und 8 Monaten im Voraus bekannt gegeben.
 Wir sind dabei nicht an einen festen Ort gebunden, sondern in vielen Orten Deutschlands wechselnd unterwegs. So sollte auch für Dich in absehbarer Zeit ein Kurs erreichbar sein. 
-Wer es eilig hat, muss vielleicht etwas weiter fahren. Es sind ja nur 2 Wochenenden und die Reise zu uns lohnt sich.
+Wer es eilig hat, muss vielleicht etwas weiter fahren. Die Reise lohnt sich für Dich.
 
-
-Zur Zeit sind wir vor allem in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz und Bayern unterwegs, um Physiotherapeuten/Innen auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten.
+Zur Zeit sind wir vor allem in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz und Bayern unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten.
  
-Für die meisten Teilnehmer/innen der Fortbildung ist es egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.
+Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.
 
 
 Lediglich Teilnehmer/Innen aus Baden-Württemberg sind in dieser Hinsicht etwas eingeschränkt. 
@@ -40,7 +39,7 @@ Die Fortbildung muss, nach internen Richtlinien des Sozialministeriums Baden-Wü
 Es haben auch schon Teilnehmer aus Baden-Württemberg die Anerkennung erhalten, wenn Sie z.B. unseren Kurs in Rheinland-Pfalz absolviert haben. Wer aber sicher gehen will bzgl. der Anerkennung nach Aktenlage, sollte unsere Kurse in NRW oder Niedersachsen vorziehen. 
 Weitere Informationen zu den einzelnen Bundesländern findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
 
-Die Anmeldung erfolgt über unser Online-Anmeldeformular. Klicke dafür einfach oben auf dieser Seite auf den grünenButton bei Deinem gewählten Termin.  
+Die Anmeldung erfolgt über unser Online-Anmeldeformular. Klicke dafür einfach oben auf dieser Seite auf den grünen Button bei Deinem gewählten Termin.  
 Wer eine staatliche Bildungsförderung wie den Bildungsscheck nutzt, gibt einfach im Formular als Gutschein-Code das Wort "Bildungsscheck" ein.
 
 Die Fortbildung findet zur Zeit immer an 2 mal 3 Tagen statt, von Freitag 12 Uhr bis Sonntag 18 Uhr.
