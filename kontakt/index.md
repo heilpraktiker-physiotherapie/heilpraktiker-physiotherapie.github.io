@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-
+description: 
 ---
 
 Wir beraten Dich vor Deiner Entscheidung, helfen während der Fortbildung und sind auch für Rückfragen in Deiner Zukunft als Heilpraktiker/in für Physiotherapie auf vielen Kanälen zu erreichen.
