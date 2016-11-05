@@ -20,7 +20,7 @@
     "contactPoint":[{
         "@type": "ContactPoint",
         "telephone": "+49-176-24317369",
-        "contactType": "customer service""
+        "contactType": "customer service"
     }],
     "logo": {
       "@type": "ImageObject",
