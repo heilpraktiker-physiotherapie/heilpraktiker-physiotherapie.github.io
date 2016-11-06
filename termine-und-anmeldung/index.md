@@ -45,6 +45,5 @@ Wer eine staatliche Bildungsförderung wie den Bildungsscheck nutzt, gibt einfac
 Die Fortbildung findet zur Zeit immer an 2 mal 3 Tagen statt, von Freitag 12 Uhr bis Sonntag 18 Uhr.
 Weitere Informationen zu [unserer Fortbildung zum <em>Heilpraktiker Physiotherapie</em>, findest Du unter Fortbildung]({{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/).
 
-Falls Du oben auf dieser Seite keinen geeigneten Termin findest, trage Dich doch bitte in [unseren Newsletter "Interessiert an weiteren Kursen" ein](https://www.edoobox.com/de/book/D3.D3.QBhUp2ejQFqSCyQLTPX5QEVOll2hHc7Gg70HtcVF2.hKWYB2.d0mSFORpLbuLj4F2.cnlmlWB9E4B2.VMpZGnqDuRIeNXf/?edref=hppt){:target="_blank"}. Dann wirst Du über alle neuen Termine schnellstmöglich informiert.
 
 
