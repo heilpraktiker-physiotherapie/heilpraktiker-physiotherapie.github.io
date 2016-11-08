@@ -4,12 +4,13 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1, initial-scale=1">
     <!-- meta robots -->
  {% if page.noindex %}
- 	<meta name="robots" content="noindex" />
+ 	<meta name="robots" content="noindex">
  {% endif %}
-<meta property="og:type"   content="article" />
-<meta property="og:url"    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:title"  content="{% if page.fbtitle %}{{page.fbtitle}}{%elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-<meta property="og:image"  content="{% if page.fbimage %}{{page.fbimage}}{% else %}{{ site.fbimage}}{% endif %}" />
+<meta property="og:type"   content="article">
+<meta property="og:url"    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:title"  content="{% if page.fbtitle %}{{page.fbtitle}}{%elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta property="og:description" content="{%if page.fbdescription %}{{page.fbdescription}}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image"  content="{% if page.fbimage %}{{page.fbimage}}{% else %}{{ site.fbimage}}{% endif %}">
 
 
  
