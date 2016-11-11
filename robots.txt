@@ -7,3 +7,4 @@
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /websiteassets/
+Disallow: /assets/docs/hid/
