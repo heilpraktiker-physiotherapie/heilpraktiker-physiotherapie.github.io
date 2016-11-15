@@ -16,7 +16,6 @@
     "name": "{{ site.title }}",
     "url": "{{site.url}}{{site.baseurl}}",
     "areaServed": ["DE","DE-TH","DE-ST","DE-SN","DE-SL","DE-SH","DE-RP","DE-NW","DE-NI","DE-MV","DE-HH","DE-HE","DE-HB","DE-BY","DE-BW","DE-BE","DE-BB"],
-    "availableLanguage": ["English", "German"],
     "contactPoint":[{
         "@type": "ContactPoint",
         "telephone": "+49-176-24317369",
@@ -24,7 +23,7 @@
     }],
     "logo": {
       "@type": "ImageObject",
-      "logo": "{{ site.logo600jpg | prepend: site.baseurl | prepend: site.url }}",
+      "logo": "{{ site.logo600jpg }}",
         "url": "{{site.url}}{{site.baseurl}}",
        "height": "60",
         "width":"600"
@@ -32,7 +31,7 @@
   },
   "image": {
     "@type": "ImageObject",
-    "url": "{{ site.logojpg | prepend: site.baseurl | prepend: site.url }}",
+    "url": "{{ site.logojpg }}",
     "height": "60",
     "width":"600"
   }
