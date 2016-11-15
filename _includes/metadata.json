@@ -2,7 +2,7 @@
 {
   "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "heilpraktiker-physiotherapie.com",
+    "name": "heilpraktiker-physiotherapie",
     "url": "{{site.url}}",
     "areaServed": ["DE","DE-TH","DE-ST","DE-SN","DE-SL","DE-SH","DE-RP","DE-NW","DE-NI","DE-MV","DE-HH","DE-HE","DE-HB","DE-BY","DE-BW","DE-BE","DE-BB"],
     "contactPoint":[{
