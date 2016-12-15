@@ -20,7 +20,10 @@ Du erhältst von uns ein umfangreiches Skript zur Prüfungsvorbereitung für den
 Dazu viele wertvolle Handouts zu den verschiedenen Themen der Fortbildung wie Screening, Differentialdiagnostik, körperliche Untersuchung, Praxistipps, Abrechnung und vieles mehr.
 Zukünftig erwarten Dich auch immer mehr "e-learning" Inhalte wie z.B. interaktive Lernvideos.
 
-Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf den Inhalten und Anstößen der Fortbildung aufbauen zu können.
+Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf den Inhalten und Anstößen der Fortbildung aufbauen zu können.  
+ 
+ > Einige Einblicke von unseren Fortbildungen findest Du auch [hier im Blog]({{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/)  
+
 <div markdown="0">
     <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="4000">
        {% for image in site.static_files %}
@@ -31,7 +34,8 @@ Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf 
     </amp-carousel>
 </div>
 <br/>  
-  
+
+
 ### Wer leitet den Unterricht?
 Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement der Dozenten
 
