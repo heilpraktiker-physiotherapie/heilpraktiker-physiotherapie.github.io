@@ -55,6 +55,11 @@ layout: default
         <section id="shortintros">
            <h2>Die wichtigsten Informationen zusammengefasst</h2>
            <h3>Kurstermine</h3>
+           {% for kurs in site.data.kurstermine %}
+                <script type="application/ld+json">
+                      {% include eventmetadata.json event=kurs %}
+                </script>
+            {% endfor %}
             <article>
                 Unsere Fortbildung zum sektoralen Heilpraktiker für Physiotherapie findet wechselnd in verschiedenen Städten und Bundesländern statt.<br/>
                 <blockquote>Erfahre mehr zu den Terminen und Kursorten unter <a href="{{site.baseurl}}/termine-und-anmeldung/">Termine</a></blockquote>
