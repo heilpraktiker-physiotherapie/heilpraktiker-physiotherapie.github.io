@@ -15,7 +15,7 @@
     "location": {
         "@type": "Place",
         "name": "{{include.event.ortsbezeichnung}}",
-        "address": "{{include.event.str}}, {{include.event.plz}}, {{include.event.ort}}, Germany"
+        "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
     },
     "offers": {
     "@type": "Offer",
