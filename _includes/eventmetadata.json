@@ -1,36 +1,31 @@
 {
-  "@context": "http://schema.org",
-  "@type": "EducationEvent",
-  "name": "Fortbildung Heilpraktiker Physiotherapie",
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Fortbildung Heilpraktiker Physiotherapie",
+    "startDate": "{{include.event.startdate}}",
+    "endDate": "{{include.event.enddate}}",
     "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Physiotherapie",
      "image": {
         "@type": "ImageObject",
         "url": "https://hpphysio.com/assets/images/schema-logo-hppt.jpg",
         "height": "60",
         "width":"600"
-  },
+      },
+    "url": "{{include.event.link}}",
+    "location": {
+        "@type": "Place",
+        "name": "{{include.event.ortsbezeichnung}}",
+        "address": "{{include.event.str}}, {{include.event.plz}}, {{include.event.ort}}, Germany"
+    },
+    "offers": {
+    "@type": "Offer",
+    "url": "{{include.event.link}}"
+    },
     "performer": {
         "@type": "Person",
         "givenName": "Arne",
         "familyName": "Brödel",
         "name": "Arne Brödel"
-        
-    },
-    "url": "{{include.event.link}}",
-  "location": {
-    "@type": "PostalAddress",
-    "name": "{{include.event.ortsbezeichnung}}",
-    "addressCountry": "Germany",
-    "addressLocality": "{{include.event.ort}}",
-    "postalCode": "{{include.event.plz}}",
-      "addressRegion": "{{include.event.land}}",
-      "streetAddress": "{{include.event.str}}"
-  },
-  "offers": {
-    "@type": "Offer",
-    "url": "{{include.event.link}}"
-  },
-  "startDate": "{{include.event.startdate}}",
-    "endDate": "{{include.event.enddate}}"
-  }
+
+    }
 }
