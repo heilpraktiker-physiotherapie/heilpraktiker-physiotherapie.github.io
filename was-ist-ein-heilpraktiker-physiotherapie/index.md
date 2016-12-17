@@ -4,26 +4,42 @@ title: Informationen zum sektoralen Heilpraktiker Physiotherapie
 
 ---
 
-## Physiotherapeuten - viel mehr als der verlängerte Arm des Arztes
+### Was bringt mir denn die sektorale Heilpraktikererlaubnis?
+Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am Job
 
-Das Fachgebiet der Physiotherapie hat sich in den letzten Jahrzehnten rasant entwickelt.   
-Mit zunehmender Akademisierung, Internationalisierung und digitaler Verknüpfung, beschleunigt sich diese Entwicklung von Tag zu Tag geradezu exponentiell.  
-Die Entwicklung des Status der Physiotherapie in Deutschland, steht aber seit Jahrzehnten nahezu still.
+Zumindest wenn man es schafft, die Möglichkeiten die sich einem bieten auch zu nutzen.
+Das gelingt leider nicht jedem und daher äußern sich manche unzufrieden.  
+Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt alte Arbeits- und Vermarktungsgewohnheiten aufzubrechen, dann lassen sich alle Faktoren physiotherapeutischer Tätigkeit spürbar verbessern.
 
-Insbesondere im durch Kriege und Industrialisierung geprägten späten 19. und frühen 20. Jahrhundert, entwickelte sich die Krankengymnastik in Deutschland sehr stark zum Heilhilfsberuf aus. Es wurde vorrangig nach einem ärztlichen Eingriff Maßnahmen der Mobilisation, der physikalischen Therapie und der Massage nach einem vom Arzt konkret vorgegebenen Schema durchgeführt.  
-Die Krankengymnastinnen (es gab fast ausschließlich Frauen in dem Beruf) waren Assistentinnen des Arztes, die ihm zeitaufwendige Aufgaben abnehmen sollten.
+\"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
+Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf.  
+Das stimmt auch. Die Einschätzung jedoch, dass es den Physiotherapeuten an therapeutischen Techniken und Methoden mangelt um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Physiotherapie einfach nicht gerecht.  
+Die entscheidende Einschränkung ist wie ein Physiotherapeut \(m/w\) die eigenen Fähigkeiten zur Anwendung bringen darf. 
 
-Das Berufsbild wurde seitdem jedoch immer komplexer. Statt anfänglich ca. 1 Jahr Ausbildung, bedarf es heute mindestens 3 Jahren.  
-Auf diesen muss mit häufigen umfangreichen Fortbildungen und mittlerweile immer öfter mit einem Studium aufgebaut werden, um halbwegs aktuell bleiben zu können. Auch wenn Deutschland im internationalen Vergleich hier sicherlich noch hinterherläuft, die Akademisierung ist in vollem Gange.
+Der "große" Heilpraktiker darf prinzipiell auf ein größeres Spektrum an Maßnahmen zurückgreifen. Allerdings muss man auch die Sinnhaftigkeit vieler häufig verwendeter "alternativer" Maßnahmen in Frage stellen. Die Vorbereitung zum "großen" Heilpraktiker erfordert weit mehr Aufwand und ist mit dem Erlernen vieler Inhalte verbunden, die für Physiotherapeuten von geringer oder vollkommen fehlender Relevanz sind.
 
-Trotz enormer Kompetenz auf den Gebieten der Analyse von Beschwerden des Bewegungsapparates, der Bewegungstherapie, der manuellen Therapieformen und vieler weiterer physiotherapeutischer Fachgebiete, bleibt der Status der weisungsgebundenen Heilhilfskraft weiter erhalten.
+Der sektorale Heilpraktiker für Physiotherapie ist in der Lage, die großartigen Möglichkeiten der Physiotherapie genauso einzusetzen, wie der Therapeut selbst es für richtig hält und der Patient es benötigt.  
 
-Diese Diskrepanz ist nicht nur ärgerlich für die betroffenen Physiotherapeuten, sondern schädlich für das ganze System.  
-Ärzte müssen über Maßnahmen entscheiden, für die sie nur unzureichend ausgebildet sind.  
-Physiotherapeuten können Ihren Beruf nicht so ausüben, wie es die besten Erfolge und die beste Kosten-Nutzen-Relation verspricht.  
-Die Patienten haben keinen direkten Zugang zur bestmöglichen Therapie bei vielen Beschwerden am Bewegungsapparat.  
-Das Wohl der Betroffenen als Individuen und Ihre wirtschaftliche Leistungsfähigkeit leiden darunter, genauso wie die Effizienz des Ressourceneinsatzes. 
+- Der Therapeut wählt und bestimmt gemeinsam mit dem Patienten die Mittel, den Umfang und die Frequenz der Therapie. Dabei kann er sich vollkommen variable an Bedarf und Bedürfnisse anpassen.
+- Patienten ohne Verordnung können direkt behandelt werden
+- ohne Folgeverordnung, kann ebenso vollkommen rechtsicher weiterbehandelt werden
+- Patienten die eine Verordnung haben, können ergänzende notwendige und sinnvolle Maßnahmen oder zusätzliche Therapieeinheiten erhalten
+- alle heilkundlichen Maßnahmen sind von der Umsatzsteuer befreit
 
+Mit dem Direktzugang lassen sich hervorragend neue Zielgruppen erschließen.  
+Gerade bei muskuloskeletalen Beschwerden wollen viele akute Hilfe und Erleichterung ohne allzu großen Aufwand.  
+Insbesondere Selbstständige scheuen den Gang zum Physiotherapeuten, da üblicherweise ein langer Umweg über den Arzt notwendig ist.  
+Das ist zu zeitaufwendig und mühsam um die zwar oft sehr unangenehmen und hinderlichen aber nicht akut bedrohlichen Probleme zeitnah anzugehen.  
+Darüber hinaus bleiben viele Patienten auf dem Weg hängen, da die Ärzte lieber eigene Leistungen anbieten, auch weil Sie das Potential der Physiotherapie oft nicht kennen oder aus betriebswirtschaftlichen Erwägungen.  
+Der <em>Heilpraktiker Physiotherapie</em> kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
+
+Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
+Während sonst der Arzt die Aufgabe hat vor der Überweisung zum Therapeuten Untersuchungen auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen durchzuführen, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  
+Gibt es Hinweise auf Krebserkrankungen, Herzleiden, Erkrankungen abdomineller Organe, Gefäß- oder Nervenschäden? Welchen Einfluss könnten Medikamente haben? Welche Rolle spielen psychogene oder psychosomatische Faktoren?  
+Das und vieles mehr muss der Therapeut sicher und verlässlich einschätzen können.
+
+Wer überzeugt ist, dass er mit physiotherapeutischen Mitteln seine Patienten nicht adäquat behandeln kann und auf fachfremde Methoden zurückgreifen muss, der benötigt den "großen" Heilpraktiker.  
+**Alle diejenigen die erkennen, dass mit einer Fokussierung auf optimale physiotherapeutische Versorgung, den meisten Patienten viel mehr geholfen werden kann als mit dem Aufweichen des eigenen Kompetenzfeldes, sollten sich aber bewusst für den sektoralen Heilpraktiker für Physiotherapie entscheiden.**  
 
 ## Der Heilpraktiker Physiotherapie
 
@@ -70,41 +86,6 @@ Tatsächlich aber sollte man es im Gegenteil als Aufwertung wahrnehmen.
 Der Direktzugang zur Physiotherapie ohne Heilpraktikererlaubnis war stets in weiter Ferne.  
 Es wurde aber gerichtlich festgestellt, dass Physiotherapeuten schon fast alles mitbringen für den Direktzugang.   
 Es fehlt nur der Nachweis über grundlegende Fähigkeiten der Differentialdiagnostik (und, aus rechtlichen Gründen, ein bisschen Wissen der Berufskunde des Heilpraktikers).  
-Für alle ausgebildeten Physiotherapeuten ist das nur noch ein kleiner Schritt, der Ihnen große neue Möglichkeiten eröffnet.
+Für alle ausgebildeten Physiotherapeuten ist das nur noch ein kleiner Schritt, der Ihnen große neue Möglichkeiten eröffnet.  
 
-### Was bringt mir denn die sektorale Heilpraktikererlaubnis?
-Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am Job
 
-Zumindest wenn man es schafft, die Möglichkeiten die sich einem bieten auch zu nutzen.
-Das gelingt leider nicht jedem und daher äußern sich manche unzufrieden.  
-Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt alte Arbeits- und Vermarktungsgewohnheiten aufzubrechen, dann lassen sich alle Faktoren physiotherapeutischer Tätigkeit spürbar verbessern.
-
-\"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
-Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf.  
-Das stimmt auch. Die Einschätzung jedoch, dass es den Physiotherapeuten an therapeutischen Techniken und Methoden mangelt, um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Physiotherapie einfach nicht gerecht.  
-Die entscheidende Einschränkung ist, wie ein Physiotherapeut \(m/w\) die eigenen Fähigkeiten zur Anwendung bringen darf. 
-
-Der "große" Heilpraktiker darf prinzipiell auf ein größeres Spektrum an Maßnahmen zurückgreifen. Allerdings muss man auch die Sinnhaftigkeit vieler häufig verwendeter "alternativer" Maßnahmen in Frage stellen. Die Vorbereitung zum "großen" Heilpraktiker erfordert weit mehr Aufwand und ist mit dem Erlernen vieler Inhalte verbunden, die für Physiotherapeuten von geringer oder vollkommen fehlender Relevanz sind.
-
-Der sektorale Heilpraktiker für Physiotherapie ist in der Lage, die großartigen Möglichkeiten der Physiotherapie genauso einzusetzen, wie der Therapeut selbst es für richtig hält und der Patient es benötigt.  
-
-- Der Therapeut wählt und bestimmt gemeinsam mit dem Patienten, die Mittel, den Umfang und die Frequenz der Therapie. Dabei kann er sich vollkommen variable an Bedarf und Bedürfnisse anpassen.
-- Patienten ohne Verordnung können direkt behandelt werden
-- ohne Folgeverordnung, kann ebenso vollkommen rechtsicher weiterbehandelt werden
-- Patienten die eine Verordnung haben, können ergänzende notwendige und sinnvolle Maßnahmen oder zusätzliche Therapieeinheiten erhalten
-- alle heilkundlichen Maßnahmen sind von der Umsatzsteuer befreit
-
-Mit dem Direktzugang, lassen sich hervorragend neue Zielgruppen erschließen.  
-Gerade bei muskuloskeletalen Beschwerden, wollen viele akute Hilfe und Erleichterung ohne allzu großen Aufwand.  
-Insbesondere Selbstständige scheuen den Gang zum Physiotherapeuten, da üblicherweise ein langer Umweg über den Arzt notwendig ist.  
-Das ist zu zeitaufwendig und mühsam, um die zwar oft sehr unangenehmen und hinderlichen aber nicht akut bedrohlichen Probleme zeitnah anzugehen.  
-Darüber hinaus bleiben viele Patienten auf dem Weg hängen, da die Ärzte lieber eigene Leistungen anbieten, auch weil Sie das Potential der Physiotherapie oft nicht kennen oder aus betriebswirtschaftlichen Erwägungen.  
-Der <em>Heilpraktiker Physiotherapie</em> kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
-
-Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
-Während sonst der Arzt die Aufgabe hat, vor der Überweisung zum Therapeuten, Untersuchungen auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen durchzuführen, fällt diese enorm wichtige Aufgabe nun dem Physiotherapeuten selber zu.  
-Gibt es Hinweise auf Krebserkrankungen, Herzleiden, Erkrankungen abdomineller Organe, Gefäß- oder Nervenschäden? Welchen Einfluss könnten Medikamente haben? Welche Rolle spielen psychogene oder psychosomatische Faktoren?  
-Das und vieles mehr, muss der Therapeut sicher und verlässlich einschätzen können.
-
-Wer überzeugt ist, dass er mit physiotherapeutischen Mitteln seine Patienten nicht adäquat behandeln kann und auf fachfremde Methoden zurückgreifen muss, der benötigt den "großen" Heilpraktiker.  
-**Alle diejenigen die erkennen, dass mit einer Fokussierung auf optimale physiotherapeutische Versorgung, den meisten Patienten viel mehr geholfen werden kann als mit dem Aufweichen des eigenen Kompetenzfeldes, sollten sich aber bewusst für den sektoralen Heilpraktiker für Physiotherapie entscheiden.**  
