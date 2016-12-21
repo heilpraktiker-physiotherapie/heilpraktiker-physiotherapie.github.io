@@ -1,6 +1,6 @@
 <header class="site-header">
     <nav>
-        <div class="green" id="topline"/>
+        <div class="green" id="topline"></div>
          <a href="{{site.baseurl}}/" class="logo">
            <button id="homebt">
             <amp-img src="{{site.baseurl}}/assets/images/LogoHPPT.svg" alt="Fortbildung Heilpraktiker Physiotherapie - HP Physio" height="60" width="60" layout="responsive"></amp-img>
