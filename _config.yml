@@ -35,6 +35,7 @@ markdown: kramdown
 
 kramdown:
   parse_block_html: true
+  auto_ids: false
   
 #permalink: /neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/:title
 
