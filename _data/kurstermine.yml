@@ -34,6 +34,18 @@
   link: https://app1.edoobox.com/de/book/D3.D3.gB2.Y4x6Q2EX354F2.cGsy3w7fETrnN3KqT9RjbuIpQsg24h8as4qkaSZMB2.7B2.MIcPlwokRUTQvP7bk1vOh6mWos2W9/?edref=hppt
   color: green
   
+- datum: 02.06.2017 bis 04.06.2017 und 23.06.2017 bis 25.06.2017
+  startdate: 2017-06-02t12:00
+  enddate: 2017-06-25t18:00 
+  ortsbezeichnung: Hans-Weinberger-Akademie
+  ort: Schweinfurt
+  plz: 97422
+  str: Robert-Koch-Straße 10
+  land: Bayern
+  preis: 620€
+  link:  https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.185887/?edref=hppt
+  color: red
+  
 - datum: 29.09.2017 bis 01.10.2017 und 13.10.2017 bis 15.10.2017
   startdate: 2017-09-29t12:00
   enddate: 2017-10-15t18:00 
@@ -44,5 +56,7 @@
   land: Niedersachsen
   preis: 620€
   link: https://ifeas.javis.de/onlineregistration/92/registration
-  color: red
+  color: blue
+  
+
   
