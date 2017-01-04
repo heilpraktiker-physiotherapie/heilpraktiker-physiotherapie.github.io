@@ -7,6 +7,11 @@ layout: null
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <image>
+        <url>{{site.fbimage}}</url>
+        <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
+        <link>https://hpphysio.com</link>
+    </image>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -16,6 +21,11 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.fbimage }}" />
         <description><![CDATA[<img src='{{ post.fbimage }}'><br><p>]]>{{ post.content | xml_escape }}</description>
+        <image>
+            <url>{{site.fbimage}}</url>
+            <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
+            <link>https://hpphysio.com</link>
+        </image>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
