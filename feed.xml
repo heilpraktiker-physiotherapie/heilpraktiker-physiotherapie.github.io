@@ -2,7 +2,7 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -12,7 +12,7 @@ layout: null
         <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
         <link>https://hpphysio.com</link>
     </image>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.fbimage }}" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.fbimage}}" />
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -20,7 +20,8 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description><![CDATA[<img src='{{ post.fbimage }}'><br><p>]]>{{ post.content | xml_escape }}</description>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.fbimage}}" />
+        <description><![CDATA[<img src='{{ post.fbimage }}'><br><p>{{ post.content}}]]></description>
         <image>
             <url>{{site.fbimage}}</url>
             <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
