@@ -21,7 +21,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.fbimage}}" />
-        <description><![CDATA[<img src='{{ post.fbimage }}'><br><p>{{ post.content}}]]></description>
+        <description><![CDATA[<img src='{{ post.fbimage }}'><br><p>]]>{{ post.content | xml_escape }}</description>
         <image>
             <url>{{site.fbimage}}</url>
             <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
