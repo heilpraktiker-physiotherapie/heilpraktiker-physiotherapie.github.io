@@ -14,7 +14,7 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.fbimage | prepend: site.baseurl | prepend: site.url }}" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.fbimage }}" />
         <description><![CDATA[<img src='{{ post.fbimage }}'><br><p>]]>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
