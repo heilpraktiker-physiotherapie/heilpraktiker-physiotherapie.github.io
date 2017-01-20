@@ -12,7 +12,7 @@ excerpt_separator: <!-- more -->
 Am letzten Wochenden hatten wir einen wundervollen Start in Schweinfurt. In den modernen Räumlichkeiten der Hans-Weinberger-Akademie finden wir tolle Bedingungen für unsere intensive Fortbildung.<!-- more -->  
 Benjamin Alt erntete viel Lob für seinen lebendigen und alltagsrelevanten Unterricht zur Berufs- und Gesetzeskunde.  
 Er selbst zeigete sich ebenso erfreut über die große Aufmerksamkeit und den spannenden Austausch.  
-Am Samstag und Sonntag widmeten wir uns der bildgebenden Diagnostik, wichtiger Kennwerte diagnostischer Tests, Grundlagen der Pathophysiologie vielfältiger Organsysteme und Erkrankungen sowie auch der physiotherapeutischen Indikationsstellung.  
+Am Samstag und Sonntag widmeten wir uns der bildgebenden Diagnostik, wichtiger Kennwerte diagnostischer Tests, Grundlagen der Pathophysiologie vielfältiger Organsysteme und Erkrankungen, sowie auch der physiotherapeutischen Indikationsstellung.  
   
 Ich freue mich schon auf den kommenden Termin im Februar. Dort wird Dr. med. Konstantin Hauß das Dozententeam vervollständigen.   
 Neben Screeningmethoden, wichtigen Kenntnissen der Diagnostik im Direktzugang und vielen typischen Fallbeispielen, wird auch der Praxisteil eine wichtige Rolle einnehmen. Die klinische Untersuchung von Kopf bis Fuß bringt wichtige Kenntnisse, um sich einen umfassenden Überblick über den Gesundheitszustand des Patienten zu schaffen.   
