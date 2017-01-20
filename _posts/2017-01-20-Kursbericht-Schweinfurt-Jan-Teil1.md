@@ -9,7 +9,7 @@ excerpt_separator: <!-- more -->
 ---
 
 <amp-img  src="/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg" width="1280" height="720" layout="responsive"></amp-img>
-Am letzten Wochenden hatte wir einen wundervollen Start in Schweinfurt. In den modernen Räumlichkeiten der Hans-Weinberger-Akademie finden wir tolle Bedingungen für unsere intensive Fortbildung.<!-- more -->  
+Am letzten Wochenden hatten wir einen wundervollen Start in Schweinfurt. In den modernen Räumlichkeiten der Hans-Weinberger-Akademie finden wir tolle Bedingungen für unsere intensive Fortbildung.<!-- more -->  
 Benjamin Alt erntete viel Lob für seinen lebendigen und alltagsrelevanten Unterricht zur Berufs- und Gesetzeskunde.  
 Er selbst zeigete sich ebenso erfreut über die große Aufmerksamkeit und den spannenden Austausch.  
 Am Samstag und Sonntag widmeten wir uns der bildgebenden Diagnostik, wichtiger Kennwerte diagnostischer Tests, Grundlagen der Pathophysiologie vielfältiger Organsysteme und Erkrankungen sowie auch der physiotherapeutischen Indikationsstellung.  
