@@ -9,8 +9,8 @@ excerpt_separator: <!-- more -->
 ---
 <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>
 ## Mehr Anerkennung, mehr Eigenständigkeit, bessere Vergütung
-all das könnte den Physiotherapeuten jetzt bevorstehen, wenn wir die Chancen nutzen welches das HHVG unsere Berufsgruppe nun eröffnet. <!-- more --> 
-HHVG steht für Heil- und Hilfsmittelversorgungsgesetzes und wurde am heutigen Tage im Bundesrat verabschiedet.  
+all das könnte den Physiotherapeuten jetzt bevorstehen, wenn wir die Chancen nutzen welches das HHVG unserer Berufsgruppe nun eröffnet. <!-- more --> 
+HHVG steht für Heil- und Hilfsmittelversorgungsgesetzes und wurde am heutigen Tage \(16.02.17\) im Bundesrat verabschiedet.  
 Der Bundestagsabgeordnete und Physiotherapeut Dr. Roy Kühne hat dieses Gesetz maßgeblich gestaltet und auf den Weg gebracht. Herzlichen Glückwunsch zum erreichten Erfolg.  
   
 Die zentralen Elemente aus Sicht der Heilmittelerbringer sind die Stärkung und Einführung von Modelvorhaben zur Blankoverordnung und die Entkopplung der Vergütungssteigerung von der Grundlohnsumme.  
