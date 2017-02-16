@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hpphysio.com" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
 
-paginate:	2 # The number of posts to show per page on your homepage
+paginate:	6 # The number of posts to show per page on your homepage
 paginate_path: '/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/page:num/'
 
 name: 'Arne Brödel'
