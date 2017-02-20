@@ -2,7 +2,7 @@
 layout: post
 title: Das HHVG ist verabschiedet- Was bedeutet das für die Physiotherapie
 comments: true
-thumb: /assets/images/blog/20170216_Kuehne-DebatteHHVG-Webseite.jpg
+thumb: /assets/images/blog/HHVG/20170216_Kuehne-DebatteHHVG-Webseite.jpg
 date: 16.02.2017
 fbimage: "http://www.up-aktuell.de/wp-content/uploads/2017/02/Roy_K%C3%BChne.png"
 excerpt_separator: <!-- more -->
