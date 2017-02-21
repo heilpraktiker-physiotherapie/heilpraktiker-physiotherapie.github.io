@@ -15,14 +15,14 @@ Am 12.02. ist unsere erster Kurs in Schweinfurt zu Ende gegangen. Teilnehmer und
     width="1280" height="720"></amp-youtube>
 Nachdem Benjamin Alt und Arne Brödel am ersten Wochenende schon intensiv vorgearbeitet hatten, konnten Arne und Konstantin Hauß das vielfältige und umfangreiche Programm im zweiten Teil entspannt zuende führen.  
 Auf Grundlage der Theroie von Teil 1 ging es ganz nah an die Praxis.  
-Wie genau kann man das Screening erfolgreich in den Praxisalltag integrieren, wie kommuniziert man die neuen Möglichkeiten und die neuen Aufgaben gegenüber dem Patienten, wie funktioniert die Abrechnung als HP Physio waren nur einige den Themen die bereits am Freitag anstanden.  
-Mit Dr. med. Konstantin Hauß ging es dann daran, dass Wissen anzuwenden. Viele Fallbesipiele konnten zum mitdenken anregen. Die Untersuchung von Kopf bis Fuß in 10 Minuten vermittelte einen umfassenden Eindruck der körperlichen Untersuchung aller Organsysteme.  
+Wie genau kann man das Screening erfolgreich in den Praxisalltag integrieren, wie kommuniziert man die neuen Möglichkeiten und die neuen Aufgaben gegenüber dem Patienten, wie funktioniert die Abrechnung als HP Physio waren nur einige der Themen die bereits am Freitag anstanden.  
+Mit Dr. med. Konstantin Hauß ging es dann daran, dass Wissen anzuwenden. Viele Fallbeispiele konnten zum Mitdenken anregen. Die Untersuchung von Kopf bis Fuß in 10 Minuten vermittelte einen umfassenden Eindruck der körperlichen Untersuchung aller Organsysteme.  
 Die Teilnehmer waren engagiert dabei und konnten oft mit eigenem Wissen die Fortbildung weiter bereichern.  
 Und zum Abschluss die Prüfung. Auch hier konnten die TeilnehmerInnen voll überzeugen.  
 Herzlichen Glückwunsch.
 <amp-img  src="/assets/images/blog/Schweinfurt-Jan17/PanoEssraum.jpg" width="1352" height="306" layout="responsive"></amp-img>  
   
 
-Nächste Gelegenheit zur Teilnahme in Schweinfurt ist im Juni sein.   
+Nächste Gelegenheit zur Teilnahme in Schweinfurt ist im Juni.   
 Liebe Grüße  
 Arne
