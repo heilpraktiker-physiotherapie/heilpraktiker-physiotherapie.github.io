@@ -3,6 +3,8 @@ layout: page
 title: Erfolgreich starten als Heilpraktiker Physiotherapie
 scssfile: fortbildung.scss
 description: wichtige Informationen zur Fortbildung und Prüfung zum Heilpraktiker Physiotherapie (HP Physio)
+customamp:
+    - amp-carousel
 ---
 
 ### Wie ist die Fortbildung zum Heilpraktiker Physiotherapie aufgebaut?  

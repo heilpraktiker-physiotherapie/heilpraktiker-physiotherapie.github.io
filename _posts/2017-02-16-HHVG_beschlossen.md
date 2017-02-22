@@ -6,8 +6,10 @@ thumb: /assets/images/blog/HHVG/20170216_Kuehne-DebatteHHVG-Webseite.jpg
 date: 16.02.2017
 fbimage: "http://www.up-aktuell.de/wp-content/uploads/2017/02/Roy_K%C3%BChne.png"
 excerpt_separator: <!-- more -->
+customamp:
+    - amp-iframe
+    - amp-facebook
 ---
-<script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>
 ## Mehr Anerkennung, mehr Eigenständigkeit, bessere Vergütung
 all das könnte den Physiotherapeuten jetzt bevorstehen, wenn wir die Chancen nutzen welches das HHVG unserer Berufsgruppe nun eröffnet. <!-- more --> 
 HHVG steht für Heil- und Hilfsmittelversorgungsgesetzes und wurde am heutigen Tage \(16.02.17\) im Bundesrat verabschiedet.  

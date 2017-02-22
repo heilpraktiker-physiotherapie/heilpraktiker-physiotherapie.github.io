@@ -6,6 +6,9 @@ thumb: /assets/images/blog/Wiesbaden-Nov16/thumb.jpg
 date: 06.12.2016
 fbimage: "https://hpphysio.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg"
 excerpt_separator: <!-- more -->
+customamp:
+    - amp-iframe
+    - amp-carousel
 ---
 
 Unser erster Kurs in Wiesbaden war eine große Freude.

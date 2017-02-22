@@ -5,9 +5,12 @@ comments: true
 thumb: /assets/images/blog/Schweinfurt-Jan17/TopExpertise.jpg
 date: 20.02.2017
 fbimage: "https://hpphysio.com/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg"
+customamp:
+    - amp-youtube
+    - amp-iframe
 excerpt_separator: <!-- more -->
+
 ---
-<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
 Am 12.02. ist unsere erster Kurs in Schweinfurt zu Ende gegangen. Teilnehmer und Dozenten äußerten sich gleichermaßen hoch zufrieden mit der Zeit. Aber dann war da ja noch die Prüfung<!-- more -->
 <amp-youtube
     data-videoid="xBrBTq_iP1k"

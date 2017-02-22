@@ -6,6 +6,8 @@ thumb: /assets/images/blog/Schweinfurt-Jan17/TopExpertise.jpg
 date: 20.01.2017
 fbimage: "https://hpphysio.com/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg"
 excerpt_separator: <!-- more -->
+customamp:
+    - amp-iframe
 ---
 
 <amp-img  src="/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg" width="1280" height="720" layout="responsive"></amp-img>
