@@ -4,7 +4,7 @@ title: Wir haben neue Verstärkung gefunden
 comments: true
 thumb: /assets/images/blog/Joern/JoernBerkerNeuThumb.jpg
 date: 27.02.2017
-fbimage: "https://hpphysio.com/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg"
+fbimage: "https://hpphysio.com/assets/images/blog/Joern/JoernBerkerNeu1200x600.jpg"
 excerpt_separator: <!-- more -->
 scssfile: posts.scss
 customamp:
