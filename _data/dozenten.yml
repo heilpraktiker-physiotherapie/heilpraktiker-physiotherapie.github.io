@@ -18,7 +18,14 @@
   halffaceimg: /assets/images/halfFaceKonni.jpg
   beruf: Arzt, Allgemeinmediziner
   zitat: Ich freue mich darauf, gemeinsam mit den Teilnehmern, an den Methoden der klinischen Untersuchung zu arbeiten.
-  
+
+- name: Dr. med. Jörn Berker
+  vorname: Jörn
+  nachname: Berker
+  halffaceimg: /assets/images/halfFaceJoern.jpg
+  beruf: Arzt
+  zitat: Physios haben mir oft beibringen können, meine eigenen "Wehwehchen" zu lindern. Nun ist es mir eine Ehre Ihnen mein Wissen zur kritischen Differentialdiagnose beizubringen.
+
 - name: Dr. med. Friedo Brödel
   vorname: Friedo
   nachname: Brödel

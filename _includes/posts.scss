@@ -1,0 +1,25 @@
+.verticalImgCont{
+    width: 40%;
+    max-width:400px;
+    min-width: 300px;
+    min-height: 100px;
+    float: left;
+    padding-right: 10px;
+    
+}
+
+
+@media (max-width: 660px){
+
+    .verticalImgCont{
+        position: relative;
+        width: 100%;
+        max-width: none;
+        overflow: hidden;
+        padding-right: 0;
+        amp-img{
+            margin-bottom: -60%;
+        }
+    }
+}
+
