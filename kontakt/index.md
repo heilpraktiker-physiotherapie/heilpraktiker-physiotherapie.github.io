@@ -18,6 +18,6 @@ Auch bei [facebook]({{site.facebook_url}}){:target="_blank"}, [twitter]({{site.t
 Gib uns einfach ein "Gefällt mir" bei [facebook]({{site.facebook_url}}){:target="_blank"} und schon kriegst Du dort die Neuigkeiten und interessantes Wissen im Stream angezeigt.
 <br/>
 
-<amp-iframe id="contactform" src="https://arnold85.github.io/websiteassets/contactform.html" width="500" height="363" layout="responsive"><amp-img layout="fill" src="/assets/images/KontaktPlaceholder.jpg" placeholder></amp-img></amp-iframe>
+<amp-iframe id="contactform" src="https://arnold85.github.io/websiteassets/contactform.html" width="500" height="363" layout="responsive" sandbox="allow-forms allow-scripts"><amp-img layout="fill" src="/assets/images/KontaktPlaceholder.jpg" placeholder></amp-img></amp-iframe>
 
 
