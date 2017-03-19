@@ -1,16 +1,4 @@
-- datum: 13.01.2017 bis 15.01.2017 und 10.02.2017 bis 12.02.2017
-  startdate: 2017-01-20t12:00
-  enddate: 2017-02-12t18:00 
-  ortsbezeichnung: Hans-Weinberger-Akademie
-  ort: Schweinfurt
-  plz: 97422
-  str: Robert-Koch-Straße 10
-  land: Bayern
-  preis: 620€
-  link:  https://app1.edoobox.com/de/book/D3.D3.QZ6B2.I7rh5BUs46gzTkuMJqaUWBigmIq09DXZjHPOHJocMJHljAf4F2.Z38EwrAmm7UzI4B2.eqrOhWHcIk9UlhMnQw/?edref=hppt
-  color: red
-  
-- datum: 24.03. bis 26.03.2017 und 28.04. bis 30.04.2017
+ - datum: 24.03. bis 26.03.2017 und 28.04. bis 30.04.2017
   startdate: 2017-03-24t12:00
   enddate: 2017-04-28t18:00 
   ortsbezeichnung: Badhaus Schwarz
