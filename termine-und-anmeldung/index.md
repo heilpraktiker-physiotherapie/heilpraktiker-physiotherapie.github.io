@@ -20,6 +20,9 @@ Unsere aktuellen Termine sind:
     <span>Kurstage: {{kurs.datum}}</span> <br/>
     <span>Preis: {{kurs.preis}}</span> <br/>
     <a target="_blank" href="{{kurs.link}}">Hier klicken zur Anmeldung</a>
+    {% if kurs.warteliste==true %}
+      <div class="warteliste">Warteliste</div>
+    {% endif %} 
     </div>
 </div>
 {% endfor %}

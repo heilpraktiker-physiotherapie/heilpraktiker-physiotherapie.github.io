@@ -9,6 +9,7 @@
   preis: 620€
   link: https://app1.edoobox.com/de/book/D3.D3.Qq9qheKw5Ym3bfMjB2.us2ljtLrhxzUBiiAS0B2.jLyEj7OOyQcVOSjxB2.JrPdStHv6KfpooESCAZejF2.ZlF2.f2A2HumD/?edref=hppt
   color: blue
+  warteliste: true
 
 - datum: 31.03.2017 bis 02.04.2017 und 12.05.2017 bis 14.05.2017
   startdate: 2017-09-29t12:00
@@ -21,6 +22,7 @@
   preis: 590€
   link: https://app1.edoobox.com/de/book/D3.D3.gB2.Y4x6Q2EX354F2.cGsy3w7fETrnN3KqT9RjbuIpQsg24h8as4qkaSZMB2.7B2.MIcPlwokRUTQvP7bk1vOh6mWos2W9/?edref=hppt
   color: green
+  warteliste: true
   
 - datum: 02.06.2017 bis 04.06.2017 und 23.06.2017 bis 25.06.2017
   startdate: 2017-06-02t12:00
