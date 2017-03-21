@@ -14,8 +14,9 @@ customamp:
 
 ## Im Mittelpunkt der Physiotherapie stehst Du: Deine Fähigkeiten, Deine Persönlichkeit, Deine Ziele.  
 Dein\*e Physiotherapeut\*in ist darauf fokussiert, dass Du Dein Leben aktiv gestalten und genießen kannst.  
-Bei Schmerzen oder Bewegungseinschränkungen führt bei vielen der erste Weg zum Arzt. Doch Physiotherapeuten sind auf diesem Gebieten echte Experten und mit der Zusatzerlaubnis Heilpraktiker für Physiotherapie<!-- more -->, kann Dein\*e Physiotherapeut\*in Dir optimale Therapie auch ohne ärztliche Verordnung direkt anbieten.  
-Wir helfen Dir Dich besser zu bewegen. Egal ob Du Schwierigkeiten hast Dich aus dem Liegen hinzusetzen oder das Gefühl hast, Dein volles Potential im Hochleistungssport nicht abrufen zu können. Physiotherapeuten decken die ganze Bandbreite der Verbesserung von Bewegungsabläufen ab.  
+Bei Schmerzen oder Bewegungseinschränkungen, führt bei vielen der erste Weg zum Arzt.  
+Doch Physiotherapeuten sind auf diesem Gebieten echte Experten und mit der Zusatzerlaubnis Heilpraktiker für Physiotherapie<!-- more -->, kann Dein\*e Physiotherapeut\*in Dir optimale Therapie auch ohne ärztliche Verordnung direkt anbieten.  
+Wir helfen Dir Dich besser zu bewegen. Egal ob Du Schwierigkeiten hast Dich aus dem Liegen hinzusetzen oder das Gefühl hast, Dein volles Potenzial im Hochleistungssport nicht abrufen zu können. Physiotherapeuten decken die ganze Bandbreite der Verbesserung von Bewegungsabläufen ab.  
 Auch wenn es "einfach nur wehtut" in Ruhe oder Bewegung, steht Dein\*e Physiotherapeut\*in als erste\*r Ansprechpartner\*in zur Verfügung.  
 2 Minuten reden und dann Schmerzmittel bekommen? Das musst Du beim Physiotherapeuten nicht befürchten. Stattdessen erwartet Dich eine intensive 1-zu-1-Betreuung. Dein\*e Physiotherapeut\*in begleitet Dich dabei, Deinem Problem auf den Grund zu gehen und entwickelt mit Dir einen umfassenden Plan, um das Beste aus Dir und Deinen Zielen rauszuholen.  So kannst Du selbst die Kontrolle zurückgewinnen, Deine Potenziale ausschöpfen und Hindernisse aus dem Weg räumen. 
 <div class="halfwidth left"><amp-img  src="/assets/images/blog/Patienteninfo/Laufband1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img></div>
