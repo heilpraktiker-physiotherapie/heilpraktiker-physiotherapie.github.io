@@ -13,12 +13,12 @@ customamp:
 <amp-img  src="/assets/images/blog/Patienteninfo/Kletterer1200x400.jpg" width="1200" height="400" layout="responsive"></amp-img>
 
 ## Im Mittelpunkt der Physiotherapie stehst Du: Deine Fähigkeiten, Deine Persönlichkeit, Deine Ziele.  
-Dein\*e Physiotherapeut\*in ist darauf fokussiert, dass Du Dein Leben aktiv gestalten und genießen kannst.  
+Dein Physiotherapeut ist darauf fokussiert, dass Du Dein Leben aktiv gestalten und genießen kannst.  
 Bei Schmerzen oder Bewegungseinschränkungen, führt bei vielen der erste Weg zum Arzt.  
-Doch Physiotherapeuten sind auf diesem Gebieten echte Experten und mit der Zusatzerlaubnis Heilpraktiker für Physiotherapie<!-- more -->, kann Dein\*e Physiotherapeut\*in Dir optimale Therapie auch ohne ärztliche Verordnung direkt anbieten.  
+Doch Physiotherapeuten sind auf diesem Gebieten echte Experten und mit der Zusatzerlaubnis Heilpraktiker für Physiotherapie<!-- more -->, kann Deine Physiotherapeutin Dir optimale Therapie auch ohne ärztliche Verordnung direkt anbieten.  
 Wir helfen Dir Dich besser zu bewegen. Egal ob Du Schwierigkeiten hast, Dich aus dem Liegen hinzusetzen oder das Gefühl hast, Dein volles Potenzial im Hochleistungssport nicht abrufen zu können. Physiotherapeuten decken die ganze Bandbreite der Verbesserung von Bewegungsabläufen ab.  
-Auch wenn es "einfach nur weh tut", in Ruhe oder Bewegung, steht Dein\*e Physiotherapeut\*in als erste\*r Ansprechpartner\*in zur Verfügung.  
-2 Minuten reden und dann Schmerzmittel bekommen? Das musst Du beim Physiotherapeuten nicht befürchten. Stattdessen erwartet Dich eine intensive 1-zu-1-Betreuung. Dein\*e Physiotherapeut\*in begleitet Dich dabei, Deinem Problem auf den Grund zu gehen und entwickelt mit Dir einen umfassenden Plan, um das Beste aus Dir und Deinen Zielen rauszuholen.  So kannst Du selbst die Kontrolle zurückgewinnen, Deine Potenziale ausschöpfen und Hindernisse aus dem Weg räumen. 
+Auch wenn es "einfach nur weh tut", in Ruhe oder Bewegung, steht Dein Physiotherapeut als erster Ansprechpartner zur Verfügung.  
+2 Minuten reden und dann Schmerzmittel bekommen? Das musst Du beim Physiotherapeuten nicht befürchten. Stattdessen erwartet Dich eine intensive 1-zu-1-Betreuung. Deine Physiotherapeutin begleitet Dich dabei, Deinem Problem auf den Grund zu gehen und entwickelt mit Dir einen umfassenden Plan, um das Beste aus Dir und Deinen Zielen rauszuholen.  So kannst Du selbst die Kontrolle zurückgewinnen, Deine Potenziale ausschöpfen und Hindernisse aus dem Weg räumen. 
 <div class="halfwidth left"><amp-img  src="/assets/images/blog/Patienteninfo/Laufband1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img></div>
 <div class="halfwidth right"><amp-img  src="/assets/images/blog/Patienteninfo/Seilzug1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img> </div><div class="clearfix"/>  
 Die Methoden der Physiotherapie sind enorm vielfältig. So lässt sich auch für Dich ein optimaler Therapieplan zusammenstellen.  
@@ -31,7 +31,7 @@ Im Vordergrund stehen dabei meist
   - Manuelle Therapie und andere manuelle Techniken am Bewegungsapparat  
 <div class="verticalImgCont">
 <amp-img  src="/assets/images/blog/Patienteninfo/aufMatte900x1200edited.jpg" width="900" height="1200" layout="responsive"></amp-img>  </div> 
-Vor der Therapie kommt immer eine umfassende Diagnostik. Dein\*e Physiotherapeut\*in und Heilpraktiker\*in für Physiotherapie weiß mit der Verantwortung umzugehen. Er/Sie kennt die Grenzen und erkennt, wann doch zusätzlich eine ärztliche Diagnostik stattfinden sollte oder vielleicht sogar ein Notfall vorliegt.  
+Vor der Therapie kommt immer eine umfassende Diagnostik. Dein Physiotherapeut und Heilpraktiker für Physiotherapie weiß mit der Verantwortung umzugehen. Er kennt die Grenzen und erkennt, wann doch zusätzlich eine ärztliche Diagnostik stattfinden sollte oder vielleicht sogar ein Notfall vorliegt.  
 Ebenso bildet die Diagnostik das Fundament für eine optimale Therapie, die genau auf Deine Bedürfnisse zugeschnitten ist.  
 
 <div class="clearfix"/>Es gibt viele Gründe warum sich der direkte Weg zum Physiotherapeuten für Dich lohnt.  
@@ -42,6 +42,6 @@ Ebenso bildet die Diagnostik das Fundament für eine optimale Therapie, die gena
   - Du hast gute Chancen den Bedarf an Medikamenten erheblich zu reduzieren und in den meisten Fällen auch ganz ohne Medikamente auszukommen. Auch Operationen z.B. an Rücken, Knien, Schultern und anderen Gelenken lassen sich sehr oft mit adäquater Physiotherapie vermeiden. Eine planbare Operation am Bewegungsapparat sollte nie stattfinden, ohne vorher die Möglichkeiten mit einem Physiotherapeuten besprochen zu haben.  
 
 Die intensive Betreuung muss natürlich angemessen bezahlt werden. Diese Investition in Deine Gesundheit wird sich für Dich auszahlen.  
-In vielen Fällen übernimmt Deine Versicherung die Kosten. Dein\*e Physiotherapeut\*in berät Dich dazu. 
+In vielen Fällen übernimmt Deine Versicherung die Kosten. Deine Physiotherapeutin berät Dich dazu. 
 
 
