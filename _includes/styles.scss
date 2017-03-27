@@ -135,6 +135,7 @@ nav, amp-sidebar{
     button {
         padding: 10px 10px;
         font-weight: bold;
+        font-size: 1.2em;
         border-width: medium;
         border-left-style: solid;
         border-left-color: #FFFFFF;
@@ -142,7 +143,7 @@ nav, amp-sidebar{
         background-color: #ffffff;
         color: #333333;
         box-shadow: none;
-        height: 50px;
+        height: 2em;
         width: 100%;
     }
     }
@@ -263,9 +264,12 @@ blockquote{
 }
 
 .barbuttons {
+    @extend button;
     float: left;
     margin: 0px 0px;
     padding: 10px 10px;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
     border-width: medium;
     background-color: #fff;
     border-left-style: solid;
@@ -274,6 +278,7 @@ blockquote{
 }
 
 .barbuttons:hover {
+    @extend button:hover;
     border-color: #FFFFFF;
     color: #FFFFFF;
     border-bottom-style: none;
