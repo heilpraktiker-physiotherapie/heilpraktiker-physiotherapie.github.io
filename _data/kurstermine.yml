@@ -7,7 +7,7 @@
   str: Robert-Koch-Straße 10
   land: Bayern
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: findest Du auf der jeweiligen Anmeldeseite
+  preis: 620€
   link:  https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.185887/?edref=hppt
   color: red
    
@@ -20,7 +20,7 @@
   str: Rathausstraße 57
   land: Hessen
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: findest Du auf der jeweiligen Anmeldeseite
+  preis: 620€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.185888/?edref=hppt
   color: blue
 
@@ -33,7 +33,7 @@
   str: Dorfstraße 2
   land: Niedersachsen
   veranstalter: IFEAS
-  preis: findest Du auf der jeweiligen Anmeldeseite
+  preis: findest Du auf der Anmeldeseite des Veranstalters
   link: https://ifeas.javis.de/onlineregistration/92/registration
   color: green
 
@@ -46,7 +46,7 @@
   str: Moorenstraße 5
   land: NRW
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: findest Du auf der jeweiligen Anmeldeseite
+  preis: 590€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.209915/?edref=hppt
   color: red
   warteliste: false 
