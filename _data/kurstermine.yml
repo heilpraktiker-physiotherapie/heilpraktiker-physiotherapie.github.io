@@ -1,16 +1,3 @@
-- datum: 31.03.2017 bis 02.04.2017 und 12.05.2017 bis 14.05.2017
-  startdate: 2017-09-29t12:00
-  enddate: 2017-10-15t18:00 
-  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
-  ort: Düsseldorf
-  plz: 40225
-  str: Moorenstraße 5
-  land: NRW
-  preis: 590€
-  link: https://app1.edoobox.com/de/book/D3.D3.gB2.Y4x6Q2EX354F2.cGsy3w7fETrnN3KqT9RjbuIpQsg24h8as4qkaSZMB2.7B2.MIcPlwokRUTQvP7bk1vOh6mWos2W9/?edref=hppt
-  color: green
-  warteliste: false
-  
 - datum: 02.06.2017 bis 04.06.2017 und 23.06.2017 bis 25.06.2017
   startdate: 2017-06-02t12:00
   enddate: 2017-06-25t18:00 
@@ -19,7 +6,8 @@
   plz: 97422
   str: Robert-Koch-Straße 10
   land: Bayern
-  preis: 620€
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: findest Du auf der jeweiligen Anmeldeseite
   link:  https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.185887/?edref=hppt
   color: red
    
@@ -31,7 +19,8 @@
   plz: 65203
   str: Rathausstraße 57
   land: Hessen
-  preis: 620€
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: findest Du auf der jeweiligen Anmeldeseite
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.185888/?edref=hppt
   color: blue
 
@@ -43,7 +32,8 @@
   plz: 31655
   str: Dorfstraße 2
   land: Niedersachsen
-  preis: 620€
+  veranstalter: IFEAS
+  preis: findest Du auf der jeweiligen Anmeldeseite
   link: https://ifeas.javis.de/onlineregistration/92/registration
   color: green
 
@@ -55,7 +45,8 @@
   plz: 40225
   str: Moorenstraße 5
   land: NRW
-  preis: 590€
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: findest Du auf der jeweiligen Anmeldeseite
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.209915/?edref=hppt
   color: red
   warteliste: false 
