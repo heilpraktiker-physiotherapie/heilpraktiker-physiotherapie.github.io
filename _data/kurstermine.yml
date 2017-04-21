@@ -46,4 +46,16 @@
   preis: 620€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.185888/?edref=hppt
   color: green
-  
+
+- datum: 31.03.2017 bis 02.04.2017 und 12.05.2017 bis 14.05.2017
+  startdate: 2017-09-29t12:00
+  enddate: 2017-10-15t18:00 
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  ort: Düsseldorf
+  plz: 40225
+  str: Moorenstraße 5
+  land: NRW
+  preis: 590€
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.209915/?edref=hppt
+  color: green
+  warteliste: false 
