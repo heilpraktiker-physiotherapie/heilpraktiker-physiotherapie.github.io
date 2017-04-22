@@ -25,7 +25,7 @@ Unsere aktuellen Termine sind:
     {% if kurs.preislink %}
       <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
     {% endif %}
-    <a target="_blank" href="{{kurs.link}}">Hier klicken zur Anmeldung</a>
+    <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
     {% if kurs.warteliste==true %}
       <div class="warteliste">Warteliste</div>
     {% endif %} 
