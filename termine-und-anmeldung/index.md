@@ -19,7 +19,12 @@ Unsere aktuellen Termine sind:
     <span>Kursort: {{kurs.ort}} in {{kurs.land}}</span> <br/>
     <span>Kurstage: {{kurs.datum}}</span> <br/>
     <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
-    <span>Preis: {{kurs.preis}}</span> <br/>
+    {% if kurs.preis %}
+      <span>Preis: {{kurs.preis}}</span> <br/>
+    {% endif %}
+    {% if kurs.preislink %}
+      <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
+    {% endif %}
     <a target="_blank" href="{{kurs.link}}">Hier klicken zur Anmeldung</a>
     {% if kurs.warteliste==true %}
       <div class="warteliste">Warteliste</div>
