@@ -78,7 +78,7 @@ Für uns bedeutet das entsprechend, dass es leider wenig Sinn macht eine Fortbil
 Auch in **Thüringen** sind die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie repräsentiert und die Anerkennung nach Aktenlage vorgesehen.  
 Dafür muss der Anwärter eine staatlich anerkannte Aus-, Fort- oder Weiterbildung nachweisen, welche die geforderten Inhalte entsprechend abdeckt.  
 Leider sind die zuständigen Verwaltungsangestellten nicht gewillt konkrete Angaben zu machen, unter welchen Voraussetzungen die Anerkennung nach Aktenlage sicher erteilt wird. Die Betonung liegt auf der Einzelfallentscheidung. Berufserfahrung spielt hier eine Rolle und zum Teil können auch weitere fachspezifische Fortbildungen wie MT die Anerkennung nach Aktenlage begünstigen.
-Grundsätzlich haben Anwärter aus Thüringen aber die besten Chancen auf Anerkennung nach Aktenlage, wenn sie unsere Fortbildung besucht haben.
+Grundsätzlich haben Anwärter aus Thüringen aber die besten Chancen auf Anerkennung nach Aktenlage, wenn sie unsere Fortbildung besucht haben und bislang haben alle Teilnehmer*innen aus Thüringen auch die Anerkennung nach Aktenlage erhalten.
 
 
   > Du findest keine Information zu Deinem Bundesland? Dann nutze einfach [unser Kontaktformular]({{site.baseurl}}/kontakt/) für Deine Frage. Arne hilft Dir gerne weiter.
