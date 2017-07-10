@@ -19,18 +19,17 @@
     z-index: 5;
     position: relative;
     padding: 4px;
-    a{
-        display: inline-block;
-        color: white;
-        border-color: #398439;
-        background-color: #47a447;
-        padding: 8px;
-        margin: 8px 20px;
-    }
-    a:hover{
+}
+a.anmelde_link{
+    display: inline-block;
+    color: white;
+    border-color: #398439;
+    background-color: #47a447;
+    padding: 8px;
+    margin: 8px 20px;
+    :hover{
         background-color: #419641;
         background-position: 0 -15px;
-        
     }
 }
 .warteliste{
