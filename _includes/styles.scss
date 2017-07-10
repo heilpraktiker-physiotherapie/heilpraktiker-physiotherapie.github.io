@@ -132,20 +132,6 @@ nav, amp-sidebar{
     li {
     margin-bottom: 6px;
     list-style: none;
-    button {
-        padding: 10px 10px;
-        font-weight: bold;
-        font-size: 1.2em;
-        border-width: medium;
-        border-left-style: solid;
-        border-left-color: #FFFFFF;
-        border-right-style: solid;
-        background-color: #ffffff;
-        color: #333333;
-        box-shadow: none;
-        height: 2em;
-        width: 100%;
-    }
     }
 }
 
@@ -262,7 +248,16 @@ blockquote{
 .boxshadow {
     box-shadow: inset 0 3px 10px rgba(0, 0, 0, 0.4);
 }
-
+.standardbutton{
+    @extend button;
+    display: inline-block;
+    box-sizing: border-box;
+    top: auto;
+    bottom:auto;
+    text-align: center;
+    text-decoration: none;
+    cursor: default;
+}
 .barbuttons {
     @extend button;
     float: left;
@@ -444,7 +439,7 @@ amp-youtube {
     margin: auto;
     margin-top: 0em;
     margin-bottom: 4em;
-    button {
+    .standardbutton {
         margin: 2px;
         width: 48%;
         line-height: 1.2em;
