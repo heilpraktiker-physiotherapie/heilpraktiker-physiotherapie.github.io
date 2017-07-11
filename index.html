@@ -14,7 +14,7 @@ customamp:
                {% for dozent in site.data.dozenten %}
                 <div>
                  <div class="imagewrapper">
-                    <amp-img class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"></amp-img>
+                    <amp-img class="carousel-halffaceimg" alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"></amp-img>
                  </div>
                    <div class="dozenttext">
                        <div class="dozentquote">
@@ -55,7 +55,7 @@ customamp:
         </div>
         </section>
         <section id="shortintros">
-           <h2>Die wichtigsten Informationen zusammengefasst</h2>
+           <h2>Die wichtigsten Informationen zum Heilpraktiker für Physiotherapie zusammengefasst</h2>
            <h3>Kurstermine</h3>
            {% for kurs in site.data.kurstermine %}
                 <script type="application/ld+json">

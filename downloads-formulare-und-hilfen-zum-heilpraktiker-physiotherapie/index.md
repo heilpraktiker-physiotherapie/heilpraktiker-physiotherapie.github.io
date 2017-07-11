@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wichtige Downloads, Formulare und Hilfen zum Heilpraktiker Physiotherapie
-description: weitere wichtige Informationen und kostenloses Lehrmaterial zum Heilpraktiker Physiotherapie (HP Physio)
+description: Formulare, Informationen und kostenloses Lehrmaterial zum Heilpraktiker Physiotherapie (HP Physio)
 ---
 
 <h3>Curriculum der Fortbildung Heilpraktiker für Physiotherapie</h3>

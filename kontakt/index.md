@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kontakt
-description: 
+title: Kontakt für die Fortbildung Heilpraktiker Physiotherapie
+description: Kontaktformular für die Fortbildung zum Heilpraktiker für Physiotherapie
 customamp:
     - amp-iframe
 ---

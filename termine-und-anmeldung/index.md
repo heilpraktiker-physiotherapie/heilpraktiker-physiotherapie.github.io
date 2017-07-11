@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Termine und Anmeldung
+description: Termine und Anmeldeformular zur Fortbildung Heilpraktiker für Physiotherapie
 scssfile: termine.scss
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  

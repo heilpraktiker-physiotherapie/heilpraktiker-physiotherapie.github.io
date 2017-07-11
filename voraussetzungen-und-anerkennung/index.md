@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Voraussetzungen und Anerkennung
-
+title: Voraussetzungen und Anerkennung der Fortbildung Heilpraktiker Physiotherapie
+description: Informationen zur Anerkennung in NRW, Niedersachsen, Bayern, Baden-Württemberg, Hessen und anderen Bundesländern
 ---
 
 Um an unserer Fortbildung teilnehmen zu können, musst Du vorab keine Nachweise erbringen.  

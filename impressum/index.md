@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-description: 
+description: Impressum von hpphysio.com
 
 ---
 
