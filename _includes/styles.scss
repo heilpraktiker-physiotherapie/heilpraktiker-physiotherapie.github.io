@@ -445,12 +445,12 @@ amp-youtube {
 #AuswahlSection {
     margin: auto;
     margin-top: 0em;
-    margin-bottom: 4em;
+    margin-bottom: 2em;
     .standardbutton {
         margin: 2px;
         width: 48%;
         line-height: 1.2em;
-        height: 10em;
+        min-height: 8em;
         padding: 16px;
         font-size: 1.2em;
         font-weight: bold;
