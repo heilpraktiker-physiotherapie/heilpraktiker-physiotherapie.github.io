@@ -70,8 +70,8 @@ Die allgemeine Interpretation des Urteils des Bundesverwaltungsgericht zum <em>H
 Das Gesundheitsministerium selber ist als zuständige staatliche Behörde aber nicht gewillt eine solche Anerkennung zu erteilen. Diese Anerkennung gibt es so nur in NRW und Niedersachsen. 
 Diese Akkreditierung wird auch in Baden-Württemberg anerkannt, allerdings offiziell nur dann, wenn die Fortbildung auch dort stattgefunden hat, wo diese akkreditiert wurde.  
 Ziemlich kompliziert.  
-Letztendlich bedeutet dies für Anwärter aus Baden-Württemberg, dass Sie eine unserer Fortbildungen in NRW oder Niedersachsen besuchen müssen, um sicher von der Anerkennung nach Aktenlage in Baden-Württemberg ausgehen zu können.  
-Alle Teilnehmer/innen haben so Ihre Anerkennung nach Aktenlage erhalten.  
+Letztendlich bedeutet dies für Anwärter aus Baden-Württemberg, dass Sie eine unserer Fortbildungen in NRW oder Niedersachsen besuchen müssen, um bestmögliche Chancen auf die Anerkennung nach Aktenlage in Baden-Württemberg zu haben.
+Auch innerhalb Baden-Württembergs gibt es leider Unterschiede. 
 Für uns bedeutet das entsprechend, dass es leider wenig Sinn macht eine Fortbildung in Baden-Württemberg zu veranstalten, auch wenn wir Dir gerne entgegen kommen würden.
 
 
