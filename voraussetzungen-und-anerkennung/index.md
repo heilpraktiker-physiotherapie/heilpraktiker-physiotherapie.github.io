@@ -51,6 +51,7 @@ In **Sachsen** werden, geregelt durch das Sächsische Staatsministerium für Soz
 In **Berlin** gibt es sehr knappe Vorgaben zur Anerkennung nach Aktenlage. Anwärter müssen eine Nachqualifikation nachweisen, welche die durch das Bundesverwaltungsgericht geforderten Inhalte abdeckt.
 Unsere Fortbildung tut dies unzweifelhaft und staatlich anerkannt. Der Anerkennung nach Aktenanlage steht allen Teilnehmer aus Berlin somit nichts im Wege.
 
+**Brandenburg** hat sehr ähnliche, weitestgehend identische Anforderungen wie NRW. Von daher erfüllt unsere Fortbildung duch die Zertifizierung in NRW (und Niedersachsen) nachvollziehbar alle Anforderungen zur Anerkennung nach Aktenlage in Brandenburg. Bislang klappt dies auch problemlos. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Brandenburg](http://vv.potsdam.de/vv/Heilpraktikerueberpruefung_-_Physiotherapie__Kriterienkatalog_zur_Ueberpruefung_nach_Aktenlage_24.05.17.pdf)
 
 In **Bayern** war es lange Zeit zwar gesetzlich vorgesehen, praktisch aber kaum möglich die Anerkennung nach Aktenlage zu erhalten, ohne diese gerichtlich einzuklagen.  
 Nun aber hat das Bayerisches Staatsministerium für Gesundheit und Pflege klare Vorgaben und Kriterien für die Nachqualifikation veröffentlicht.  
