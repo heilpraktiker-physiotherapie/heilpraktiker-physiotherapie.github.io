@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Was ist ein sektoralen Heilpraktiker Physiotherapie
+title: Was ist ein sektoraler Heilpraktiker Physiotherapie
 description: Beschreibung von Berufsbild und Möglichkeiten des Heilpraktiker für Physiotherapie
 ---
 
