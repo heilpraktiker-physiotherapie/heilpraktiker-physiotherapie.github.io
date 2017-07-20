@@ -105,12 +105,35 @@ nav {
 }
 
 amp-sidebar {
-    width: 250px;
     padding-right: 10px;
     padding-left: 0px;
+    padding-right: 20px;
     font-size: 0.8em;
     ul {
         padding-left: 8px;
+    }
+    a{
+        background-color: lightblue;
+        color: #333333;
+        padding: 2px;
+        margin: 1px;
+        border: 2px solid grey;
+        display: inline-block;
+        width: 100%;
+        &:link{
+            text-decoration: none;
+        }
+        &:visited{
+            text-decoration: none;
+        }
+        &:hover{
+            text-decoration: none;
+            background-color: $bg-blue;
+            color: white;
+        }
+        &:active{
+            text-decoration: none;
+        }
     }
 }
 
