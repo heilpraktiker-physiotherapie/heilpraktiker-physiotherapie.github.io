@@ -68,7 +68,7 @@ In **Hessen** gibt es auch seit einiger Zeit klare Regelungen, wann auf die Prü
 Diese sind recht allgemein gehalten, aber dennoch klar formuliert und meist klappt die Anerkennung nach Aktenlage problemlos.  
 Leider gibt es in Hessen keine Behörde, die klar federführend ist.  
 So behalten es sich einzelne Gesundheitsämter vor, grundsätzlich auf die mündliche Überprüfung zu bestehen, obwohl Sie dabei deutschlandweites Recht und auch landesweite Vorgaben ignorieren.  
-Letztendlich haben alle unsere Teilnehmer aus Hessen Ihre Anerkennung nach Aktenlage erhalten und ich bin sicher, wir werden auch in Zukunft für alle Teilnehmer/innen Wege finden.
+Dies stellt aber zum Glück die Ausnahme da und auch dafür finden wir gemeinsam Lösungen.
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Hessen](https://www.jurion.de/gesetze/hpgdrl_he/5/){:target="_blank"}
 
 
