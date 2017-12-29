@@ -18,15 +18,21 @@ Zu diesem Zweck habe ich eine Umfrage über soziale Netzwerke und Emailkontakte 
 Ebenso ist auf dieser Grundlage ein umfangreicher Video-Podcast im Gespräch mit Rechtsanwalt Benjamin Alt entstanden. Hier werden die wichtigsten Themen der Abrechnung intensiv besprochen und durch diesen Blog ergänzt. 
 
 ### Videoserie zum Thema Rechnungserstellung des Heilpraktiker für Physiotherapie 
-**Teil1**
+**Teil 1**
 <amp-youtube
     data-videoid="YzUNQmLmEiQ"
     layout="responsive"
     width="1280" height="720"></amp-youtube>
 
-**Teil2**
+**Teil 2**
 <amp-youtube
     data-videoid="8qS6HSgGmXA"
+    layout="responsive"
+    width="1280" height="720"></amp-youtube>
+
+**Teil 3**
+<amp-youtube
+    data-videoid="yc1fE1nTdKI"
     layout="responsive"
     width="1280" height="720"></amp-youtube>
   
@@ -48,8 +54,8 @@ Wir wollten dann ebenfalls wissen: "Wie hoch sind Deine Preise in etwa im Durchs
   
 
 ### Welche Verzeichnisse und Ziffern nutzen Heilpraktiker für Physiotherapie zur Abrechnung?  
-Der Heilpraktiker für Physiotherapie ist zur Abrechnung nicht an eine Verordnung gebunden, sondern darf die Ausgestaltung der Rechnung frei bestimmen. Es muss nur daraus hervorgehen, welche Maßnahmen stattgefunden haben und wie diese berechnet werden. Der Standard ist das Gebührenverzeichnis der Heilpraktiker GebüH.  
-Wenn ein Patient zum Heilpraktiker geht, muss er davon ausgehen, dass die Preise in etwa im Rahmen der GebüH liegen, da dies als üblicher Preis für Heilpraktiker angesehen wird. Durch einen Behandlungsvertrag sind aber andere Abrechnungsgrundlagen und Kosten festlegbar.  Dies könnten z.B. Ziffern aus der Gebührenordnung für Ärzte sein, welche für Ärzte verpflichtend ist aber nicht allein den Ärzten vorbehalten ist, oder physiotherapeutische Ziffern entsprechend dem Heilmittelkatalog oder auch ganz eigene Abrechnungsziffern.
+Der Heilpraktiker für Physiotherapie ist zur Abrechnung nicht an eine Verordnung gebunden, sondern darf die Ausgestaltung der Rechnung frei bestimmen. Es muss nur daraus hervorgehen, welche Maßnahmen stattgefunden haben und wie diese berechnet werden. Der Standard ist das Gebührenverzeichnis der Heilpraktiker [GebüH](https://goo.gl/NfpwYN){:target="_blank"}.  
+Wenn ein Patient zum Heilpraktiker geht, muss er davon ausgehen, dass die Preise in etwa im Rahmen der GebüH liegen, da dies als üblicher Preis für Heilpraktiker angesehen wird. Durch einen Behandlungsvertrag sind aber andere Abrechnungsgrundlagen und Kosten festlegbar.  Dies könnten z.B. Ziffern aus der [Gebührenordnung für Ärzte](https://goo.gl/wUAK9P){:target="_blank"} sein, welche für Ärzte verpflichtend ist aber nicht allein den Ärzten vorbehalten ist, oder physiotherapeutische Ziffern entsprechend dem Heilmittelkatalog oder auch ganz eigene Abrechnungsziffern.
 Wir haben gefragt: "Welche Abrechnungsgrundlage benutzt Du in der Regel?"
 <amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Welche Gebührenverzeichnisse.jpg" alt="Welches Gebührenverzeichnis nutzen Heilpraktiker für Physiotherapie" height="575" width="592" layout="responsive"></amp-img>
 
