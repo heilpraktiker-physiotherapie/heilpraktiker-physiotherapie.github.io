@@ -21,7 +21,7 @@
   str: Klepperstraße 28
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2017/03/Kurzinfo-Heilpraktiker-f%C3%BCr-PT.pdf
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   color: blue
 
@@ -34,7 +34,7 @@
   str: Im Gewerbepark A15
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2017/03/Kurzinfo-Heilpraktiker-f%C3%BCr-PT.pdf
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   color: green
 
@@ -47,7 +47,7 @@
   str: Petrinistraße 14-16
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2017/03/Kurzinfo-Heilpraktiker-f%C3%BCr-PT.pdf
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   color: red
 
@@ -75,7 +75,7 @@
   str: Klepperstraße 28
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2017/03/Kurzinfo-Heilpraktiker-f%C3%BCr-PT.pdf
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   color: green
 
@@ -132,3 +132,16 @@
   preis: findest Du auf der Anmeldeseite des Veranstalters
   link: https://ifeas.javis.de/onlineregistration/150/registration
   color: red
+
+- datum: 26.10.2018 bis 28.10.2018 und 23.11.2018 bis 25.11.2018
+  startdate: 2018-10-26t12:00
+  enddate: 2018-11-25t18:00 
+  ortsbezeichnung: Fortbildungsakademie Emmelshausen
+  ort: Emmelshausen (bei Koblenz)
+  plz: 56281
+  str: Hunsrückhöhenstraße 1
+  land: Rheinland-Pfalz
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  color: blue
