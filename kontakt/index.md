@@ -19,7 +19,10 @@ Nutze am besten direkt das Kontaktformular um eine Nachricht zu schreiben.
 Auch bei [facebook]({{site.facebook_url}}){:target="_blank"}, [twitter]({{site.twitter_url}}){:target="_blank"}, [google+]({{site.googleplus_url}}){:target="_blank"} und [youtube]({{site.youtube_url}}){:target="_blank"} kannst Du uns finden, folgen und anschreiben.
 Gib uns einfach ein "Gefällt mir" bei [facebook]({{site.facebook_url}}){:target="_blank"} und schon kriegst Du dort die Neuigkeiten und interessantes Wissen im Stream angezeigt.
 <br/>
-<amp-iframe id="newsletterform" src="https://arnold85.github.io/websiteassets/mailchimpform/newslettersignup.html" width="400" height="250" layout="responsive" sandbox="allow-forms allow-scripts"><amp-img layout="fill" src="/assets/images/KontaktPlaceholder.jpg" placeholder></amp-img></amp-iframe>
+<strong>Unser Newsletter</strong> <br/>
+Wichtige Hinweise und Informationen zu den Chancen und Schwierigkeiten im Alltag des Heilpraktiker für Physiotherapie, erhälst Du im Newsletter. <br/>
+Bleibe mit uns up-to-date und fit für den Erfolg. <br/>
+<amp-iframe id="newsletterform" src="https://arnold85.github.io/websiteassets/mailchimpform/newslettersignup.html" width="500" height="363" layout="responsive" sandbox="allow-forms allow-scripts"><amp-img layout="fill" src="/assets/images/KontaktPlaceholder.jpg" placeholder></amp-img></amp-iframe>
  
 
 

@@ -543,10 +543,10 @@ amp-youtube {
     padding: 0;
     width: 100%;
     max-width: 500px;
-    height: 220px;
+    height: 80px;
 
 }
-footer #emailbutton:hover + #contactform +#contactform:hover{
+footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform + #newsletterform:hover{
     display: block;
 }
 
