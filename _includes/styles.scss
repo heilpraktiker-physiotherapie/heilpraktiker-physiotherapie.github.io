@@ -537,6 +537,15 @@ amp-youtube {
     height: 410px;
 
 }
+#newsletterform{
+    //display: none;
+    margin: auto;
+    padding: 0;
+    width: 100%;
+    max-width: 500px;
+    height: 200px;
+
+}
 footer #emailbutton:hover + #contactform +#contactform:hover{
     display: block;
 }
