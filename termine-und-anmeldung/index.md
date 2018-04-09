@@ -20,6 +20,9 @@ Unsere aktuellen Termine sind:
     <span>Kursort: {{kurs.ort}} in {{kurs.land}}</span> <br/>
     <span>Kurstage: {{kurs.datum}}</span> <br/>
     <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
+    {% if kurs.fruehbucher %}
+      <span>Frühbucherpreis: {{kurs.fruehbucher}} bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
+    {% endif %}
     {% if kurs.preis %}
       <span>Preis: {{kurs.preis}}</span> <br/>
     {% endif %}
