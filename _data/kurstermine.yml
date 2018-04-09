@@ -9,8 +9,7 @@
   veranstalter: heilpraktiker-physiotherapie.com
   preis: 620€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236699/?edref=hppt
-  color: blue
-  warteliste: true
+   warteliste: true
 
 
 - datum: 11.05.2018 bis 13.05.2018 und 08.06.2018 bis 10.06.2018
@@ -24,8 +23,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  color: green
-
+  
 - datum: 01.06.2018 bis 03.06.2018 und  06.07.2018 bis 08.07.2018
   startdate: 2018-06-01t12:00
   enddate: 2018-07-08t18:00 
@@ -37,8 +35,7 @@
   veranstalter: heilpraktiker-physiotherapie.com
   preis: 590€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236701/?edref=hppt
-  color: red
-  warteliste: false 
+   warteliste: false 
 
 - datum: 07.09.2018 bis 09.09.2018 und 28.09.2018 bis 30.09.2018
   startdate: 2018-09-07t12:00
@@ -49,10 +46,11 @@
   str: Rathausstraße 57
   land: Hessen
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: 620€
+  fruehbucher: 620€
+  fruehbucherdatum: 30.06.2018
+  preis: 670€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236704/?edref=hppt
-  color: blue
-  kursnummer: HPPT34
+   kursnummer: HPPT34
 
 - datum: 26.10.2018 bis 28.10.2018 und 23.11.2018 bis 25.11.2018
   startdate: 2018-10-26t12:00
@@ -65,8 +63,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  color: green
-  kursnummer: HPPT36
+   kursnummer: HPPT36
 
 - datum: 02.11.2018 bis 04.11.2018 und 30.11.2018 bis 02.12.2018
   startdate: 2018-11-02t12:00
@@ -77,9 +74,10 @@
   str: Turmstr. 21
   land: Berlin
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: 620€
+  fruehbucher: 620€
+  fruehbucherdatum: 14.09.2018
+  preis: 670€
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236708/?edref=hppt
-  color: red
   warteliste: false
   kursnummer: HPPT35
 
@@ -94,7 +92,6 @@
   veranstalter: IFEAS
   preis: findest Du auf der Anmeldeseite des Veranstalters
   link: https://ifeas.javis.de/onlineregistration/150/registration
-  color: blue
   kursnummer: HPPT37
 
 - datum: 11.01.2019 bis 13.01.2019 und  01.02.2019 bis 03.02.2019
@@ -108,9 +105,8 @@
   veranstalter: heilpraktiker-physiotherapie.com
   fruehbucher: 590€
   fruehbucherdatum: 30.09.2018
-  preis: 670€
-  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236701/?edref=hppt
-  color: green
+  preis: 650€
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.281489/?edref=hppt
   warteliste: false 
   kursnummer: HPPT38
 
@@ -125,8 +121,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  color: red
-  kursnummer: HPPT39
+   kursnummer: HPPT39
 
 - datum: 22.02.2019 bis 24.02.2019 und 29.03.2019 bis 31.03.2019
   startdate: 2019-02-22t13:00
@@ -139,8 +134,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  color: blue
-  kursnummer: HPPT40
+   kursnummer: HPPT40
 
 - datum: 15.03.2019 bis 17.03.2019 und 12.04.2019 bis 14.04.2019
   startdate: 2019-03-15t13:00
@@ -153,7 +147,6 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  color: blue
   kursnummer: HPPT41
 
 - datum: 10.05.2019 bis 12.05.2019 und 28.06.2019 bis 30.06.2019
@@ -193,5 +186,4 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  color: green
   kursnummer: HPPT44
