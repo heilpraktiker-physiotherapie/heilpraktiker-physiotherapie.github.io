@@ -34,5 +34,7 @@
   .kurstermincontent a:hover {
     background-color: #419641;
     background-position: 0 -15px; }
-
+  #gmaps{
+    max-height: 500px;
+  }
 /*# sourceMappingURL=termine.css.map */

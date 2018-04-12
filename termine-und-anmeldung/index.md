@@ -3,10 +3,16 @@ layout: page
 title: Termine und Anmeldung
 description: Termine und Anmeldeformular zur Fortbildung Heilpraktiker für Physiotherapie
 scssfile: termine.scss
+customamp:
+    - amp-iframe
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  
 Gute Entscheidung! Versprochen ;-)  
 Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum sektoralen Heilpraktiker für Physiotherapie finden.  
+Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten.  
+<amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
+
+Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
 Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
 <script type="application/ld+json">
@@ -54,10 +60,7 @@ Die Termine werden üblicherweise zwischen 4 und 8 Monaten im Voraus bekannt geg
 Wir sind dabei nicht an einen festen Ort gebunden, sondern in vielen Orten Deutschlands wechselnd unterwegs. So sollte auch für Dich in absehbarer Zeit ein Kurs erreichbar sein.  
 Wer es eilig hat, muss vielleicht etwas weiter fahren. Die Reise lohnt sich für Dich.
 
-Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten.  
-Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.
-
-Lediglich Teilnehmer/Innen aus Baden-Württemberg sind in dieser Hinsicht etwas eingeschränkt.
+Teilnahme aus Baden-Württemberg müssen gewisse Besonderheiten beachten:
 Die Fortbildung muss, nach internen Richtlinien des Sozialministeriums Baden-Württembergs, in Niedersachsen oder NRW durch staatliche Behörden anerkannt sein und muss auch dort stattgefunden haben.  
 Es haben auch schon Teilnehmer aus Baden-Württemberg die Anerkennung erhalten, wenn Sie z.B. unseren Kurs in Rheinland-Pfalz absolviert haben. Wer aber sicher gehen will bzgl. der Anerkennung nach Aktenlage, sollte unsere Kurse in NRW oder Niedersachsen vorziehen.  
 Weitere Informationen zu den einzelnen Bundesländern findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
