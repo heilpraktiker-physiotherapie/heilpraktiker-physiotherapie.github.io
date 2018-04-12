@@ -40,9 +40,9 @@ In **Niedersachsen** ist dies ähnlich. Das Ministerium für Soziales, Gesundhei
 Auch hier können sich die Teilnehmer/innen darauf verlassen, Ihre Anerkennung nach Aktenlage zu erhalten, wenn der Fortbildungsanbieter akkreditiert wurde. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Niedersachsen. Wichtig vor allem Punkt 7.8](https://www.soziales.niedersachsen.de/download/401/Richtlinie_zur_Durchfuehrung_des_Verfahrens_zur_Erteilung_einer_Erlaubnis_nach_dem_Heilpraktikergesetz.pdf){:target="_blank"}
 
 
-**Rheinland-Pfalz** orientiert sich stark an NRW. Liegt dem Fortbildungsanbieter eine entsprechende Akkreditierung aus NRW oder auch Niedersachsen vor, so wird auch hier die Anerkennung nach Aktenlage erteilt.  
+**Rheinland-Pfalz** orientiert sich stark an NRW und Niedersachsen. Liegt dem Fortbildungsanbieter eine entsprechende Akkreditierung aus NRW oder auch Niedersachsen vor, so wird auch hier die Anerkennung nach Aktenlage erteilt.  
 Da auch hier für das ganze Bundesland eine Behörde \(Kreisverwaltung Mainz-Bingen\) die Aufgabe übernommen hat, sind auch hier keine bösen Überraschungen zu erwarten.  
-5 Jahre Berufserfahrung wird vorausgesetzt. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Rheinland-Pfalz](http://www.mainz-bingen.de/deutsch/verwaltung/GB_IV/gesundheit_veterinaer/heilpraktiker_physiotherapie.php){:target="_blank"}
+5 Jahre Berufserfahrung wird vorausgesetzt. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Rheinland-Pfalz](https://www.mainz-bingen.de/de/Familie-Jugend-Asyl-Gesundheit-Soziales/Gesundheit/Heilpraktiker/Physiotherapie.php){:target="_blank"}
 
 
 
@@ -79,7 +79,7 @@ Diese Akkreditierung wird auch in Baden-Württemberg anerkannt, allerdings offiz
 Ziemlich kompliziert.  
 Letztendlich bedeutet dies für Anwärter aus Baden-Württemberg, dass Sie eine unserer Fortbildungen in NRW oder Niedersachsen besuchen müssen, um bestmögliche Chancen auf die Anerkennung nach Aktenlage in Baden-Württemberg zu haben.
 Auch innerhalb Baden-Württembergs gibt es leider Unterschiede. 
-Für uns bedeutet das entsprechend, dass es leider wenig Sinn macht eine Fortbildung in Baden-Württemberg zu veranstalten, auch wenn wir Dir gerne entgegen kommen würden.
+Für uns bedeutet das entsprechend, dass es wenig Sinn macht eine Fortbildung in Baden-Württemberg zu veranstalten, auch wenn wir Dir gerne entgegen kommen würden.
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Baden-Württemberg(siehe insbesondere Punkt 6.3.3)](https://www.kreis-tuebingen.de/site/LRA-Tuebingen-Internet-Root/get/params_E535554938/610654/Verwaltungsvorschrift%20des%20Sozialministeriums%20zur%20Durchf%C3%BChrung%20des%20Heilpraktikergesetzes.pdf){:target="_blank"}
 
 
