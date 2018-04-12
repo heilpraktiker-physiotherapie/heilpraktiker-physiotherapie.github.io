@@ -105,8 +105,9 @@ nav {
 }
 
 amp-user-notification{
-    background: rgb(107, 197, 140);
-    font-size: 0.6rem;
+    background: rgba(107, 197, 140, 0.8);
+    font-size: 0.8rem;
+    font-weight: bold;
     div {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
