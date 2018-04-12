@@ -104,6 +104,25 @@ nav {
     }
 }
 
+amp-user-notification{
+    background: rgb(107, 197, 140);
+    font-size: 0.6rem;
+    div {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  button{
+      padding: 0.3rem;
+  } 
+} 
+
+
+
 amp-sidebar {
     padding-right: 10px;
     padding-left: 0px;

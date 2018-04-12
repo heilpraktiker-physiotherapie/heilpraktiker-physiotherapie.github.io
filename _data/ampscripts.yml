@@ -21,3 +21,23 @@ amp-iframe:
 amp-facebook:
     name: amp-facebook
     src: https://cdn.ampproject.org/v0/amp-facebook-0.1.js
+
+amp-user-notification:
+    name: amp-user-notification
+    src: https://cdn.ampproject.org/v0/amp-user-notification-0.1.js
+
+amp-analytics:
+    name: amp-analytics
+    src: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+
+amp-social-share: 
+    name: amp-social-share
+    src: https://cdn.ampproject.org/v0/amp-social-share-0.1.js
+
+amp-analytics:
+    name: amp-analytics
+    src: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+
+amp-sidebar:
+    name: amp-sidebar
+    src: https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
