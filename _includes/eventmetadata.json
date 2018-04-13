@@ -19,7 +19,10 @@
     },
     "offers": {
     "@type": "Offer",
-    "url": "{{include.event.link}}"
+    "url": "{{include.event.link}}",
+    "availability": "http://schema.org/InStock",
+    "price":"{{include.event.preis}}",
+    "priceCurrency": "EUR"
     },
     "performer": {
         "@type": "Person",

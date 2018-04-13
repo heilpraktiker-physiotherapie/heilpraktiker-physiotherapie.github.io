@@ -7,7 +7,7 @@
   str: Würzburger Str. 7 - 13
   land: Hessen
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: 620€
+  preis: 620
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236699/?edref=hppt
   warteliste: true
 
@@ -20,6 +20,7 @@
   str: Klepperstraße 28
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   
@@ -32,7 +33,7 @@
   str: Moorenstraße 5
   land: NRW
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: 590€
+  preis: 590
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236701/?edref=hppt
   warteliste: false 
 
@@ -45,9 +46,9 @@
   str: Rathausstraße 57
   land: Hessen
   veranstalter: heilpraktiker-physiotherapie.com
-  fruehbucher: 620€
+  fruehbucher: 620
   fruehbucherdatum: 30.06.2018
-  preis: 670€
+  preis: 670
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236704/?edref=hppt
   kursnummer: HPPT34
 
@@ -60,6 +61,7 @@
   str: Hunsrückhöhenstraße 1
   land: Rheinland-Pfalz
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT36
@@ -73,9 +75,9 @@
   str: Turmstr. 21
   land: Berlin
   veranstalter: heilpraktiker-physiotherapie.com
-  fruehbucher: 620€
+  fruehbucher: 620
   fruehbucherdatum: 14.09.2018
-  preis: 670€
+  preis: 670
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236708/?edref=hppt
   warteliste: false
   kursnummer: HPPT35
@@ -89,7 +91,7 @@
   str: Dorfstraße 2
   land: Niedersachsen
   veranstalter: IFEAS
-  preis: findest Du auf der Anmeldeseite des Veranstalters
+  preis: 620
   link: https://ifeas.javis.de/onlineregistration/150/registration
   kursnummer: HPPT37
 
@@ -102,9 +104,9 @@
   str: Moorenstraße 5
   land: NRW
   veranstalter: heilpraktiker-physiotherapie.com
-  fruehbucher: 590€
+  fruehbucher: 590
   fruehbucherdatum: 30.09.2018
-  preis: 650€
+  preis: 650
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.281489/?edref=hppt
   warteliste: false 
   kursnummer: HPPT38
@@ -118,6 +120,7 @@
   str: Im Gewerbepark A15
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT39
@@ -131,6 +134,7 @@
   str: Petrinistraße 14-16
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT40
@@ -144,6 +148,7 @@
   str: Ernst-Abbe-Platz 3-4
   land: Thüringen
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT41
@@ -157,6 +162,7 @@
   str: Klepperstraße 28
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT42
@@ -170,6 +176,7 @@
   str: Ortolfstraße 210
   land: Berlin
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT43
@@ -183,6 +190,7 @@
   str: Im Gewerbepark A15
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT44

@@ -37,13 +37,12 @@ Unsere aktuellen Termine sind:
     <span>Kurstage: {{kurs.datum}}</span> <br/>
     <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
     {% if kurs.fruehbucher %}
-      <span>Frühbucherpreis: {{kurs.fruehbucher}} bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
-    {% endif %}
-    {% if kurs.preis %}
-      <span>Preis: {{kurs.preis}}</span> <br/>
+      <span>Frühbucherpreis: {{kurs.fruehbucher}}€ bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
     {% endif %}
     {% if kurs.preislink %}
       <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
+        {% elsif kurs.preis %}
+            <span>Preis: {{kurs.preis}}€</span> <br/>
     {% endif %}
     <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
     {% if kurs.warteliste==true %}
