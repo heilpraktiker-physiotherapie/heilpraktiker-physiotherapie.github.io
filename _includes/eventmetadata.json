@@ -1,22 +1,22 @@
 {
     "@context": "http://schema.org",
     "@type": "Event",
-    "name": "Fortbildung Heilpraktiker Physiotherapie",
+    "name": "Fortbildung Heilpraktiker Physiotherapie {{include.event.ort}}",
     "startDate": "{{include.event.startdate}}",
     "endDate": "{{include.event.enddate}}",
     "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Physiotherapie",
-     "image": {
-        "@type": "ImageObject",
-        "url": "https://hpphysio.com/assets/images/schema-logo-hppt.jpg",
-        "height": "60",
-        "width":"600"
-      },
     "url": "{{include.event.link}}",
     "location": {
         "@type": "Place",
         "name": "{{include.event.ortsbezeichnung}}",
         "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
     },
+    "image":[
+        "https://hpphysio.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
+        "https://hpphysio.com/assets/images/Banner5_1200x400.jpg",
+        "https://hpphysio.com/assets/images/HP-PhysioLogo2zu1smile.png"
+        
+    ],
     "offers": {
         "@type": "Offer",
         "url": "{{include.event.link}}",
