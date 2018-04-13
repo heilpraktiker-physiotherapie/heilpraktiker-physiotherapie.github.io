@@ -8,6 +8,7 @@ fbimage: "https://hpphysio.com/assets/images/FacebookErfolgreichAlsHPPT.jpg"
 excerpt_separator: <!-- more -->
 customamp:
     - amp-youtube
+    - amp-iframe
 ---
   
 Der Erlaubniserteilung als Heilpraktiker für Physiotherapie den Patienten den Direktzugang zur Physiotherapie anbieten zu dürfen, bietet großartige neue Möglichkeiten die eigene physiotherapeutische Leistung wirtschaftlich lohnend und therapeutisch erfüllend zu gestalten. Die neuen Freiheiten gehen aber auch mit mehr Verantwortung und neuen Aufgaben einher.  
