@@ -18,11 +18,12 @@
         "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
     },
     "offers": {
-    "@type": "Offer",
-    "url": "{{include.event.link}}",
-    "availability": "http://schema.org/InStock",
-    "price":"{{include.event.preis}}",
-    "priceCurrency": "EUR"
+        "@type": "Offer",
+        "url": "{{include.event.link}}",
+        "availability": "http://schema.org/InStock",
+        "price":"{{include.event.preis}}",
+        "priceCurrency": "EUR",
+        "validFrom": "2018-01-01"
     },
     "performer": {
         "@type": "Person",
