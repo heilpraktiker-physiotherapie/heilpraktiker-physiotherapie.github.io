@@ -8,3 +8,4 @@ User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /websiteassets/
 Disallow: /assets/docs/hid/
+Disallow:/googlea2efe33e4d1983b4.html
