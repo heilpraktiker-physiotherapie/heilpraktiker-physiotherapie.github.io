@@ -318,7 +318,7 @@ blockquote{
 }
 
 .barbuttons:hover {
-    @extend button:hover;
+    @extend button, :hover;
     border-color: #FFFFFF;
     color: #FFFFFF;
     border-bottom-style: none;
