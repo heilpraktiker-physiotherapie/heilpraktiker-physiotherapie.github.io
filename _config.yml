@@ -40,7 +40,7 @@ kramdown:
 #permalink: /neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/:title
 
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-github-metadata
   - jekyll-sitemap

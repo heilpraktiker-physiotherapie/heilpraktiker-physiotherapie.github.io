@@ -21,6 +21,7 @@ Unsere aktuellen Termine sind:
 {% endfor %}
 {% assign var bgcolor = 'green' %}
 {% for kurs in site.data.kurstermine %}
+{% if kurs.show == true %}
 <div markdown="0" class="kurstermincontainer">
    {% if forloop.first == true %}
         {% assign bgcolor = 'green' %}
@@ -50,6 +51,7 @@ Unsere aktuellen Termine sind:
     {% endif %}
     </div>
 </div>
+{% endif %}
 {% endfor %}
 <div class="clearfix"></div>
 Hast Du noch keinen passenden Termin gefunden? Keine Sorge, es kommen bald neue.
