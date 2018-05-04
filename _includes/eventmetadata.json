@@ -12,9 +12,9 @@
         "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
     },
     "image":[
-        "https://hpphysio.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
-        "https://hpphysio.com/assets/images/Banner5_1200x400.jpg",
-        "https://hpphysio.com/assets/images/HP-PhysioLogo2zu1smile.png"
+        "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
+        "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
+        "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
         
     ],
     "offers": {

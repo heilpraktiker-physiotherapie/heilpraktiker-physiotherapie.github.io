@@ -10,7 +10,7 @@ layout: null
     <image>
         <url>{{site.fbimage}}</url>
         <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
-        <link>https://hpphysio.com</link>
+        <link>https://heilpraktiker-physiotherapie.com</link>
     </image>
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.fbimage}}" />
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
@@ -25,7 +25,7 @@ layout: null
         <image>
             <url>{{site.fbimage}}</url>
             <title>Fortbildung sektoraler Heilpraktiker Physiotherapie</title>
-            <link>https://hpphysio.com</link>
+            <link>https://heilpraktiker-physiotherapie.com</link>
         </image>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

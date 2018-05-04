@@ -4,7 +4,7 @@ title: Patienteninformation zum Heilpraktiker für Physiotherapie
 comments: false
 thumb: /assets/images/blog/Patienteninfo/PateintenInfoThumb.jpg
 date: 21.03.2017
-fbimage: "https://hpphysio.com/assets/images/blog/Patienteninfo/KlettererBig1200x600.jpg"
+fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/blog/Patienteninfo/KlettererBig1200x600.jpg"
 scssfile: posts.scss
 excerpt_separator: <!-- more -->
 customamp:

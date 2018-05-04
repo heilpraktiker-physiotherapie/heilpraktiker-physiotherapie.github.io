@@ -4,7 +4,7 @@ title: Die Abrechnung als Heilpraktiker für Physiotherapie
 comments: true
 thumb: /assets/images/blog/Abrechnung/abrechnungThumb.jpg
 date: 24.12.2017
-fbimage: "https://hpphysio.com/assets/images/FacebookErfolgreichAlsHPPT.jpg"
+fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/FacebookErfolgreichAlsHPPT.jpg"
 excerpt_separator: <!-- more -->
 customamp:
     - amp-youtube

@@ -4,7 +4,7 @@ title: Eindrücke der Fortbildung Heilpraktiker Physiotherapie in Schweinfurt-Te
 comments: true
 thumb: /assets/images/blog/Schweinfurt-Jan17/TopExpertise.jpg
 date: 20.02.2017
-fbimage: "https://hpphysio.com/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg"
+fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/blog/Schweinfurt-Jan17/TopExpertiseBig.jpg"
 customamp:
     - amp-youtube
     - amp-iframe

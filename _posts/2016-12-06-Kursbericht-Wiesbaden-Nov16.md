@@ -4,7 +4,7 @@ title: Eindrücke der Fortbildung Heilpraktiker Physiotherapie in Wiesbaden
 comments: true
 thumb: /assets/images/blog/Wiesbaden-Nov16/thumb.jpg
 date: 06.12.2016
-fbimage: "https://hpphysio.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg"
+fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg"
 excerpt_separator: <!-- more -->
 customamp:
     - amp-iframe

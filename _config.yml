@@ -8,14 +8,14 @@
 # Site settings
 title: sektoraler Heilpraktiker Physiotherapie - Fortbildung und Prüfung
 fbtitle: Werde jetzt Heilpraktiker für Physiotherapie
-fbimage: "https://hpphysio.com/assets/images/FacebookErfolgreichAlsHPPT.jpg"
+fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/FacebookErfolgreichAlsHPPT.jpg"
 email: info@heilpraktiker-physiotherapie.com    
 description: Heilpraktiker Physiotherapie - Fortbildung inklusive Prüfung zur Anerkennung nach Aktenlage, in NRW, Niedersachsen, Rheinland-Pfalz, Hessen, Baden-Württemberg, Bayern und anderen Bundesländern  
-logo: "https://hpphysio.com/assets/images/LogoHPPT.svg"
-logo600jpg: "https://hpphysio.com/assets/images/LogoHPPT600.jpg"
-Bannerjpg: "https://hpphysio.com/assets/images/BannerHPPT.jpg"
+logo: "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT.svg"
+logo600jpg: "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT600.jpg"
+Bannerjpg: "https://heilpraktiker-physiotherapie.com/assets/images/BannerHPPT.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hpphysio.com" # the base hostname & protocol for your site
+url: "https://heilpraktiker-physiotherapie.com" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
 
 paginate:	10 # The number of posts to show per page on your homepage
@@ -23,7 +23,7 @@ paginate_path: '/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/p
 
 name: 'Arne Brödel'
 bio: Physiotherapeut, Heilpraktiker (Physiotherapie)
-author_image: "https//hpphysio.com/assets/images/author.jpg"
+author_image: "https//heilpraktiker-physiotherapie.com/assets/images/author.jpg"
 twitter_username: PhysioHP
 twitter_url: https://twitter.com/PhysioHP
 facebook_url: https://www.facebook.com/HeilpraktikerPhysiotherapie/
@@ -44,5 +44,6 @@ plugins:
   - jekyll-paginate
   - jekyll-github-metadata
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 github: [metadata]
