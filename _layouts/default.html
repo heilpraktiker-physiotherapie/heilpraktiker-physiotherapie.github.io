@@ -5,6 +5,22 @@
 <html ⚡  lang="de">
   {% include head.html %}
    <body>
+      <amp-analytics type="googleanalytics">
+          <script type="application/json">
+          {
+            "vars": {
+              "account": "UA-48825435-1"
+            },
+            "triggers": {
+              "trackPageview": {
+                "on": "visible",
+                "request": "pageview"
+              }
+            }
+          }
+          </script>
+          </amp-analytics>
+          
       <!--the parent of amp-sidebar must be body -->
       <amp-user-notification id="my-notification" layout="nodisplay">
   <div><div>Diese Seite nutzt Cookies</div><div><a href="https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer" target="_blank" >mehr erfahren</a></div>
