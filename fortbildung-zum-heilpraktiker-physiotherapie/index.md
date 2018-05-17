@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Erfolgreich starten als Heilpraktiker Physiotherapie
+metatitle: die wichtigste Fortbildung der Physiotherapie zum sektoralen Heilpraktiker Physiotherapie
 scssfile: fortbildung.scss
 description: wichtige Informationen zur Fortbildung und Prüfung zum Heilpraktiker Physiotherapie (HP Physio)
 customamp:
