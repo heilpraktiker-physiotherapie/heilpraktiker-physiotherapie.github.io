@@ -609,6 +609,9 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     #sidebartogglebutton {
         display: none;
     }
+    #AuswahlSection .standardbutton{
+        min-height: 7em;
+    }
 
 }
 @media (max-width: 869px) {
@@ -727,8 +730,11 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
         padding: 12px 0px;
     }
     #AuswahlSection button{
-        font-size: 0.8em;
+        font-size: 1em;
         width: 96%;
+    }
+    #AuswahlSection .standardbutton{
+        min-height: 4em;
     }
 }
 #shortintros {
