@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Termine und Anmeldung
+title: Termine und Anmeldung zur Fortbildung Heilpraktiker für Physiotherapie
 description: Termine und Anmeldeformular zur Fortbildung Heilpraktiker für Physiotherapie
 scssfile: termine.scss
 customamp:
@@ -63,8 +63,8 @@ Wer es eilig hat, muss vielleicht etwas weiter fahren. Die Reise lohnt sich für
 
 Teilnahme aus Baden-Württemberg müssen gewisse Besonderheiten beachten:
 Die Fortbildung muss, nach internen Richtlinien des Sozialministeriums Baden-Württembergs, in Niedersachsen oder NRW durch staatliche Behörden anerkannt sein und muss auch dort stattgefunden haben.  
-Es haben auch schon Teilnehmer aus Baden-Württemberg die Anerkennung erhalten, wenn Sie z.B. unseren Kurs in Rheinland-Pfalz absolviert haben. Wer aber sicher gehen will bzgl. der Anerkennung nach Aktenlage, sollte unsere Kurse in NRW oder Niedersachsen vorziehen.  
-Weitere Informationen zu den einzelnen Bundesländern findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
+Es haben auch schon Teilnehmer aus Baden-Württemberg die Anerkennung erhalten, wenn Sie z.B. unseren Kurs in Rheinland-Pfalz absolviert haben. Wer aber möglichst sicher gehen will bzgl. der Anerkennung nach Aktenlage, sollte unsere Kurse in NRW oder Niedersachsen vorziehen.  
+Weitere Informationen zu den zu den Anforderungen für den Heilpraktiker Physiotherapie in einzelnen Bundesländern, findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
 
 Bei einigen Kursen arbeiten wir mit externen Fortbildungsanbietern zusammen. Bei diesen Kursen findet die Anmeldung über deren jeweilige Systeme statt.  
 Andere Kurse werden von uns selbst organisiert. Die Anmeldung erfolgt dann über unser Online-Anmeldeformular. Klicke dafür einfach oben auf dieser Seite auf den grünen Button bei Deinem gewählten Termin.  
