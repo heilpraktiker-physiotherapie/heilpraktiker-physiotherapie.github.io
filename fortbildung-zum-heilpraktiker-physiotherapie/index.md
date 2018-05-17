@@ -7,24 +7,23 @@ description: wichtige Informationen zur Fortbildung und Prüfung zum Heilpraktik
 customamp:
     - amp-carousel
 ---
-
-### Wie ist die Fortbildung zum Heilpraktiker Physiotherapie aufgebaut?  
+## Wie ist die Fortbildung zum Heilpraktiker Physiotherapie aufgebaut?
 Intensives multimediales Lernen, vermittelt kompakt alle Grundlagen des Direktzugangs
 
 Die komplette Fortbildung zum <em>HP Physio</em> dauert bei uns üblicherweise 6 Tage, aufgeteilt auf 2 mal 3 Tage, und beinhaltet 64 Unterrichtsstunden.  
-Wir beginnen meist freitags gegen 12 Uhr und verabschieden uns sonntags gegen 18 Uhr. 
-Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt. 
-Auch wenn das Niveau durchaus hoch ist, bestehen die meisten Teilnahme dank der effektiven Vorbereitung die Prüfung auf Anhieb. Wenn ein Teilnehmer die notwendige Punktzahl nicht erreichen sollte, so sind Nachprüfungen problemlos und kostenfrei möglich. 
+Wir beginnen meist freitags gegen 12 Uhr und verabschieden uns sonntags gegen 18 Uhr.
+Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt.  
+Auch wenn das Niveau durchaus hoch ist, bestehen die meisten Teilnahme dank der effektiven Vorbereitung die Prüfung auf Anhieb. Wenn ein Teilnehmer die notwendige Punktzahl nicht erreichen sollte, so sind Nachprüfungen problemlos und kostenfrei möglich.  
 
-Der Inhalt wird präsentiert von echten Experten auf Ihrem Gebiet. 
+Der Inhalt wird präsentiert von echten Experten auf Ihrem Gebiet.  
 Ob Anwalt, Mediziner oder <em>Heilpraktiker Physiotherapie</em>, alle brennen für Ihr Thema und können praxisnah vermitteln.
 
-Du erhältst von uns ein umfangreiches Skript zur Prüfungsvorbereitung für den Teil der Differentialdiagnostik und der Berufskunde. 
+Du erhältst von uns ein umfangreiches Skript zur Prüfungsvorbereitung für den Teil der Differentialdiagnostik und der Berufskunde.  
 Dazu viele wertvolle Handouts zu den verschiedenen Themen der Fortbildung wie Screening, Differentialdiagnostik, körperliche Untersuchung, Praxistipps, Abrechnung und vieles mehr.
 Zukünftig erwarten Dich auch immer mehr "e-learning" Inhalte wie z.B. interaktive Lernvideos.
 
 Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf den Inhalten und Anstößen der Fortbildung aufbauen zu können.  
- 
+  
  > Einige Einblicke von unseren Fortbildungen findest Du auch [hier im Blog]({{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/)  
 
 <div markdown="0">
@@ -37,8 +36,6 @@ Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf 
     </amp-carousel>
 </div>
 <br/>  
-
-
 ### Wer leitet den Unterricht?
 Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement der Dozenten
 
@@ -57,7 +54,7 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
 <div markdown="0">
      <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
                {% for dozent in site.data.dozenten %}
-                <div> 
+                <div>
                  <div class="imagewrapper">
                     <amp-img class="carousel-halffaceimg" src="{{dozent.halffaceimg}}" width="168" height="400" layout="responsive"/>
                  </div>
@@ -74,11 +71,10 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
             </amp-carousel>
 </div>
 <br/>
-
-### Warum sollte ich dazu eine Fortbildung besuchen? 
+### Warum sollte ich dazu eine Fortbildung besuchen?
 Unser Fachwissen macht den Unterschied, zwischen potentiellen Möglichkeiten und spürbarem Erfolg
 
-Es ist nicht überall zwingend erforderlich unserer Fortbildung zu besuchen um <em>Heilpraktiker Physiotherapie</em> zu werden. 
+Es ist nicht überall zwingend erforderlich unserer Fortbildung zu besuchen um <em>Heilpraktiker Physiotherapie</em> zu werden.  
 Sich jedoch alleine auf eine Prüfung beim Gesundheitsamt vorzubereiten, ist für die meisten sehr mühsam, zeitaufwendig und unsicher.  
 Mit unserer Fortbildung und der Anerkennung nach Aktenlage, gehst Du den kürzeren und vor allem besser planbaren Weg.
 
@@ -106,5 +102,5 @@ Egal ob in NRW, Niedersachen, Hessen, Rheinland-Pfalz, Baden-Württemberg, Bayer
 
 Dort wo es Schwierigkeiten gibt, unterstützen wir Dich gerne auf dem Weg zur Erlaubniserteilung und darüber hinaus.
 
-### Wir bringen Dich auf einen erfolgreichen Weg als sektoraler Heilpraktiker für Physiotherapie!
-	
+### Wir bringen Dich auf einen erfolgreichen Weg als sektoraler Heilpraktiker für Physiotherapie!  
+  
