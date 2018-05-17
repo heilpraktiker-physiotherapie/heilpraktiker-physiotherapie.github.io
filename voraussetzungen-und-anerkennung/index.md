@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Voraussetzungen und Anerkennung der Fortbildung Heilpraktiker Physiotherapie
-metatitle: Voraussetzungen und Anerkennung der Fortbildung zum sektoralen Heilpraktiker Physiotherapie
+metatitle: Voraussetzungen und Anerkennung der Fortbildung sektoraler Heilpraktiker Physiotherapie
 description: Informationen zur Anerkennung in NRW, Niedersachsen, Bayern, Baden-Württemberg, Hessen und anderen Bundesländern
 ---
 
