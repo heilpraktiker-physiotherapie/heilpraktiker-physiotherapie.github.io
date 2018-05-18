@@ -29,7 +29,11 @@ scssfile: blog.scss
             "@context": "http://schema.org",
              "@type": "Organization",
              "name": "heilpraktiker-physiotherapie.com",
-             "logo": "{{site.logo}}"
+             "logo":{
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+             "url":"{{site.logo}}"
+              } 
            },
            "image":{
              "@type": "ImageObject",
