@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Termine und Anmeldung zur Fortbildung sektoraler Heilpraktiker für Physiotherapie
+title: Termine und Anmeldung zur Fortbildung sektoraler Heilpraktiker Physiotherapie
 metatitle: Termine zur Fortbildung sektoraler Heilpraktiker Physiotherapie
 description: Termine und Anmeldeformular zur Fortbildung Heilpraktiker für Physiotherapie
 scssfile: termine.scss
