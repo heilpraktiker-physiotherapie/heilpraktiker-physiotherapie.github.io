@@ -15,11 +15,11 @@ scssfile: blog.scss
         {
           "@context": "http://schema.org",
           "@type": "BlogPosting",
-          "name": {{post.title}},
-          "description": {{post.excerpt | strip_html}},
-          "url": {{site.baseurl}}{{post.url}},
-          "headline": {{post.title}},
-          "datePublished": {{post.date}},
+          "name": "{{post.title}}",
+          "description": "{{post.excerpt | strip_html}}",
+          "url": "{{site.baseurl}}{{post.url}}",
+          "headline": "{{post.title}}",
+          "datePublished": "{{post.date}}",
           "author":{
             "@context": "http://schema.org",
             "@type": "Person",
@@ -28,11 +28,11 @@ scssfile: blog.scss
            "publisher":{
              "@type": "Person",
              "name": "heilpraktiker-physiotherapie.com",
-             "logo": {{site.logo}}
+             "logo": "{{site.logo}}"
            } 
            "image":{
              "@type": "ImageObject",
-             "url": {{post.fbimage}}
+             "url": "{{post.fbimage}}"
            }
         }
   </script>
