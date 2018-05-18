@@ -11,19 +11,38 @@ scssfile: blog.scss
   <br/>
   <section class="posts">
       {% for post in paginator.posts %}
-    <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
-      <meta itemprop="mainEntityOfPage" content="{{site.baseurl}}{{post.url}}"/>
-      <meta itemprop="author" content="Arne Brödel"/>
-      <meta itemprop="publisher" content="heilpraktiker-physiotherapie.com" itemscope itemtype="https://schema.org/Person/" /> 
-     <div class="postthumbcont" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-      <meta itemprop="url" content="{{post.thumb}}">
-      <meta itemprop="width" content="200">
-      <meta itemprop="height" content="100">
+      <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "BlogPosting",
+          "name": {{post.title}},
+          "description": {{post.excerpt | strip_html}},
+          "url": {{site.baseurl}}{{post.url}},
+          "headline": {{post.title}},
+          "datePublished": {{post.date}},
+          "author":{
+            "@context": "http://schema.org",
+            "@type": "Person",
+            "name": "Arne Brödel",
+           }
+           "publisher":{
+             "@type": "Person",
+             "name": "heilpraktiker-physiotherapie.com",
+             "logo": {{site.logo}}
+           } 
+           "image":{
+             "@type": "ImageObject",
+             "url": {{post.fbimage}}
+           }
+        }
+  </script>
+    <article role="article">
+     <div class="postthumbcont">
          <amp-img class="postthumb" src="{{post.thumb}}" width="200" height="100" layout="responsive"></amp-img>
      </div>
 <!--    <div class="posttextcont">-->
-      <h3 itemprop="name headline"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3><br/>
-      <time itemprop="datePublished" datetime="{{post.date}}">
+      <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3><br/>
+      <time datetime="{{post.date}}">
           {{post.date | date:"%d.%m.%Y"}}
         </time>
         <p>{{post.excerpt | strip_html}} <a href="{{site.baseurl}}{{post.url}}" title="read more" class="more">weiter lesen...</a></p>
