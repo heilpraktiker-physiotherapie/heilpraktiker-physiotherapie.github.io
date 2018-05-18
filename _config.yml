@@ -14,7 +14,7 @@ description: Heilpraktiker Physiotherapie - Fortbildung inklusive Prüfung zur A
 logo: "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT.svg"
 logo600jpg: "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT600.jpg"
 Bannerjpg: "https://heilpraktiker-physiotherapie.com/assets/images/BannerHPPT.jpg"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://heilpraktiker-physiotherapie.com" # the subpath of your site, e.g. /blog
 url: "https://heilpraktiker-physiotherapie.com" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
 
