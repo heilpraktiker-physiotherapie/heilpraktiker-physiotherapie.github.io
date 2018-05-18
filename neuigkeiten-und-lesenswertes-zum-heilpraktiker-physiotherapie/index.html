@@ -2,7 +2,7 @@
 layout: page
 title: Unser Blog - kleine Artikel zu wichtigen Erkenntnissen und Entwicklungen in der Physiotherapie und dem Direktzugang
 description: kurze Artikel zum Heilpraktiker für Physiotherapie
-metatitle: Blog zur Fortbildung zum sektoralen Heilpraktiker Physiotherapie
+metatitle: Blog zur Fortbildung sektoraler Heilpraktiker Physiotherapie
 scssfile: blog.scss
 ---
 
@@ -12,12 +12,18 @@ scssfile: blog.scss
   <section class="posts">
       {% for post in paginator.posts %}
     <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
-     <div class="postthumbcont">
+      <meta itemprop="mainEntityOfPage" content="{{site.baseurl}}{{post.url}}"/>
+      <meta itemprop="author" content="Arne Brödel"/>
+      <meta itemprop="publisher" content="heilpraktiker-physiotherapie.com"/>
+     <div class="postthumbcont" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+      <meta itemprop="url" content="{{post.thumb}}">
+      <meta itemprop="width" content="200">
+      <meta itemprop="height" content="100">
          <amp-img class="postthumb" src="{{post.thumb}}" width="200" height="100" layout="responsive"></amp-img>
      </div>
 <!--    <div class="posttextcont">-->
-      <a href="{{site.baseurl}}{{post.url}}"><h3>{{post.title}}</h3></a><br/>
-      <time itemprop="dateCreated" datetime="{{post.date}}">
+      <h3 itemprop="name headline"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3><br/>
+      <time itemprop="datePublished" datetime="{{post.date}}">
           {{post.date | date:"%d.%m.%Y"}}
         </time>
         <p>{{post.excerpt | strip_html}} <a href="{{site.baseurl}}{{post.url}}" title="read more" class="more">weiter lesen...</a></p>
