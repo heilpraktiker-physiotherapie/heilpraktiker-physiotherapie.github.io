@@ -14,20 +14,7 @@ Kiefernstraße 33
 40233 Düsseldorf
 Deutschland
 info@heilpraktiker-physiotherapie.com
-Impressum: https://heilpraktiker-physiotherapie.com/impressum/
-
-Arten der verarbeiteten Daten:
-- Bestandsdaten (z.B., Namen, Adressen).
-- Kontaktdaten (z.B., E-Mail, Telefonnummern).
-- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).
-- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
-- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
-
-Zweck der Verarbeitung
-- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
-- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
-- Sicherheitsmaßnahmen.
-- Reichweitenmessung/Marketing
+https://heilpraktiker-physiotherapie.com/impressum/
 
 Erfassung personenbezogener Daten
 „Personenbezogene Daten“ sind nach DSGVO alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann. 
@@ -36,7 +23,7 @@ Maßgebliche Rechtsgrundlagen
 Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Sie ergibt sich aus der DSGVO Artikel 6 und Artikel 7, insofern dies im Eizelnen nicht explizit anders beschrieben wird.
 
 Übermittlungen in Drittländer
-Sofern wir Daten in einem Land außerhalb der Europäischen Union verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Drittergeschieht, erfolgt dies nur unter den  Voraussetzungen der Art. 44 ff. DSGVO.
+Sofern wir Daten in einem Land außerhalb der Europäischen Union verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter geschieht, erfolgt dies nur unter den  Voraussetzungen der Art. 44 ff. DSGVO.
 
 Rechte der betroffenen Personen
 Sie haben nach Artikel 12 und 15 der DSGVO das Recht auf transparente Information über Ihre Daten, insofern diese von uns erhoben wurden.
@@ -48,7 +35,7 @@ Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkun
 
 Cookies und Widerspruchsrecht bei Direktwerbung
 Heilpraktiker-physiotherapie.com nutzt selbst keine Cookies zum speichern oder sammeln von Daten über Nutzer. Es kommen jedoch Plugins von Drittanbietern zum Einsatz, welche teilweise Nutzerdaten in Cookies speichern und daraus verarbeiten. Dazu gehören Plugins von Google, Youtube, Facebook, Twitter und Disqus.
-Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
+Nutzer können das Speichern von Cookies über die Systemeinstellungen ihres Browsers deaktivieren und gespeicherte Cookies löschen.
 
 Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/ erklärt werden. Weitere Informationen zu Cookies und der Unterbindung von Datenspeichern erhalten Sie hier https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer.
 
@@ -67,10 +54,7 @@ Soziale Netzwerke (Facebook, Twitter, Google Plus)
 
 Sie können diesen Service nutzen, wenn Sie auf den entsprechenden Plattformen registriert sind und dort ein Nutzerkonto ("Account") halten.
 
-Wenn Sie unsere Seiten besuchen oder nutzen, wird über das jeweilige Plugin eine direkte Verbindung zwischen Ihrem Browser und den Servern der oben genannten Dienstanbieter hergestellt. Der Plugin-Diensteanbieter erhält dadurch die Information, dass Sie unsere Seite genutzt haben sowie – wie bei jedem Direktzugriff auf einen Server – Ihre IP-Adresse übermittelt. Wenn Sie bei dem Besuch unserer Seiten in Ihren jeweiligen Account eingeloggt sind, kann der jeweilige Anbieter Ihre Nutzung unserer Webseite Ihrem Account zuordnen. Dadurch entstehen ggf. Nutzerprofile bei dem jeweiligen Anbieter, die über das hinausgehen, was in Ihrem jeweiligen Profil tatsächlich veröffentlicht wird. Wir hat keinen Einfluss darauf, welche Informationen bei den Anbietern genutzt und verarbeitet werden und erhält auch keine personenbezogenen Informationen von den Dienstanbietern.
-
-Sofern Sie die Plugins auf unserer Seite aktiv Nutzen, also beispielsweise auf den "Like"-Button des Facebook-Plugins klicken während, Sie mit Ihrem Facebook-Account eingeloggt sind, werden die von Ihnen "empfohlenen" Inhalte in Ihrem Profil des jeweiligen Social-Media-Dienstes (z.B. Facebook) veröffentlicht.
-
+Diese Anbieter können beim öffnen der Seiten Ihre IP-Adresse erfassen und wenn Sie bei den Unternehmen über Ihren Browser angemeldet sind, die Aktivität Ihrem Konto zuordnen. Auf die Sammlung und Auswertung dieser Informationen haben wir keinen Einfluss.
 Näheres dazu erfahren Sie auf den Datenschutz-Seiten der Anbieter unter den o.g. Links.
 
 Eingebundene Inhalte:
@@ -82,10 +66,10 @@ Facebook Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, Ireland
 Twitter, Inc. 795 Folsom St., Suite 600, San Francisco, CA 94107, USA
     https://twitter.com/de/privacy
 eingebunden werden.
-Diese Anbieter können beim öffnen der Seiten Ihre IP-Adresse erfassen und wenn Sie bei den Unternehmen über Ihren Browser angemeldet sind, die Aktivität Ihrem Konto zuordnen.
+Diese Anbieter können beim Öffnen der Seiten Ihre IP-Adresse erfassen und wenn Sie bei den Unternehmen über Ihren Browser angemeldet sind, die Aktivität Ihrem Konto zuordnen.
 
 Geschäftsbezogene Verarbeitung
-Zusätzlich verarbeiten wir Vertragsdaten und Zahlungsdaten von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen, Service und Kundenpflege, Marketing, Werbung und Marktforschung.
+Wir verarbeiten Vertragsdaten und Zahlungsdaten von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen, Service und Kundenpflege, Marketing, Werbung und Marktforschung.
 
 Administration, Finanzbuchhaltung, Büroorganisation, Kontaktverwaltung
 Wir verarbeiten Daten von Kunden, Interessenten, Geschäftspartner und Websitebesucher im Rahmen von Verwaltungsaufgaben sowie Organisation unseres Betriebs, Finanzbuchhaltung und Befolgung der gesetzlichen Pflichten, wie z.B. der Archivierung, entsprechend  DSGVO, Art. 6 Abs. 1.  
@@ -100,11 +84,9 @@ Wir nutzen zudem das DISQUS-Kommentarsystem, das von der Firma DISQUS, Inc., 301
 
 Newsletter
 Indem Sie unseren Newsletter abonnieren, erklären Sie sich mit dem Empfang und den beschriebenen Verfahren einverstanden.
- Wir versenden Newsletter, E-Mails und weitere elektronische Benachrichtigungen zu Informations- und Werbezwecken, nur mit der Einwilligung der Empfänger.
- Die Anmeldungen zum Newsletter werden erfasst, um den Anmeldeprozess entsprechend den rechtlichen Anforderungen zu protokollieren. Hierzu gehört die Speicherung des Anmelde- und des Bestätigungszeitpunkts, als auch der IP-Adresse. 
+ Wir versenden E-Mails zu Informations- und Werbezwecken, nur mit der Einwilligung der Empfänger. Entsprechende Anmeldedaten werden von uns erfasst.
 
 Der Versand der Newsletter erfolgt mittels des Versanddienstleisters „MailChimp“ des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA. Datenschutzbestimmungen: https://mailchimp.com/legal/privacy/.
-
 Der Versanddienstleister kann die Daten der Empfänger in pseudonymer Form, d.h. ohne Zuordnung zu einem Nutzer, zur Optimierung oder Verbesserung der eigenen Services nutzen. Der Versanddienstleister darf jedoch nicht die Daten zu eigener Kontaktaufnahme nutzen und diese an Dritte weitergeben.
 
 Google Analytics:
