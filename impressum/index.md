@@ -5,26 +5,53 @@ description: Impressum von heilpraktiker-physiotherapie.com
 
 ---
 
-Google Analytics-Datenschutzerklärung:
+Impressum
+Angaben gemäß § 5 TMG:
+Arne Brödel
+Kiefernstraße 33
+40233 Düsseldorf
 
-Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Die Benutzung erfolgt auf der Grundlage des Art. 6 Abs. 1 S. 1 lit. f. DSGVO. Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung der Webseite wie
+Kontakt:
+Telefon: 017624317369
+E-Mail: info@heilpraktiker-physiotherapie.com
 
-    Browser-Typ/-Version,
-    verwendetes Betriebssystem,
-    Referrer-URL (die zuvor besuchte Seite),
-    Hostname des zugreifenden Rechners (IP-Adresse),
-    Uhrzeit der Serveranfrage,
+Aufsichtsbehörde:
+Gesundheitsamt Düsseldorf
+Kölner Str. 180
+40227 Düsseldorf
+https://www.duesseldorf.de/gesundheitsamt.html
 
-werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Wir haben zudem auf dieser Webseite Google Analytics um den Code „anonymizeIP“ erweitert. Dies garantiert die Maskierung Ihrer IP-Adresse, sodass alle Daten anonym erhoben werden. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
+Berufsbezeichnung und berufsrechtliche Regelungen
+Berufsbezeichnung: Heilpraktiker eingeschränkt auf den Bereich der Physiotherapie
+Verliehen durch: Deutschland
+Es gelten folgende berufsrechtliche Regelungen: Heilpraktikergesetz
+Regelungen einsehbar unter: https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html
 
-Im Auftrag des Betreibers dieser Website wird Google diese Information benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseiten-Aktivitäten zusammenzustellen und um weitere mit der Webseiten-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall möglicherweise nicht sämtliche Funktionen dieser Webseite vollumfänglich werden nutzen können.
+Angaben zur Berufshaftpflichtversicherung
+Name und Sitz des Versicherers:
+Continentale Sachversicherung AG
+Ruhrallee 92
+44139 Dortmund
+Geltungsraum der Versicherung: Deutschland
 
-Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de. Alternativ zum Browser-Add-On, insbesondere bei Browsern auf mobilen Endgeräten, können Sie die Erfassung durch Google Analytics zudem verhindern, indem Sie auf diesen Link klicken. Es wird ein Opt-Out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert. Der Opt-Out-Cookie gilt nur in diesem Browser und nur für unsere Website und wird auf Ihrem Gerät abgelegt. Löschen Sie die Cookies in diesem Browser, müssen Sie das Opt-Out-Cookie erneut setzen. [Anm. Hinweise zur Einbindung des Opt-Out-Cookie finden Sie unter: https://developers.google.com/analytics/devguides/collection/gajs/?hl=de#disable].
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Arne Brödel
+Kiefernstraße 33
+40233 Düsseldorf
 
-Wir nutzen Google Analytics weiterhin dazu, Daten aus Double-Click-Cookies und auch AdWords zu statistischen Zwecken auszuwerten. Sollten Sie dies nicht wünschen, können Sie dies über den Anzeigenvorgaben-Manager (http://www.google.com/settings/ads/onweb/?hl=de) deaktivieren.
+Streitschlichtung
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-Weitere Informationen zum Datenschutz im Zusammenhang mit Google Analytics finden Sie etwa in der Google Analytics-Hilfe (https://support.google.com/analytics/answer/6004245?hl=de).
+Haftung für Inhalte
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-Verantwortlich für den Inhalt der Website www.heilpraktiker-physiotherapie.com ist Arne Brödel,Kiefernstraße 33, 40233 Düsseldorf, arne'(at)'heilpraktiker-physiotherapie'(punkt)'com 
+Haftung für Links
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben.
+Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
+Urheberrecht
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
+Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+Quelle: https://www.e-recht24.de

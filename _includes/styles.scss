@@ -605,7 +605,7 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     }
 }
 
-@media (min-width: 870px) {
+@media (min-width: 880px) {
     #sidebartogglebutton {
         display: none;
     }
@@ -614,7 +614,7 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     }
 
 }
-@media (max-width: 869px) {
+@media (max-width: 879px) {
     .navbuttonsbar {
         display: none;
     }
