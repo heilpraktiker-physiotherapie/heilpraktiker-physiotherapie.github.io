@@ -24,7 +24,7 @@
   preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  show: true
+  show: false
   
 - datum: 01.06.2018 bis 03.06.2018 und  06.07.2018 bis 08.07.2018
   startdate: 2018-06-01t12:00
@@ -38,7 +38,7 @@
   preis: 590
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.236701/?edref=hppt
   warteliste: true 
-  show: true
+  show: false
 
 - datum: 07.09.2018 bis 09.09.2018 und 28.09.2018 bis 30.09.2018
   startdate: 2018-09-07t12:00

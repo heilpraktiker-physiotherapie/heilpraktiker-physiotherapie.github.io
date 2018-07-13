@@ -65,14 +65,7 @@ So behalten es sich einzelne Gesundheitsämter vor, grundsätzlich auf die münd
 Dies stellt aber zum Glück die Ausnahme dar und auch dafür finden wir gemeinsam Lösungen.
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Hessen](https://www.jurion.de/gesetze/hpgdrl_he/5/){:target="_blank"}
   
-**Baden-Württemberg** ist auch etwas komplizierter, was die Anerkennung nach Aktenlage angeht.
-Die allgemeine Interpretation des Urteils des Bundesverwaltungsgericht zum <em>Heilpraktiker Physiotherapie</em> gibt vor, dass auf die Überprüfung beim Gesundheitsamt verzichtet werden kann, wenn der Anwärter nachweisen kann die notwendigen Kenntnisse in einer staatlich anerkannten Fortbildung erworben zu haben.  
-Das Gesundheitsministerium selber ist als zuständige staatliche Behörde aber nicht gewillt eine solche Anerkennung zu erteilen. Diese Anerkennung gibt es so nur in NRW und Niedersachsen.  
-Diese Akkreditierung wird auch in Baden-Württemberg anerkannt, allerdings offiziell nur dann, wenn die Fortbildung auch dort stattgefunden hat, wo diese akkreditiert wurde.  
-Ziemlich kompliziert.  
-Letztendlich bedeutet dies für Anwärter aus Baden-Württemberg, dass Sie eine unserer Fortbildungen in NRW oder Niedersachsen besuchen müssen, um bestmögliche Chancen auf die Anerkennung nach Aktenlage in Baden-Württemberg zu haben.
-Auch innerhalb Baden-Württembergs gibt es leider Unterschiede.  
-Für uns bedeutet das entsprechend, dass es wenig Sinn macht eine Fortbildung in Baden-Württemberg zu veranstalten, auch wenn wir Dir gerne entgegen kommen würden.
+**Baden-Württemberg** hat sich lange am Urteil des Bundesverwaltungsgerichtes orientiert und mit staatlich anerkannten Fortbildungen die Anerkennung nach Aktenlage erteilt. Einzelne Amtärzte lehnten diese Anerkennung nach Aktenlage aber irgendwann, ohne weitere Begründung, ab. Dieses unbegründete uneinheitliche Vorgehen in BW gefiel der Sozialministerium nicht. Ende April 2018 wurden die Gesundheitsämter einberufen. Mit der Begründung einer neuen bundeseinheitlichen Leitlinie, sollen nun vorerst in ganz BW keine Erlaubniserteilungen nach Aktenlage mehr vorgenommen werden, auch wenn die aktuelle Verwaltungsvorschrift dies immernoch vorsieht und damit auch das höchstrichterliche Urteil des Bundesverwaltungsgerichtes ignoriert wird. Die Anerkennung nach Aktenlage müsste zur Zeit wohl eingeklagt werden.
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Baden-Württemberg(siehe insbesondere Punkt 6.3.3)](https://www.kreis-tuebingen.de/site/LRA-Tuebingen-Internet-Root/get/params_E535554938/610654/Verwaltungsvorschrift%20des%20Sozialministeriums%20zur%20Durchf%C3%BChrung%20des%20Heilpraktikergesetzes.pdf){:target="_blank"}
 
 Auch in **Thüringen** sind die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie repräsentiert und die Anerkennung nach Aktenlage vorgesehen.  
