@@ -1,14 +1,5 @@
-input{
-    width:98%;
-    font-size:1em;
-    
-}
-textarea{
- width:98%; 
- 
-}
-
-button{
+#kontaktform{
+    button{
     min-width:100px; 
     min-height:40px; 
     background-color:#49b300; 
@@ -22,4 +13,14 @@ button{
     font-weight:bold;
     margin:4px auto; 
     display:block;
+    }
+    input{
+        width:98%;
+        font-size:1em;
+        
+    }
+    textarea{
+    width:98%; 
+    
+    }
 }
