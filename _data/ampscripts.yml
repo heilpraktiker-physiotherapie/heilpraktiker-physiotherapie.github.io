@@ -41,3 +41,7 @@ amp-analytics:
 amp-sidebar:
     name: amp-sidebar
     src: https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
+
+amp-form:
+    name: amp-form
+    src: https://cdn.ampproject.org/v0/amp-form-0.1.js

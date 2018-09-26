@@ -5,6 +5,7 @@ metatitle: Kontakt zur Fortbildung sektoraler Heilpraktiker Physiotherapie
 description: Kontaktformular für die Fortbildung zum Heilpraktiker für Physiotherapie
 customamp:
     - amp-iframe
+    - amp-form
 scssfile: kontakt.scss
 ---
 
