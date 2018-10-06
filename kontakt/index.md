@@ -16,7 +16,7 @@ Nutze einfach das Medium, welches Dir am besten liegt.
 Telefonisch kannst Du Arne unter 0176-24317369 kontaktieren. Nicht immer wird er direkt erreichbar sein, freut sich aber über eine Mailboxnachricht und meldet sich dann schnellstmöglich zurück.
 Noch schneller und einfacher ist meist die Kommunikation über Email.
 Nutze am besten direkt das Kontaktformular um eine Nachricht zu schreiben.
-<form id="kontaktform" method="POST" action-xhr="https://formspree.io/arne.broedel@gmail.com">
+<form id="kontaktform" method="POST" action-xhr="https://www.enformed.io/mmb1fj60">
    <input name="Name" placeholder="Vorname Nachname" type="text">
   <input name="email" placeholder="Deine Emailadresse" type="email">
   <textarea name="Nachricht" placeholder="DeineNachricht"></textarea>
