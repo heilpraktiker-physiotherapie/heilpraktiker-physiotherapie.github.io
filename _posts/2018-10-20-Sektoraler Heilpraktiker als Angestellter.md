@@ -14,7 +14,7 @@ An unseren Fortbildungen nehmen auch immer mehr angestellte Physiotherapeuten te
 Ich bin überzeugt, <!-- more -->dass auch Arbeitnehmer uneingeschränkt profitieren können, sowohl von unserer Fortbildung und deren Inhalten, als auch von der letztendlichen Erlaubniserteilung.  
 Die berufsrechtlichen Kenntnisse die in unserem Kurs vermittelt werden, sind für selbstständige HPs genauso relevant wie für angestellte Physios, denn die Regelungen betreffen uns alle und werden meist in der Ausbildung nur sehr unzureichend unterrichtet.  
 Durch umfassende Kenntnisse und ein strukturiertes Vorgehen das Risiko auf schwerwiegende Erkrankungen als mögliche Ursache für körperliche Beschwerden richtig einschätzen zu können, ist ebenso relevant im physiotherapeutischen Alltag und wird die Patientenversorgung verbessern.  
-Wir vermitteln Kenntnisse für eine umfassende orientierende Untersuchung, die so nicht in der Ausbildung gelehrt wird, in der Praxis aber gerade bei komplexen Krankheitsfällen weiterhelfen können.  
+Wir vermitteln Kenntnisse für eine umfassende orientierende Untersuchung, die so nicht in der Ausbildung gelehrt wird, in der Praxis aber gerade bei komplexen Krankheitsfällen weiterhelfen kann. 
 Wir beschäftigen uns mit der Verantwortung der Indikationsstellung und dem reflektierten Umgang mit den eigenen Möglichkeiten. Dies steigert die Sicherheit in der Behandlung von Patienten, aber auch die Effizienz der Behandlung.
 Ebenso wichtig wie der Kenntnisgewinn zur berufsrechtlichen Absicherung und der Verbesserung der Versorgungsqualität, sind aber auch finanzielle Aspekte.  
 Keine Fortbildung und kein Zertifikat verändert so die wirtschaftlichen Möglichkeiten wie der sektorale Heilpraktiker.  
