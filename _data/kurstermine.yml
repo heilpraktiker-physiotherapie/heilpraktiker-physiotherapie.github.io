@@ -238,17 +238,19 @@
   kursnummer: HPPT46
   show: true
 
-- datum: 04.10.2019 bis 06.10.2019 und 15.11.2019 bis 17.11.2019
-  startdate: 2019-10-04t13:00
-  enddate: 2019-11-17t18:00 
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark A15
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preis: 795
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+- datum: 08.11.2019 bis 10.11.2019 und  06.12.2019 bis 08.12.2019
+  startdate: 2019-11-08t12:00
+  enddate: 2019-12-08t18:00 
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  ort: Düsseldorf
+  plz: 40225
+  str: Moorenstraße 5
+  land: NRW
+  veranstalter: heilpraktiker-physiotherapie.com
+  fruehbucher: 590
+  fruehbucherdatum: 30.09.2018
+  preis: 650
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.326836/?edref=hppt
+  warteliste: false 
   kursnummer: HPPT47
-  show: true
+  show: false
