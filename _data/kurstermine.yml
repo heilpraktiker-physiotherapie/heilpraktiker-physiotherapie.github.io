@@ -100,7 +100,7 @@
   preis: 620
   link: https://ifeas.javis.de/onlineregistration/150/registration
   kursnummer: HPPT37
-  show: true
+  show: false
 
 - datum: 11.01.2019 bis 13.01.2019 und  01.02.2019 bis 03.02.2019
   startdate: 2019-01-11t12:00
