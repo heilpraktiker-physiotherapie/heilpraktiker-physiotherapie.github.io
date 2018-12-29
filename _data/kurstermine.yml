@@ -115,7 +115,7 @@
   fruehbucherdatum: 30.09.2018
   preis: 650
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.281489/?edref=hppt
-  warteliste: false 
+  warteliste: true
   kursnummer: HPPT38
   show: true
 
