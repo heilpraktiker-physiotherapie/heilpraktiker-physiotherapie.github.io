@@ -117,7 +117,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.281489/?edref=hppt
   warteliste: true
   kursnummer: HPPT38
-  show: true
+  show: false
 
 - datum: 18.01.2019 bis 20.01.2019 und 08.02.2019 bis 10.02.2019
   startdate: 2019-01-18t13:00
@@ -132,7 +132,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT39
-  show: true
+  show: false
 
 - datum: 22.02.2019 bis 24.02.2019 und 29.03.2019 bis 31.03.2019
   startdate: 2019-02-22t13:00
