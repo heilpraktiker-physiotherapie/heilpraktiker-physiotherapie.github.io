@@ -15,27 +15,15 @@ Nutze einfach das Medium, welches Dir am besten liegt.
 
 Telefonisch kannst Du Arne unter 0176-24317369 kontaktieren. Nicht immer wird er direkt erreichbar sein, freut sich aber über eine Mailboxnachricht und meldet sich dann schnellstmöglich zurück.
 Noch schneller und einfacher ist meist die Kommunikation über Email.
-Nutze am besten direkt das Kontaktformular um eine Nachricht zu schreiben.  
-<strong>Das Kontaktformular funktioniert leider gerade nicht. Bitte wende Dich direkt per Email an info&lt;at&gt;heilpraktiker-physiotherapie.com</strong>
-<form id="kontaktform" method="POST" action-xhr="https://www.enformed.io/mmb1fj60/">
-   <input name="Name" placeholder="Vorname Nachname" type="text">
-  <input name="email" placeholder="Deine Emailadresse" type="email">
-  <textarea name="Nachricht" placeholder="Das Kontaktformular funktioniert leider gerade nicht. Bitte wende Dich direkt per Email an info&lt;at&gt;heilpraktiker-physiotherapie.com"></textarea>
-  <input type="hidden" name="_next" value="https://heilpraktiker-physiotherapie.com" />
-  <input type="hidden" name="_subject" value="Deine Nachricht an heilpraktiker-physiotherapie.com" />
-  <input type="hidden" name="_language" value="de" />
+Schreib einfach direkt an info©heilpraktiker-physiotherapie.com.
 
-  <button type="submit">senden</button>
-</form>
+
+
+
 
 Auch bei [facebook]({{site.facebook_url}}){:target="_blank"}, [twitter]({{site.twitter_url}}){:target="_blank"}, [google+]({{site.googleplus_url}}){:target="_blank"} und [youtube]({{site.youtube_url}}){:target="_blank"} kannst Du uns finden, folgen und anschreiben.
 Gib uns einfach ein "Gefällt mir" bei [facebook]({{site.facebook_url}}){:target="_blank"} und schon kriegst Du dort die Neuigkeiten und interessantes Wissen im Stream angezeigt.
 <br/>
-<strong>Unser Newsletter</strong> <br/>
-Wichtige Hinweise und Informationen zu den Chancen und Schwierigkeiten im Alltag des Heilpraktiker für Physiotherapie, erhälst Du im Newsletter. <br/>
-Bleibe mit uns up-to-date und fit für den Erfolg. <br/>
-<amp-iframe id="newsletterform" src="https://arnold85.github.io/websiteassets/mailchimpform/newslettersignup.html" width="500" height="363" layout="responsive" sandbox="allow-forms allow-scripts"><amp-img layout="fill" src="/assets/images/KontaktPlaceholder.jpg" placeholder></amp-img></amp-iframe>
- 
 
 
 
