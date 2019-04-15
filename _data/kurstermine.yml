@@ -147,7 +147,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT40
-  show: true
+  show: false
 
 - datum: 15.03.2019 bis 17.03.2019 und 12.04.2019 bis 14.04.2019
   startdate: 2019-03-15t13:00
