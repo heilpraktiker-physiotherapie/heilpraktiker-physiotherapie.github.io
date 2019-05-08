@@ -270,3 +270,19 @@
   warteliste: false 
   kursnummer: HPPT48
   show: true
+
+- datum: 10.01.2020 bis 12.01.2020 und 21.02.2020 bis 23.02.2020
+  startdate: 2020-01-10t12:00
+  enddate: 2020-02-23t18:00 
+  ortsbezeichnung: Orbtalschule Bad Orb GmbH
+  ort: Bad Orb
+  plz: 63619
+  str: Würzburger Str. 7 - 13
+  land: Hessen
+  veranstalter: heilpraktiker-physiotherapie.com
+  fruehbucher: 620
+  fruehbucherdatum: 30.09.2019
+  preis: 670
+  link: https://app1.edoobox.com/de/book/D3.D3.QP9cGMN1kd2QVWwkFeQFEZDdWUTRnVBZTOGRGOmJHOZZVWkNjTFlXekJGSYRmQYhGTxhDUzMmcONmSzQTZ4MWamlXMysCNyskWGZzZZJDUHBHZr1URrpUT//?edref=hppt
+  warteliste: false
+  show: false
