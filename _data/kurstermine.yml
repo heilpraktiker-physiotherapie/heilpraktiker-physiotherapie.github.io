@@ -162,7 +162,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT41
-  show: true
+  show: false
 
 - datum: 10.05.2019 bis 12.05.2019 und 28.06.2019 bis 30.06.2019
   startdate: 2019-05-10t12:00
@@ -177,7 +177,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT42
-  show: true
+  show: false
 
 - datum: 24.05.2019 bis 26.05.2019 und 07.06.2019 bis 09.06.2019
   startdate: 2019-05-24t12:00
@@ -192,23 +192,8 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT43
-  show: true
-
-- datum: 04.10.2019 bis 06.10.2019 und 15.11.2019 bis 17.11.2019
-  startdate: 2019-10-04t13:00
-  enddate: 2019-11-17t18:00 
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark A15
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preis: 795
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT44
-  show: true
-
+  show: false
+  
 - datum: 30.08.2019 bis 01.09.2019 und 25.10.2019 bis 27.10.2019
   startdate: 2019-08-31t13:00
   enddate: 2019-10-27t18:00 
@@ -250,10 +235,26 @@
   fruehbucher: 620
   fruehbucherdatum: 30.05.2019
   preis: 670
+  warteliste: true
   link: https://app1.edoobox.com/de/book/D3.D3.QP9cmRz02d5gjR1RVYPlVUwZkbnRkY5w2VuFUat9CT3JTZlNGN140VRhDV0JHZ4gDZoRHU24mZkNncBVDWQdGUVREWqRjbmNjMwFFNOd1KE1WUwUzLRpVO//?edref=hppt
   kursnummer: HPPT47
   show: true
 
+- datum: 04.10.2019 bis 06.10.2019 und 15.11.2019 bis 17.11.2019
+  startdate: 2019-10-04t13:00
+  enddate: 2019-11-17t18:00 
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  ort: Regensburg
+  plz: 93059
+  str: Im Gewerbepark A15
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT44
+  show: true
+  
 - datum: 08.11.2019 bis 10.11.2019 und  06.12.2019 bis 08.12.2019
   startdate: 2019-11-08t12:00
   enddate: 2019-12-08t18:00 
@@ -263,8 +264,6 @@
   str: Moorenstraße 5
   land: NRW
   veranstalter: heilpraktiker-physiotherapie.com
-  fruehbucher: 620
-  fruehbucherdatum: 31.08.2019
   preis: 670
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.326836/?edref=hppt
   warteliste: false 
