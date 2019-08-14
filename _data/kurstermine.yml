@@ -252,7 +252,7 @@
   preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT44
+  kursnummer: HPPT48
   show: true
   
 - datum: 08.11.2019 bis 10.11.2019 und  06.12.2019 bis 08.12.2019
@@ -267,7 +267,7 @@
   preis: 670
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.326836/?edref=hppt
   warteliste: false 
-  kursnummer: HPPT48
+  kursnummer: HPPT49
   show: true
 
 - datum: 10.01.2020 bis 12.01.2020 und 21.02.2020 bis 23.02.2020
@@ -284,4 +284,139 @@
   preis: 670
   link: https://app1.edoobox.com/de/book/D3.D3.QP9cGMN1kd2QVWwkFeQFEZDdWUTRnVBZTOGRGOmJHOZZVWkNjTFlXekJGSYRmQYhGTxhDUzMmcONmSzQTZ4MWamlXMysCNyskWGZzZZJDUHBHZr1URrpUT//?edref=hppt
   warteliste: false
+  kursnummer: HPPT50
+  show: true
+
+- datum: 17.01.2020 bis 19.01.2020 und 07.02.2020 bis 09.02.2020
+  startdate: 2020-01-17t13:00
+  enddate: 2020-02-09t18:00 
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  ort: Regensburg
+  plz: 93059
+  str: Im Gewerbepark A15
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT51
+  show: true
+
+- datum: 24.01.2020 bis 26.01.2020 und 27.03.2020 bis 29.03.2020
+  startdate: 2020-01-24t13:00
+  enddate: 2020-03-27t18:00 
+  ortsbezeichnung: tbz - Therapeutisches Bildungszentrum Würzburg
+  ort: Würzburg
+  plz: 97080
+  str: Petrinistraße 14-16
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT52
+  show: true
+
+- datum: 08.05.2020 bis 10.05.2020 und 26.06.2020 bis 28.06.2020
+  startdate: 2020-05-08t13:00
+  enddate: 2020-06-28t18:00 
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Rosenheim
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT53
+  show: true
+
+- datum: 15.05.2020 bis 17.05.2020 und 05.06.2020 bis 07.06.2020
+  startdate: 2020-05-15t12:00
+  enddate: 2020-06-07t18:00 
+  ortsbezeichnung: IFEAS
+  ort: Stadthagen
+  plz: 31655
+  str: Dorfstraße 2
+  land: Niedersachsen
+  veranstalter: IFEAS
+  preis: 620
+  link: https://ifeas.de
+  kursnummer: HPPT54
+  show: true
+
+- datum: 28.08.2020 bis 30.08.2020 und 30.10.2020 bis 01.11.2020
+  startdate: 2020-08-28t13:00
+  enddate: 2020-11-01t18:00 
+  ortsbezeichnung: FAB – Fortbildungsakademie Berlin
+  ort: Berlin
+  plz: 12524
+  str: Ortolfstraße 210
+  land: Berlin
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT55
+  show: true
+
+- datum: 04.09.2020 bis 06.09.2020 und 09.10.2020 bis 11.10.2020
+  startdate: 2020-09-04t13:00
+  enddate: 2020-10-11t18:00 
+  ortsbezeichnung: MediPhys Jena
+  ort: Jena
+  plz: 07743
+  str: Ernst-Abbe-Platz 3-4
+  land: Thüringen
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT56
+  show: true  
+
+- datum: 11.09.2020 bis 13.09.2020 und 27.11.2020 bis 29.11.2020
+  startdate: 2020-09-11t13:00
+  enddate: 2020-11-29t18:00 
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  ort: Regensburg
+  plz: 93059
+  str: Im Gewerbepark A15
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT57
+  show: true
+
+- datum: 25.09.2020 bis 27.09.2020 und 13.11.2020 bis 15.11.2020
+  startdate: 2020-09-25t12:00
+  enddate: 2020-11-15t18:00 
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Rosenheim
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT58
+  show: false
+
+- datum: 06.11.2020 bis 08.11.2020 und  11.12.2020 bis 13.12.2020
+  startdate: 2020-11-06t12:00
+  enddate: 2020-12-13t18:00 
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  ort: Düsseldorf
+  plz: 40225
+  str: Moorenstraße 5
+  land: NRW
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 670
+  link:https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.396859/?edref=hppt
+  warteliste: false 
+  kursnummer: HPPT59
   show: true
