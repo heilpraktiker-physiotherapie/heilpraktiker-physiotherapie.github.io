@@ -235,7 +235,7 @@
   fruehbucher: 620
   fruehbucherdatum: 30.05.2019
   preis: 670
-  warteliste: true
+  warteliste: false
   link: https://app1.edoobox.com/de/book/D3.D3.QP9cmRz02d5gjR1RVYPlVUwZkbnRkY5w2VuFUat9CT3JTZlNGN140VRhDV0JHZ4gDZoRHU24mZkNncBVDWQdGUVREWqRjbmNjMwFFNOd1KE1WUwUzLRpVO//?edref=hppt
   kursnummer: HPPT47
   show: true
