@@ -1,5 +1,13 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-github-metadata'
-gem 'rouge'
-gem 'jekyll-sitemap'
+gem 'jekyll'
+
+gem 'github-pages'
+
+
+group :jekyll_plugins do
+    gem 'jekyll-sitemap'
+    gem 'jekyll-feed'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-github-metadata'
+    gem 'rouge'
+  end
