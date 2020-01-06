@@ -332,9 +332,9 @@
   kursnummer: HPPT53
   show: true
 
-- datum: 15.05.2020 bis 17.05.2020 und 05.06.2020 bis 07.06.2020
-  startdate: 2020-05-15t12:00
-  enddate: 2020-06-07t18:00 
+- datum: 05.06.2020 bis 07.06.2020 und 18.07. bis 20.07.2020
+  startdate: 2020-06-05t12:00
+  enddate: 2020-07-20t18:00 
   ortsbezeichnung: IFEAS
   ort: Stadthagen
   plz: 31655
