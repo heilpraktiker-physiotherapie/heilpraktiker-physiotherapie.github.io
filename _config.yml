@@ -7,6 +7,7 @@
 
 # Site settings
 title: sektoraler Heilpraktiker Physiotherapie - Fortbildung und Prüfung
+tagline: Fortbildung zum sektoralen Heilpraktiker Physiotherapie
 fbtitle: Werde jetzt Heilpraktiker für Physiotherapie
 fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/FacebookErfolgreichAlsHPPT.jpg"
 email: info@heilpraktiker-physiotherapie.com    
@@ -17,6 +18,7 @@ Bannerjpg: "https://heilpraktiker-physiotherapie.com/assets/images/BannerHPPT.jp
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://heilpraktiker-physiotherapie.com" # the base hostname & protocol for your site
 repository: heilpraktiker-physiotherapie/heilpraktiker-physiotherapie.github.io
+
 
 paginate:	10 # The number of posts to show per page on your homepage
 paginate_path: '/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/page:num/'
@@ -46,6 +48,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 github: [metadata]
