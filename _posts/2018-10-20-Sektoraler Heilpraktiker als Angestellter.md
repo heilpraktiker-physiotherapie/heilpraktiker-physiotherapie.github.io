@@ -6,6 +6,8 @@ thumb: /assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jp
 date: 20.10.2018
 fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jpg"
 excerpt_separator: <!-- more -->
+customamp:
+    - amp-iframe
 ---
 <amp-img src="/assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jpg" width="1484" height="780" layout="responsive" ></amp-img>  
 
