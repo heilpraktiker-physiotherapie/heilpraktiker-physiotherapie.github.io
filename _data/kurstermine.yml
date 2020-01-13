@@ -268,7 +268,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.326836/?edref=hppt
   warteliste: false 
   kursnummer: HPPT49
-  show: true
+  show: false
 
 - datum: 10.01.2020 bis 12.01.2020 und 21.02.2020 bis 23.02.2020
   startdate: 2020-01-10t12:00
@@ -346,6 +346,23 @@
   kursnummer: HPPT54
   show: true
 
+- datum: 21.08.2020 bis 23.08.2020 und 18.09.2020 bis 20.09.2020
+  startdate: 2020-08-21t12:00
+  enddate: 2020-09-20t18:00 
+  ortsbezeichnung: Badhaus Schwarz
+  ort: Wiesbaden
+  plz: 65203
+  str: Rathausstraße 57
+  land: Hessen
+  veranstalter: heilpraktiker-physiotherapie.com
+  fruehbucher: 620
+  fruehbucherdatum: 01.05.2020
+  preis: 670
+  warteliste: false
+  link: https://app1.edoobox.com/de/book/D3.D3.QP9cHaodlRqNXbxEVTqdXUHFUZ2kWVBxmUN9kUPh1TXdjYGdzK1EDS50kb2tGUt12UsF3TGpUYPNHUtJFTxQVdF1Wa6dUV5ZEWDhjbNF3NUV2MmpHT6hnY//?edref=hppt
+  kursnummer: HPPT55
+  show: true
+
 - datum: 28.08.2020 bis 30.08.2020 und 30.10.2020 bis 01.11.2020
   startdate: 2020-08-28t13:00
   enddate: 2020-11-01t18:00 
@@ -358,7 +375,7 @@
   preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT55
+  kursnummer: HPPT56
   show: true
 
 - datum: 04.09.2020 bis 06.09.2020 und 09.10.2020 bis 11.10.2020
@@ -373,7 +390,7 @@
   preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT56
+  kursnummer: HPPT57
   show: true  
 
 - datum: 11.09.2020 bis 13.09.2020 und 27.11.2020 bis 29.11.2020
@@ -388,7 +405,7 @@
   preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT57
+  kursnummer: HPPT58
   show: true
 
 - datum: 25.09.2020 bis 27.09.2020 und 13.11.2020 bis 15.11.2020
@@ -403,7 +420,7 @@
   preis: 795
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT58
+  kursnummer: HPPT59
   show: false
 
 - datum: 06.11.2020 bis 08.11.2020 und  11.12.2020 bis 13.12.2020
@@ -418,5 +435,19 @@
   preis: 670
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.396859/?edref=hppt
   warteliste: false 
-  kursnummer: HPPT59
+  kursnummer: HPPT60
+  show: true
+
+- datum: 20.11.2020 bis 22.11.2020 und 04.12.2020 bis 06.12.2020
+  startdate: 2020-11-20t13:00
+  enddate: 2020-12-06t18:00 
+  ortsbezeichnung: Fortbildungsakademie Ahlhorn
+  ort: Emmelshausen (bei Koblenz)
+  plz: 56281
+  str: Hunsrückhöhenstraße 1
+  land: Rheinland-Pfalz
+  veranstalter: Fortbildungsakademie Ahlhorn/ Fortbildungs-Akademie Pschick
+  preis: 795
+  link:  https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  kursnummer: HPPT61
   show: true
