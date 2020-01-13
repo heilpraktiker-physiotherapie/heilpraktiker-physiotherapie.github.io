@@ -421,7 +421,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT59
-  show: false
+  show: true
 
 - datum: 06.11.2020 bis 08.11.2020 und  11.12.2020 bis 13.12.2020
   startdate: 2020-11-06t12:00
@@ -448,6 +448,7 @@
   land: Rheinland-Pfalz
   veranstalter: Fortbildungsakademie Ahlhorn/ Fortbildungs-Akademie Pschick
   preis: 795
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   link:  https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   kursnummer: HPPT61
   show: true
