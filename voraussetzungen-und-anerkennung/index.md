@@ -58,22 +58,19 @@ Erfüllen Fortbildungen alle darin genannten Anforderungen, so ist nun auch in B
 Seit dem Beschluss klappt dies bei uns auch ohne Schwierigkeiten.
 [beispielhaftes Antragformular für die Anerkennung nach Aktenlage in Bayern](http://www.landkreis-wuerzburg.de/media/custom/2680_748_1.PDF?1485357217){:target="_blank"}
   
-In **Hessen** gibt es auch seit einiger Zeit klare Regelungen, wann auf die Prüfung beim Gesundheitsamt verzichtet werden kann und somit die Anerkennung nach Aktenlage zu erteilen ist.  
-Diese sind recht allgemein gehalten, aber dennoch klar formuliert und meist klappt die Anerkennung nach Aktenlage problemlos.  
-Leider gibt es in Hessen keine Behörde, die klar federführend ist.  
-So behalten es sich einzelne Gesundheitsämter vor, grundsätzlich auf die mündliche Überprüfung zu bestehen, obwohl Sie dabei deutschlandweites Recht und auch landesweite Vorgaben ignorieren.  
-Dies stellt aber zum Glück die Ausnahme dar und auch dafür finden wir gemeinsam Lösungen.
-[weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Hessen](https://www.jurion.de/gesetze/hpgdrl_he/5/){:target="_blank"}
+Seit Januar 2020 gibt es in **Hessen** eine neue Verwaltungsrichtlinie für die Durchführung des Heilpraktikergesetzes. Damit wurde auch die Erlaubniserteilung des Heilpraktiker eingeschränkt auf den Bereich der Physiotherapie abgeändert.  
+Wer nun ohne Nachweis einer entsprechenden Fortbildung oder eines Studiums mit den geforderten Inhalten zu Differentialdiagnostik, Indikationsstellung und Berufsrecht den Antrag stellt, muss mit einer schriftlichen und mündlichen Prüfung beim Gesundheitsamt rechnen. 
+Mit entsprechendem Kenntnisnachweis durch eine Fortbildung kann weiterhin die Anerkennung nach Aktenlage erteilt werden.  
+Letztendlich entscheidet aber immer das zuständige Gesundheitsamt, so das auch evtl. nur auf die schriftliche Prüfung verzichtet wird und weiterhin eine mündliche Prüfung beim Gesundheitsamt verlangt wird.  
+[weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Hessen](https://hpphysio-my.sharepoint.com/:b:/g/personal/arne_hpphysio_onmicrosoft_com/Eeil5Vj0ZsNBiZyeLroGuVcB_P536t8vW6-eUPHpU0Qcsw?e=3qyI1C){:target="_blank"}
   
 **Baden-Württemberg** hat sich lange am Urteil des Bundesverwaltungsgerichtes orientiert und mit staatlich anerkannten Fortbildungen die Anerkennung nach Aktenlage erteilt. Einzelne Amtsärzte lehnten diese Anerkennung nach Aktenlage aber irgendwann, ohne weitere Begründung, ab. Dieses unbegründete uneinheitliche Vorgehen in BW gefiel dem Sozialministerium nicht. Ende April 2018 wurden die Gesundheitsämter einberufen. Mit der Begründung einer neuen bundeseinheitlichen Leitlinie, sollen nun vorerst in ganz BW keine Erlaubniserteilungen nach Aktenlage mehr vorgenommen werden, auch wenn die aktuelle Verwaltungsvorschrift dies immer noch vorsieht und damit auch das höchstrichterliche Urteil des Bundesverwaltungsgerichtes ignoriert wird. Die Anerkennung nach Aktenlage müsste zurzeit wohl eingeklagt werden.
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Baden-Württemberg(siehe insbesondere Punkt 6.3.3)](https://www.kreis-tuebingen.de/site/LRA-Tuebingen-Internet-Root/get/params_E535554938/610654/Verwaltungsvorschrift%20des%20Sozialministeriums%20zur%20Durchf%C3%BChrung%20des%20Heilpraktikergesetzes.pdf){:target="_blank"}
 
-Auch in **Thüringen** sind die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie repräsentiert und die Anerkennung nach Aktenlage vorgesehen.  
-Dafür muss der Anwärter eine staatlich anerkannte Aus-, Fort- oder Weiterbildung nachweisen, welche die geforderten Inhalte entsprechend abdeckt.  
-Leider sind die zuständigen Verwaltungsangestellten nicht gewillt konkrete Angaben zu machen, unter welchen Voraussetzungen die Anerkennung nach Aktenlage sicher erteilt wird. Die Betonung liegt auf der Einzelfallentscheidung. Berufserfahrung spielt hier eine Rolle und zum Teil können auch weitere fachspezifische Fortbildungen wie MT die Anerkennung nach Aktenlage begünstigen.
-Grundsätzlich haben Anwärter aus Thüringen aber die besten Chancen auf Anerkennung nach Aktenlage, wenn sie unsere Fortbildung besucht haben und bislang haben alle Teilnehmer*innen aus Thüringen auch die Anerkennung nach Aktenlage erhalten.
-[weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Thüringen(siehe insbesondere Punkt 5.3.f)](http://landesrecht.thueringen.de/jportal/portal/t/108g/page/bsthueprod.psml;jsessionid=A225061F691C8BB3F8F1106EB00E7FD0.jp27?doc.hl=1&doc.id=VVTH-VVTH000006268&documentnumber=17&numberofresults=18&doctyp=vvth&showdoccase=1&doc.part=F&paramfromHL=true#ivz5){:target="_blank"}
-
+In **Thüringen** wurden bislang die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie umgesetzt und, nach dem Kenntnisnachweis durch unsere Fortbildung, in aller Regel die Anerkennung nach Aktenlage erteilt.  
+Seit September 2019 ist diese Verwaltungsrichtlinie allerdings abgelaufen und es wurde keine neue veröffentlicht.  
+Bis das geschieht, wurden die Gesundheitsämter vorerst angehalten, keine Anerkennung nach Aktenlage durchzuführen, auch wenn dies die richterlichen Vorgaben des Bundesverwaltungsgerichtes missachtet. Zur Zeit ist also damit zu rechnen, dass alle Antragsteller zumindest zu einer mündlichen Prüfung eingeladen werden. Das ist zwar erstmal ärgerlich für Antragsteller/innen, aber auch auf diese Prüfung bereiten wir gut vor.  
+Es sollte sich niemand davon abgeschreckt fühlen. Wie lange es dauern kann bis eine neue Verwaltungsrichtlinie gültig wird und was sich dadurch ändern wird, ist zur Zeit nicht absehbar.
 
   > Du findest keine Information zu Deinem Bundesland? Dann nutze einfach [unser Kontaktformular]({{site.baseurl}}/kontakt/) für Deine Frage. Arne hilft Dir gerne weiter.
 
