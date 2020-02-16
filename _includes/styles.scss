@@ -405,13 +405,10 @@ amp-youtube {
     margin: auto;
     max-width: 1260px;
     .imagewrapper{
-        width: percentage(168/852);
         height: 100%;
         float: left;
-        //display: inline-block;
     }
     .dozenttext{
-        width: 80%;
         height: 100%;
         display: inline-block;
     }
