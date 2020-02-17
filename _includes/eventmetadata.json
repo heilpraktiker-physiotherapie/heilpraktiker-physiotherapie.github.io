@@ -1,6 +1,6 @@
 {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "Course",
     "name": "Fortbildung Heilpraktiker Physiotherapie {{include.event.ort}}",
     "startDate": "{{include.event.startdate}}",
     "endDate": "{{include.event.enddate}}",
@@ -25,11 +25,10 @@
         "priceCurrency": "EUR",
         "validFrom": "2018-01-01"
     },
-    "performer": {
-        "@type": "Person",
-        "givenName": "Arne",
-        "familyName": "Brödel",
-        "name": "Arne Brödel"
+    "provider": {
+        "@type": "Organization",
+        "name": "heilpraktiker-physiotherapie.com",
+        "sameAs": "https://heilpraktiker-physiotherapie.com"
 
     }
 }

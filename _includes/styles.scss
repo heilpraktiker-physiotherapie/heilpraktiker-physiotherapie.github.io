@@ -613,15 +613,6 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
 }
 
 
-@media (max-width: 1050px){
-     #visit .gplus {
-        display: none;
-    }
-    footer .sharespacer{
-        margin: 0;
-    }
-    
-}
 
 @media (max-width: 960px){
     footer .sharespacer.big {
@@ -688,12 +679,6 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
             font-size: 0.8em;
         }
     }
-}
-@media (max-width: 750px){
-    #share .gplus {
-        display: none;
-    }
-    
 }
 
 @media (max-width: 690px){
