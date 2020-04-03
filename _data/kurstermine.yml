@@ -13,7 +13,7 @@
   link: https://app1.edoobox.com/de/book/D3.D3.QP9cGMN1kd2QVWwkFeQFEZDdWUTRnVBZTOGRGOmJHOZZVWkNjTFlXekJGSYRmQYhGTxhDUzMmcONmSzQTZ4MWamlXMysCNyskWGZzZZJDUHBHZr1URrpUT//?edref=hppt
   warteliste: false
   kursnummer: HPPT50
-  show: true
+  show: false
 
 - datum: 17.01.2020 bis 19.01.2020 und 07.02.2020 bis 09.02.2020
   startdate: 2020-01-17t13:00
@@ -28,7 +28,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT51
-  show: true
+  show: false
 
 - datum: 24.01.2020 bis 26.01.2020 und 27.03.2020 bis 29.03.2020
   startdate: 2020-01-24t13:00
@@ -43,7 +43,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT52
-  show: true
+  show: false
 
 - datum: 08.05.2020 bis 10.05.2020 und 26.06.2020 bis 28.06.2020
   startdate: 2020-05-08t13:00
@@ -121,7 +121,7 @@
   kursnummer: HPPT57
   show: true  
 
-- datum: 11.09.2020 bis 13.09.2020 und 27.11.2020 bis 29.11.2020
+- datum: 11.09.2020 bis 14.09.2020 und 28.11.2020 bis 29.11.2020
   startdate: 2020-09-11t13:00
   enddate: 2020-11-29t18:00 
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
