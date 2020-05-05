@@ -10,10 +10,6 @@
         "telephone": "+49-176-24317369",
         "contactType": "customer support"
     }],
-    "logo": {
-      "@type": "ImageObject",
-      "contentUrl": "{{ site.logo600jpg }}",
-       "height": "60",
-        "width":"600"
+    "logo": "{{ site.logo600jpg }}"
     }
   }

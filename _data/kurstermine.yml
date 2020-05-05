@@ -59,11 +59,12 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT53
   show: true
+  elearning: true
 
 - datum: 05.06.2020 bis 07.06.2020 und 18.07.2020 bis 20.07.2020
   startdate: 2020-06-05t12:00
   enddate: 2020-07-20t18:00 
-  ortsbezeichnung: IFEAS
+  ortsbezeichnung: IFEAS 
   ort: Stadthagen
   plz: 31655
   str: Dorfstraße 2
@@ -73,6 +74,22 @@
   link: https://ifeas.de
   kursnummer: HPPT54
   show: true
+  elearning: true
+
+- datum: 12.06.2020 bis 14.06.2020 und 19.06.2020 bis 21.06.2020
+  startdate: 2020-06-12t13:00
+  enddate: 2020-06-21t18:00 
+  ortsbezeichnung: Bei Dir Zuhause (E-Learning)
+  ort: Prüfung wahlweise in Regensburg, Würzburg, Rosenheim, Dresden oder Berlin
+  plz: 93059
+  str: Im Gewerbepark A13-A1
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  link: https://pschick-group.de/fortbildungsakademie/kurse/live-webinar-sektoraler-heilpraktiker-fuer-physiotherapie-in-regensburg-rosenheim-wuerzburg-start-12-06-2020-team-arne-broedel/
+  kursnummer: HPPTe1
+  show: true
+  elearning: true
 
 - datum: 21.08.2020 bis 23.08.2020 und 18.09.2020 bis 20.09.2020
   startdate: 2020-08-21t12:00
