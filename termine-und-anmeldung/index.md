@@ -47,6 +47,9 @@ Unsere aktuellen Termine sind:
             <span>Preis: {{kurs.preis}}€</span> <br/>
     {% endif %}
     <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
+    {% if kurs.elearning==true %}
+      <div class="iselearning">E-Learning</div>
+    {% endif %}
     {% if kurs.warteliste==true %}
       <div class="warteliste">Warteliste</div>
     {% endif %}
