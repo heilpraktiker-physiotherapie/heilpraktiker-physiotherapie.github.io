@@ -14,6 +14,12 @@ Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-P
 <amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
 
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
+<div class="achtungbox fullwidthtextbar">
+  <strong>Mit uns sicher planen:</strong>  
+  Da wir alle nicht in die Zukunft sehen können und unklar bleibt, wie sich die Einschränkungen wegen Covid-19 entwickeln, können die Kurse evtl. nicht als Präsenzveranstaltung stattfinden. Mit uns kannst Du aber sicher planen.  
+  Wir haben hervorragende Erfahrung mit der Durchführung des Kurses als Onlineseminar gemacht. Wenn die Kurse also nicht wie geplant möglich sein sollte, wechseln wir in die digitale Welt und liefern Dir dort die beste Fortbildung zum Heilpraktiker für Physiotherapie. Dieser wird genauso von den Gesundheitsämtern anerkannt, wie die Präsenzveranstaltung.  
+  Für Dich aber entsteht daraus keine Verpflichtung. Wenn Du den Kurs nicht Online absolvieren möchtest, dann kannst Du den Kurs stornieren.
+</div>
 Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
 <script type="application/ld+json">

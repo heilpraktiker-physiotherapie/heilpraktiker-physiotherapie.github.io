@@ -15,7 +15,7 @@ Nutze einfach das Medium, welches Dir am besten liegt.
 
 Telefonisch kannst Du Arne unter 0176-24317369 kontaktieren. Nicht immer wird er direkt erreichbar sein, freut sich aber über eine Mailboxnachricht und meldet sich dann schnellstmöglich zurück.
 Noch schneller und einfacher ist meist die Kommunikation über Email.
-Schreib einfach direkt an info©heilpraktiker-physiotherapie.com.
+Schreib einfach direkt an info@heilpraktiker-physiotherapie.com.
 
 
 
