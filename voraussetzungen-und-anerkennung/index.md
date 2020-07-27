@@ -69,8 +69,8 @@ Letztendlich entscheidet aber immer das zuständige Gesundheitsamt, so das auch 
 
 In **Thüringen** wurden bislang die gesetzlichen und richterlichen Vorgaben in der Verwaltungsrichtlinie umgesetzt und, nach dem Kenntnisnachweis durch unsere Fortbildung, in aller Regel die Anerkennung nach Aktenlage erteilt.  
 Seit September 2019 ist diese Verwaltungsrichtlinie allerdings abgelaufen und es wurde keine neue veröffentlicht.  
-Bis das geschieht, wurden die Gesundheitsämter vorerst angehalten, keine Anerkennung nach Aktenlage durchzuführen, auch wenn dies die richterlichen Vorgaben des Bundesverwaltungsgerichtes missachtet. Zur Zeit ist also damit zu rechnen, dass alle Antragsteller zumindest zu einer mündlichen Prüfung eingeladen werden. Das ist zwar erstmal ärgerlich für Antragsteller/innen, aber auch auf diese Prüfung bereiten wir gut vor.  
-Es sollte sich niemand davon abgeschreckt fühlen. Wie lange es dauern kann bis eine neue Verwaltungsrichtlinie gültig wird und was sich dadurch ändern wird, ist zur Zeit nicht absehbar.
+Eine für mich unverständliche und von den anderen Bundesländern abweichende Interpretation der aktuellen Bundesrichtlinie führt aktuell leider dazu, dass in Thüringen grundsätzliche keine Erlaubniserteilung nach Aktenlage mehr erfolgen soll. Nach der Fortbildung muss eine zusätzliche mündliche Prüfung beim Gesundheitsamt bestanden werden.
+Es sollte sich aber niemand davon abgeschreckt fühlen. Unsere Fortbildung bereit intensiv auch auf die Prüfung vor diese ist weitaus besser einzugrenzen als eine Vollheilpraktikerprüfung.
 
   > Du findest keine Information zu Deinem Bundesland? Dann nutze einfach [unser Kontaktformular]({{site.baseurl}}/kontakt/) für Deine Frage. Arne hilft Dir gerne weiter.
 
