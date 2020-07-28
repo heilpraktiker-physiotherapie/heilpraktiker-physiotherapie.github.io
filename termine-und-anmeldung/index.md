@@ -15,10 +15,16 @@ Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-P
 
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
 <div class="achtungbox fullwidthtextbar">
-  <strong>Mit uns sicher planen:</strong>  
+  <strong>Mit uns sicher planen und die individuell optimale Schulungsform auswählen:</strong>  
   Da wir alle nicht in die Zukunft sehen können und unklar bleibt, wie sich die Einschränkungen wegen Covid-19 entwickeln, können die Kurse evtl. nicht als Präsenzveranstaltung stattfinden. Mit uns kannst Du aber sicher planen.  
-  Wir haben hervorragende Erfahrung mit der Durchführung des Kurses als Onlineseminar gemacht. Wenn die Kurse also nicht wie geplant möglich sein sollte, wechseln wir in die digitale Welt und liefern Dir dort die beste Fortbildung zum Heilpraktiker für Physiotherapie. Dieser wird genauso von den Gesundheitsämtern anerkannt, wie die Präsenzveranstaltung.  
-  Für Dich aber entsteht daraus keine Verpflichtung. Wenn Du den Kurs nicht Online absolvieren möchtest, dann kannst Du den Kurs stornieren.
+  Wir haben hervorragende Erfahrung mit der Durchführung des Kurses als Onlineseminar gemacht. Wenn die Präsenzkurse also nicht wie geplant möglich sein sollte, wechseln wir in die digitale Welt und liefern Dir dort die beste Fortbildung zum Heilpraktiker für Physiotherapie. Diese wird genauso von den Gesundheitsämtern anerkannt, wie die Präsenzveranstaltung.  
+  Langfristig sollen unsere Teilnehmer*innen das beste aus beiden Welten mitnehmen können. Es wird Kurse geben,  
+  <ul>
+    <li>in denen der gesamte vorgeschriebene Unterricht ganz traditionell in Präsenz stattfindet</li> 
+    <li>andere kombinierte Kurse, welche einen großen Teil der Theorie als Webinar vermitteln und ein Wochenende eher praktische Inhalte in Präsenz üben lassen</li> 
+    <li>und weitere Kurse, die vollständig, bis auf die schriftliche Abschlussprüfung, bequem von zuhause aus durchgeführt werden können.</li>
+  </ul>  
+  So sollte für jeden Lerntyp und jede Lebenssituation das perfekte Format dabei sein.
 </div>
 Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
@@ -47,6 +53,9 @@ Unsere aktuellen Termine sind:
   <span>Kursort: <b>{{kurs.ort}}</b> in {{kurs.land}}</span> <br/>
    {% endif %}
     <span>Kurstage: {{kurs.datum}}</span> <br/>
+    {% if kurs.ablauf %}
+    <span><small>Ablauf: {{kurs.ablauf}}</small></span> <br/>
+    {% endif %}
     <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
     {% if kurs.fruehbucher %}
       <span>Frühbucherpreis: {{kurs.fruehbucher}}€ bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
@@ -69,20 +78,17 @@ Unsere aktuellen Termine sind:
 {% endfor %}
 <div class="clearfix"></div>
 Hast Du noch keinen passenden Termin gefunden? Keine Sorge, es kommen bald neue.
-Bitte schreib uns ruhig direkt [eine Nachricht über unser Kontaktformular]({{site.baeurl}}/kontakt/) und wir informieren Dich sobald neue Termine feststehen.
+Bitte schreib uns ruhig direkt [eine Nachricht]({{site.baseurl}}/kontakt/) und wir informieren Dich sobald neue Termine feststehen.
 
 Die Termine werden üblicherweise zwischen 4 und 8 Monaten im Voraus bekannt gegeben.
 Wir sind dabei nicht an einen festen Ort gebunden, sondern in vielen Orten Deutschlands wechselnd unterwegs. So sollte auch für Dich in absehbarer Zeit ein Kurs erreichbar sein.  
 Wer es eilig hat, muss vielleicht etwas weiter fahren. Die Reise lohnt sich für Dich.
 
-Teilnahme aus Baden-Württemberg müssen gewisse Besonderheiten beachten:
-Die Fortbildung muss, nach internen Richtlinien des Sozialministeriums Baden-Württembergs, in Niedersachsen oder NRW durch staatliche Behörden anerkannt sein und muss auch dort stattgefunden haben.  
-Es haben auch schon Teilnehmer aus Baden-Württemberg die Anerkennung erhalten, wenn Sie z.B. unseren Kurs in Rheinland-Pfalz absolviert haben. Wer aber möglichst sicher gehen will bzgl. der Anerkennung nach Aktenlage, sollte unsere Kurse in NRW oder Niedersachsen vorziehen.  
 Weitere Informationen zu den zu den Anforderungen für den Heilpraktiker Physiotherapie in einzelnen Bundesländern, findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
 
 Bei einigen Kursen arbeiten wir mit externen Fortbildungsanbietern zusammen. Bei diesen Kursen findet die Anmeldung über deren jeweilige Systeme statt.  
 Andere Kurse werden von uns selbst organisiert. Die Anmeldung erfolgt dann über unser Online-Anmeldeformular. Klicke dafür einfach oben auf dieser Seite auf den grünen Button bei Deinem gewählten Termin.  
 Wer eine staatliche Bildungsförderung wie den Bildungsscheck nutzt, gibt einfach im Formular als Gutschein-Code das Wort "Bildungsscheck" ein.
 
-Die Fortbildung findet zur Zeit immer an 2 mal 3 Tagen statt, von Freitag 12 oder 13 Uhr bis 20 Uhr und Samstag und Sonntag je von 9 bis 18 Uhr.
+Die Fortbildung findet zur Zeit meist an 2 mal 3 Tagen statt, von Freitag 12 oder 13 Uhr bis 20 Uhr und Samstag und Sonntag je von 9 bis 18 Uhr.
 Weitere Informationen zu [unserer Fortbildung zum <em>Heilpraktiker Physiotherapie</em>, findest Du unter Fortbildung]({{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/).
