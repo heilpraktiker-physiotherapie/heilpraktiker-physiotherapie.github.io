@@ -198,14 +198,14 @@
   land: Rheinland-Pfalz
   veranstalter: Fortbildungsakademie Ahlhorn/ Fortbildungs-Akademie Pschick
   preis: 795
-  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
-  link:  https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=BBA6A288-4370-40FD-1518-105BB58FCCF8&add-to-cart=12520
   kursnummer: HPPT61
   show: true
 
-- datum: 15.01.2021 bis 17.01.2021 und 26.03.2021 bis 28.03.2021
-  startdate: 2021-01-15t13:00
+- datum: 16.01.2021 bis 17.01.2021 und 25.03.2021 bis 28.03.2021
+  startdate: 2021-01-16t09:00
   enddate: 2021-03-28t18:00 
+  ablauf: Teil 1 am 16. und 17.01. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 25. bis 28.03. findet der Unterricht in Würzburg statt.
   ortsbezeichnung: tbz - Therapeutisches Bildungszentrum Würzburg
   ort: Würzburg
   plz: 97080
@@ -213,14 +213,14 @@
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5813D769-63E1-FA36-1A44-B0E88BAF8A6C&add-to-cart=12520
   kursnummer: HPPT62
   show: true
 
-- datum: 22.01.2021 bis 24.01.2021 und 12.02.2021 bis 14.02.2021
-  startdate: 2021-01-22t13:00
+- datum: 16.01.2021 bis 17.01.2021 und 11.02.2021 bis 14.02.2021
+  startdate: 2021-01-16t09:00
   enddate: 2021-02-14t18:00 
+  ablauf: Teil 1 am 16. und 17.01. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 11. bis 14.02. findet der Unterricht in Regensbrug statt.
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   ort: Regensburg
   plz: 93059
@@ -228,14 +228,14 @@
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=708FAE5A-76A6-3190-9981-6CFA0AE7D4AA&add-to-cart=12520
   kursnummer: HPPT63
   show: true
 
 - datum: 20.02.2021 bis 21.02.2021 und 04.03.2021 bis 07.03.2021
-  startdate: 2021-02-19t12:00
+  startdate: 2021-02-20t09:00
   enddate: 2021-03-07t18:00 
+  ablauf: Teil 1 am 20. und 21.02. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 04. bis 07.03. findet der Unterricht in Stadthagen statt.
   ortsbezeichnung: IFEAS 
   ort: Stadthagen
   plz: 31655
@@ -261,11 +261,12 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.396859/?edref=hppt
   warteliste: false 
   kursnummer: HPPT65
-  show: true
+  show: false
 
-- datum: 07.05.2021 bis 09.05.2021 und 25.06.2021 bis 27.06.2021
-  startdate: 2021-05-07t13:00
-  enddate: 2021-06-27t18:00 
+- datum: 08.05.2021 bis 09.05.2021 und 27.05.2021 bis 30.05.2021
+  startdate: 2021-05-08t09:00
+  enddate: 2021-05-30t18:00
+  ablauf: Teil 1 am 08. und 09.05. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 27. bis 30.05. findet der Unterricht in Rosenheim statt. 
   ortsbezeichnung: Private Massageschule Inntal
   ort: Rosenheim
   plz: 83026
@@ -273,14 +274,14 @@
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
   kursnummer: HPPT66
   show: true
 
-- datum: 18.06.2021 bis 20.06.2021 und 23.07.2021 bis 25.07.2021
-  startdate: 2021-06-18t13:00
-  enddate: 2021-07-25t18:00 
+- datum: 19.06.2021 bis 20.06.2021 und 23.07.2021 bis 26.07.2021
+  startdate: 2021-06-19t09:00
+  enddate: 2021-07-26t18:00 
+  ablauf: Teil 1 am 19. und 20.06. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 23. bis 26.07. findet der Unterricht in Regensburg statt. 
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   ort: Regensburg
   plz: 93059
@@ -288,7 +289,51 @@
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
-  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT63
+  show: true
+
+- datum: 04.09.2021 bis 05.09.2021 und 08.10.2021 bis 11.10.2021
+  startdate: 2020-09-04t09:00
+  enddate: 2020-10-11t18:00 
+  ablauf: Teil 1 am 04. und 05.09. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 08. bis 11.10. findet der Unterricht in Regensburg statt. 
+  ortsbezeichnung: MediPhys Jena
+  ort: Jena
+  plz: 07743
+  str: Ernst-Abbe-Platz 3-4
+  land: Thüringen
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=739E9588-210C-7F57-FB32-BD1F97C9A32E&add-to-cart=12520
+  kursnummer: HPPT57
+  show: true  
+
+- datum: 02.10.2021 bis 03.10.2021 und 29.10.2021 bis 01.11.2021
+  startdate: 2021-10-02t09:00
+  enddate: 2021-11-0118:00
+  ablauf: Teil 1 am 02. und 03.05. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 29.10 bis 01.11. findet der Unterricht in Rosenheim statt. 
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Rosenheim
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT66
+  show: true
+
+- datum: 02.10.2021 bis 03.10.2021 und 19.11.2021 bis 22.11.2021
+  startdate: 2021-10-02t09:00
+  enddate: 2021-11-21t18:00 
+  ablauf: Teil 1 am 02. und 03.05. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 19. bis 22.11. findet der Unterricht in Würzburg statt.
+  ortsbezeichnung: tbz - Therapeutisches Bildungszentrum Würzburg
+  ort: Würzburg
+  plz: 97080
+  str: Petrinistraße 14-16
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
+  kursnummer: HPPT62
   show: true
