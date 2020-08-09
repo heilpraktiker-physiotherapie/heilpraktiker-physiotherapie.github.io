@@ -137,7 +137,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT57
-  show: true  
+  show: false 
 
 - datum: 11.09.2020 bis 14.09.2020 und 28.11.2020 bis 29.11.2020
   startdate: 2020-09-11t13:00
