@@ -248,6 +248,25 @@
   show: true
   elearning: false
 
+- datum: 20.02.2021 bis 21.02.2021 und 22.04.2021 bis 25.04.2021
+  startdate: 2021-02-20t12:00
+  enddate: 2021-04-25t18:00 
+  ablauf: Der Kurs wird die Vorteile von webbasiertem Fernunterricht (Webinar) und Präsenzunterricht vereinen. Das erste Wochenende findet als Fernunterricht statt. Das zweite Wochenende mit praktischen Untersuchungstechniken findet in Wiesbaden statt.
+  ortsbezeichnung: Badhaus Schwarz
+  ort: Wiesbaden
+  plz: 65203
+  str: Rathausstraße 57
+  land: Hessen
+  veranstalter: heilpraktiker-physiotherapie.com
+  fruehbucher: (limitiert) 620
+  fruehbucherdatum: 30.11.2020
+  preis: 690
+  warteliste: false
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508835/?edref=hppt
+  fruehbucherdatum: 30.09.2019
+  kursnummer: HPPT65
+  show: true
+
 - datum: 16.04.2021 bis 18.04.2021 und  14.05.2021 bis 16.05.2021
   startdate: 2021-04-16t12:00
   enddate: 2021-05-16t18:00 
@@ -260,7 +279,7 @@
   preis: 690
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508819/?edref=hppt
   warteliste: false 
-  kursnummer: HPPT65
+  kursnummer: HPPT66
   show: true
 
 - datum: 08.05.2021 bis 09.05.2021 und 27.05.2021 bis 30.05.2021
@@ -275,8 +294,20 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
-  kursnummer: HPPT66
+  kursnummer: HPPT67
   show: true
+
+- datum: 08.05.2021 bis 09.05.2021 und 05.06.2021 bis 06.06.2021
+  startdate: 2021-05-08t09:00
+  enddate: 2021-06-06t18:00 
+  ortsbezeichnung: Bei Dir Zuhause (E-Learning)
+  ablauf: Dieser Kurs ist speziell für Vorbereitung auf eine amtärztliche Prüfung beim Gesundheitsamt ausgelegt. Nicht in allen Bundesländern wir Antragssteller*innen die Erlaubniserteilung nach Aktenlage ermöglicht. Baden-Württemberg und Schleswig-Holstein erwarten beispielsweise immer eine mündliche Prüfung beim Gesundheitsamt. Dozent Arne bereitet Euch in diesem Kurs intensiv darauf vor. Mit einer Dauer von 4 Tagen an 2 Wochenenden ist dieser Kurs besonders kompakt und bequem online zu absolvieren.
+  preis: 490
+  veranstalter: heilpraktiker-physiotherapie.com
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508853/?edref=hppt
+  kursnummer: HPPTe2
+  show: true
+  elearning: true
 
 - datum: 19.06.2021 bis 20.06.2021 und 23.07.2021 bis 26.07.2021
   startdate: 2021-06-19t09:00
@@ -290,13 +321,13 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT63
+  kursnummer: HPPT68
   show: true
 
 - datum: 04.09.2021 bis 05.09.2021 und 08.10.2021 bis 11.10.2021
-  startdate: 2020-09-04t09:00
-  enddate: 2020-10-11t18:00 
-  ablauf: Teil 1 am 04. und 05.09. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 08. bis 11.10. findet der Unterricht in Regensburg statt. 
+  startdate: 2021-09-04t09:00
+  enddate: 2021-10-11t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   ortsbezeichnung: MediPhys Jena
   ort: Jena
   plz: 07743
@@ -305,12 +336,28 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=739E9588-210C-7F57-FB32-BD1F97C9A32E&add-to-cart=12520
-  kursnummer: HPPT57
+  kursnummer: HPPT69
   show: true  
+
+  
+- datum: 04.09.2021 bis 05.09.2021 und 15.10.2021 bis 18.10.2021
+  startdate: 2021-09-04t09:00
+  enddate: 2021-10-18t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  ort: Regensburg
+  plz: 93059
+  str: Im Gewerbepark A15
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preis: 795
+  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
+  kursnummer: HPPT68
+  show: true
 
 - datum: 02.10.2021 bis 03.10.2021 und 29.10.2021 bis 01.11.2021
   startdate: 2021-10-02t09:00
-  enddate: 2021-11-0118:00
+  enddate: 2021-11-01t18:00
   ablauf: Teil 1 am 02. und 03.05. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 29.10 bis 01.11. findet der Unterricht in Rosenheim statt. 
   ortsbezeichnung: Private Massageschule Inntal
   ort: Rosenheim
@@ -320,7 +367,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT66
+  kursnummer: HPPT70
   show: true
 
 - datum: 02.10.2021 bis 03.10.2021 und 19.11.2021 bis 22.11.2021
@@ -335,5 +382,5 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
-  kursnummer: HPPT62
+  kursnummer: HPPT71
   show: true

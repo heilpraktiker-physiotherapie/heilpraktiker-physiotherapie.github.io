@@ -47,9 +47,11 @@ Unsere aktuellen Termine sind:
   {% endif %}
    <div class="kursbackground  {{bgcolor}}"></div>
    <div class="kurstermincontent">
-   {% if kurs.elearning==true %}
+   {% if kurs.elearning==true and kurs.ort  %}
    <span>Prüfungsort(e): {{kurs.ort}}</span> <br/>
-   {% else %}
+   {% elsif  kurs.elearning==true%}
+  <span>Kursort: <b>E-learning von beliebigem Ort</b> </span> <br/>
+   {% elsif  kurs.ort%}
   <span>Kursort: <b>{{kurs.ort}}</b> in {{kurs.land}}</span> <br/>
    {% endif %}
     <span>Kurstage: {{kurs.datum}}</span> <br/>
