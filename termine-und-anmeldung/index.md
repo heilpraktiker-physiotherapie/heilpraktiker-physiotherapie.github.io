@@ -70,6 +70,10 @@ Unsere aktuellen Termine sind:
     <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
     {% if kurs.elearning==true %}
       <div class="iselearning">E-Learning</div>
+    {% elsif kurs.elearning==false %}
+      <div class="ispresence">Präsenzkurs</div>
+    {% elsif kurs.elearning=='hybrid' %}
+      <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
     {% endif %}
     {% if kurs.warteliste==true %}
       <div class="warteliste">Warteliste</div>

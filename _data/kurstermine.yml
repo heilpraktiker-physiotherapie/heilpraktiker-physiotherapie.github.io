@@ -137,7 +137,8 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT57
-  show: false 
+  show: false
+
 
 - datum: 11.09.2020 bis 14.09.2020 und 28.11.2020 bis 29.11.2020
   startdate: 2020-09-11t13:00
@@ -170,6 +171,7 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT59
   show: true
+  elearning: false
 
 - datum: 06.11.2020 bis 08.11.2020 und  11.12.2020 bis 13.12.2020
   startdate: 2020-11-06t12:00
@@ -185,6 +187,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.396859/?edref=hppt
   warteliste: false 
   kursnummer: HPPT60
+  elearning: hybrid
   show: true
 
 - datum: 20.11.2020 bis 22.11.2020 und 04.12.2020 bis 06.12.2020
@@ -201,6 +204,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=BBA6A288-4370-40FD-1518-105BB58FCCF8&add-to-cart=12520
   kursnummer: HPPT61
   show: true
+  elearning: false
 
 - datum: 16.01.2021 bis 17.01.2021 und 25.03.2021 bis 28.03.2021
   startdate: 2021-01-16t09:00
@@ -215,6 +219,7 @@
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5813D769-63E1-FA36-1A44-B0E88BAF8A6C&add-to-cart=12520
   kursnummer: HPPT62
+  elearning: hybrid
   show: true
 
 - datum: 16.01.2021 bis 17.01.2021 und 11.02.2021 bis 14.02.2021
@@ -230,6 +235,7 @@
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=708FAE5A-76A6-3190-9981-6CFA0AE7D4AA&add-to-cart=12520
   kursnummer: HPPT63
+  elearning: hybrid
   show: true
 
 - datum: 20.02.2021 bis 21.02.2021 und 04.03.2021 bis 07.03.2021
@@ -246,7 +252,7 @@
   link: https://ifeas.de
   kursnummer: HPPT64
   show: true
-  elearning: false
+  elearning: hybrid
 
 - datum: 20.02.2021 bis 21.02.2021 und 22.04.2021 bis 25.04.2021
   startdate: 2021-02-20t12:00
@@ -265,11 +271,13 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508835/?edref=hppt
   fruehbucherdatum: 30.09.2019
   kursnummer: HPPT65
+  elearning: hybrid
   show: true
 
-- datum: 16.04.2021 bis 18.04.2021 und  14.05.2021 bis 16.05.2021
-  startdate: 2021-04-16t12:00
+- datum: 16.04.2021 bis 18.04.2021 und 14.05.2021 bis 16.05.2021
+  startdate: 2021-04-16t13:00
   enddate: 2021-05-16t18:00 
+  ablauf: Dieser Kurs ist wird vollständig als Präsenzkurs in Düsseldorf durchgeführt und somit besonders für all diejenigen geeignet, die sich in der digitalen Welt weniger wohl fühlen.
   ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
   ort: Düsseldorf
   plz: 40225
@@ -280,6 +288,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508819/?edref=hppt
   warteliste: false 
   kursnummer: HPPT66
+  elearning: false
   show: true
 
 - datum: 08.05.2021 bis 09.05.2021 und 27.05.2021 bis 30.05.2021
@@ -295,6 +304,7 @@
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
   kursnummer: HPPT67
+  elearning: hybrid
   show: true
 
 - datum: 08.05.2021 bis 09.05.2021 und 05.06.2021 bis 06.06.2021
@@ -322,6 +332,7 @@
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT68
+  elearning: hybrid
   show: true
 
 - datum: 04.09.2021 bis 05.09.2021 und 08.10.2021 bis 11.10.2021
@@ -337,6 +348,7 @@
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=739E9588-210C-7F57-FB32-BD1F97C9A32E&add-to-cart=12520
   kursnummer: HPPT69
+  elearning: hybrid
   show: true  
 
   
@@ -353,6 +365,7 @@
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT68
+  elearning: hybrid
   show: true
 
 - datum: 02.10.2021 bis 03.10.2021 und 29.10.2021 bis 01.11.2021
@@ -368,6 +381,7 @@
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT70
+  elearning: hybrid
   show: true
 
 - datum: 02.10.2021 bis 03.10.2021 und 19.11.2021 bis 22.11.2021
@@ -383,4 +397,5 @@
   preis: 795
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
   kursnummer: HPPT71
+  elearning: hybrid
   show: true

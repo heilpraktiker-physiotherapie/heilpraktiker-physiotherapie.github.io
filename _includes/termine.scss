@@ -61,6 +61,22 @@ a.anmelde_link{
          padding: 8px;
          margin: 8px 20px; 
  }
+ .ispresence{
+    display: inline-block;
+         color: white;
+         border-color: rgb(0, 0, 0);
+         background-color: rgb(132, 0, 255);
+         padding: 8px;
+         margin: 8px 20px; 
+ }
+ .ishybrid{
+    display: inline-block;
+         color: white;
+         border-color: rgb(0, 0, 0);
+         background-color:rgb(255, 115, 0);
+         padding: 8px;
+         margin: 8px 20px; 
+ }
 #gmaps{
     max-height: 500px;
   }
