@@ -257,11 +257,11 @@
   str: Moorenstraße 5
   land: NRW
   veranstalter: heilpraktiker-physiotherapie.com
-  preis: 670
-  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.396859/?edref=hppt
+  preis: 690
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508819/?edref=hppt
   warteliste: false 
   kursnummer: HPPT65
-  show: false
+  show: true
 
 - datum: 08.05.2021 bis 09.05.2021 und 27.05.2021 bis 30.05.2021
   startdate: 2021-05-08t09:00
