@@ -201,7 +201,8 @@
   land: Rheinland-Pfalz
   veranstalter: Fortbildungsakademie Ahlhorn/ Fortbildungs-Akademie Pschick
   preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=BBA6A288-4370-40FD-1518-105BB58FCCF8&add-to-cart=12520
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  link:  https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   kursnummer: HPPT61
   show: true
   elearning: true
