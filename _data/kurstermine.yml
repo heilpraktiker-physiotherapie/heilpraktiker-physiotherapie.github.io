@@ -216,6 +216,7 @@
   str: Petrinistraße 14-16
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5813D769-63E1-FA36-1A44-B0E88BAF8A6C&add-to-cart=12520
   kursnummer: HPPT62
@@ -232,6 +233,7 @@
   str: Im Gewerbepark A15
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=708FAE5A-76A6-3190-9981-6CFA0AE7D4AA&add-to-cart=12520
   kursnummer: HPPT63
@@ -248,8 +250,9 @@
   str: Dorfstraße 2
   land: Niedersachsen
   veranstalter: IFEAS
+  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
   preis: 670
-  link: https://ifeas.de
+  link: https://ifeas.javis.de/onlineregistration/330/registration
   kursnummer: HPPT64
   show: true
   elearning: hybrid
@@ -301,6 +304,7 @@
   str: Klepperstraße 28
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
+  preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
   kursnummer: HPPT67
@@ -312,7 +316,7 @@
   enddate: 2021-06-06t18:00 
   ortsbezeichnung: Bei Dir Zuhause (E-Learning)
   ablauf: Dieser Kurs ist speziell für Vorbereitung auf eine amtärztliche Prüfung beim Gesundheitsamt ausgelegt. Nicht in allen Bundesländern wir Antragssteller*innen die Erlaubniserteilung nach Aktenlage ermöglicht. Baden-Württemberg und Schleswig-Holstein erwarten beispielsweise immer eine mündliche Prüfung beim Gesundheitsamt. Dozent Arne bereitet Euch in diesem Kurs intensiv darauf vor. Mit einer Dauer von 4 Tagen an 2 Wochenenden ist dieser Kurs besonders kompakt und bequem online zu absolvieren.
-  preis: 490
+  preis: 520
   veranstalter: heilpraktiker-physiotherapie.com
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508853/?edref=hppt
   kursnummer: HPPTe2
