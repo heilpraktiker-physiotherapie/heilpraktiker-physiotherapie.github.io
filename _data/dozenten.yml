@@ -22,17 +22,9 @@
   beruf: Arzt, Allgemeinmediziner
   zitat: Ich freue mich darauf, gemeinsam mit den Teilnehmern, an den Methoden der klinischen Untersuchung zu arbeiten.
 
-- name: Dr. med. Lena von Bernus
-  vorname: Lena
-  nachname: von Bernus
-  halffaceimg: /assets/images/HalfFaceLena.jpg
-  width: 236
-  beruf: Ärztin
-  zitat: Die gute Zusammenarbeit der unterschiedlichen Gesundheitsprofessionen ist essentiell für eine gelungene Gesundheitsversorgung.
-
 - name: Dr. med. Karl Busch-Petersen
-  vorname: Lena
-  nachname: von Bernus
+  vorname: Karl
+  nachname: Busch-Petersen
   halffaceimg: /assets/images/halfFaceKarl.jpg
   width: 176
   beruf: Arzt

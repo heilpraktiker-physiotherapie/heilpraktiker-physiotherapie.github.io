@@ -170,7 +170,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT59
-  show: true
+  show: false
   elearning: false
 
 - datum: 06.11.2020 bis 08.11.2020 und  11.12.2020 bis 13.12.2020
@@ -188,7 +188,7 @@
   warteliste: false 
   kursnummer: HPPT60
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 20.11.2020 bis 22.11.2020 und 04.12.2020 bis 06.12.2020
   startdate: 2020-11-20t13:00
@@ -204,7 +204,7 @@
   preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   link:  https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   kursnummer: HPPT61
-  show: true
+  show: false
   elearning: true
 
 - datum: 16.01.2021 bis 17.01.2021 und 25.03.2021 bis 28.03.2021
@@ -227,7 +227,7 @@
 - datum: 16.01.2021 bis 17.01.2021 und 11.02.2021 bis 14.02.2021
   startdate: 2021-01-16t09:00
   enddate: 2021-02-14t18:00 
-  ablauf: Teil 1 am 16. und 17.01. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 11. bis 14.02. findet der Unterricht in Regensbrug statt.
+  ablauf: Teil 1 am 16. und 17.01. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 11. bis 14.02. findet der Unterricht in Regensburg statt.
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   ort: Regensburg
   plz: 93059
