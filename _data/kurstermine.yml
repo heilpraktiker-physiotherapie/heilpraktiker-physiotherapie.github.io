@@ -203,7 +203,7 @@
   preis: 795
   preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   link:  https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
-  kursnummer: HPPT61
+  kursnummer: HPPT64
   show: false
   elearning: true
 
@@ -220,7 +220,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5813D769-63E1-FA36-1A44-B0E88BAF8A6C&add-to-cart=12520
-  kursnummer: HPPT62
+  kursnummer: HPPT65
   elearning: hybrid
   show: true
 
@@ -237,7 +237,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=708FAE5A-76A6-3190-9981-6CFA0AE7D4AA&add-to-cart=12520
-  kursnummer: HPPT63
+  kursnummer: HPPT66
   elearning: hybrid
   show: true
 
@@ -254,7 +254,7 @@
   preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
   preis: 670
   link: https://ifeas.javis.de/onlineregistration/330/registration
-  kursnummer: HPPT64
+  kursnummer: HPPT67
   show: true
   elearning: hybrid
 
@@ -274,7 +274,7 @@
   warteliste: false
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508835/?edref=hppt
   fruehbucherdatum: 30.09.2019
-  kursnummer: HPPT65
+  kursnummer: HPPT68
   elearning: hybrid
   show: true
 
@@ -291,7 +291,7 @@
   preis: 690
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508819/?edref=hppt
   warteliste: false 
-  kursnummer: HPPT66
+  kursnummer: HPPT69
   elearning: false
   show: true
 
@@ -308,7 +308,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
-  kursnummer: HPPT67
+  kursnummer: HPPT70
   elearning: hybrid
   show: true
 
@@ -320,8 +320,8 @@
   preis: 520
   veranstalter: heilpraktiker-physiotherapie.com
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508853/?edref=hppt
-  kursnummer: HPPTe2
-  show: true
+  kursnummer: HPPT72
+  show: false
   elearning: true
 
 - datum: 19.06.2021 bis 20.06.2021 und 23.07.2021 bis 26.07.2021
@@ -336,7 +336,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT68
+  kursnummer: HPPT73
   elearning: hybrid
   show: true
 
@@ -352,7 +352,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=739E9588-210C-7F57-FB32-BD1F97C9A32E&add-to-cart=12520
-  kursnummer: HPPT69
+  kursnummer: HPPT74
   elearning: hybrid
   show: true  
 
@@ -369,7 +369,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT68
+  kursnummer: HPPT75
   elearning: hybrid
   show: true
 
@@ -385,7 +385,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT70
+  kursnummer: HPPT76
   elearning: hybrid
   show: true
 
@@ -401,6 +401,6 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preis: 795
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
-  kursnummer: HPPT71
+  kursnummer: HPPT77
   elearning: hybrid
   show: true
