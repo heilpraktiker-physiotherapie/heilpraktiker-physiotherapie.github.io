@@ -11,6 +11,8 @@ Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!
 Gute Entscheidung! Versprochen ;-)  
 Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum sektoralen Heilpraktiker für Physiotherapie finden.  
 Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten.  
+
+Du willst schnellstmöglich pandemiesicher loslegen? Wir planen aufgrund der hohen Nachfrage einen neuen Onlinekurs für die kommenden Wochen. Der Termin steht noch nicht genau fest. Trag Dich in unser <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUNlA4MkRBQVEzSTRJNEhTMlFMUERUSFM4VC4u">Formular</a> ein um sofort informiert zu werden und Dir Deinen Platz zu sichern.  
 <amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
 
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
