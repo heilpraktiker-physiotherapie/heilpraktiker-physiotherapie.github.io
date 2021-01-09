@@ -224,18 +224,6 @@
   elearning: hybrid
   show: true
 
-- datum: Steht noch nicht fest. Zwischen Ende Januar und Anfang April. Jetzt vormerken lassen.
-  startdate: 
-  enddate: 
-  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Nur die Abschlussprüfung muss in Präsenz schriftlich durchgeführt werden. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten.
-  ortsbezeichnung: Bei Dir zuhause ;-)
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUNlA4MkRBQVEzSTRJNEhTMlFMUERUSFM4VC4u
-  kursnummer: HPPT65
-  elearning: true
-  show: true
-
 - datum: 16.01.2021 bis 17.01.2021 und 11.02.2021 bis 14.02.2021
   startdate: 2021-01-16t09:00
   enddate: 2021-02-14t18:00 
@@ -253,6 +241,18 @@
   elearning: hybrid
   show: true
 
+- datum: 29.01.2021 bis 31.01.2021 und 26.02.2021 bis 28.02.2021
+  startdate: 2021-01-29t09:00
+  enddate: 2021-02-28t1(.00)
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Nur die Abschlussprüfung muss in Präsenz schriftlich durchgeführt werden. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten.
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.546925/?edref=hppt
+  kursnummer: HPPT67
+  elearning: true
+  show: true
+
 - datum: 20.02.2021 bis 21.02.2021 und 04.03.2021 bis 07.03.2021
   startdate: 2021-02-20t09:00
   enddate: 2021-03-07t18:00 
@@ -266,7 +266,7 @@
   preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
   preis: 670
   link: https://ifeas.javis.de/onlineregistration/330/registration
-  kursnummer: HPPT67
+  kursnummer: HPPT68
   show: true
   elearning: hybrid
 
@@ -286,7 +286,7 @@
   warteliste: false
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508835/?edref=hppt
   fruehbucherdatum: 30.09.2019
-  kursnummer: HPPT68
+  kursnummer: HPPT69
   elearning: hybrid
   show: true
 
@@ -303,7 +303,7 @@
   preis: 690
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508819/?edref=hppt
   warteliste: false 
-  kursnummer: HPPT69
+  kursnummer: HPPT70
   elearning: false
   show: true
 
@@ -320,7 +320,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
-  kursnummer: HPPT70
+  kursnummer: HPPT71
   elearning: hybrid
   show: true
 
