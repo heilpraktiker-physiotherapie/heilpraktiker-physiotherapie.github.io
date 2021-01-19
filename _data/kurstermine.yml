@@ -222,7 +222,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5813D769-63E1-FA36-1A44-B0E88BAF8A6C&add-to-cart=12520
   kursnummer: HPPT65
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 16.01.2021 bis 17.01.2021 und 11.02.2021 bis 14.02.2021
   startdate: 2021-01-16t09:00
@@ -239,7 +239,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=708FAE5A-76A6-3190-9981-6CFA0AE7D4AA&add-to-cart=12520
   kursnummer: HPPT66
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 29.01.2021 bis 31.01.2021 und 26.02.2021 bis 28.02.2021
   startdate: 2021-01-29t09:00
@@ -352,9 +352,9 @@
   elearning: hybrid
   show: true
 
-- datum: 04.09.2021 bis 05.09.2021 und 08.10.2021 bis 11.10.2021
-  startdate: 2021-09-04t09:00
-  enddate: 2021-10-11t18:00 
+- datum: 03.09.2021 bis 05.09.2021 und 08.10.2021 bis 10.10.2021
+  startdate: 2021-09-03t09:00
+  enddate: 2021-10-10t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   ortsbezeichnung: MediPhys Jena
   ort: Jena
@@ -369,8 +369,8 @@
   show: true  
 
   
-- datum: 04.09.2021 bis 05.09.2021 und 15.10.2021 bis 18.10.2021
-  startdate: 2021-09-04t09:00
+- datum: 03.09.2021 bis 05.09.2021 und 16.10.2021 bis 18.10.2021
+  startdate: 2021-09-03t09:00
   enddate: 2021-10-18t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
