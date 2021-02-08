@@ -251,7 +251,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.546925/?edref=hppt
   kursnummer: HPPT67
   elearning: true
-  show: true
+  show: false
 
 - datum: 20.02.2021 bis 21.02.2021 und 04.03.2021 bis 07.03.2021
   startdate: 2021-02-20t09:00
@@ -267,7 +267,7 @@
   preis: 670
   link: https://ifeas.javis.de/onlineregistration/330/registration
   kursnummer: HPPT68
-  show: true
+  show: false
   elearning: hybrid
 
 - datum: 20.02.2021 bis 21.02.2021 und 22.04.2021 bis 25.04.2021
@@ -288,6 +288,18 @@
   fruehbucherdatum: 30.09.2019
   kursnummer: HPPT69
   elearning: hybrid
+  show: true
+
+- datum: 19.03.2021 bis 21.03.2021 und 30.03.2021 bis 02.04.2021
+  startdate: 2021-03-19t09:00
+  enddate: 2021-04-02t18.00
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang aber in NRW und Mecklenburg-Vorpommern und einzelnen Kreisen in Bayern, Hessen und Niedersachsen bestätigt. Die Rückmeldungen aus vielen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.557752/?edref=hppt
+  kursnummer: HPPT70
+  elearning: true
   show: true
 
 - datum: 16.04.2021 bis 18.04.2021 und 14.05.2021 bis 16.05.2021

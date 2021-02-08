@@ -13,7 +13,7 @@ Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum sektoral
 Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten.  
 
 Du willst schnellstmöglich pandemiesicher loslegen? Dann buche jetzt unseren Onlinekurs!  
-Schon am 29.01. geht es los. <a target="_blank" href="https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.546925/?edref=hppt"> Jetzt hier anmelden</a> 
+Schon am 19.03. geht es los. <a target="_blank" href="https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.557752/?edref=hppt"> Jetzt hier anmelden</a> 
 <amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
 
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
@@ -25,7 +25,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
   <ul>
     <li>in denen der gesamte vorgeschriebene Unterricht ganz traditionell in Präsenz stattfindet</li> 
     <li>andere kombinierte Kurse, welche einen großen Teil der Theorie als Webinar vermitteln und ein Wochenende eher praktische Inhalte in Präsenz üben lassen</li> 
-    <li>und weitere Kurse, die vollständig, bis auf die schriftliche Abschlussprüfung, bequem von zuhause aus durchgeführt werden können.</li>
+    <li>und weitere Kurse, die vollständig bequem von zuhause aus durchgeführt werden können.</li>
   </ul>  
   So sollte für jeden Lerntyp und jede Lebenssituation das perfekte Format dabei sein.
 </div>
