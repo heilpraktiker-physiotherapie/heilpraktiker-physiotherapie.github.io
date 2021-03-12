@@ -13,7 +13,15 @@
   width: 168
   beruf: Rechtsanwalt, Schwerpunkt Medizinrecht
   zitat: Ich zeige Ihnen die sicheren Pfade für dauerhaften Erfolg als Heilpraktiker Physiotherapie.
-  
+
+- name: Dr. med. Mareike Franke
+  vorname: Mareike
+  nachname: Frank
+  halffaceimg: /assets/images/halfFaceMareike.jpg
+  width: 168
+  beruf: Ärztin
+  zitat: Gemeinsam verbessern wir die Anamnese und Untersuchung als wichtige Grundlagen des physiotherapeutischen Heilpraktikers.
+
 - name: Dr. med. Konstantin Hauß
   vorname: Konstantin
   nachname: Hauß
@@ -21,6 +29,14 @@
   width: 168
   beruf: Arzt, Allgemeinmediziner
   zitat: Ich freue mich darauf, gemeinsam mit den Teilnehmern, an den Methoden der klinischen Untersuchung zu arbeiten.
+
+- name: Julia Karpienski
+  vorname: Julia
+  nachname: Karpienski
+  halffaceimg: /assets/images/halfFaceJulia.jpg
+  width: 168
+  beruf: Ärztin und Physiotherapeutin
+  zitat: Als Ärztin mit physiotherapeutischen Wurzeln, freue ich mich Ihnen weitere Untersuchungstechniken mit auf den Weg zu geben.
 
 - name: Karl Busch-Petersen
   vorname: Karl
