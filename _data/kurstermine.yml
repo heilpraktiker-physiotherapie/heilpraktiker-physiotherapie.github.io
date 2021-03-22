@@ -288,7 +288,7 @@
   fruehbucherdatum: 30.09.2019
   kursnummer: HPPT69
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 19.03.2021 bis 21.03.2021 und 30.04.2021 bis 02.05.2021
   startdate: 2021-03-19t09:00
