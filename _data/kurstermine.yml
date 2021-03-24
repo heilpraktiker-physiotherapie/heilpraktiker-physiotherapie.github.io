@@ -315,8 +315,20 @@
   preis: 690
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508819/?edref=hppt
   warteliste: false 
-  kursnummer: HPPT70
+  kursnummer: HPPT71
   elearning: false
+  show: true
+
+- datum: 30.04.2021 bis 02.05.2021 und 04.06.2021 bis 06.06.2021
+  startdate: 2021-04-30t12:00
+  enddate: 2021-06-06t18.00
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang aber in NRW und Mecklenburg-Vorpommern und einzelnen Kreisen in Hessen und Niedersachsen bestätigt. Die Rückmeldungen aus vielen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.575372/?edref=hppt
+  kursnummer: HPPT72
+  elearning: true
   show: true
 
 - datum: 08.05.2021 bis 09.05.2021 und 27.05.2021 bis 30.05.2021
@@ -332,21 +344,9 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
-  kursnummer: HPPT71
+  kursnummer: HPPT73
   elearning: hybrid
   show: true
-
-- datum: 08.05.2021 bis 09.05.2021 und 05.06.2021 bis 06.06.2021
-  startdate: 2021-05-08t09:00
-  enddate: 2021-06-06t18:00 
-  ortsbezeichnung: Bei Dir Zuhause (E-Learning)
-  ablauf: Dieser Kurs ist speziell für Vorbereitung auf eine amtärztliche Prüfung beim Gesundheitsamt ausgelegt. Nicht in allen Bundesländern wir Antragssteller*innen die Erlaubniserteilung nach Aktenlage ermöglicht. Baden-Württemberg und Schleswig-Holstein erwarten beispielsweise immer eine mündliche Prüfung beim Gesundheitsamt. Dozent Arne bereitet Euch in diesem Kurs intensiv darauf vor. Mit einer Dauer von 4 Tagen an 2 Wochenenden ist dieser Kurs besonders kompakt und bequem online zu absolvieren.
-  preis: 520
-  veranstalter: heilpraktiker-physiotherapie.com
-  link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.508853/?edref=hppt
-  kursnummer: HPPT72
-  show: false
-  elearning: true
 
 - datum: 19.06.2021 bis 20.06.2021 und 23.07.2021 bis 26.07.2021
   startdate: 2021-06-19t09:00
@@ -361,7 +361,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT73
+  kursnummer: HPPT74
   elearning: hybrid
   show: true
 
@@ -378,7 +378,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=739E9588-210C-7F57-FB32-BD1F97C9A32E&add-to-cart=12520
-  kursnummer: HPPT74
+  kursnummer: HPPT75
   elearning: hybrid
   show: true  
 
@@ -396,7 +396,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT75
+  kursnummer: HPPT76
   elearning: hybrid
   show: true
 
@@ -413,7 +413,7 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT76
+  kursnummer: HPPT77
   elearning: hybrid
   show: true
 
@@ -430,6 +430,6 @@
   preislink: http://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2018/01/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
-  kursnummer: HPPT77
+  kursnummer: HPPT78
   elearning: hybrid
   show: true

@@ -12,7 +12,7 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
     <div class="clearfix"></div>
     <main>
        <section>
-            <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
+            <amp-carousel id="mainDozentenCarousel" class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
                 <amp-img width="852" height="400" layout="responsive" src="/assets/images/Jetzt-als-E-Learning.jpg"></amp-img>
                 {% for dozent in site.data.dozenten %}
                {%  assign picwidth = dozent.width | divided_by: 8.52 %}
@@ -49,8 +49,9 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
                 <br> Auch Du kannst Dich hoffentlich bald dazu zählen. <strong>Diese Entscheidung wird Deinen Berufsalltag verändern.</strong>
                 <br> Alle wichtigen Informationen findest Du auf dieser Seite.
                 <br>
-                <br>Du willst schnellstmöglich pandemiesicher loslegen? Dann melde Dich jetzt <a target="_blank" href="https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.557752/?edref=hppt">hier für unseren Onlinekurs an.</a> 
-                </article>
+                <br>Du willst schnellstmöglich pandemiesicher loslegen? Dann melde Dich jetzt <a target="_blank" href="https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.575372/?edref=hppt">hier für unseren Onlinekurs an.</a> 
+                <br>Viele weitere Kurse in Präsenz oder auch "Hybrid" findest Du unter <a href="{{site.baseurl}}/termine-und-anmeldung/">Termine und Anmeldung</a>
+            </article>
                 </div>
         </section>
 {% comment %}
