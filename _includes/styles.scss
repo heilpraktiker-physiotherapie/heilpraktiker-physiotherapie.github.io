@@ -423,13 +423,25 @@ amp-youtube {
     }
     
     .amp-carousel-button {
+        bottom: 10px;
         opacity: 0.1;
         &:hover {
             opacity: 0.9;
         }
     }
-    &:hover .amp-carousel-button {
-        opacity: 0.6;
+    &:hover{
+        .amp-carousel-button {
+        opacity: 0.3;
+        }
+    }
+}
+#mainDozentenCarousel{
+    .amp-carousel-button {
+        bottom: 10px;
+        opacity: 0.1;
+        &:hover {
+            opacity: 0.9;
+        }
     }
 }
 .homelink{

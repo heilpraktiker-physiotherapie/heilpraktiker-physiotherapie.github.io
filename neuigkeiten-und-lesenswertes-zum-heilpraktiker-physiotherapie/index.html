@@ -11,6 +11,7 @@ scssfile: blog.scss
   <br/>
   <section class="posts">
       {% for post in paginator.posts %}
+      {%if post.hide!=true%}
       <script type="application/ld+json">
         {
           "@context": "http://schema.org",
@@ -58,6 +59,7 @@ scssfile: blog.scss
     </article>
     
     <div class="breakingbar clearfix"></div>
+    {%endif%}
   {% endfor %} 
   </section>
  <section>

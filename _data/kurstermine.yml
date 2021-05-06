@@ -300,7 +300,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.557752/?edref=hppt
   kursnummer: HPPT70
   elearning: true
-  show: true
+  show: false
 
 - datum: 16.04.2021 bis 18.04.2021 und 14.05.2021 bis 16.05.2021
   startdate: 2021-04-16t13:00
@@ -317,7 +317,7 @@
   warteliste: false 
   kursnummer: HPPT71
   elearning: false
-  show: true
+  show: false
 
 - datum: 30.04.2021 bis 02.05.2021 und 04.06.2021 bis 06.06.2021
   startdate: 2021-04-30t12:00
@@ -329,7 +329,7 @@
   link: https://app1.edoobox.com/hppt/Sektoraler%20Heilpraktiker%20f%C3%BCr%20Physiotherapie/Kurs.ed.575372/?edref=hppt
   kursnummer: HPPT72
   elearning: true
-  show: true
+  show: false
 
 - datum: 08.05.2021 bis 09.05.2021 und 27.05.2021 bis 30.05.2021
   startdate: 2021-05-08t09:00
@@ -432,4 +432,16 @@
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
   kursnummer: HPPT78
   elearning: hybrid
+  show: true
+
+- datum: 12.11.2021 bis 14.11.2021 und 03.12.2021 bis 05.12.2021
+  startdate: 2021-11-1219t12:00
+  enddate: 2021-12-05t18.00
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT79
+  elearning: true
   show: true
