@@ -445,3 +445,20 @@
   kursnummer: HPPT79
   elearning: true
   show: true
+
+- datum: 28.08.2021 bis 29.08.2021 und 03.09.2021 und 26.11.2021 bis 28.11.2021
+  startdate: 2021-08-28t12:00
+  enddate: 2021-11-28t18:00 
+  ablauf: Dieser Kurs wird als Hybridkurs durchgeführt. 3 Kurstage werden online als Webinar durchgeführt und 3 Tage als Präsenzkurs in Düsseldorf. So können wir optimale Bedingungen für die theoretisch und eher praktischen Inhalte gewährleisten. Der zweite Kursteil vom 26. bis 28.11. in Düsseldorf ist fix. Für den Onlineunterricht wären nach Rücksprache auch andere Termine möglich.
+  ortsbezeichnung: Online und Schule für Physiotherapie UK Düsseldorf
+  ort: Düsseldorf
+  plz: 40225
+  str: Moorenstraße 5
+  land: NRW
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  warteliste: false 
+  kursnummer: HPPT80
+  elearning: hybrid
+  show: true
