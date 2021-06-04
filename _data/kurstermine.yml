@@ -365,6 +365,24 @@
   elearning: hybrid
   show: true
 
+
+- datum: 28.08.2021 bis 29.08.2021 und 16.09.2021 bis 19.09.2021
+  startdate: 2021-08-28t09:00
+  enddate: 2021-09-19t18:00 
+  ablauf: Teil 1 am 28. und 29.08. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 16. bis 19.09. findet der Unterricht in Stadthagen statt.
+  ortsbezeichnung: IFEAS 
+  ort: Stadthagen
+  plz: 31655
+  str: Dorfstraße 2
+  land: Niedersachsen
+  veranstalter: IFEAS
+  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
+  preis: 670
+  link: https://ifeas.javis.de/onlineregistration/415/registration
+  kursnummer: HPPT74a
+  show: true
+  elearning: hybrid
+
 - datum: 03.09.2021 bis 05.09.2021 und 08.10.2021 bis 10.10.2021
   startdate: 2021-09-03t09:00
   enddate: 2021-10-10t18:00 
