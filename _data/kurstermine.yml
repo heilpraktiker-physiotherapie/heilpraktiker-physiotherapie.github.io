@@ -346,7 +346,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2BE7216E-6D0E-F19B-314F-D73458DCD462&add-to-cart=12520
   kursnummer: HPPT73
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 19.06.2021 bis 20.06.2021 und 23.07.2021 bis 26.07.2021
   startdate: 2021-06-19t09:00
@@ -363,7 +363,7 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT74
   elearning: hybrid
-  show: true
+  show: false
 
 
 - datum: 28.08.2021 bis 29.08.2021 und 16.09.2021 bis 19.09.2021
@@ -380,7 +380,7 @@
   preis: 670
   link: https://ifeas.javis.de/onlineregistration/415/registration
   kursnummer: HPPT74a
-  show: true
+  show: false
   elearning: hybrid
 
 - datum: 03.09.2021 bis 05.09.2021 und 08.10.2021 bis 10.10.2021
@@ -479,4 +479,4 @@
   warteliste: false 
   kursnummer: HPPT80
   elearning: hybrid
-  show: true
+  show: false
