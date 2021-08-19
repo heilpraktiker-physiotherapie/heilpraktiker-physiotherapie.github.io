@@ -11,18 +11,10 @@ scssfile: kontakt.scss
 
 Wir beraten Dich vor Deiner Entscheidung, helfen während der Fortbildung und sind auch für Rückfragen in Deiner Zukunft als Heilpraktiker/in für Physiotherapie auf vielen Kanälen zu erreichen.
 
-Nutze einfach das Medium, welches Dir am besten liegt.
+Am schnellsten und verlässlichsten bekommt Du Deine Rückmeldung per Email. Schreib einfach direkt an info(at)heilpraktiker-physiotherapie.com.
+Falls Du Deine Fragen nicht gut in einer Email untergebracht bekommst, kannst Du auch Arne direkt unter 0176-24317369 anrufen oder im eine Sprachnachricht senden.
 
-Telefonisch kannst Du Arne unter 0176-24317369 kontaktieren. Nicht immer wird er direkt erreichbar sein, freut sich aber über eine Mailboxnachricht und meldet sich dann schnellstmöglich zurück.
-Noch schneller und einfacher ist meist die Kommunikation über Email.
-Schreib einfach direkt an info@heilpraktiker-physiotherapie.com.
-
-
-
-
-
-Auch bei [facebook]({{site.facebook_url}}){:target="_blank"}, [twitter]({{site.twitter_url}}){:target="_blank"}, [google+]({{site.googleplus_url}}){:target="_blank"} und [youtube]({{site.youtube_url}}){:target="_blank"} kannst Du uns finden, folgen und anschreiben.
-Gib uns einfach ein "Gefällt mir" bei [facebook]({{site.facebook_url}}){:target="_blank"} und schon kriegst Du dort die Neuigkeiten und interessantes Wissen im Stream angezeigt.
+Auch bei [facebook]({{site.facebook_url}}){:target="_blank"}, [twitter]({{site.twitter_url}}){:target="_blank"} und [youtube]({{site.youtube_url}}){:target="_blank"} kannst Du uns finden und unsere Neiugkeiten verfolgen.
 <br/>
 
 
