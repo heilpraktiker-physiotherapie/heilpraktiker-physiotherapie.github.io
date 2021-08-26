@@ -271,7 +271,7 @@
   elearning: hybrid
   show: true
   
-  - datum: 22.01.2022 bis 23.01.2022 und 18.02.2022 bis 21.02.2022
+ - datum: 22.01.2022 bis 23.01.2022 und 18.02.2022 bis 21.02.2022
   startdate: 2022-01-22t09:00
   enddate: 2022-02-21t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -288,7 +288,7 @@
   elearning: hybrid
   show: true
   
-  - datum: 12.02.2022 bis 13.02.2022 und 03.03.2022 bis 06.03.2022
+- datum: 12.02.2022 bis 13.02.2022 und 03.03.2022 bis 06.03.2022
   startdate: 2022-02-12t09:00
   enddate: 2022-03-06t18:00
   ablauf: Teil 1 am 02. und 03.05. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 29.10 bis 01.11. findet der Unterricht in Rosenheim statt. 
@@ -305,7 +305,7 @@
   elearning: hybrid
   show: true
   
-  - datum: 12.03.2022 bis 14.03.2022 und 25.03.2022 bis 27.03.2022
+- datum: 12.03.2022 bis 14.03.2022 und 25.03.2022 bis 27.03.2022
   startdate: 2022-03-12t12:00
   enddate: 2022-03-27t18.00
   ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
@@ -317,7 +317,7 @@
   elearning: true
   show: true
   
-  - datum: 12.03.2022 bis 13.03.2022 und 06.05.2022 bis 09.05.2022
+- datum: 12.03.2022 bis 13.03.2022 und 06.05.2022 bis 09.05.2022
   startdate: 2022-03-12t09:00
   enddate: 2022-05-09t18:00
   ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil des Kurses ist dann in Präsenz vor Ort.
@@ -334,7 +334,7 @@
   elearning: hybrid
   show: true
   
-  - datum: 13.05.2022 bis 15.05.2022 und 10.06.2022 bis 12.06.2022
+- datum: 13.05.2022 bis 15.05.2022 und 10.06.2022 bis 12.06.2022
   startdate: 2022-05-13t12:00
   enddate: 2022-06-12t18.00
   ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
@@ -346,7 +346,7 @@
   elearning: true
   show: true
   
-  - datum: 25.06.2022 bis 26.06.2022 und 22.07.2022 bis 25.07.2022
+- datum: 25.06.2022 bis 26.06.2022 und 22.07.2022 bis 25.07.2022
   startdate: 2022-06-25t09:00
   enddate: 2022-07-25t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -363,7 +363,7 @@
   elearning: hybrid
   show: true
   
-  - datum: 26.08.2022 bis 28.08.2022 und 16.09.2022 bis 18.09.2022
+- datum: 26.08.2022 bis 28.08.2022 und 16.09.2022 bis 18.09.2022
   startdate: 2021-08-28t09:00
   enddate: 2021-09-19t18:00 
   ablauf: Teil 1 wird online unterrichtet, so dass Du bequem von Hause dem Unterricht folgen kannst. Bei Teil 2 findet der Unterricht in Stadthagen statt.
@@ -380,7 +380,7 @@
   show: true
   elearning: hybrid
   
-  - datum: 10.09.2022 bis 11.09.2022 und 30.09.2022 bis 03.10.2022
+- datum: 10.09.2022 bis 11.09.2022 und 30.09.2022 bis 03.10.2022
   startdate: 2022-09-10t09:00
   enddate: 2022-10-03t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -396,7 +396,7 @@
   kursnummer: HPPT89
   elearning: hybrid
   show: true
-  
+ 
 - datum: 10.09.2022 bis 11.09.2022 und 18.11.2022 bis 21.11.2022
   startdate: 2022-09-10t09:00
   enddate: 2022-21-07t18:00 
@@ -414,7 +414,7 @@
   elearning: hybrid
   show: true
   
-  - datum: 24.09.2022 bis 26.09.2022 und 22.10.2022 bis 24.10.2022
+- datum: 24.09.2022 bis 26.09.2022 und 22.10.2022 bis 24.10.2022
   startdate: 2022-09-24t09:00
   enddate: 2022-10-24t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -443,7 +443,7 @@
   elearning: true
   show: true
  
- - datum: 14.10.2022 bis 16.10.2022 und 09.12.2022 bis 11.12.2022
+- datum: 14.10.2022 bis 16.10.2022 und 09.12.2022 bis 11.12.2022
   startdate: 2022-10-14t12:00
   enddate: 2022-12-11t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
