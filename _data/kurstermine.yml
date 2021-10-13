@@ -171,7 +171,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=739E9588-210C-7F57-FB32-BD1F97C9A32E&add-to-cart=12520
   kursnummer: HPPT75
   elearning: hybrid
-  show: true  
+  show: false  
   
 - datum: 03.09.2021 bis 05.09.2021 und 16.10.2021 bis 18.10.2021
   startdate: 2021-09-03t09:00
@@ -188,7 +188,7 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT76
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 02.10.2021 bis 03.10.2021 und 29.10.2021 bis 01.11.2021
   startdate: 2021-10-02t09:00
@@ -205,7 +205,7 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT77
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 02.10.2021 bis 03.10.2021 und 19.11.2021 bis 22.11.2021
   startdate: 2021-10-02t09:00
@@ -222,7 +222,7 @@
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
   kursnummer: HPPT78
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 12.11.2021 bis 14.11.2021 und 03.12.2021 bis 05.12.2021
   startdate: 2021-11-1219t12:00
