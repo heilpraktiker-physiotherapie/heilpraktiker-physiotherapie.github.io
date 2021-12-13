@@ -235,7 +235,7 @@
   kursnummer: HPPT79
   warteliste: true
   elearning: true
-  show: true
+  show: false
 
 - datum: 28.08.2021 bis 29.08.2021 und 03.09.2021 und 26.11.2021 bis 28.11.2021
   startdate: 2021-08-28t12:00
