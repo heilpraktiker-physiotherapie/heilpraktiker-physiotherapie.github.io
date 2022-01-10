@@ -13,7 +13,6 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
     <main>
        <section>
             <amp-carousel id="mainDozentenCarousel" class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
-                <amp-img width="852" height="400" layout="responsive" src="/assets/images/Jetzt-als-E-Learning.jpg"></amp-img>
                 {% for dozent in site.data.dozenten %}
                {%  assign picwidth = dozent.width | divided_by: 8.52 %}
                 <div>
