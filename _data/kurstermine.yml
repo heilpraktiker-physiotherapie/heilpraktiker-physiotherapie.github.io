@@ -316,6 +316,7 @@
   kursnummer: HPPT84
   elearning: true
   show: true
+  warteliste: true
   
 - datum: 12.03.2022 bis 13.03.2022 und 06.05.2022 bis 09.05.2022
   startdate: 2022-03-12t09:00
