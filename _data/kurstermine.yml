@@ -269,7 +269,7 @@
   link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
   kursnummer: HPPT81
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 22.01.2022 bis 23.01.2022 und 18.02.2022 bis 21.02.2022
   startdate: 2022-01-22t09:00
@@ -286,7 +286,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2F9B87F5-6C62-5972-0147-4C259342BEF9&add-to-cart=12520
   kursnummer: HPPT82
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 12.02.2022 bis 13.02.2022 und 03.03.2022 bis 06.03.2022
   startdate: 2022-02-12t09:00
@@ -303,7 +303,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=637795D0-5B97-A207-ED9A-1D12A6072F8D&add-to-cart=12520
   kursnummer: HPPT83
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 12.03.2022 bis 14.03.2022 und 25.03.2022 bis 27.03.2022
   startdate: 2022-03-12t12:00
