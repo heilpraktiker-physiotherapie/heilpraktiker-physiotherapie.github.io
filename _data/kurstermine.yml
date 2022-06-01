@@ -315,7 +315,7 @@
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
   kursnummer: HPPT84
   elearning: true
-  show: true
+  show: false
   warteliste: true
   
 - datum: 12.03.2022 bis 13.03.2022 und 06.05.2022 bis 09.05.2022
@@ -333,7 +333,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=95635C8D-E578-8EC2-18E5-B19E7FEAA1E8&add-to-cart=12520
   kursnummer: HPPT85
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 13.05.2022 bis 15.05.2022 und 10.06.2022 bis 12.06.2022
   startdate: 2022-05-13t12:00
