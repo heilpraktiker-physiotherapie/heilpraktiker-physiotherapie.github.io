@@ -72,7 +72,8 @@ Seit September 2019 ist diese Verwaltungsrichtlinie allerdings abgelaufen und es
 Eine für mich unverständliche und von den anderen Bundesländern abweichende Interpretation der aktuellen Bundesrichtlinie führt aktuell leider dazu, dass in Thüringen grundsätzliche keine Erlaubniserteilung nach Aktenlage mehr erfolgen soll. Nach der Fortbildung muss eine zusätzliche mündliche Prüfung beim Gesundheitsamt bestanden werden.
 Es sollte sich aber niemand davon abgeschreckt fühlen. Unsere Fortbildung bereit intensiv auch auf die Prüfung vor diese ist weitaus besser einzugrenzen als eine Vollheilpraktikerprüfung.
 
-
+In **Sachsen** werden in der Verwaltungsvorschrift ähnliche Anforderungen gestellt wie in Niedersachsen, die alle von unserer Fortbildung erfüllt werden. Es handelt sich jedoch bei jedem Antrag ausdrücklich um eine Einelfallentscheidung des zuständigen Gesundheitsamt in Görlitz.
+  
 In **Sachsen-Anhalt** müssen Fortbildungen die entsprechende Verwaltungsrichtlinie umsetzen und der Anbieter eine Bestätigung eines physiotherapeutisches Landesverbandes vorweisen können. Beides wird von uns erfüllt. Einer Erlaubniserteilung nach Aktenlage in Sachsen-Anhalt sollte somit nichts im Wege stehen.  
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Sachsen-Anhalt auf der Webseite des Gesundheitsamt Magdeburg](https://www.magdeburg.de/Start/B%C3%3Frger-Stadt/Verwaltung-Service/B%C3%3FrgerService/B%C3%3FrgerInfoSystem/index.php?object=tx|698.85.1&FID=37.864.1){:target="_blank"}
 
