@@ -176,6 +176,24 @@
   elearning: hybrid
   show: true
   
+   
+- datum: 24.09.2022 bis 25.09.2022 und 29.10.2022 bis 01.11.2022
+  startdate: 2022-09-24t09:00
+  enddate: 2022-11-01t18:00
+  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Rosenheim
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=C2F8E2B1-3E78-91BA-3FBB-7D3B33C796C0&add-to-cart=12520
+  kursnummer: HPPT91a
+  elearning: hybrid
+  show: true
+  
 - datum: 14.10.2022 bis 16.10.2022 und 11.11.2022 bis 13.11.2022
   startdate: 2022-10-14t12:00
   enddate: 2022-11-13t18.00
