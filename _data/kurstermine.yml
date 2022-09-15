@@ -106,7 +106,7 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT87
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 26.08.2022 bis 28.08.2022 und 16.09.2022 bis 18.09.2022
   startdate: 2021-08-28t09:00
@@ -122,7 +122,7 @@
   preis: 670
   link: https://ifeas.javis.de/onlineregistration/415/registration
   kursnummer: HPPT88
-  show: true
+  show: false
   elearning: false
   
 - datum: 10.09.2022 bis 11.09.2022 und 30.09.2022 bis 03.10.2022
