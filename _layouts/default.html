@@ -5,7 +5,6 @@
 <html ⚡  lang="de">
   {% include head.html %}
    <body>
-     <div style="height: 100px; width: 100%; background-color: red"><amp-fit-text width="1" height="1" layout="responsive" data-block-on-consent>Analytics erlaubt!</amp-fit-text></div>
       <amp-analytics type="googleanalytics" data-block-on-consent>
           <script type="application/json">
           {
@@ -33,16 +32,15 @@
   <div class="popupOverlay" id="consentDialog">
     <div class="consentPopup">
       <div class="dismiss-button" role="button" tabindex="0" on="tap:myUserConsent.dismiss">X</div>
-      <h2>Headline</h2>
-      <p>This is an important message requiring you to make a choice.</p>
-      <p>This is some more information about this choice. Here's a list of items related to this choice.</p>
+      <h2>Cookies</h2>
+      <p>Cookies helfen uns, die Nutzererfahrung zu verbessern. Dazu nutzen wir Google Analytics. Allerdings nur wenn Du einverstanden bist.</p>
       <amp-list height="132" layout="fixed-height" src="/static/samples/json/consent-items.json" binding="no">
         <template type="amp-mustache">
           <li>{{.}}</li>
         </template>
       </amp-list>
-      <button on="tap:myUserConsent.accept">Accept</button>
-      <button on="tap:myUserConsent.reject">Reject</button>
+      <button on="tap:myUserConsent.accept">Einverstanden</button>
+      <button on="tap:myUserConsent.reject">Ablehnen</button>
     </div>
   </div>
   <div id="post-consent-ui">
