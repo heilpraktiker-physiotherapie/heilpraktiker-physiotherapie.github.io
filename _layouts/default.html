@@ -40,43 +40,28 @@
       <div class="dismissButton" role="button" tabindex="0" on="tap:siteConsent.dismiss">
         𝗫
       </div>
-      <h3>Your privacy</h3>
+      <h3>Deine Privatsphäre</h3>
       <p>
-        You can control the ways in which we improve and personalize your
-        experience. Please choose whether you wish to allow the following:
+        Um die Verwendbarkeit und Auffindbarkeit unserer Seite zu verbessern, nutzen wir Cookies. Wenn Du das nicht möchtest, kannst Du die Verwendung ablehnen.
       </p>
       <div class="choices">
-        <label class="consentLabel" for="consent-purpose-marketing">
-          <input id="consent-purpose-marketing" type="checkbox" on="change:siteConsent.setPurpose(purpose-marketing=event.checked)">
-          Marketing cookies
-        </label>
-        <label class="consentLabel" for="consent-purpose-conversion">
-          <input id="consent-purpose-conversion" type="checkbox" on="change:siteConsent.setPurpose(purpose-conversion=event.checked)">
-          Conversion tracking cookies
-        </label>
         <label class="consentLabel" for="consent-purpose-analytics">
           <input id="consent-purpose-analytics" type="checkbox" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
-          Analytics
+         Google Analytics Cookies erlauben
         </label>
 
         <button class="choiceButton" on="tap:siteConsent.accept(purposeConsentDefault=false)">
-          Save
+          Speichern
         </button>
         <button class="choiceButton" on="tap:siteConsent.dismiss">
-          Dismiss
+          Ausblenden
         </button>
       </div>
-      <p>
-        Click "Save" to save your choices.
-        <br>
-        Click "Dismiss" to get rid of this dialog box without saving your
-        choices.
-      </p>
     </div>
   </div>
   <div id="repromptDialog">
-    Do you want to make your consent choices again?
-    <button on="tap:siteConsent.prompt">I do!</button>
+    Hast Du Deine meinung zu Cookies geändert?
+    <button on="tap:siteConsent.prompt">Ja, bitte ändern!</button>
   </div>
 </amp-consent>
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
