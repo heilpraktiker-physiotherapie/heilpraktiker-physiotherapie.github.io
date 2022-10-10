@@ -5,8 +5,8 @@
 <html ⚡  lang="de">
   {% include head.html %}
    <body>
-     <div style="height: 100px; width: 100%; background-color: red"><amp-fit-text width="1" height="1" layout="responsive" data-block-on-consent-purposes="purpose-analytics">Analytics erlaubt!</amp-fit-text></div>
-      <amp-analytics type="googleanalytics" data-block-on-consent-purposes="purpose-analytics">
+     <div style="height: 100px; width: 100%; background-color: red"><amp-fit-text width="1" height="1" layout="responsive" data-block-on-consent>Analytics erlaubt!</amp-fit-text></div>
+      <amp-analytics type="googleanalytics" data-block-on-consent>
           <script type="application/json">
           {
             "vars": {
@@ -23,46 +23,30 @@
           </amp-analytics>
           
       <!--the parent of amp-sidebar must be body -->
-     <amp-consent layout="nodisplay" id="siteConsent">
-  <script type="application/json">
-    {
-      "consentInstanceId": "consent1",
-      "consentRequired": true,
-      "promptUI": "consentPopup",
-      "postPromptUI": "repromptDialog",
-      "uiConfig": {
-        "overlay": true
-      },
-      "purposeConsentRequired": ["purpose-analytics"]
-    }
-  </script>
-  <div id="consentPopup">
-    <div id="consentDialog">
-      <div class="dismissButton" role="button" tabindex="0" on="tap:siteConsent.dismiss">
-        𝗫
-      </div>
-      <h3>Deine Privatsphäre</h3>
-      <p>
-        Um die Verwendbarkeit und Auffindbarkeit unserer Seite zu verbessern, nutzen wir Cookies. Wenn Du das nicht möchtest, kannst Du die Verwendung ablehnen.
-      </p>
-      <div class="choices">
-        <label class="consentLabel" for="consent-purpose-analytics">
-          <input id="consent-purpose-analytics" type="checkbox" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
-         Google Analytics Cookies erlauben
-        </label>
-
-        <button class="choiceButton" on="tap:siteConsent.accept(purposeConsentDefault=false)">
-          Speichern
-        </button>
-        <button class="choiceButton" on="tap:siteConsent.dismiss">
-          Ausblenden
-        </button>
-      </div>
+    <amp-consent id="myUserConsent" layout="nodisplay">
+  <script type="application/json">{
+    "consentInstanceId": "consent-id",
+    "consentRequired": true,
+    "promptUI": "consentDialog",
+    "postPromptUI": "post-consent-ui"
+  }</script>
+  <div class="popupOverlay" id="consentDialog">
+    <div class="consentPopup">
+      <div class="dismiss-button" role="button" tabindex="0" on="tap:myUserConsent.dismiss">X</div>
+      <h2>Headline</h2>
+      <p>This is an important message requiring you to make a choice.</p>
+      <p>This is some more information about this choice. Here's a list of items related to this choice.</p>
+      <amp-list height="132" layout="fixed-height" src="/static/samples/json/consent-items.json" binding="no">
+        <template type="amp-mustache">
+          <li>{{.}}</li>
+        </template>
+      </amp-list>
+      <button on="tap:myUserConsent.accept">Accept</button>
+      <button on="tap:myUserConsent.reject">Reject</button>
     </div>
   </div>
-  <div id="repromptDialog">
-    Hast Du Deine meinung zu Cookies geändert?
-    <button on="tap:siteConsent.prompt">Ja, bitte ändern!</button>
+  <div id="post-consent-ui">
+    <button on="tap:myUserConsent.prompt()">Update Consent</button>
   </div>
 </amp-consent>
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
