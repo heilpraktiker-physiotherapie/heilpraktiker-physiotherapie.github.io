@@ -26,8 +26,7 @@
   <script type="application/json">{
     "consentInstanceId": "consent-id",
     "consentRequired": true,
-    "promptUI": "consentDialog",
-    "postPromptUI": "post-consent-ui"
+    "promptUI": "consentDialog"
   }</script>
   <div class="popupOverlay" id="consentDialog">
     <div class="consentPopup">
@@ -42,9 +41,6 @@
       <button on="tap:myUserConsent.accept">Einverstanden</button>
       <button on="tap:myUserConsent.reject">Ablehnen</button>
     </div>
-  </div>
-  <div id="post-consent-ui">
-    <button on="tap:myUserConsent.prompt()">Update Consent</button>
   </div>
 </amp-consent>
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
