@@ -45,3 +45,11 @@ amp-sidebar:
 amp-form:
     name: amp-form
     src: https://cdn.ampproject.org/v0/amp-form-0.1.js
+    
+amp-consent:
+    name: amp-consent
+    src: https://cdn.ampproject.org/v0/amp-consent-0.1.js
+    
+amp-fit-text:
+    name: amp-fit-text
+    src: https://cdn.ampproject.org/v0/amp-fit-text-0.1.js
