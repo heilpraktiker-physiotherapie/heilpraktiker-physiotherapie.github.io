@@ -22,12 +22,63 @@
           </amp-analytics>
           
       <!--the parent of amp-sidebar must be body -->
-      <amp-user-notification id="my-notification" layout="nodisplay">
-  <div><div>Diese Seite nutzt Cookies</div><div><a href="https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer" target="_blank" >mehr erfahren</a></div>
-    <button on="tap:my-notification.dismiss"
-      class="ampstart-btn caps ml1">Alles klar</button>
+     <amp-consent layout="nodisplay" id="siteConsent">
+  <script type="application/json">
+    {
+      "consentInstanceId": "consent1",
+      "consentRequired": true,
+      "promptUI": "consentPopup",
+      "postPromptUI": "repromptDialog",
+      "uiConfig": {
+        "overlay": true
+      },
+      "purposeConsentRequired": ["purpose-analytics", "purpose-marketing"]
+    }
+  </script>
+  <div id="consentPopup">
+    <div id="consentDialog">
+      <div class="dismissButton" role="button" tabindex="0" on="tap:siteConsent.dismiss">
+        𝗫
+      </div>
+      <h3>Your privacy</h3>
+      <p>
+        You can control the ways in which we improve and personalize your
+        experience. Please choose whether you wish to allow the following:
+      </p>
+      <div class="choices">
+        <label class="consentLabel" for="consent-purpose-marketing">
+          <input id="consent-purpose-marketing" type="checkbox" on="change:siteConsent.setPurpose(purpose-marketing=event.checked)">
+          Marketing cookies
+        </label>
+        <label class="consentLabel" for="consent-purpose-conversion">
+          <input id="consent-purpose-conversion" type="checkbox" on="change:siteConsent.setPurpose(purpose-conversion=event.checked)">
+          Conversion tracking cookies
+        </label>
+        <label class="consentLabel" for="consent-purpose-analytics">
+          <input id="consent-purpose-analytics" type="checkbox" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
+          Analytics
+        </label>
+
+        <button class="choiceButton" on="tap:siteConsent.accept(purposeConsentDefault=false)">
+          Save
+        </button>
+        <button class="choiceButton" on="tap:siteConsent.dismiss">
+          Dismiss
+        </button>
+      </div>
+      <p>
+        Click "Save" to save your choices.
+        <br>
+        Click "Dismiss" to get rid of this dialog box without saving your
+        choices.
+      </p>
+    </div>
   </div>
-</amp-user-notification>
+  <div id="repromptDialog">
+    Do you want to make your consent choices again?
+    <button on="tap:siteConsent.prompt">I do!</button>
+  </div>
+</amp-consent>
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
         <amp-img class="amp-close-image hoveropacity midgrey" src="{{site.baseurl}}/assets/images/closeX.svg" width="40" height="40" alt="close sidebar" on="tap:sidebar.toggle" role="button" tabindex="0"></amp-img>
           <ul>
