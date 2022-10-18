@@ -140,7 +140,7 @@
   link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
   kursnummer: HPPT89
   elearning: hybrid
-  show: true
+  show: false
  
 - datum: 10.09.2022 bis 11.09.2022 und 18.11.2022 bis 21.11.2022
   startdate: 2022-09-10t09:00
@@ -157,7 +157,7 @@
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=F0B237D6-7B80-751D-9A6A-2DE1BCC6BE00&add-to-cart=12520
   kursnummer: HPPT90
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 24.09.2022 bis 26.09.2022 und 22.10.2022 bis 24.10.2022
   startdate: 2022-09-24t09:00
@@ -174,7 +174,7 @@
   link:  https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=622&tx_hfa_pi2%5Bback%5D=298
   kursnummer: HPPT91
   elearning: hybrid
-  show: true
+  show: false
   
    
 - datum: 24.09.2022 bis 25.09.2022 und 29.10.2022 bis 01.11.2022
@@ -192,7 +192,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=C2F8E2B1-3E78-91BA-3FBB-7D3B33C796C0&add-to-cart=12520
   kursnummer: HPPT91a
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 14.10.2022 bis 16.10.2022 und 11.11.2022 bis 13.11.2022
   startdate: 2022-10-14t12:00
