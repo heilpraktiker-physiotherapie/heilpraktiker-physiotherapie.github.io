@@ -240,6 +240,7 @@
   kursnummer: HPPT94
   elearning: hybrid
   show: true
+  abgesagt: true
   
 - datum: 21.01.2023 bis 22.01.2023 und 17.02.2023 bis 20.02.2023
   startdate: 2023-01-21t09:00
