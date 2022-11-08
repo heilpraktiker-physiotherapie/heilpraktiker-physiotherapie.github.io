@@ -60,24 +60,28 @@ Unsere aktuellen Termine sind:
     <span><small>Ablauf: {{kurs.ablauf}}</small></span> <br/>
     {% endif %}
     <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
-    {% if kurs.fruehbucher %}
-      <span>Frühbucherpreis: {{kurs.fruehbucher}}€ bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
-    {% endif %}
-    {% if kurs.preislink %}
-      <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
-        {% elsif kurs.preis %}
-            <span>Preis: {{kurs.preis}}€</span> <br/>
-    {% endif %}
-    <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
-    {% if kurs.elearning==true %}
-      <div class="iselearning">E-Learning</div>
-    {% elsif kurs.elearning==false %}
-      <div class="ispresence">Präsenzkurs</div>
-    {% elsif kurs.elearning=='hybrid' %}
-      <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
-    {% endif %}
-    {% if kurs.warteliste==true %}
-      <div class="warteliste">Warteliste</div>
+    {% if kurs.abgesagt==true %}
+      <div class="abgesagt">Kurs wurde abgesagt</div>
+    {% else %}
+        {% if kurs.fruehbucher %}
+          <span>Frühbucherpreis: {{kurs.fruehbucher}}€ bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
+        {% endif %}
+        {% if kurs.preislink %}
+          <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
+            {% elsif kurs.preis %}
+                <span>Preis: {{kurs.preis}}€</span> <br/>
+        {% endif %}
+        <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
+        {% if kurs.elearning==true %}
+          <div class="iselearning">E-Learning</div>
+        {% elsif kurs.elearning==false %}
+          <div class="ispresence">Präsenzkurs</div>
+        {% elsif kurs.elearning=='hybrid' %}
+          <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
+        {% endif %}
+        {% if kurs.warteliste==true %}
+          <div class="warteliste">Warteliste</div>
+        {% endif %}
     {% endif %}
     </div>
 </div>
