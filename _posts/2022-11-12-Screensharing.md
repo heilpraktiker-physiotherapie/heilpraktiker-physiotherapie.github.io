@@ -15,7 +15,7 @@ customamp:
   height="225"
   sandbox="allow-scripts allow-same-origin"
   layout="responsive"
-  src="https://giphy.com/embed/OWabwoEn7ezug"
+  src="https://vdo.ninja/?room=HPphysioPruefung&ns&nmb&nsb&nvb&nofileshare&nohub&ln=de&novideo&noaudio&ss&noheader&l&sl&g=0&vd=0"
 >
   <amp-img
     placeholder
@@ -23,3 +23,4 @@ customamp:
     src="https://ampproject-b5f4c.firebaseapp.com/examples/images/kittens-biting.jpg"
   ></amp-img>
 </amp-iframe>
+<amp-iframe width="100%" allow="autoplay;camera;microphone;fullscreen;picture-in-picture;display-capture;midi;geolocation;" src="https://vdo.ninja/?room=HPphysioPruefung&ns&nmb&nsb&nvb&nofileshare&nohub&ln=de&novideo&noaudio&ss&noheader&l&sl&g=0&vd=0"></amp-iframe>
