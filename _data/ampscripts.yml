@@ -57,3 +57,7 @@ amp-fit-text:
 amp-list:
     name: amp-list
     src: https://cdn.ampproject.org/v0/amp-list-0.1.js
+    
+amp-mustache:
+    name: amp-mustache
+    src: https://cdn.ampproject.org/v0/amp-mustache-0.2.js
