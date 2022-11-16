@@ -39,7 +39,7 @@
 
 {% assign amps= "amp-social-share,amp-analytics,amp-sidebar,amp-consent,amp-fit-text,amp-list,amp-mustache"|| split: ',' %}
 {% for amp-script in amps %}
-  <script async custom-element="{{ amp-script }}" src="{{ site.data.ampscripts[amp-script].src }}" ></script>
+  <script async {%if site.data.ampscripts[amp-script].type %}{{site.data.ampscripts[amp-script].type}}{% else %}custom-element{% endif %}="{{ amp-script }}" src="{{ site.data.ampscripts[amp-script].src }}" ></script>
 {% endfor %}
 
 {% if page.customamp %}
