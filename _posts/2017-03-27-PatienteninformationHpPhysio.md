@@ -39,9 +39,9 @@ Ebenso bildet die Diagnostik das Fundament für eine optimale Therapie, die gena
   - Du bekommst direkt gezielte Therapie für eine Vielzahl von Einschränkungen und körperlichen Beschwerden.
   - Du kannst Deine Leistungsfähigkeit steigern, was sich in Produktivität im Job genauso wie in der Zufriedenheit im Alltag und Freizeit wiederspiegelt. Du kannst wieder mit Zuversicht auf Deine Ziele zugehen.  
   - Du sparst Dir den Weg zum Arzt, mit teilweise langen Wartezeiten für den nächsten Termin und im Wartezimmer. Das ist Zeit die Du sinnvoller und freudvoller nutzen kannst.  
-  - Viele haben gute Chancen den Bedarf an Schmerzmedikamenten erheblich zu reduzieren oder sogar ganz ohne Medikamente auszukommen. Auch Operationen wegen anhaltenden Schmerzen z.B. an Rücken, Knien, Schultern und anderen Gelenken lassen sich oft mit adäquater Physiotherapie vermeiden. Eine planbare Operation am Bewegungsapparat sollte nie stattfinden, ohne vorher die Möglichkeiten mit einem Physiotherapeuten besprochen zu haben.  
+  - Physiotherapie kann eine wertvolle Alternative oder Ergänzung zu anderen medizinischen Maßnahmen sein. Mit Hilfe der Physiotherapie die eignenen Beschwerden aus eigener Kraft unte Kontrolle zu bringen, kann langfristig erhebliche Vorteile gegenüber passiven Interventionen wie Medikamenten oder Operationen haben. Bevor Sie einer planbaren Operation am Bewegungsapparat zustimmen, sollten Sie immer zunächst mit Ihrem Physiotherapeuten sprechen.
 
 Diese Investition in Deine Gesundheit wird sich für Dich auszahlen.  
-In vielen Fällen übernimmt eine private Versicherung die Kosten. Deine Physiotherapeutin berät Dich dazu. 
+In vielen Fällen übernimmt sogar eine private Versicherung die Kosten. Deine Physiotherapeutin berät Dich dazu. 
 
 
