@@ -1,15 +1,14 @@
 
 {
-  "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "heilpraktiker-physiotherapie",
-    "url": "{{site.url}}",
-    "areaServed": ["DE","DE-TH","DE-ST","DE-SN","DE-SL","DE-SH","DE-RP","DE-NW","DE-NI","DE-MV","DE-HH","DE-HE","DE-HB","DE-BY","DE-BW","DE-BE","DE-BB"],
-    "contactPoint":[{
-        "@type": "ContactPoint",
-        "telephone": "+49-176-24317369",
-        "contactType": "customer support"
-    }],
-    "logo": "{{ site.logo600jpg }}"
-    }
-  }
+    "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "heilpraktiker-physiotherapie",
+      "url": "https://heilpraktiker-physiotherapie.com",
+      "areaServed": ["DE","DE-TH","DE-ST","DE-SN","DE-SL","DE-SH","DE-RP","DE-NW","DE-NI","DE-MV","DE-HH","DE-HE","DE-HB","DE-BY","DE-BW","DE-BE","DE-BB"],
+      "contactPoint":[{
+          "@type": "ContactPoint",
+          "telephone": "+49-176-24317369",
+          "contactType": "customer support"
+      }],
+      "logo": "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT600.jpg"
+}
