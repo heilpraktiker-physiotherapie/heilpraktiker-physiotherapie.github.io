@@ -204,7 +204,7 @@
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
   kursnummer: HPPT92
   elearning: true
-  show: true
+  show: false
   warteliste: true
  
 - datum: 14.10.2022 bis 16.10.2022 und 09.12.2022 bis 11.12.2022
@@ -346,13 +346,108 @@
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   ort: Regensburg
   plz: 93059
-  str: Im Gewerbepark A15
+  str: Im Gewerbepark D75
   land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
-  link:  
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
   kursnummer: HPPT101
+  elearning: hybrid
+  show: true  
+  
+- datum: 17.06.2023 bis 18.06.2023 und 18.08.2023 bis 21.08.2023
+  startdate: 2023-06-17t09:00
+  enddate: 2023-08-21t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ort: Würzburg
+  plz: 97080
+  str: Petrinistraße 14-16
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=68B0AC99-D67E-251F-8CC9-1C4E6BB516BE&add-to-cart=12520
+  kursnummer: HPPT102
+  elearning: hybrid
+  show: true
+  
+- datum: 01.09.2023 bis 03.09.2023 und 20.10.2023 bis 22.10.2023
+  startdate: 2023-09-01t12:00
+  enddate: 2023-10-22t18.00
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT103
+  elearning: true
+  show: true
+    
+ - datum: 07.10.2023 bis 08.10.2023 und 27.10.2023 bis 30.10.2023
+  startdate: 2023-10-07t09:00
+  enddate: 2023-11-27t18:00 
+  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Rosenheim
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
+  kursnummer: HPPT104
+  elearning: hybrid
+  show: true
+  
+ - datum: 07.10.2023 bis 08.10.2023 und 24.11.2023 bis 27.11.2023
+  startdate: 2023-10-07t09:00
+  enddate: 2023-11-27t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ort: Würzburg
+  plz: 97080
+  str: Petrinistraße 14-16
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
+  kursnummer: HPPT105
+  elearning: hybrid
+  show: true  
+  
+- datum: 11.11.2023 bis 12.11.2023 und 08.12.2023 bis 11.12.2023
+  startdate: 2023-11-11t09:00
+  enddate: 2023-12-11t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: MediPhys Jena
+  ort: Jena
+  plz: 07743
+  str: Ernst-Abbe-Platz 3-4
+  land: Thüringen
+  veranstalter: MediPhys Jena
+  preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
+  preis: 795
+  link:  https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=692&tx_hfa_pi2%5Bback%5D=389
+  kursnummer: HPPT106
+  elearning: hybrid
+  show: true
+  
+- datum: 11.11.2023 bis 12.11.2023 und 01.12.2023 bis 04.12.2023
+  startdate: 2023-11-11t09:00
+  enddate: 2023-12-04t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  ort: Regensburg
+  plz: 93059
+  str: Im Gewerbepark D75
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
+  kursnummer: HPPT107
   elearning: hybrid
   show: false  
   
