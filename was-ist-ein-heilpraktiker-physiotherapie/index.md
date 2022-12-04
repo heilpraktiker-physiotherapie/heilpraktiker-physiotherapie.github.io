@@ -5,7 +5,7 @@ description: Beschreibung von Berufsbild und Möglichkeiten des Heilpraktiker f�
 ---
 
 ### Was bringt mir denn die sektorale Heilpraktikererlaubnis?
-Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am Job
+Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am Job.
 
 Zumindest wenn man es schafft, die Möglichkeiten die sich einem bieten auch zu nutzen.
 Das gelingt leider nicht jedem und daher äußern sich manche unzufrieden.  
@@ -14,7 +14,7 @@ Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt 
 \"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
 Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf.  
 Das stimmt auch. Die Einschätzung jedoch, dass es den Physiotherapeuten an therapeutischen Techniken und Methoden mangelt um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Physiotherapie einfach nicht gerecht.  
-Die entscheidende Einschränkung ist wie ein Physiotherapeut \(m/w\) die eigenen Fähigkeiten zur Anwendung bringen darf. 
+Die entscheidende Einschränkung ist wie Physiotherapeuten die eigenen Fähigkeiten zur Anwendung bringen dürfen (oder eben **nicht** dürfen). 
 
 Der "große" Heilpraktiker darf prinzipiell auf ein größeres Spektrum an Maßnahmen zurückgreifen. Allerdings muss man auch die Sinnhaftigkeit vieler häufig verwendeter "alternativer" Maßnahmen in Frage stellen. Die Vorbereitung zum "großen" Heilpraktiker erfordert weit mehr Aufwand und ist mit dem Erlernen vieler Inhalte verbunden, die für Physiotherapeuten von geringer oder vollkommen fehlender Relevanz sind.
 
@@ -45,7 +45,7 @@ Wer überzeugt ist, dass er mit physiotherapeutischen Mitteln seine Patienten ni
 
 ### Direktzugang per \"Abkürzung\"
 
-Das Physiotherapeuten auf ärztliche Anweisung hin behandeln dürfen und mit welchen Methoden Sie das dürfen, ist im Masseur- und Physiotherapeutengesetz (MPhG) geregelt.  
+Die Notwendigkeit der Ausbildung, die es Physiotherapeuten ermöglicht auf ärztliche Verordnung hin tätig zu werden, und die dort zu erlernenden Methoden, sind im Masseur- und Physiotherapeutengesetz (MPhG) bzw. der Ausbildungsverordnung geregelt.  
 Dass es überhaupt einer Verordnung bedarf, dafür ist jedoch das Heilpraktikergesetz verantwortlich. 
 
 Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker eigenständig heilkundlich tätig werden dürfen. 
@@ -62,7 +62,7 @@ Die Erlaubnis die Berufsbezeichnung "Physiotherapeut/in" zu tragen bescheinigt f
 Er/Sie ist in der Lage physiotherapeutische Maßnahmen sicher und korrekt anzuwenden".  
 Es geht dabei um die korrekte Ausführung einer entsprechenden therapeutischen Maßnahme.
 Beim Heilpraktiker ist das anders. Die korrekte Ausführung therapeutischer Maßnahmen wird hier nicht geprüft und deren Beherrschung nicht bescheinigt.  
-Unter "Beweis" gestellt werden, muss vom Anwärter lediglich, dass er bei der Auswahl heilkundlicher Maßnahmen keine Gefahr für den Einzelnen und die Allgemeinheit darstellt.   
+Unter "Beweis" gestellt werden muss vom Anwärter lediglich, dass er bei der Auswahl heilkundlicher Maßnahmen keine Gefahr für den Einzelnen und die Allgemeinheit darstellt.   
 Im Grunde muss der Heilpraktiker wissen was er darf und was er nicht darf und er muss wissen, wie er die Situationen differenzieren kann.   
 Darauf werden wiederum Physiotherapeuten/innen in Ihrer Berufsausbildung weder direkt vorbereitet, noch am Ende entsprechend geprüft.   
 Diese Differenzierung (Diagnostik) muss daher zunächst jemand anderes (ein Arzt oder Heilpraktiker) durchführen, bevor der Physiotherapeut tätig werden darf.
@@ -82,10 +82,10 @@ Somit haben Patienten jetzt die Möglichkeit direkt mit Ihren Beschwerden einen 
 Sie sollen darauf vertrauen können, dass dieser die physiotherapeutischen Maßnahmen beherrscht und gleichzeitig auch in der Lage ist zu erkennen, wann andere Maßnahmen als die der Physiotherapie indiziert sind.
 
 Einige Physiotherapeuten äußern ein gewisses Unbehagen bzgl. des sektoralen Heilpraktiker für Physiotherapie. Es sei eine Abwertung der physiotherapeutischen Ausbildung, wenn erst der Heilpraktiker den Direktzugang ermögliche.  
-Tatsächlich aber sollte man es im Gegenteil als Aufwertung wahrnehmen.  
+Wir denken aber man sollte es als Aufwertung wahrnehmen.  
 Der Direktzugang zur Physiotherapie ohne Heilpraktikererlaubnis war stets in weiter Ferne.  
 Es wurde aber gerichtlich festgestellt, dass Physiotherapeuten schon fast alles mitbringen für den Direktzugang.   
 Es fehlt nur der Nachweis über grundlegende Fähigkeiten der Differentialdiagnostik (und, aus rechtlichen Gründen, ein bisschen Wissen der Berufskunde des Heilpraktikers).  
-Für alle ausgebildeten Physiotherapeuten ist das nur noch ein kleiner Schritt, der Ihnen große neue Möglichkeiten eröffnet.  
+Für alle ausgebildeten Physiotherapeuten ist das nur noch ein kleiner Schritt, der Ihnen große neue Möglichkeiten eröffnet und im Grunde erst ein freies eigenstädiges Berufsbild schafft. 
 
 
