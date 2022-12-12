@@ -79,11 +79,7 @@ In **Sachsen** werden in der Verwaltungsvorschrift ähnliche Anforderungen geste
 In **Sachsen-Anhalt** müssen Fortbildungen die entsprechende Verwaltungsrichtlinie umsetzen und der Anbieter eine Bestätigung eines physiotherapeutisches Landesverbandes vorweisen können. Beides wird von uns erfüllt. Einer Erlaubniserteilung nach Aktenlage in Sachsen-Anhalt sollte somit nichts im Wege stehen.  
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Sachsen-Anhalt auf der Webseite des Gesundheitsamt Magdeburg](https://www.magdeburg.de/Start/B%C3%3Frger-Stadt/Verwaltung-Service/B%C3%3FrgerService/B%C3%3FrgerInfoSystem/index.php?object=tx|698.85.1&FID=37.864.1){:target="_blank"}
 
-<section class="green button fullwidthtextbar">
-  <div class="textaligncenter">
-    <a href="{{site.baseurl}}/termine-und-anmeldung/" class="standardbutton textcolorwhite"><h2>Buche jetzt Deine Fortbildung</h2></a>
-  </div>
-</section>  
+<section class="green button fullwidthtextbar"><div class="textaligncenter"><a href="{{site.baseurl}}/termine-und-anmeldung/" class="standardbutton textcolorwhite"><h2>Buche jetzt Deine Fortbildung</h2></a></div></section>  
 
   > Du findest keine Information zu Deinem Bundesland? Dann nutze einfach [unser Kontaktformular]({{site.baseurl}}/kontakt/) für Deine Frage. Arne hilft Dir gerne weiter.
 
