@@ -222,7 +222,7 @@
   warteliste: false 
   kursnummer: HPPT93
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 14.01.2023 bis 15.01.2023 und 10.02.2023 bis 12.02.2023
   startdate: 2023-14-01t09:00
@@ -239,7 +239,7 @@
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5E949897-EFE1-7468-A2C7-BB305737639A&add-to-cart=12520
   kursnummer: HPPT94
   elearning: hybrid
-  show: true
+  show: false
   abgesagt: true
   
 - datum: 21.01.2023 bis 22.01.2023 und 17.02.2023 bis 20.02.2023
