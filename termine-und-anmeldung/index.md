@@ -9,25 +9,13 @@ customamp:
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  
 Gute Entscheidung! Versprochen ;-)  
-Müssen wir nur noch einen geeigneten Termin für Deine Fortbildung zum sektoralen Heilpraktiker für Physiotherapie finden.  
-Zur Zeit sind wir vor in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Allerdings kannst Du bei unseren Onlinekursen auch ganz bequem von zuhause oder überall aus der Welt teilnehmen.  
+Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
+Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
+
 
 <amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
 
-Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  
-<div class="achtungbox fullwidthtextbar">
-  <strong>Mit uns sicher planen und die individuell optimale Schulungsform auswählen:</strong>  
-  Da wir alle nicht in die Zukunft sehen können und unklar bleibt, wie sich die Einschränkungen wegen Covid-19 entwickeln, können die Kurse evtl. nicht als Präsenzveranstaltung stattfinden. Mit uns kannst Du aber sicher planen.  
-  Wir haben hervorragende Erfahrung mit der Durchführung des Kurses als Onlineseminar gemacht. Wenn die Präsenzkurse also nicht wie geplant möglich sein sollte, wechseln wir in die digitale Welt und liefern Dir dort die beste Fortbildung zum Heilpraktiker für Physiotherapie. Diese wird genauso von den Gesundheitsämtern anerkannt, wie die Präsenzveranstaltung.  
-  Langfristig sollen unsere Teilnehmer*innen das beste aus beiden Welten mitnehmen können. Es wird Kurse geben,  
-  <ul>
-    <li>in denen der gesamte vorgeschriebene Unterricht ganz traditionell in Präsenz stattfindet</li> 
-    <li>andere kombinierte Kurse, welche einen großen Teil der Theorie als Webinar vermitteln und ein Wochenende eher praktische Inhalte in Präsenz üben lassen</li> 
-    <li>und weitere Kurse, die vollständig bequem von zuhause aus durchgeführt werden können.</li>
-  </ul>  
-  So sollte für jeden Lerntyp und jede Lebenssituation das perfekte Format dabei sein.
-</div>
-Unsere aktuellen Termine sind:
+##Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
 <script type="application/ld+json">
       {% include eventmetadata.json event=kurs %}
