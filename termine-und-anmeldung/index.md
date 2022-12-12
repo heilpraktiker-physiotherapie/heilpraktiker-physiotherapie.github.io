@@ -15,7 +15,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
 
 <amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
 
-##Unsere aktuellen Termine sind:
+## Unsere aktuellen Termine sind:
 {% for kurs in site.data.kurstermine %}
 <script type="application/ld+json">
       {% include eventmetadata.json event=kurs %}
