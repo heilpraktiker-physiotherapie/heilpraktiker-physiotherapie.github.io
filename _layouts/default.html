@@ -19,24 +19,7 @@
             }
           }
           </script>
-      </amp-analytics>
-      <amp-consent layout="nodisplay" id="consent-element">
-        <script type="application/json">
-        {
-          "consents": {
-            "my-consent": {
-              "checkConsentHref": "https://foo.com/api/show-consent",
-              "promptUI": "consent-ui"
-            }
-          }
-        }
-        </script>
-        <div id="consent-ui">
-          <button on="tap:consent-element.accept" role="button">Accept</button>
-          <button on="tap:consent-element.reject" role="button">Reject</button>
-          <button on="tap:consent-element.dismiss" role="button">Dismiss</button>
-        </div>
-      </amp-consent>    
+      </amp-analytics> 
 
       <!--the parent of amp-sidebar must be body -->
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
