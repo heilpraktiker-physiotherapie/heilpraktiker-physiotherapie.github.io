@@ -26,5 +26,5 @@ Allerdings kann der Therapeut Art, Dauer und Frequenz der Therapie in einem gewi
 Mehr dazu auch auf: [http://www.dr-roy-kuehne.de/hhvg-beschlossen.html](http://www.dr-roy-kuehne.de/hhvg-beschlossen.html)  
   
 
-<amp-facebook width="552" height="310" layout="responsive" data-embed-as="video"  data-href="https://www.facebook.com/unternehmenpraxis/videos/vb.456502557696394/1487531211260185/"></amp-facebook>
+<amp-facebook width="552" height="310" layout="responsive" data-embed-as="video"  data-href="https://www.facebook.com/unternehmenpraxis/videos/vb.456502557696394/1487531211260185/" data-block-on-consent-purposes="purpose-social"></amp-facebook>
   

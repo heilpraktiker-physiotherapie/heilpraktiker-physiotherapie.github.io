@@ -5,7 +5,7 @@
 <html ⚡  lang="de">
   {% include head.html %}
    <body>
-      <amp-analytics type="googleanalytics" data-block-on-consent>
+      <amp-analytics type="googleanalytics" data-block-on-consent-purposes="purpose-analytics">
           <script type="application/json">
           {
             "vars": {
@@ -19,7 +19,55 @@
             }
           }
           </script>
-      </amp-analytics> 
+      </amp-analytics>
+      <amp-consent layout="nodisplay" id="siteConsent">
+        <script type="application/json">
+          {
+            "consentInstanceId": "consent1",
+            "consentRequired": true,
+            "promptUI": "consentPopup",
+            "postPromptUI": "repromptDialog",
+            "uiConfig": {
+              "overlay": true
+            },
+            "purposeConsentRequired": ["purpose-analytics", "purpose-social"]
+          }
+        </script>
+        <div class="cookiesContent" id="consentPopup">
+          <div id="consentDialog">
+            <button class="close" role="button" tabindex="0" on="tap:siteConsent.dismiss">
+              𝗫
+            </button>
+            <br>
+            <h3>Deine Kontrolle über Deine Daten</h3>
+            <p>
+              Auch für uns sind Informationen über die Nutzung unserer Website wichtig. Wir möchten Dir aber die Kontrolle über Deine Daten geben. Deshalb kannst Du hier entscheiden, welche Daten wir sammeln dürfen.
+            </p>
+            <div class="choices">
+              <label class="consentLabel" for="consent-purpose-social">
+                <input id="consent-purpose-social" type="checkbox" on="change:siteConsent.setPurpose(purpose-social=event.checked)">
+                Social Media
+              </label>
+              <br>
+              <label class="consentLabel" for="consent-purpose-analytics">
+                <input id="consent-purpose-analytics" type="checkbox" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
+                Google analytics
+              </label>
+            </div>
+            <br>      
+            <button class="choiceButton accept" on="tap:siteConsent.accept(purposeConsentDefault=false)">
+              Speichern
+            </button>
+            <button class="choiceButton dismiss" on="tap:siteConsent.dismiss">
+              Ausblenden
+            </button>
+          </div>
+        </div>
+<!--        <div id="repromptDialog">
+          Do you want to make your consent choices again?
+          <button on="tap:siteConsent.prompt">I do!</button>
+        </div>>-->
+      </amp-consent> 
 
       <!--the parent of amp-sidebar must be body -->
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
@@ -41,7 +89,7 @@
     {{ content }}
     <span class="homelink">zurück zur Startseite <a href="{{site.baseurl}}/">Fortbildung Heilpraktiker Physiotherapie (HP Physio)</a></span>
     {% include footer.html %}
-   <amp-analytics type="googleanalytics" id="analytics2">
+   <amp-analytics type="googleanalytics" id="analytics2" data-block-on-consent-purposes="purpose-analytics">
 <script type="application/json">
 {
   "vars": {

@@ -79,16 +79,6 @@ Wir offenbaren oder übermitteln hierbei Daten an die Finanzverwaltung, Berater,
 Kontaktaufnahme
 Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via sozialer Medien) werden die Angaben des Nutzers zur Bearbeitung der Kontaktanfrage und deren Abwicklung gem. Art. 6 Abs. 1 lit. b) DSGVO verarbeitet und gespeichert.
 
-DISQUS-Kommentarfunktion
-Wir nutzen zudem das DISQUS-Kommentarsystem, das von der Firma DISQUS, Inc., 301 Howard St, Floor 3 San Francisco, California- 94105, USA, bereitgestellt wird. Die Datenschutzinformationen von DISQUS finden Sie unter http://help.disqus.com/customer/portal/articles/466259-privacy-policy. DISQUS erlaubt die Anmeldung entweder über ein eigenes DISQUS-Nutzer-Konto ("Account") oder über bestehende Nutzer-Konten bei Facebook, Twitter und Google Plus. Sofern Sie sich mit Ihren Accounts der Social-Media-Angebote (siehe Informationen oben) bei der DISQUS-Funktion auf unseren Webseiten anmelden, werden auch diese Diensteanbieter Informationen zu Ihrer Nutzung der DISQUS-Funktionen erheben und verarbeiten. Bitte nehmen Sie dazu die Datenschutzinformationen der jeweiligen Anbieter (siehe oben) zur Kenntnis. Auch das Kommentieren als Gast ist möglich, allerdings stehen dann einige Funktionen nicht zur Verfügung.
-
-Newsletter
-Indem Sie unseren Newsletter abonnieren, erklären Sie sich mit dem Empfang und den beschriebenen Verfahren einverstanden.
- Wir versenden E-Mails zu Informations- und Werbezwecken, nur mit der Einwilligung der Empfänger. Entsprechende Anmeldedaten werden von uns erfasst.
-
-Der Versand der Newsletter erfolgt mittels des Versanddienstleisters „MailChimp“ des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA. Datenschutzbestimmungen: https://mailchimp.com/legal/privacy/.
-Der Versanddienstleister kann die Daten der Empfänger in pseudonymer Form, d.h. ohne Zuordnung zu einem Nutzer, zur Optimierung oder Verbesserung der eigenen Services nutzen. Der Versanddienstleister darf jedoch nicht die Daten zu eigener Kontaktaufnahme nutzen und diese an Dritte weitergeben.
-
 Google Analytics:
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Die Benutzung erfolgt auf der Grundlage des Art. 6 Abs. 1 S. 1 lit. f. DSGVO. Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung der Webseite wie
 
