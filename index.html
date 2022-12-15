@@ -95,11 +95,20 @@ Auch Du kannst Dich hoffentlich bald dazu zählen. <strong>Diese Entscheidung wi
            
             <article class="lightgrey fullwidthtextbar">
                 <h3>Kurstermine</h3>
-            {% for kurs in site.data.kurstermine %}
-                    <script type="application/ld+json">
-                        {% include eventmetadata.json event=kurs %}
-                    </script>
-                {% endfor %}
+                <script type="application/ld+json">
+                    {
+                      "@context": "http://schema.org",
+                      "@type": "ItemList",
+                      "itemListElement": [
+                        {% for kurs in site.data.kurstermine %}
+                        {% include eventmetadata.json event=kurs position=forloop.index %}
+                        {% if forloop.last==false %}
+                        {{","}}
+                        {% endif %}
+                        {% endfor %}
+                      ]
+                    }
+                </script>
                 Unsere Fortbildung zum sektoralen Heilpraktiker für Physiotherapie findet wechselnd in verschiedenen Städten und Bundesländern statt (z.B. Düsseldorf-NRW, Wiesbaden-Hessen, Regensburg-Bayern, Stadthagen-Niedersachsen, Jena-Thüringen, Berlin).<br/>
                 <blockquote>Erfahre mehr zu den Terminen und Kursorten unter <a href="{{site.baseurl}}/termine-und-anmeldung/">Termine</a></blockquote>
             </article>
