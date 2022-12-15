@@ -25,7 +25,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
         {% for kurs in site.data.kurstermine %}
         {% include eventmetadata.json event=kurs position=forloop.index %}
         {% if forloop.last=false %}
-        ,
+        {{","}}
         {% endif %}
         {% endfor %}
       ]
