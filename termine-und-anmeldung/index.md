@@ -23,12 +23,12 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
       "@type": "ItemList",
       "itemListElement": [
         {% for kurs in site.data.kurstermine %}
-          {% if kurs.show==true %}
+          {% if kurs.show == true %}
             {% include eventmetadata.json event=kurs position=forloop.index %}
-          {% endif %}
-          {% if forloop.last==false %}
+            {% if forloop.last == false %}
               {{","}}
             {% endif %}
+          {% endif %}
         {% endfor %}
       ]
     }
