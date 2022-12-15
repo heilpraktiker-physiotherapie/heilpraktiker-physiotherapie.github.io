@@ -2,33 +2,37 @@
     "@context": "http://schema.org",
     "@type": "Course",
     "name": "Fortbildung Heilpraktiker Physiotherapie {{include.event.ort}}",
-    "startDate": "{{include.event.startdate}}",
-    "endDate": "{{include.event.enddate}}",
     "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Physiotherapie",
-    "url": "{{include.event.link}}",
-    "location": {
-        "@type": "Place",
-        "name": "{{include.event.ortsbezeichnung}}",
-        "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
-    },
+    "hasCourseInstance": [
+        {
+            "@type": "CourseInstance",
+            "courseMode": "synchronous",
+            "startDate": "{{include.event.startdate}}",
+            "endDate": "{{include.event.enddate}}",
+            "url": "{{include.event.link}}",
+            "location": {
+                "@type": "Place",
+                "name": "{{include.event.ortsbezeichnung}}",
+                "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
+            },
+            "image":[
+                "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
+                "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
+                "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
+                
+            ]
+
+          }
+    ],
+    "url": "{{https://heilpraktiker-physiotherapie.com/termine-und-anmeldung}}",
     "image":[
         "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
         "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
-        "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
-        
+        "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"  
     ],
-    "offers": {
-        "@type": "Offer",
-        "url": "{{include.event.link}}",
-        "availability": "http://schema.org/InStock",
-        "price":"{{include.event.preis}}",
-        "priceCurrency": "EUR",
-        "validFrom": "2018-01-01"
-    },
     "provider": {
         "@type": "Organization",
         "name": "heilpraktiker-physiotherapie.com",
         "sameAs": "https://heilpraktiker-physiotherapie.com"
-
     }
 }
