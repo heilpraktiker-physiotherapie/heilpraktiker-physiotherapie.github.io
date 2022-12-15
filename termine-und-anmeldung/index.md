@@ -28,7 +28,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
             {% if forloop.first == false and firstEntry == false %}
               {{","}}
             {% endif %}
-            {% assign firstEntry = true %}
+            {% assign firstEntry = false %}
             {% include eventmetadata.json event=kurs position=forloop.index %}
           {% endif %}
         {% endfor %}
