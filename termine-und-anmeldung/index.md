@@ -22,16 +22,16 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
       "@context": "http://schema.org",
       "@type": "ItemList",
       "itemListElement": [
-      {% assign firstEntry = true %}
-        {% for kurs in site.data.kurstermine %}
-          {% if kurs.show == true %}
-            {% if forloop.first == false and firstEntry == false %}
+      {% assign firstEntry = true -%}
+        {% for kurs in site.data.kurstermine -%}
+          {% if kurs.show == true -%}
+            {% if forloop.first == false and firstEntry == false -%}
               {{","}}
-            {% endif %}
-            {% assign firstEntry = false %}
+            {% endif -%}
+            {% assign firstEntry = false -%}
             {% include eventmetadata.json event=kurs position=forloop.index %}
-          {% endif %}
-        {% endfor %}
+          {% endif -%}
+        {% endfor -%}
       ]
     }
 </script>
