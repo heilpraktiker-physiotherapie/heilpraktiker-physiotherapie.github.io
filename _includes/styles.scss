@@ -790,12 +790,15 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
             font-size: 1.2em;
         }
     }
+    #AuswahlSection button{
+        font-size: 1em;
+        width: 96%;
+    }
+    #AuswahlSection .standardbutton{
+        min-height: 4em;
+    }
 }
 @media (max-width: 420px) {
-
-    #AuswahlSection button {
-        padding: 2px;
-    }
     #welcometext{
         font-size: 0.8em;
     }
@@ -804,13 +807,6 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     footer .barbuttons{
         font-size: 10px;
         padding: 12px 0px;
-    }
-    #AuswahlSection button{
-        font-size: 1em;
-        width: 96%;
-    }
-    #AuswahlSection .standardbutton{
-        min-height: 4em;
     }
 }
 #shortintros {
