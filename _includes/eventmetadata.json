@@ -26,7 +26,7 @@
 
             }
         ],
-        "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung",
+        "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
         "image":[
             "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
             "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",

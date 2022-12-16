@@ -38,7 +38,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
 {% assign var bgcolor = 'green' %}
 {% for kurs in site.data.kurstermine %}
 {% if kurs.show == true %}
-<div markdown="0" class="kurstermincontainer">
+<div id="{{kurs.kursnummer}}" markdown="0" class="kurstermincontainer">
    {% if forloop.first == true %}
         {% assign bgcolor = 'green' %}
     {% elsif bgcolor == 'green' %}
