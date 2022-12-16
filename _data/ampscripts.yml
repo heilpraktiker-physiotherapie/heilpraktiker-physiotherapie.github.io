@@ -62,3 +62,8 @@ amp-mustache:
     name: amp-mustache
     type: custom-template
     src: https://cdn.ampproject.org/v0/amp-mustache-0.2.js
+
+amp-script:
+    name: amp-script
+    type: custom-template
+    src: https://cdn.ampproject.org/v0/amp-script-0.1.js
