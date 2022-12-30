@@ -10,11 +10,14 @@ Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am J
 Zumindest wenn man es schafft, die Möglichkeiten die sich einem bieten auch zu nutzen.
 Das gelingt leider nicht jedem und daher äußern sich manche unzufrieden.  
 Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt alte Arbeits- und Vermarktungsgewohnheiten aufzubrechen, dann lassen sich alle Faktoren physiotherapeutischer Tätigkeit spürbar verbessern.
-
+<div markdown="0">
+    <div class="left betweenTextImage"><amp-img src="/assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jpg" width="1484" height="780" layout="responsive" ></amp-img>   </div>
+</div>
 \"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
-Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf.  
-Das stimmt auch. Die Einschätzung jedoch, dass es den Physiotherapeuten an therapeutischen Techniken und Methoden mangelt um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Physiotherapie einfach nicht gerecht.  
-Die entscheidende Einschränkung ist wie Physiotherapeuten die eigenen Fähigkeiten zur Anwendung bringen dürfen (oder eben **nicht** dürfen). 
+    Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Physiotherapeut sonst auf Verordnung machen darf.  
+    Das stimmt auch. Die Einschätzung jedoch, dass es den Physiotherapeuten an therapeutischen Techniken und Methoden mangelt um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Physiotherapie einfach nicht gerecht.  
+    Die entscheidende Einschränkung ist wie Physiotherapeuten die eigenen Fähigkeiten zur Anwendung bringen dürfen (oder eben **nicht** dürfen).
+
 
 Der "große" Heilpraktiker darf prinzipiell auf ein größeres Spektrum an Maßnahmen zurückgreifen. Allerdings muss man auch die Sinnhaftigkeit vieler häufig verwendeter "alternativer" Maßnahmen in Frage stellen. Die Vorbereitung zum "großen" Heilpraktiker erfordert weit mehr Aufwand und ist mit dem Erlernen vieler Inhalte verbunden, die für Physiotherapeuten von geringer oder vollkommen fehlender Relevanz sind.
 
@@ -26,6 +29,9 @@ Der sektorale Heilpraktiker für Physiotherapie ist in der Lage, die großartige
 - Patienten die eine Verordnung haben, können ergänzende notwendige und sinnvolle Maßnahmen oder zusätzliche Therapieeinheiten erhalten
 - alle heilkundlichen Maßnahmen sind von der Umsatzsteuer befreit
 
+<div markdown="0">
+    <div class="right betweenTextImage"><amp-img src="https://pbs.twimg.com/media/E572lO2UYAEW4Kt?format=jpg&name=900x900" width="900" height="900" layout="responsive" ></amp-img>   </div>
+</div>
 Mit dem Direktzugang lassen sich hervorragend neue Zielgruppen erschließen.  
 Gerade bei muskuloskeletalen Beschwerden wollen viele akute Hilfe und Erleichterung ohne allzu großen Aufwand.  
 Insbesondere Selbstständige scheuen den Gang zum Physiotherapeuten, da üblicherweise ein langer Umweg über den Arzt notwendig ist.  

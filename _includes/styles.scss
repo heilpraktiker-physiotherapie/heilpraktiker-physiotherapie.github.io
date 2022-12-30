@@ -265,6 +265,11 @@ blockquote{
 
 /*_________________________________________________________________*/
 
+.betweenTextImage {
+    width: 30%; 
+    margin: 1em;
+}
+
 .hoveropacity {
     opacity: 0.9;
 }
@@ -796,6 +801,10 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     }
     #AuswahlSection .standardbutton{
         min-height: 4em;
+    }
+    .betweenTextImage{
+        width: 100%;
+        margin: auto;
     }
 }
 @media (max-width: 420px) {
