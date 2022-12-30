@@ -416,7 +416,24 @@
   kursnummer: HPPT105
   elearning: hybrid
   show: true  
-  
+ 
+- datum: 20.10.2023 bis 22.10.2023 und 17.11.2023 bis 19.11.2023
+  startdate: 2023-10-20t13:00
+  enddate: 2023-11-19t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  ort: Düsseldorf
+  plz: 40225
+  str: Moorenstraße 5
+  land: NRW
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 720
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  warteliste: false 
+  kursnummer: HPPT106
+  elearning: hybrid
+  show: true
+
 - datum: 11.11.2023 bis 12.11.2023 und 08.12.2023 bis 11.12.2023
   startdate: 2023-11-11t09:00
   enddate: 2023-12-11t18:00 
@@ -430,7 +447,7 @@
   preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
   preis: 795
   link:  https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=692&tx_hfa_pi2%5Bback%5D=389
-  kursnummer: HPPT106
+  kursnummer: HPPT107
   elearning: hybrid
   show: true
   
@@ -447,7 +464,7 @@
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
-  kursnummer: HPPT107
+  kursnummer: HPPT108
   elearning: hybrid
   show: false  
   
