@@ -13,10 +13,10 @@ customamp:
   
 Der Erlaubniserteilung als Heilpraktiker für Physiotherapie den Patienten den Direktzugang zur Physiotherapie anbieten zu dürfen, bietet großartige neue Möglichkeiten die eigene physiotherapeutische Leistung wirtschaftlich lohnend und therapeutisch erfüllend zu gestalten. Die neuen Freiheiten gehen aber auch mit mehr Verantwortung und neuen Aufgaben einher.  
 Eine davon ist die Abrechnung, auf die ich in diesem Blogbeitrag etwas mehr eingehen will. <!-- more --> 
-Aufgrund der Fülle an juristisch und medizinisch essentiellen Themen in der Fortbildung zum sektoralen Heilpraktiker, kann dieses ebenfalls wichtige Thema in der Fortbildung zur Anerkennung nach Aktenlage nur sehr knapp behandelt werden. Es tauchen im Nachhinein immer wieder Fragen auf. Noch ausgeprägter ist die Unsicherheit in der Regel bei den HPPhysios, welche nicht bei uns die Fortbildung besucht haben.  
 Damit am Ende nicht das Thema Abrechnung, der erfolgreichen Einbringung der neuen Möglichkeiten des HP-Physio im Wege steht, will ich hier einige Grundlagen dazu darstellen.  
 Zu diesem Zweck habe ich eine Umfrage über soziale Netzwerke und Emailkontakte verbreitet und so spannende Daten zum Vorgehen in der Abrechnung und zu Schwierigkeiten sammeln und auswerten können. Die Ergebnisse möchte ich hier darstellen.  
-Ebenso ist auf dieser Grundlage ein umfangreicher Video-Podcast im Gespräch mit Rechtsanwalt Benjamin Alt entstanden. Hier werden die wichtigsten Themen der Abrechnung intensiv besprochen und durch diesen Blog ergänzt. 
+Ebenso ist auf dieser Grundlage ein umfangreicher Video-Podcast im Gespräch mit Rechtsanwalt Benjamin Alt entstanden. Hier werden die wichtigsten Themen der Abrechnung intensiv besprochen und durch diesen Blog ergänzt.  
+Teil 1 geht dabei nochmal auf den Heilprakitker für Physiotherapie im Allgemeinen ein. Teil2 und Teil 3 beschäftigen sich schwerpunktmäßig mit dem Thema Abrechnung.  
 
 ### Videoserie zum Thema Rechnungserstellung des Heilpraktiker für Physiotherapie 
 **Teil 1**
