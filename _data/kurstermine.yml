@@ -309,6 +309,23 @@
   kursnummer: HPPT98
   elearning: hybrid
   show: true
+
+- datum: 28.04.2023 bis 30.04.2023 und 19.05.2023 bis 21.05.2023
+  startdate: 2023-04-28t12:00
+  enddate: 2023-05-21t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Lehrakademie für Physiotherapie
+  ort: Berlin
+  plz: 14052
+  str: Reichsstraße 92a
+  land: Berlin
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 720
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  warteliste: false 
+  kursnummer: HPPT98b
+  elearning: hybrid
+  show: true
   
 - datum: 03.03.2023 bis 05.03.2023 und 21.04.2023 bis 23.04.2023
   startdate: 2023-03-03t12:00
@@ -321,7 +338,7 @@
   kursnummer: HPPT99
   elearning: true
   show: true
-  
+
 - datum: 03.03.2023 bis 05.03.2023 und 12.05.2023 bis 14.05.2023
   startdate: 2023-03-03t12:00
   enddate: 2023-05-14t18:00 
@@ -339,6 +356,35 @@
   elearning: hybrid
   show: true
   
+- datum: 28.04.2023 bis 30.04.2023 und 12.05.2023 bis 14.05.2023
+  startdate: 2023-04-28t12:00
+  enddate: 2023-05-14t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Badhaus Schwarz
+  ort: Wiesbaden
+  plz: 65203
+  str: Rathausstr. 57
+  land: Hessen
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 720
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  warteliste: false 
+  kursnummer: HPPT100b
+  elearning: hybrid
+  show: true
+
+- datum: 28.04.2023 bis 30.04.2023 und 02.06.2023 bis 04.06.2023
+  startdate: 2023-04-28t12:00
+  enddate: 2023-06-04t18.00
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten ist eine Präsenzprüfung bei uns notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT99b
+  elearning: true
+  show: true
+
 - datum: 17.06.2023 bis 18.06.2023 und 11.08.2023 bis 14.08.2023
   startdate: 2023-06-17t09:00
   enddate: 2023-08-14t18:00 
