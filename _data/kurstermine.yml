@@ -116,7 +116,7 @@
   warteliste: false 
   kursnummer: HPPT98b
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 03.03.2023 bis 05.03.2023 und 21.04.2023 bis 23.04.2023
   startdate: 2023-03-03t12:00
