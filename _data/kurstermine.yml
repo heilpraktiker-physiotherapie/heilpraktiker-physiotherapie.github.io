@@ -257,7 +257,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=7EB37788-49FE-F737-A43E-519FD59305AA&add-to-cart=12520
   kursnummer: HPPT95
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 21.01.2023 bis 22.01.2023 und 10.03.2023 bis 13.03.2023
   startdate: 2023-01-21t09:00
@@ -274,7 +274,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=9EF6EE22-72E6-08B2-8E16-6FF16EDAC7C0&add-to-cart=12520
   kursnummer: HPPT96
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 11.02.2023 bis 12.02.2023 und 17.03.2023 bis 20.03.2023
   startdate: 2023-02-11t09:00
@@ -290,7 +290,7 @@
   preis: 690
   link: https://ifeas.javis.de/onlineregistration/504/registration
   kursnummer: HPPT97
-  show: true
+  show: false
   elearning: false
   
 - datum: 03.03.2023 bis 05.03.2023 und 19.05.2023 bis 21.05.2023
@@ -308,7 +308,7 @@
   warteliste: false 
   kursnummer: HPPT98
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 28.04.2023 bis 30.04.2023 und 19.05.2023 bis 21.05.2023
   startdate: 2023-04-28t12:00
