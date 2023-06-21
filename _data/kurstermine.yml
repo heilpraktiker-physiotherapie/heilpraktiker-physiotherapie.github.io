@@ -163,7 +163,7 @@
   warteliste: false 
   kursnummer: HPPT100b
   elearning: hybrid
-  show: true
+  show: false
 
 - datum: 28.04.2023 bis 30.04.2023 und 02.06.2023 bis 04.06.2023
   startdate: 2023-04-28t12:00
@@ -175,7 +175,7 @@
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
   kursnummer: HPPT99b
   elearning: true
-  show: true
+  show: false
 
 - datum: 17.06.2023 bis 18.06.2023 und 11.08.2023 bis 14.08.2023
   startdate: 2023-06-17t09:00
@@ -192,7 +192,7 @@
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
   kursnummer: HPPT101
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 17.06.2023 bis 18.06.2023 und 25.08.2023 bis 28.08.2023
   startdate: 2023-06-17t09:00
@@ -208,7 +208,7 @@
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=68B0AC99-D67E-251F-8CC9-1C4E6BB516BE&add-to-cart=12520
   kursnummer: HPPT102
   elearning: hybrid
-  show: true
+  show: false
   
 - datum: 01.09.2023 bis 03.09.2023 und 20.10.2023 bis 22.10.2023
   startdate: 2023-09-01t12:00
