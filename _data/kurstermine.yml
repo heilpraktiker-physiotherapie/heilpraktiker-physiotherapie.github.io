@@ -322,3 +322,100 @@
   kursnummer: HPPT109
   elearning: hybrid
   show: true  
+
+- datum: 12.01.2024 bis 14.01.2024 und 23.02.2024 bis 25.02.2024
+  startdate: 2024-01-12t12:00
+  enddate: 2024-02-25t18:00 
+  ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt. Es ist unser einziger vollständiger Präsenzkurs in diesem Jahr.
+  ortsbezeichnung: IFEAS 
+  ort: Stadthagen
+  plz: 31655
+  str: Dorfstraße 2
+  land: Niedersachsen
+  veranstalter: IFEAS
+  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
+  preis: 690
+  link: https://ifeas.javis.de/onlineregistration/504/registration
+  kursnummer: HPPT110
+  show: true
+  elearning: false
+
+  datum: 02.02.2024 bis 04.02.2024 und 01.03.2024 bis 03.03.2024
+  startdate: 2024-02-02t12:00
+  enddate: 2024-03-03t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  ort: Regensburg
+  plz: 93059
+  str: Im Gewerbepark D75
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
+  kursnummer: HPPT111
+  elearning: hybrid
+  show: true  
+
+  datum: 02.02.2024 bis 04.02.2024 und 22.03.2024 bis 24.03.2024
+  startdate: 2024-02-02t12:00
+  enddate: 2024-03-24t18:00 
+  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Rosenheim
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
+  kursnummer: HPPT112
+  elearning: hybrid
+  show: true
+
+  datum: 02.02.2024 bis 04.02.2024 und 19.04.2024 bis 21.04.2024
+  startdate: 2024-02-02t12:00
+  enddate: 2023-04-21t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Badhaus Schwarz
+  ort: Wiesbaden
+  plz: 65203
+  str: Rathausstr. 57
+  land: Hessen
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 720
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  warteliste: false 
+  kursnummer: HPPT113
+  elearning: hybrid
+  show: true
+
+  datum: 15.03.2024 bis 17.03.2024 und 12.04.2024 bis 14.04.2024
+  startdate: 2024-03-15t12:00
+  enddate: 2024-04-14t18.00
+  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen.) 
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 690
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT114
+  elearning: true
+  show: true
+
+  datum: 15.03.2024 bis 17.03.2024 und 22.03.2024 bis 24.03.2024
+  startdate: 2024-03-15t12:00
+  enddate: 2024-03-24t18:00 
+  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Private Massageschule Inntal
+  ort: Bad Laer
+  plz: 83026
+  str: Klepperstraße 28
+  land: Bayern
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 795
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
+  kursnummer: HPPT115
+  elearning: hybrid
+  show: false
