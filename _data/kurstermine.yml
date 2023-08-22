@@ -334,8 +334,8 @@
   land: Niedersachsen
   veranstalter: IFEAS
   preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
-  preis: 690
-  link: https://ifeas.javis.de/onlineregistration/504/registration
+  preis: 720
+  link: https://ifeas.javis.de/onlineregistration/597/registration
   kursnummer: HPPT110
   show: true
   elearning: false
@@ -352,7 +352,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=6B83E1C6-207E-2A04-C553-1BC78A49EDDA&add-to-cart=12520
   kursnummer: HPPT111
   elearning: hybrid
   show: true  
@@ -369,7 +369,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=D444CB86-C980-7EDC-483A-BBD60E558007&add-to-cart=12520
   kursnummer: HPPT112
   elearning: hybrid
   show: true
@@ -431,7 +431,7 @@
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=D3738BC8-9F5E-F43C-806D-F48E1C56C388&add-to-cart=12520
   kursnummer: HPPT116
   elearning: hybrid
   show: true  
@@ -451,7 +451,7 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
   kursnummer: HPPT117
   elearning: hybrid
-  show: true 
+  show: false 
 
   datum: 27.09.2024 bis 29.09.2024 und 29.11.2024 bis 01.12.2024
   startdate: 2024-09-27t12:00
@@ -468,7 +468,7 @@
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
   kursnummer: HPPT118
   elearning: hybrid
-  show: true  
+  show: false  
 
   datum: 27.09.2024 bis 29.09.2024 und 01.11.2023 bis 03.11.2023
   startdate: 2024-27-09t12:00
@@ -480,9 +480,9 @@
   str: Ernst-Abbe-Platz 3-4
   land: Thüringen
   veranstalter: MediPhys Jena
-  preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
-  link:  https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=692&tx_hfa_pi2%5Bback%5D=389
+  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=86413ECC-85BA-56F0-3EA2-6EF03F31D258&add-to-cart=12520
   kursnummer: HPPT119
   elearning: hybrid
   show: true
@@ -513,5 +513,4 @@
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
   kursnummer: HPPT121
   elearning: hybrid
-  show: true  
-
+  show: false
