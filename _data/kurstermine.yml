@@ -340,7 +340,7 @@
   show: true
   elearning: false
 
-  datum: 02.02.2024 bis 04.02.2024 und 01.03.2024 bis 03.03.2024
+- datum: 02.02.2024 bis 04.02.2024 und 01.03.2024 bis 03.03.2024
   startdate: 2024-02-02t12:00
   enddate: 2024-03-03t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -357,7 +357,7 @@
   elearning: hybrid
   show: true  
 
-  datum: 02.02.2024 bis 04.02.2024 und 22.03.2024 bis 24.03.2024
+- datum: 02.02.2024 bis 04.02.2024 und 22.03.2024 bis 24.03.2024
   startdate: 2024-02-02t12:00
   enddate: 2024-03-24t18:00 
   ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -374,7 +374,7 @@
   elearning: hybrid
   show: true
 
-  datum: 02.02.2024 bis 04.02.2024 und 19.04.2024 bis 21.04.2024
+- datum: 02.02.2024 bis 04.02.2024 und 19.04.2024 bis 21.04.2024
   startdate: 2024-02-02t12:00
   enddate: 2023-04-21t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -391,7 +391,7 @@
   elearning: hybrid
   show: true
 
-  datum: 15.03.2024 bis 17.03.2024 und 12.04.2024 bis 14.04.2024
+- datum: 15.03.2024 bis 17.03.2024 und 12.04.2024 bis 14.04.2024
   startdate: 2024-03-15t12:00
   enddate: 2024-04-14t18.00
   ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen.) 
@@ -403,7 +403,7 @@
   elearning: true
   show: true
 
-  datum: 15.03.2024 bis 17.03.2024 und 22.03.2024 bis 24.03.2024
+- datum: 15.03.2024 bis 17.03.2024 und 22.03.2024 bis 24.03.2024
   startdate: 2024-03-15t12:00
   enddate: 2024-03-24t18:00 
   ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -420,7 +420,7 @@
   elearning: hybrid
   show: false
 
-  datum: 24.05.2024 bis 26.05.2024 und 05.07.2024 bis 07.07.2024
+- datum: 24.05.2024 bis 26.05.2024 und 05.07.2024 bis 07.07.2024
   startdate: 2024-05-24t12:00
   enddate: 2024-07-07t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -453,7 +453,7 @@
   elearning: hybrid
   show: false 
 
-  datum: 27.09.2024 bis 29.09.2024 und 29.11.2024 bis 01.12.2024
+- datum: 27.09.2024 bis 29.09.2024 und 29.11.2024 bis 01.12.2024
   startdate: 2024-09-27t12:00
   enddate: 2024-12-01t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -470,7 +470,7 @@
   elearning: hybrid
   show: false  
 
-  datum: 27.09.2024 bis 29.09.2024 und 01.11.2023 bis 03.11.2023
+- datum: 27.09.2024 bis 29.09.2024 und 01.11.2023 bis 03.11.2023
   startdate: 2024-27-09t12:00
   enddate: 2024-11-03t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -487,7 +487,7 @@
   elearning: hybrid
   show: true
 
-  datum: 27.09.2024 bis 29.09.2024 und 22.11.2024 bis 24.11.2024
+- datum: 27.09.2024 bis 29.09.2024 und 22.11.2024 bis 24.11.2024
   startdate: 2024-09-27t12:00
   enddate: 2024-11-24t18.00
   ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen.) 
@@ -499,7 +499,7 @@
   elearning: true
   show: true
 
-  datum: 08.11.2024 bis 10.11.2024 und 06.12.2024 bis 08.12.2024
+- datum: 08.11.2024 bis 10.11.2024 und 06.12.2024 bis 08.12.2024
   startdate: 2024-11-08t12:00
   enddate: 2024-12-08t18:00 
   ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
