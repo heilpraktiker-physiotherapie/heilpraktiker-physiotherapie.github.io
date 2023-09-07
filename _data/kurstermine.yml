@@ -287,7 +287,8 @@
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=85EE7560-3FCB-1A10-9D9D-7ACCA65A4BAC&add-to-cart=12520
   kursnummer: HPPT107
   elearning: hybrid
-  show: true
+  show: false
+  abgesagt: true
 
 - datum: 11.11.2023 bis 12.11.2023 und 08.12.2023 bis 11.12.2023
   startdate: 2023-11-11t09:00
@@ -326,7 +327,7 @@
 - datum: 12.01.2024 bis 14.01.2024 und 23.02.2024 bis 25.02.2024
   startdate: 2024-01-12t12:00
   enddate: 2024-02-25t18:00 
-  ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt. Es ist unser einziger vollständiger Präsenzkurs in diesem Jahr.
+  ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt. 
   ortsbezeichnung: IFEAS 
   ort: Stadthagen
   plz: 31655
@@ -420,6 +421,23 @@
   elearning: hybrid
   show: false
 
+- datum: 19.04.2024 bis 21.04.2024 und 07.06.2024 bis 09.06.2024
+  startdate: 2024-04-19t12:00
+  enddate: 2024-06-09t18:00 
+  ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Bad Laer statt. 
+  ortsbezeichnung: Eva Hüser Physiotherapieschule
+  ort: Bad Laer
+  plz: 49196
+  str: Remseder Str. 3
+  land: Niedersachsen
+  veranstalter: Fortbildungs-Akademie Pschick
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  preis: 720
+  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=A8FAF41F-CF83-C15F-4E1D-56A6C3D995B2&add-to-cart=12520
+  kursnummer: HPPT116
+  show: true
+  elearning: false
+
 - datum: 24.05.2024 bis 26.05.2024 und 05.07.2024 bis 07.07.2024
   startdate: 2024-05-24t12:00
   enddate: 2024-07-07t18:00 
@@ -432,7 +450,7 @@
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=D3738BC8-9F5E-F43C-806D-F48E1C56C388&add-to-cart=12520
-  kursnummer: HPPT116
+  kursnummer: HPPT117
   elearning: hybrid
   show: true  
 
@@ -449,7 +467,7 @@
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
-  kursnummer: HPPT117
+  kursnummer: HPPT118
   elearning: hybrid
   show: false 
 
@@ -466,7 +484,7 @@
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
-  kursnummer: HPPT118
+  kursnummer: HPPT119
   elearning: hybrid
   show: false  
 
@@ -483,7 +501,7 @@
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=86413ECC-85BA-56F0-3EA2-6EF03F31D258&add-to-cart=12520
-  kursnummer: HPPT119
+  kursnummer: HPPT120
   elearning: hybrid
   show: true
 
@@ -495,7 +513,7 @@
   veranstalter: heilpraktiker-physiotherapie.com
   preis: 690
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT120
+  kursnummer: HPPT121
   elearning: true
   show: true
 
@@ -511,6 +529,6 @@
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
   preis: 795
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
-  kursnummer: HPPT121
+  kursnummer: HPPT122
   elearning: hybrid
   show: false
