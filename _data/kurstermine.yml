@@ -409,7 +409,7 @@
   enddate: 2024-03-24t18:00 
   ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   ortsbezeichnung: Private Massageschule Inntal
-  ort: Bad Laer
+  ort: Rosenheim
   plz: 83026
   str: Klepperstraße 28
   land: Bayern
@@ -432,7 +432,7 @@
   land: Niedersachsen
   veranstalter: Fortbildungs-Akademie Pschick
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 720
+  preis: 795
   link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=A8FAF41F-CF83-C15F-4E1D-56A6C3D995B2&add-to-cart=12520
   kursnummer: HPPT116
   show: true
@@ -505,8 +505,8 @@
   elearning: hybrid
   show: true
 
-- datum: 27.09.2024 bis 29.09.2024 und 22.11.2024 bis 24.11.2024
-  startdate: 2024-09-27t12:00
+- datum: 08.11.2024 bis 10.11.2024 und 22.11.2024 bis 24.11.2024
+  startdate: 2024-11-08t12:00
   enddate: 2024-11-24t18.00
   ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen.) 
   ortsbezeichnung: Bei Dir zuhause ;-)
@@ -532,3 +532,20 @@
   kursnummer: HPPT122
   elearning: hybrid
   show: false
+
+- datum: 08.11.2024 bis 10.11.2024 und 13.12.2024 bis 15.12.2024
+  startdate: 2024-11-08t13:00
+  enddate: 2024-12-15t18:00 
+  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  ort: Düsseldorf
+  plz: 40225
+  str: Moorenstraße 5
+  land: NRW
+  veranstalter: heilpraktiker-physiotherapie.com
+  preis: 720
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  warteliste: false 
+  kursnummer: HPPT123
+  elearning: hybrid
+  show: true
