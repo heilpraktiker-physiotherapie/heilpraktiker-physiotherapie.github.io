@@ -74,6 +74,8 @@ Seit September 2019 ist diese Verwaltungsrichtlinie allerdings abgelaufen und es
 Eine für mich unverständliche und von den anderen Bundesländern abweichende Interpretation der aktuellen Bundesrichtlinie führt aktuell leider dazu, dass in Thüringen grundsätzliche keine Erlaubniserteilung nach Aktenlage mehr erfolgen soll. Nach der Fortbildung muss eine zusätzliche mündliche Prüfung beim Gesundheitsamt bestanden werden.
 Es sollte sich aber niemand davon abgeschreckt fühlen. Unsere Fortbildung bereit intensiv auch auf die Prüfung vor diese ist weitaus besser einzugrenzen als eine allgemeine Heilpraktikerprüfung.
 
+Im **Saarland** ist die Erlaubniserteilung nach Aktenlage für die sektorale Heilpraktikererlaubnis möglich, wenn entsprechende Fortbildungsnachweise erbracht werden können. Exakte Vorgaben zur Fortbildung wurden nicht veröffentlicht. [weitere Informationen auf der Webseite des Saarpfalz-Kreises)](https://www.saarpfalz-kreis.de/sicherheit-ordnung/heilpraktikererlaubnisverfahren#){:target="_blank"}
+
 In **Sachsen** werden in der Verwaltungsvorschrift ähnliche Anforderungen gestellt wie in Niedersachsen, die alle von unserer Fortbildung erfüllt werden. Es handelt sich jedoch bei jedem Antrag ausdrücklich um eine Einzelfallentscheidung des zuständigen Gesundheitsamt in Görlitz.
   
 In **Sachsen-Anhalt** müssen Fortbildungen die entsprechende Verwaltungsrichtlinie umsetzen und der Anbieter eine Bestätigung eines physiotherapeutisches Landesverbandes vorweisen können. Beides wird von uns erfüllt. Einer Erlaubniserteilung nach Aktenlage in Sachsen-Anhalt sollte somit nichts im Wege stehen.  
