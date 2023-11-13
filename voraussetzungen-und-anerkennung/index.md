@@ -34,7 +34,7 @@ Leider interpretieren die zuständigen Verwaltungsangestellten und Amtsärzte/in
 Vorbildlich ist hier **NRW**. Landesweit hat das Gesundheitsamt Düsseldorf die Verantwortung für die Erlaubniserteilung des <em>Heilpraktiker Physiotherapie</em> übertragen bekommen.  
 Insbesondere in Bezug auf die Anerkennung nach Aktenlage, gibt es so klare und transparente Kriterien.  
 Fortbildungsanbieter können Ihr Konzept und Curriculum amtsärztlich überprüfen lassen. Wird der Kurs als geeignet anerkannt, so können Teilnehmer/innen auch sicher sein die Anerkennung nach Aktenlage zu erhalten.  
-4 Jahre Berufserfahrung wird vorausgesetzt. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in NRW](https://www2.duesseldorf.de/gesundheitsamt/fachpublikum-fortbildungen/heilpraktiker/kriterienkatalog-hp-physiotherapie.html){:target="_blank"}
+4 Jahre Berufserfahrung wird vorausgesetzt. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in NRW](https://www.duesseldorf.de/gesundheitsamt/fachpublikum-fortbildungen/heilpraktiker/kriterienkatalog-hp-physiotherapie){:target="_blank"}
 
 
 In **Niedersachsen** ist dies ähnlich. Das Ministerium für Soziales, Gesundheit und Gleichstellung übernimmt die Verantwortung die Eignung von Fortbildungen zu überprüfen. Erfüllt ein Anbieter alle Voraussetzungen, gibt das Sozialministerium die entsprechende Information an alle Gesundheitsämter weiter und erteilt dem Anbieter eine Urkunde.  
