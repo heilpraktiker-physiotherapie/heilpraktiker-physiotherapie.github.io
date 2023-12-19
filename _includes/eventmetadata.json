@@ -8,7 +8,7 @@
         "hasCourseInstance": [
             {
                 "@type": "CourseInstance",
-                "courseMode": "synchronous", // Stelle sicher, dass dies ein gültiger Wert ist, z.B. "online", "offline" oder "hybrid".
+                "courseMode": "{{include.event.courseMode}}",
                 "startDate": "{{include.event.startdate}}",
                 "endDate": "{{include.event.enddate}}",
                 "url": "{{include.event.link}}",
@@ -29,7 +29,7 @@
                     "url": "{{include.event.enrollmentLink}}",
                     "availability": "http://schema.org/InStock"
                 },
-                "courseWorkload": "Wochenendkurse, 9:00 - 18:00" // Beispiel: Arbeitsaufwand des Kurses
+                "courseWorkload": "6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden" 
             }
         ],
         "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
@@ -42,7 +42,7 @@
             "@type": "Organization",
             "name": "heilpraktiker-physiotherapie.com",
             "sameAs": "https://heilpraktiker-physiotherapie.com",
-            "logo": "https://heilpraktiker-physiotherapie.com/assets/images/logo.png" // Füge hier den Link zu deinem Logo ein
+            "logo": "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT300.jpg" 
         }
     }
 }
