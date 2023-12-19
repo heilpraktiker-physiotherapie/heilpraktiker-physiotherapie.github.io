@@ -261,10 +261,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages
+  github-pages (= 228)
   http_parser.rb (~> 0.6.0)
   minima (~> 2.0)
-  rouge
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
