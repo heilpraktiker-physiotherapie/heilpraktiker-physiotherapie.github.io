@@ -89,11 +89,6 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
 </div>
 {% endif %}
 {% endfor %}
-
-    </div>
-</div>
-{% endif %}
-{% endfor %}
 <div class="clearfix"></div>
 Hast Du noch keinen passenden Termin gefunden? Keine Sorge, es kommen bald neue.
 Bitte schreib uns ruhig direkt [eine Nachricht]({{site.baseurl}}/kontakt/) und wir informieren Dich sobald neue Termine feststehen.
