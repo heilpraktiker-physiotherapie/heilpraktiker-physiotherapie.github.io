@@ -38,7 +38,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
 {% assign var bgcolor = 'green' %}
 {% for kurs in site.data.kurstermine %}
 {% if kurs.show == true %}
-<div id="{{kurs.kursnummer}}" markdown="0" class="kurstermincontainer">
+<div id="{{ kurs.kursnummer }}" markdown="0" class="kurstermincontainer">
    {% if forloop.first == true %}
         {% assign bgcolor = 'green' %}
     {% elsif bgcolor == 'green' %}
@@ -48,43 +48,48 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
     {% elsif bgcolor == 'red' %}
         {% assign bgcolor = 'green' %}
   {% endif %}
-   <div class="kursbackground  {{bgcolor}}"></div>
+   <div class="kursbackground  {{ bgcolor }}"></div>
    <div class="kurstermincontent">
-   {% if kurs.elearning==true and kurs.ort  %}
-   <span>Prüfungsort(e): {{kurs.ort}}</span> <br/>
-   {% elsif  kurs.elearning==true%}
-  <span>Kursort: <b>E-learning von beliebigem Ort</b> </span> <br/>
-   {% elsif  kurs.ort%}
-  <span>Kursort: <b>{{kurs.ort}}</b> in {{kurs.land}}</span> <br/>
+   {% if kurs.courseMode == 'online' %}
+   <span>Kursort: <b>E-learning von beliebigem Ort</b></span> <br/>
+   {% elsif kurs.courseMode == 'hybrid' and kurs.ort %}
+   <span>Prüfungsort(e): {{ kurs.ort }}</span> <br/>
+   {% elsif kurs.ort %}
+   <span>Kursort: <b>{{ kurs.ort }}</b> in {{ kurs.land }}</span> <br/>
    {% endif %}
-    <span>Kurstage: {{kurs.datum}}</span> <br/>
+    <span>Kurstage: {{ kurs.datum }}</span> <br/>
     {% if kurs.ablauf %}
-    <span><small>Ablauf: {{kurs.ablauf}}</small></span> <br/>
+    <span><small>Ablauf: {{ kurs.ablauf }}</small></span> <br/>
     {% endif %}
-    <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
-    {% if kurs.abgesagt==true %}
+    <span>Veranstalter: {{ kurs.veranstalter }}</span> <br/>
+    {% if kurs.abgesagt == true %}
       <div class="abgesagt">Kurs wurde abgesagt</div>
     {% else %}
         {% if kurs.fruehbucher %}
-          <span>Frühbucherpreis: {{kurs.fruehbucher}}€ bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
+          <span>Frühbucherpreis: {{ kurs.fruehbucher }}€ bis {{ kurs.fruehbucherdatum }} (begrenzte Plätze)</span> <br/>
         {% endif %}
         {% if kurs.preislink %}
-          <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
-            {% elsif kurs.preis %}
-                <span>Preis: {{kurs.preis}}€</span> <br/>
+          <span>Preis: Infos auf <a target="_blank" href="{{ kurs.preislink }}">Seite des Veranstalters</a></span> <br/>
+        {% elsif kurs.preis %}
+          <span>Preis: {{ kurs.preis }}€</span> <br/>
         {% endif %}
-        <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
-        {% if kurs.elearning==true %}
+        <a target="_blank" href="{{ kurs.enrollmentLink }}" class="anmelde_link">Hier klicken zur Anmeldung</a>
+        {% if kurs.courseMode == 'online' %}
           <div class="iselearning">E-Learning</div>
-        {% elsif kurs.elearning==false %}
+        {% elsif kurs.courseMode == 'offline' %}
           <div class="ispresence">Präsenzkurs</div>
-        {% elsif kurs.elearning=='hybrid' %}
+        {% elsif kurs.courseMode == 'hybrid' %}
           <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
         {% endif %}
-        {% if kurs.warteliste==true %}
+        {% if kurs.warteliste == true %}
           <div class="warteliste">Warteliste</div>
         {% endif %}
     {% endif %}
+   </div>
+</div>
+{% endif %}
+{% endfor %}
+
     </div>
 </div>
 {% endif %}
