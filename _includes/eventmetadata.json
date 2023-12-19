@@ -8,7 +8,7 @@
         "hasCourseInstance": [
             {
                 "@type": "CourseInstance",
-                "courseMode": "synchronous",
+                "courseMode": "synchronous", // Stelle sicher, dass dies ein gültiger Wert ist, z.B. "online", "offline" oder "hybrid".
                 "startDate": "{{include.event.startdate}}",
                 "endDate": "{{include.event.enddate}}",
                 "url": "{{include.event.link}}",
@@ -17,17 +17,23 @@
                     "name": "{{include.event.ortsbezeichnung}}",
                     "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
                 },
-                "image":[
+                "image": [
                     "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
                     "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
                     "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
-                    
-                ]
-
+                ],
+                "offers": {
+                    "@type": "Offer",
+                    "price": "{{include.event.price}}",
+                    "priceCurrency": "EUR",
+                    "url": "{{include.event.enrollmentLink}}",
+                    "availability": "http://schema.org/InStock"
+                },
+                "courseWorkload": "Wochenendkurse, 9:00 - 18:00" // Beispiel: Arbeitsaufwand des Kurses
             }
         ],
         "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
-        "image":[
+        "image": [
             "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
             "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
             "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"  
@@ -35,7 +41,8 @@
         "provider": {
             "@type": "Organization",
             "name": "heilpraktiker-physiotherapie.com",
-            "sameAs": "https://heilpraktiker-physiotherapie.com"
+            "sameAs": "https://heilpraktiker-physiotherapie.com",
+            "logo": "https://heilpraktiker-physiotherapie.com/assets/images/logo.png" // Füge hier den Link zu deinem Logo ein
         }
     }
 }
