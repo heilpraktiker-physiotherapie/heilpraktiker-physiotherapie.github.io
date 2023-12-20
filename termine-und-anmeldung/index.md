@@ -52,8 +52,6 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
    <div class="kurstermincontent">
    {% if kurs.courseMode == 'online' %}
    <span>Kursort: <b>E-learning von beliebigem Ort</b></span> <br/>
-   {% elsif kurs.courseMode == 'hybrid' and kurs.ort %}
-   <span>Prüfungsort(e): {{ kurs.ort }}</span> <br/>
    {% elsif kurs.ort %}
    <span>Kursort: <b>{{ kurs.ort }}</b> in {{ kurs.land }}</span> <br/>
    {% endif %}
@@ -65,10 +63,10 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
     {% if kurs.abgesagt == true %}
       <div class="abgesagt">Kurs wurde abgesagt</div>
     {% else %}
-        {% if kurs.fruehbucher %}
+        {% if kurs.fruehbucher  and kurs.fruehbucher != empty%}
           <span>Frühbucherpreis: {{ kurs.fruehbucher }}€ bis {{ kurs.fruehbucherdatum }} (begrenzte Plätze)</span> <br/>
         {% endif %}
-        {% if kurs.preislink %}
+        {% if kurs.preislink  and kurs.preislink != empty%}
           <span>Preis: Infos auf <a target="_blank" href="{{ kurs.preislink }}">Seite des Veranstalters</a></span> <br/>
         {% elsif kurs.preis %}
           <span>Preis: {{ kurs.preis }}€</span> <br/>
