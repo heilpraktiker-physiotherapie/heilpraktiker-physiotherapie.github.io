@@ -72,11 +72,11 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
           <span>Preis: {{ kurs.preis }}€</span> <br/>
         {% endif %}
         <a target="_blank" href="{{ kurs.enrollmentLink }}" class="anmelde_link">Hier klicken zur Anmeldung</a>
-        {% if kurs.courseMode == 'online' %}
+        {% if kurs.courseMode == 'Online' %}
           <div class="iselearning">E-Learning</div>
-        {% elsif kurs.courseMode == 'offline' %}
+        {% elsif kurs.courseMode == 'Onsite' %}
           <div class="ispresence">Präsenzkurs</div>
-        {% elsif kurs.courseMode == 'hybrid' %}
+        {% elsif kurs.courseMode == 'Blended' %}
           <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
         {% endif %}
         {% if kurs.warteliste == true %}
