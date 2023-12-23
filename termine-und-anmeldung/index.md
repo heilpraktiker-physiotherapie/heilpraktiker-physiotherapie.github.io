@@ -50,7 +50,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
   {% endif %}
    <div class="kursbackground  {{ bgcolor }}"></div>
    <div class="kurstermincontent">
-   {% if kurs.courseMode == 'online' %}
+   {% if kurs.courseMode == 'Online' %}
    <span>Kursort: <b>E-learning von beliebigem Ort</b></span> <br/>
    {% elsif kurs.ort %}
    <span>Kursort: <b>{{ kurs.ort }}</b> in {{ kurs.land }}</span> <br/>
