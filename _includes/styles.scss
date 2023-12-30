@@ -484,6 +484,11 @@ amp-youtube {
     margin-right: auto;
     font-family: $font-family-postits;
 }
+
+.center-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+}
 /*______________________________________________________________*/
   .cookiesContent {
     margin: auto;
