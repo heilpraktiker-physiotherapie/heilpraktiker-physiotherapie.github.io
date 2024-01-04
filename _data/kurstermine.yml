@@ -212,8 +212,8 @@
   show: true
   startdate: 2023-11-11t09:00
   str: Im Gewerbepark D75
-
   veranstalter: Fortbildungs-Akademie Pschick
+  
 - ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt.
   courseMode: Onsite
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
