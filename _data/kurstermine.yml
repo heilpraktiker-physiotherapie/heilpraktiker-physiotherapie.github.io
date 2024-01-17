@@ -317,7 +317,7 @@
   plz: 83026
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: false
+  show: true
   startdate: 2024-03-15t12:00
   str: Klepperstraße 28
   veranstalter: Fortbildungs-Akademie Pschick
@@ -371,7 +371,7 @@
   plz: 83026
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: false
+  show: true
   startdate: 2024-09-27t12:00
   str: Klepperstraße 28
   veranstalter: Fortbildungs-Akademie Pschick
@@ -389,7 +389,7 @@
   plz: 93059
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: false
+  show: true
   startdate: 2024-09-27t12:00
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
@@ -443,7 +443,7 @@
   plz: 97080
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: false
+  show: true
   startdate: 2024-11-08t12:00
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
