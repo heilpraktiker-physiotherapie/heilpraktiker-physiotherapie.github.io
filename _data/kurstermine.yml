@@ -191,7 +191,7 @@
   plz: 4067
   preis: 795
   preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
-  show: true
+  show: false
   startdate: 2023-11-11t09:00
   str: Ernst-Abbe-Platz 3-4
   veranstalter: MediPhys Jena
@@ -209,7 +209,7 @@
   plz: 93059
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: true
+  show: false
   startdate: 2023-11-11t09:00
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
@@ -303,24 +303,6 @@
   startdate: 2024-03-15t12:00
   str: ''
   veranstalter: heilpraktiker-physiotherapie.com
-
-- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  courseMode: Blended
-  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
-  datum: 15.03.2024 bis 17.03.2024 und 22.03.2024 bis 24.03.2024
-  enddate: 2024-03-24t18:00
-  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
-  kursnummer: HPPT115
-  land: Bayern
-  ort: Rosenheim
-  ortsbezeichnung: Private Massageschule Inntal
-  plz: 83026
-  preis: 795
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: true
-  startdate: 2024-03-15t12:00
-  str: Klepperstraße 28
-  veranstalter: Fortbildungs-Akademie Pschick
 
 - ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Bad Laer statt.
   courseMode: Onsite
