@@ -87,6 +87,7 @@
   startdate: 2024-03-15t12:00
   str: ''
   veranstalter: heilpraktiker-physiotherapie.com
+  warteliste: true
 
 - ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Bad Laer statt.
   courseMode: Onsite
@@ -123,6 +124,24 @@
   startdate: 2024-05-24t12:00
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 13.09.2024 bis 15.09.2024 und 02.11.2024 bis 04.11.2024
+  enddate: 2024-11-04t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT117b
+  land: Rheinland-Pfalz
+  ort: Monsheim
+  ortsbezeichnung: Fortbildungsakademie Ahlhorn
+  plz: 67590
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2024-09-13t12:00
+  str: Carl-Benz-Str. 6
+  veranstalter: Fortbildungsakademie Ahlhorn
 
 - ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   courseMode: Blended
