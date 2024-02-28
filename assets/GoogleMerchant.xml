@@ -5,7 +5,7 @@ layout: null
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>Fortbildung zum Heilpraktiker Physiotherapie</title>
-    <link>https://hpphysio.com</link>
+    <link>https://heilpraktiker-physiotherapie.com</link>
     <description>Aktuelle Fortbildungstermine zum Heilpraktiker für Physiotherapie</description>
     {% for kurs in site.data.kurstermine %}
       {% if kurs.show %}
