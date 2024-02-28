@@ -14,7 +14,7 @@ layout: null
       <g:title>{{ kurs.ortsbezeichnung }} - {{ kurs.courseMode }}</g:title>
       <g:description>{{ kurs.ablauf | strip_newlines }}</g:description>
       <g:link>https://heilpraktiker-physiotherapie.com</g:link>
-      <g:image_link>https://heilpraktiker-physiotherapie.com//assets/images/LogoHPPT600.jpg</g:image_link>
+      <g:image_link>https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT600.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>{{ kurs.preis }} EUR</g:price>
