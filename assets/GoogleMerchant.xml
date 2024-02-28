@@ -11,7 +11,7 @@ layout: null
       {% if kurs.show %}
     <item>
       <g:id>{{ kurs.kursnummer }}</g:id>
-      <g:title>{{ kurs.ortsbezeichnung }} - {{ kurs.courseMode }}</g:title>
+      <g:title>Fortbildung Heilpraktiker Physiotherapie - {{ kurs.ortsbezeichnung }} - {{ kurs.courseMode }}</g:title>
       <g:description>{{ kurs.ablauf | strip_newlines }}</g:description>
       <g:link>https://heilpraktiker-physiotherapie.com</g:link>
       <g:image_link>https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT600.jpg</g:image_link>
