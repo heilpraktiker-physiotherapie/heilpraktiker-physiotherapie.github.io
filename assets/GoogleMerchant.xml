@@ -13,7 +13,7 @@ layout: null
       <g:id>{{ kurs.kursnummer }}</g:id>
       <g:title>{{ kurs.ortsbezeichnung }} - {{ kurs.courseMode }}</g:title>
       <g:description>{{ kurs.ablauf | strip_newlines }}</g:description>
-      <g:link>https://hpphysio.com</g:link>
+      <g:link>https://heilpraktiker-physiotherapie.com</g:link>
       <g:image_link>{{ site.baseurl }}/assets/images/kursbild.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
