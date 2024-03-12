@@ -166,14 +166,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 13.09.2024 bis 15.09.2024 und 02.11.2024 bis 04.11.2024
   enddate: 2024-11-04t18:00
-  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  enrollmentLink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   kursnummer: HPPT117c
   land: Rheinland-Pfalz
   ort: Monsheim
   ortsbezeichnung: Fortbildungsakademie Ahlhorn
   plz: 67590
   preis: 795
-  preislink: ''
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   show: true
   startdate: 2024-09-13t12:00
   str: Carl-Benz-Str. 6
@@ -286,3 +286,21 @@
   startdate: 2024-11-08t13:00
   str: Moorenstraße 5
   veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt.
+  courseMode: Onsite
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 07.02.2025 bis 09.02.2025 und 07.03.2025 bis 09.03.2025
+  enddate: 2025-03-09t18:00
+  enrollmentLink: https://ifeas.javis.de/onlineregistration/597/registration
+  kursnummer: HPPT124
+  land: Niedersachsen
+  ort: Stadthagen
+  ortsbezeichnung: IFEAS
+  plz: 31655
+  preis: 720
+  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
+  show: true
+  startdate: 2025-02-07t12:00
+  str: Dorfstraße 2
+  veranstalter: IFEAS
