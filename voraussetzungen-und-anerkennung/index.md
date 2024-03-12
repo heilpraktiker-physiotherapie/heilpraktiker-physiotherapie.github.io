@@ -45,7 +45,7 @@ Auf entsprechende Anfrage wurde uns zu Beginn der Corona-Pandemie bestätigt, da
 **Rheinland-Pfalz** orientiert sich stark an NRW und Niedersachsen. Liegt dem Fortbildungsanbieter eine entsprechende Akkreditierung aus NRW oder auch Niedersachsen vor, so wird auch hier die Anerkennung nach Aktenlage erteilt.  
 Da auch hier für das ganze Bundesland eine Behörde \(Kreisverwaltung Mainz-Bingen\) die Aufgabe übernommen hat, sind auch hier keine bösen Überraschungen zu erwarten.  
 5 Jahre Berufserfahrung wird vorausgesetzt.  
-Bislang wurde unser Onlinekurs inklusive Onlineprüfung in Rheinland-Pfalz anerkannt. Ab Juni sollen aber alle Kurse mindestens 20 UE Präsenzunterricht haben. Das trifft auf alle Hybridkurse und Präsenzkurse zu.  
+Bislang wurde unser Onlinekurs inklusive Onlineprüfung in Rheinland-Pfalz anerkannt. Ab 01. Juli 2024 sollen aber alle Kurse mindestens 20 UE Präsenzunterricht haben. Das trifft auf alle Hybridkurse und Präsenzkurse zu.  
 [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in Rheinland-Pfalz](https://www.mainz-bingen.de/de/Familie-Jugend-Asyl-Gesundheit-Soziales/Gesundheit/Heilpraktiker/Physiotherapie.php){:target="_blank"}
     
 In **Mecklenburg-Vorpommern** erfüllt unsere Fortbildung ebensfalls alle Kriterien für die Erlaubniserteilung nach Aktenlage, so dass wir auch hier keine Schwierigkeiten mit der Anerkennung erwarten. [weitere Informationen zu den Richtlinien Heilpraktiker Physiotherapie in MVP](https://rathaus.rostock.de/media/rostock_01.a.4984.de/datei/Infoblatt%20Entscheidg%20AKL%20Phys%202018.pdf){:target="_blank"}
