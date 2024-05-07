@@ -65,7 +65,7 @@
   plz: 65203
   preis: 720
   preislink: ''
-  show: true
+  show: false
   startdate: 2024-03-15t12:00
   str: Rathausstr. 57
   veranstalter: heilpraktiker-physiotherapie.com
@@ -83,7 +83,7 @@
   plz: ''
   preis: 690
   preislink: ''
-  show: true
+  show: false
   startdate: 2024-03-15t12:00
   str: ''
   veranstalter: heilpraktiker-physiotherapie.com
@@ -102,7 +102,7 @@
   plz: 49196
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: true
+  show: false
   startdate: 2024-04-19t12:00
   str: Remseder Str. 3
   veranstalter: Fortbildungs-Akademie Pschick
