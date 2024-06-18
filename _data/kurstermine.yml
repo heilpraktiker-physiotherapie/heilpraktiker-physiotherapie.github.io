@@ -120,7 +120,7 @@
   plz: 93059
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: true
+  show: false
   startdate: 2024-05-24t12:00
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
@@ -138,7 +138,7 @@
   plz: 97080
   preis: 795
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  show: true
+  show: false
   startdate: 2024-05-24t12:00
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
@@ -156,7 +156,7 @@
   plz: ''
   preis: 690
   preislink: ''
-  show: true
+  show: false
   startdate: 2024-05-24t12:00
   str: ''
   veranstalter: heilpraktiker-physiotherapie.com
@@ -244,7 +244,7 @@
   ort: ''
   ortsbezeichnung: Bei Dir zuhause ;-)
   plz: ''
-  preis: 690
+  preis: 690 (ab 1.7. 720€)
   preislink: ''
   show: true
   startdate: 2024-11-08t12:00
