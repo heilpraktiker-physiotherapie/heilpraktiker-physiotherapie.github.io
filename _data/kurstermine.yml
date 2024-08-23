@@ -178,6 +178,25 @@
   startdate: 2024-09-13t12:00
   str: Carl-Benz-Str. 6
   veranstalter: Fortbildungsakademie Ahlhorn
+  waeteliste: true
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang ist in NRW, Mecklenburg-Vorpommern und teilweise in Hessen möglich. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In RLP wird ab dem 1.7.24 erwartet das 50% der Fortbildung in Präsenz stattfindet. Dafür einen beliebigen unserer Hybridkurse wählen. In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen oder Bad Laer.)
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 13.09.2024 bis 15.09.2024 und 22.11.2024 bis 24.11.2024
+  enddate: 2024-11-24t18.00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT121
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: ''
+  show: true
+  startdate: 2024-11-08t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
 
 - ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   courseMode: Blended
@@ -233,31 +252,13 @@
   str: Ernst-Abbe-Platz 3-4
   veranstalter: MediPhys Jena
 
-- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang ist in NRW, Mecklenburg-Vorpommern und teilweise in Hessen möglich. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In RLP wird ab dem 1.7.24 erwartet das 50% der Fortbildung in Präsenz stattfindet. Dafür einen beliebigen unserer Hybridkurse wählen. In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen oder Bad Laer.)
-  courseMode: Online
-  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
-  datum: 13.09.2024 bis 15.09.2024 und 22.11.2024 bis 24.11.2024
-  enddate: 2024-11-24t18.00
-  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT121
-  land: ''
-  ort: ''
-  ortsbezeichnung: Bei Dir zuhause ;-)
-  plz: ''
-  preis: 720
-  preislink: ''
-  show: true
-  startdate: 2024-11-08t12:00
-  str: ''
-  veranstalter: heilpraktiker-physiotherapie.com
-
 - ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
   courseMode: Blended
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 08.11.2024 bis 10.11.2024 und 06.12.2024 bis 08.12.2024
   enddate: 2024-12-08t18:00
   enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
-  kursnummer: HPPT122
+  kursnummer: HPPT123
   land: Bayern
   ort: Würzburg
   ortsbezeichnung: ''
@@ -275,7 +276,7 @@
   datum: 08.11.2024 bis 10.11.2024 und 13.12.2024 bis 15.12.2024
   enddate: 2024-12-15t18:00
   enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT123
+  kursnummer: HPPT122
   land: NRW
   ort: Düsseldorf
   ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
