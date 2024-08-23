@@ -9,7 +9,7 @@ customamp:
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  
 Gute Entscheidung! Versprochen ;-)  
-Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
+Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern und Thüringen, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  Die Vorgaben zur Erlaubniserteilung sind jedoch nicht überall gleich. Genau Informationen dazu erhälst Du unter <a href="{{site.baseurl}}/voraussetzungen-und-anerkennung/">Voraussetzungen</a>.
 
 
