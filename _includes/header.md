@@ -16,7 +16,6 @@
               <a class="page-link" href="{{site.baseurl}}/was-ist-ein-heilpraktiker-physiotherapie/"><button class="barbuttons">Infos zum HP Physio</button></a>
               <a class="page-link" href="{{site.baseurl}}/kontakt/"><button class="barbuttons">Kontakt</button></a>
               <a class="page-link" href="{{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/"><button class="barbuttons">Blog</button></a>
-              <a class="page-link" href="{{site.baseurl}}/downloads-formulare-und-hilfen-zum-heilpraktiker-physiotherapie/"><button class="barbuttons">Downloads</button></a>
               <a class="page-link" href="{{site.baseurl}}/datenschutz/"><button class="barbuttons">Datenschutz</button></a>
         </div>
     </nav>
