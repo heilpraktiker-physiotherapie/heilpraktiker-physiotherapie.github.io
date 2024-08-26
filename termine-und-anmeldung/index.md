@@ -73,11 +73,11 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
         {% endif %}
         <a target="_blank" href="{{ kurs.enrollmentLink }}" class="anmelde_link">Hier klicken zur Anmeldung</a>
         {% if kurs.courseMode == 'Online' %}
-          <div class="iselearning">E-Learning</div>
+          <div class="iselearning">Webinar</div>
         {% elsif kurs.courseMode == 'Onsite' %}
           <div class="ispresence">Präsenzkurs</div>
         {% elsif kurs.courseMode == 'Blended' %}
-          <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
+          <div class="ishybrid">Hybrid: Webinar und Präsenzkurs</div>
         {% endif %}
         {% if kurs.warteliste == true %}
           <div class="warteliste">Warteliste</div>
