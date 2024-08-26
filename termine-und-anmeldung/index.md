@@ -77,7 +77,7 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
         {% elsif kurs.courseMode == 'Onsite' %}
           <div class="ispresence">Präsenzkurs</div>
         {% elsif kurs.courseMode == 'Blended' %}
-          <div class="ishybrid">Hybrid: Webinar und Präsenzkurs</div>
+          <div class="ishybrid">Blended: Webinar und Präsenzkurs</div>
         {% endif %}
         {% if kurs.warteliste == true %}
           <div class="warteliste">Warteliste</div>
