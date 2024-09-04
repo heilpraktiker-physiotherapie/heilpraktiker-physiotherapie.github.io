@@ -787,6 +787,7 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
 @media (max-width: 590px) {
    .elfsight_widget{
     height: 380px;
+    overflow-x: hidden;
    }
     
 
