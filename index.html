@@ -4,6 +4,7 @@ customamp:
 - amp-carousel
 - amp-youtube
 - amp-facebook
+- amp-iframe
 metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
 ---
 
@@ -56,12 +57,20 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
             </article>
         </div>
     </section>
-    <section>
-        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-        <div class="elfsight-app-d958d1a1-3eca-433f-bf51-ac8fdfbdcc6c"></div>
-        <br>
-        <br>
-    </section>    
+    <amp-iframe
+    width="600"
+    height="400"
+    layout="responsive"
+    sandbox="allow-scripts allow-same-origin"
+    frameborder="0"
+    src="{{site.baseurl}}/elfsight-google-review.html">
+    <amp-img src="{{site.baseurl}}/images/ReviewsPlaceholder.jpg"
+      width="600"
+      height="400"
+      layout="fill"
+      placeholder></amp-img>
+  </amp-iframe>
+  
     <section class="lightgrey fontalt fullwidthtextbar">
         <div class="welcometext post">
             <article>
