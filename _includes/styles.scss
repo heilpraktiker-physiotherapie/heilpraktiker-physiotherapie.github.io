@@ -489,6 +489,10 @@ amp-youtube {
     display: flex;
     justify-content: center; /* Centers horizontally */
 }
+
+.elfsight_widget{
+    max-height: 340px;
+}
 /*______________________________________________________________*/
   .cookiesContent {
     margin: auto;
@@ -780,8 +784,10 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     }
 }
 
-@media (max-width: 570px) {
-   
+@media (max-width: 590px) {
+   .elfsight_widget{
+    max-height: 380px;
+   }
     
 
 }
