@@ -101,18 +101,22 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
         <br>
         <br>
         <amp-img id="YoutubeVorschauImage"
+        role="button"
+        tabindex="0"
         alt="Video Eindruck der Fortbildung"
         src="/assets/images/webP/YoutubeVorschau.webp" width="600" height="400"
         layout="responsive" 
-        on="tap:YoutubeImpressionVid.show; YoutubeVorschauImage.hide">
+        on="tap:YoutubeImpressionVid.show, YoutubeVorschauImage.hide">
             <amp-img
             alt="Video Eindruck der Fortbildung"
+            role="button"
+            tabindex="0"
             fallback
             width="600"
             height="400"
             src="/assets/images/fallbackJPGs/YoutubeVorschau.jpg"
             layout="responsive" 
-            on="tap:AMP.setState({ showVideo: true })">
+            on="tap:YoutubeImpressionVid.show, YoutubeVorschauImage.hide">
             </amp-img>
         </amp-img>
 
