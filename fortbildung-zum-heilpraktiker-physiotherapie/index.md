@@ -27,7 +27,32 @@ Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf 
  > Einige Einblicke von unseren Fortbildungen findest Du auch [hier im Blog]({{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/)  
 
 <div markdown="0">
- <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive"
+                 <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="4000">
+       {% for image in site.static_files %}
+            {% if image.path contains 'images/fortbildung-caroussel1' %}
+                <amp-img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="852" layout="responsive"></amp-img>
+            {% endif %}
+        {% endfor %}
+    </amp-carousel>
+</div>
+<br/>  
+### Wer leitet den Unterricht?
+Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement der Dozenten
+
+Und weil uns das bewusst ist, hat dies auch höchsten Stellenwert bei uns und hoffentlich auch bei Dir.  
+Selbst wenn das Curriculum verschiedener Anbieter auf den ersten Blick sehr ähnlich erscheinen mag, so wird es doch einen riesigen Unterschied machen, wo Du die Fortbildung absolviert hast.
+
+Wir unterrichten als Team: Anwalt, Mediziner und <em>HP Physio</em>, jeder deckt seine Spezialgebiete ab.
+
+In NRW ist es beispielsweise möglich, dass ein Heilpraktiker die gesamte Fortbildung alleine abhält.
+Wir halten dies nicht für sinnvoll. Das Thema ist dafür einfach zu komplex.  
+Ein Jurist, der regelmäßig Physiotherapeuten/Innen und Heilpraktiker/Innen für Physiotherapie vertritt, kann die Fragen der Berufskunde viel qualifizierter beantworten als ein Heilpraktiker.  
+Ein Physiotherapeut und <em>Heilpraktiker Physiotherapie</em> weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
+Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinmediziner und Internisten sicherlich am besten befähigt.
+Weniger als die beste Besetzung solltest Du nicht akzeptieren.
+Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
+<div markdown="0">
+                 <amp-carousel id="mainDozentenCarousel"  class="dozentencarousel" width="852" height="400" layout="responsive"
             type="slides" autoplay delay="7000">
             {% for dozent in site.data.dozenten %}
             {% assign picwidth = dozent.width | divided_by: 8.52 %}
@@ -57,42 +82,6 @@ Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf 
             </div>
             {% endfor %}
         </amp-carousel>
-</div>
-<br/>  
-### Wer leitet den Unterricht?
-Entscheidend für eine gute Fortbildung sind vor allem Eignung und Engagement der Dozenten
-
-Und weil uns das bewusst ist, hat dies auch höchsten Stellenwert bei uns und hoffentlich auch bei Dir.  
-Selbst wenn das Curriculum verschiedener Anbieter auf den ersten Blick sehr ähnlich erscheinen mag, so wird es doch einen riesigen Unterschied machen, wo Du die Fortbildung absolviert hast.
-
-Wir unterrichten als Team: Anwalt, Mediziner und <em>HP Physio</em>, jeder deckt seine Spezialgebiete ab.
-
-In NRW ist es beispielsweise möglich, dass ein Heilpraktiker die gesamte Fortbildung alleine abhält.
-Wir halten dies nicht für sinnvoll. Das Thema ist dafür einfach zu komplex.  
-Ein Jurist, der regelmäßig Physiotherapeuten/Innen und Heilpraktiker/Innen für Physiotherapie vertritt, kann die Fragen der Berufskunde viel qualifizierter beantworten als ein Heilpraktiker.  
-Ein Physiotherapeut und <em>Heilpraktiker Physiotherapie</em> weiß am besten, welche Aufgaben tatsächlich im Alltag auf einen Physiotherapeuten mit Direktzugang warten und kann ganz gezielt darauf eingehen.  
-Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinmediziner und Internisten sicherlich am besten befähigt.
-Weniger als die beste Besetzung solltest Du nicht akzeptieren.
-Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
-<div markdown="0">
-                 <amp-carousel id="mainDozentenCarousel" class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="7000">
-                {% for dozent in site.data.dozenten %}
-               {%  assign picwidth = dozent.width | divided_by: 8.52 %}
-                <div>
-                 <div class="imagewrapper" style="width: {{picwidth}}%">
-                    <amp-img class="carousel-halffaceimg" alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}" src="{{dozent.halffaceimg}}" width="{{dozent.width}}" height="400" layout="responsive"></amp-img>
-                 </div>
-                   <div class="dozenttext" style="width: {{99 | minus: picwidth}}%">
-                       <div class="dozentquote">
-                        "{{dozent.zitat}}"
-                    </div>
-                    <div class="dozentname">
-                        <span>{{dozent.name}}</span> <br/> {{dozent.beruf}}
-                    </div>
-                   </div>
-               </div>
-               {% endfor %}
-            </amp-carousel>
 </div>
 <br/>
 ### Warum sollte ich dazu eine Fortbildung besuchen?
