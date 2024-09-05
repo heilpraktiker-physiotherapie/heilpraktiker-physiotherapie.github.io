@@ -100,11 +100,11 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
         <span>mit einigen Sequenzen aus unseren Unterricht in Präsenz, aber auch online als Webinar</span>
         <br>
         <br>
-        <amp-img class="carousel-halffaceimg"
+        <amp-img id="YoutubeVorschauImage"
         alt="Video Eindruck der Fortbildung"
         src="/assets/images/webP/YoutubeVorschau.webp" width="600" height="400"
         layout="responsive" 
-        on="tap:AMP.setState({ showVideo: true })">
+        on="tap:YoutubeImpressionVid.show; YoutubeVorschauImage.hide">
             <amp-img
             alt="Video Eindruck der Fortbildung"
             fallback
@@ -116,10 +116,9 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
             </amp-img>
         </amp-img>
 
-        <amp-youtube data-videoid="3Em8LPI3aEw" layout="responsive" width="1280" height="720" credentials="omit" hidden [hidden]="!showVideo">
+        <amp-youtube id="YoutubeImpressionVid" layout="responsive" width="1280" height="720" credentials="omit" hidden>
             <amp-img placeholder src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" layout="fill" alt="placeholder"></amp-img>
         </amp-youtube>
-        <amp-youtube data-videoid="3Em8LPI3aEw" layout="responsive" width="1280" height="720" loading="lazy" credentials="omit">
             
         </amp-youtube>
     </section>
