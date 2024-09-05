@@ -27,13 +27,36 @@ Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf 
  > Einige Einblicke von unseren Fortbildungen findest Du auch [hier im Blog]({{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/)  
 
 <div markdown="0">
-                <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="4000">
-       {% for image in site.static_files %}
-            {% if image.path contains 'images/fortbildung-caroussel1' %}
-                <amp-img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="852" layout="responsive"></amp-img>
-            {% endif %}
-        {% endfor %}
-    </amp-carousel>
+ <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive"
+            type="slides" autoplay delay="7000">
+            {% for dozent in site.data.dozenten %}
+            {% assign picwidth = dozent.width | divided_by: 8.52 %}
+            <div>
+                <div class="imagewrapper" style="width: {{picwidth}}%">
+                    <amp-img class="carousel-halffaceimg"
+                        alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
+                        src="/assets/images/webP/{{dozent.halffaceimg}}.webp" width="{{dozent.width}}" height="400"
+                        layout="responsive">
+                        <amp-img
+                        alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
+                        fallback
+                        width="{{dozent.width}}"
+                        height="400"
+                        src="/assets/images/fallbackJPGs/{{dozent.halffaceimg}}.jpg"
+                      >
+                      </amp-img></amp-img>
+                </div>
+                <div class="dozenttext" style="width: {{99 | minus: picwidth}}%">
+                    <div class="dozentquote">
+                        "{{dozent.zitat}}"
+                    </div>
+                    <div class="dozentname">
+                        <span>{{dozent.name}}</span> <br /> {{dozent.beruf}}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </amp-carousel>
 </div>
 <br/>  
 ### Wer leitet den Unterricht?
