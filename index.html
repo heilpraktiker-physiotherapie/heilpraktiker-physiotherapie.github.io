@@ -23,8 +23,16 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
                 <div class="imagewrapper" style="width: {{picwidth}}%">
                     <amp-img class="carousel-halffaceimg"
                         alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
-                        src="{{dozent.halffaceimg}}" width="{{dozent.width}}" height="400"
-                        layout="responsive"></amp-img>
+                        src="/assets/images/webP/{{dozent.halffaceimg}}.webp" width="{{dozent.width}}" height="400"
+                        layout="responsive">
+                        <amp-img
+                        alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
+                        fallback
+                        width="{{dozent.width}}"
+                        height="400"
+                        src="/assets/images/fallbackJPGs/{{dozent.halffaceimg}}.jpg"
+                      >
+                      </amp-img></amp-img>
                 </div>
                 <div class="dozenttext" style="width: {{99 | minus: picwidth}}%">
                     <div class="dozentquote">

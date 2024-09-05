@@ -1,7 +1,7 @@
 - name: Arne Brödel, B.Sc.
   vorname: Arne
   nachname: Brödel
-  halffaceimg: /assets/images/halfFaceArne.jpg
+  halffaceimg: halfFaceArne
   width: 168
   beruf: sektoraler Heilpraktiker für Physiotherapie
   zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
@@ -9,7 +9,7 @@
 - name: Benjamin Alt
   vorname: Benjamin
   nachname: Alt
-  halffaceimg: /assets/images/halfFaceBenjamin.jpg
+  halffaceimg: halfFaceBenjamin
   width: 168
   beruf: Rechtsanwalt, Schwerpunkt Medizinrecht
   zitat: Ich zeige Ihnen die sicheren Pfade für dauerhaften Erfolg als Heilpraktiker Physiotherapie.
@@ -17,7 +17,7 @@
 - name: Dr. med. Julia Karpienski
   vorname: Julia
   nachname: Karpienski
-  halffaceimg: /assets/images/halfFaceJulia.jpg
+  halffaceimg: halfFaceJulia
   width: 168
   beruf: Ärztin und Physiotherapeutin
   zitat: Als Ärztin mit physiotherapeutischen Wurzeln, freue ich mich Ihnen weitere Untersuchungstechniken mit auf den Weg zu geben.
@@ -25,7 +25,7 @@
 - name: Dr. med. Karl Busch-Petersen
   vorname: Karl
   nachname: Busch-Petersen
-  halffaceimg: /assets/images/halfFaceKarl.jpg
+  halffaceimg: halfFaceKarl
   width: 176
   beruf: Arzt
   zitat: Die Zusammenarbeit mit Physios war für mich stets eine Bereicherung. Ich freue mich Ihnen Fertigkeiten für eine freiere Tätigkeit mitgeben zu können.
