@@ -64,16 +64,24 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
             </article>
         </div>
     </section>
+    <amp-img id="ReviewImage"
+        role="button"
+        tabindex="0"
+        src="{{site.baseurl}}/assets/images/webP/ReviewsPlaceholder.webp" 
+        on="tap:elfsight_widget.show, ReviewImage.hide"
+        width="600" height="360" layout="fill">
+    </amp-img>
     <amp-iframe
+        id="elfsight_widget"
         class="elfsight_widget"
         width="600"
         height="340"
         layout="responsive"
         sandbox="allow-scripts allow-same-origin"
         frameborder="0"
-        loading="lazy" 
+        hidden 
         src="https://d958d1a13eca433fbf51ac8fdfbdcc6c.elf.site">
-        <amp-img placeholder src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="600" height="360" layout="fill" alt="placeholder"></amp-img>
+        <amp-img placeholder src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" layout="fill" alt="placeholder"></amp-img>
     </amp-iframe>
   
     <section class="lightgrey fontalt fullwidthtextbar">
@@ -104,7 +112,7 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
         role="button"
         tabindex="0"
         alt="Video Eindruck der Fortbildung"
-        src="/assets/images/webP/YoutubeVorschau.webp" width="600" height="400"
+        src="{{site.baseurl}}/assets/images/webP/YoutubeVorschau.webp" width="600" height="400"
         layout="responsive" 
         on="tap:YoutubeImpressionVid.show, YoutubeVorschauImage.hide">
             <amp-img
@@ -114,7 +122,7 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
             fallback
             width="600"
             height="400"
-            src="/assets/images/fallbackJPGs/YoutubeVorschau.jpg"
+            src="{{site.baseurl}}/assets/images/fallbackJPGs/YoutubeVorschau.jpg"
             layout="responsive" 
             on="tap:YoutubeImpressionVid.show, YoutubeVorschauImage.hide">
             </amp-img>
