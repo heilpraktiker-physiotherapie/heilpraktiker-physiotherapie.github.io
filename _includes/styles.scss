@@ -486,40 +486,87 @@ amp-youtube {
     height: 340px;
 }
 
-.consentLabel {
-    display: inline-block;
-    padding: 10px 20px; /* Größere Klickbereiche */
-    margin-bottom: 10px; /* Abstand zwischen den Elementen */
-    font-size: 16px; /* Text etwas größer für bessere Lesbarkeit */
-}
 #consentDialog {
-    background-color: #f9f9f9; /* Heller Hintergrund */
-    border-radius: 10px; /* Abgerundete Ecken */
+    background-color: #fff; // Weißer Hintergrund für Klarheit
+    border-radius: 12px; // Weiche abgerundete Ecken
     padding: 20px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 400px;
     margin: 0 auto;
-}
-
-.choiceButton.accept {
-    background-color: #4CAF50; /* Grüne Farbe für den Akzeptieren-Button */
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.choiceButton.accept:hover {
-    background-color: #45a049;
-}
-
-.close {
-    float: right;
-    font-size: 20px;
-    cursor: pointer;
-}
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); // Sanfter Schatten
+    text-align: center; // Zentriere den Text und die Elemente
+  
+    h3 {
+      font-size: 1.25em;
+      font-weight: bold;
+      margin-bottom: 15px;
+      color: #333; // Dunkler Text für Kontrast
+    }
+  
+    p {
+      font-size: 1em;
+      color: #666; // Mittelgrauer Text für ruhigen Stil
+      margin-bottom: 20px;
+    }
+  
+    .choices {
+      text-align: left; // Checkboxen und Labels linksbündig
+      margin-bottom: 20px;
+  
+      .consentLabel {
+        display: flex;
+        align-items: center;
+        font-size: 1em;
+        padding: 10px 0;
+        color: #333;
+  
+        input[type="checkbox"] {
+          width: 20px;
+          height: 20px;
+          margin-right: 10px; // Abstand zwischen Checkbox und Label
+          cursor: pointer;
+        }
+      }
+    }
+  
+    .choiceButton {
+      &.accept {
+        background-color: #28a745; // Schlichtes Grün für den Button
+        color: white;
+        padding: 12px 24px;
+        font-size: 1em;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%; // Button nimmt die volle Breite ein
+  
+        &:hover {
+          background-color: #218838; // Dunkleres Grün beim Hover
+        }
+      }
+    }
+  
+    .close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 1.2em;
+      cursor: pointer;
+      background: none;
+      border: none;
+    }
+  }
+  
+  #consentPopup {
+    position: relative;
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    #consentDialog {
+      max-width: 95%; // Responsive Anpassung für kleinere Bildschirme
+    }
+  }
 /*______________________________________________________________*/
   .cookiesContent {
     margin: auto;
