@@ -29,7 +29,6 @@
             "consentInstanceId": "consent1",
             "consentRequired": true,
             "promptUI": "consentPopup",
-            "postPromptUI": "repromptDialog",
             "uiConfig": {
               "overlay": true
             },
@@ -48,12 +47,12 @@
             </p>
             <div class="choices">
               <label class="consentLabel" for="consent-purpose-social">
-                <input id="consent-purpose-social" type="checkbox" on="change:siteConsent.setPurpose(purpose-social=event.checked)">
+                <input id="consent-purpose-social" type="checkbox" aria-label="Social Media Zustimmung" on="change:siteConsent.setPurpose(purpose-social=event.checked)">
                 Social Media
               </label>
               <br>
               <label class="consentLabel" for="consent-purpose-analytics">
-                <input id="consent-purpose-analytics" type="checkbox" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
+                <input id="consent-purpose-analytics" type="checkbox" aria-label="Google Analytics Zustimmung" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
                 Google analytics
               </label>
             </div>
@@ -63,10 +62,6 @@
             </button>
           </div>
         </div>
-<!--        <div id="repromptDialog">
-          Do you want to make your consent choices again?
-          <button on="tap:siteConsent.prompt">I do!</button>
-        </div>>-->
       </amp-consent> 
 
       <!--the parent of amp-sidebar must be body -->

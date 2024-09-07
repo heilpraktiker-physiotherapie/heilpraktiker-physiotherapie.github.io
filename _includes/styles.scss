@@ -485,6 +485,41 @@ amp-youtube {
 .elfsight_widget{
     height: 340px;
 }
+
+.consentLabel {
+    display: inline-block;
+    padding: 10px 20px; /* Größere Klickbereiche */
+    margin-bottom: 10px; /* Abstand zwischen den Elementen */
+    font-size: 16px; /* Text etwas größer für bessere Lesbarkeit */
+}
+#consentDialog {
+    background-color: #f9f9f9; /* Heller Hintergrund */
+    border-radius: 10px; /* Abgerundete Ecken */
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.choiceButton.accept {
+    background-color: #4CAF50; /* Grüne Farbe für den Akzeptieren-Button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.choiceButton.accept:hover {
+    background-color: #45a049;
+}
+
+.close {
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+}
 /*______________________________________________________________*/
   .cookiesContent {
     margin: auto;
