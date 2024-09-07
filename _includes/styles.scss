@@ -531,7 +531,7 @@ amp-youtube {
   
     .choiceButton {
       &.accept {
-        background-color: #28a745; // Schlichtes Grün für den Button
+        background-color: $bg-green; // Schlichtes Grün für den Button
         color: white;
         padding: 12px 24px;
         font-size: 1em;
@@ -568,7 +568,7 @@ amp-youtube {
     }
   }
 /*______________________________________________________________*/
-  .cookiesContent {
+/*  .cookiesContent {
     margin: auto;
     width: 320px;
     display: flex;
@@ -610,6 +610,7 @@ amp-youtube {
         text-align: left;
     }
   }
+*/
   
 
 #topline{
