@@ -494,7 +494,6 @@ amp-youtube {
     max-width: 400px;
     margin: 0 auto;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); // Sanfter Schatten
-    text-align: center; // Zentriere den Text und die Elemente
   
     h3 {
       font-size: 1.25em;
@@ -559,10 +558,9 @@ amp-youtube {
   
   #consentPopup {
     position: relative;
-    padding: 20px;
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 400px) {
     #consentDialog {
       max-width: 95%; // Responsive Anpassung für kleinere Bildschirme
     }
