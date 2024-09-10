@@ -13,29 +13,29 @@ excerpt_separator: <!-- more -->
 </amp-img>  
 
 
-Ab dem 1. November 2024 wird die sogenannte Blanko-Verordnung in der Physiotherapie eingeführt – ein bedeutender Schritt, der die Eigenständigkeit und den Grad der Selbstbestimmung von Physiotherapeuten in der Patientenversorgung nachhaltig verändern wird. Aber was genau ist die Blanko-Verordnung, und was bedeutet sie für Patienten, Therapeuten und das Gesundheitswesen?<!-- more -->  
+Ab dem 1. November 2024 wird die sogenannte Blankoverordnung in der Physiotherapie eingeführt – ein bedeutender Schritt, der die Eigenständigkeit und den Grad der Selbstbestimmung von Physiotherapeuten in der Patientenversorgung nachhaltig verändern wird. Aber was genau ist die Blankoverordnung, und was bedeutet sie für Patienten, Therapeuten und das Gesundheitswesen?<!-- more -->  
 
-#### Was ist die Blanko-Verordnung?
+#### Was ist die Blankoverordnung?
 
 In der bisherigen Verordnungspraxis entscheidet der Arzt welcher Patient, warum (Diagnose), womit (Methode), wie regelmäßig (Frequenz) und wie oft (Umfang) vom Physiotherapeuten behandelt werden soll. Physiotherapeuten müssen exakt umsetzen was der Arzt vorgegeben hat. Insofern der Physiotherapeut die gewählte Methode, Frequenz oder Umfang für ungeeignet oder nicht optimal hält, kann er nicht eigenständig über ein anderes Vorgehen entscheiden, sondern muss den Arzt bitten die Verordnung zu ändern.  
-Die Blanko-Verordnung gibt Physiotherapeuten mehr Verantwortung in der Therapiegestaltung und dabei eigenverantwortlich über die Art, Dauer und Frequenz der Therapie zu entscheiden.  
+Die Blankoverordnung gibt Physiotherapeuten mehr Verantwortung in der Therapiegestaltung und dabei eigenverantwortlich über die Art, Dauer und Frequenz der Therapie zu entscheiden.  
 Anstatt dass der Arzt konkrete Vorgaben zur Therapie macht, liegt die Planung und Durchführung vollständig in den Händen des Therapeuten. Der Arzt verordnet also „blank“, und der Physiotherapeut übernimmt die therapeutische Gestaltung.
 
-#### Warum wird die Blanko-Verordnung eingeführt?
+#### Warum wird die Blankoverordnung eingeführt?
 
-Die Einführung der Blanko-Verordnung zielt darauf ab, die Rolle der Physiotherapeuten zu stärken und ihnen mehr Verantwortung für die Behandlung zu übertragen. Dies soll nicht nur die Effizienz der Behandlungen steigern, sondern auch die Qualität und Kontinuität der Versorgung verbessern. Es ist zu erwarten, dass Physiotherapeuten auf Grundlage ihrer Expertise am besten entscheiden können, welche Methoden aus dem physiotherapeutischen Spektrum für die jeweilige Diagnose/Indikation am besten geeignet ist. Da sie die Patienten oft über längere Zeit sehen, sind sie in einer idealen Position, den Behandlungsverlauf flexibel anzupassen und zu optimieren.
+Die Einführung der Blankoverordnung zielt darauf ab, die Rolle der Physiotherapeuten zu stärken und ihnen mehr Verantwortung für die Behandlung zu übertragen. Dies soll nicht nur die Effizienz der Behandlungen steigern, sondern auch die Qualität und Kontinuität der Versorgung verbessern. Es ist zu erwarten, dass Physiotherapeuten auf Grundlage ihrer Expertise am besten entscheiden können, welche Methoden aus dem physiotherapeutischen Spektrum für die jeweilige Diagnose/Indikation am besten geeignet ist. Da sie die Patienten oft über längere Zeit sehen, sind sie in einer idealen Position, den Behandlungsverlauf flexibel anzupassen und zu optimieren.
 
 #### Vorteile für Patienten, Therapeuten und Ärzte
 
-Für **Patienten** bietet die Blanko-Verordnung eine flexiblere und auf ihre Bedürfnisse angepasste Behandlung. Da der Therapeut eigenständig entscheidet, welche Maßnahmen notwendig sind, entfällt der Umweg über den Arzt für jede Therapieanpassung. Dies kann Behandlungsabläufe beschleunigen und die Versorgung effektiver gestalten.
+Für **Patienten** bietet die Blankoverordnung eine flexiblere und auf ihre Bedürfnisse angepasste Behandlung. Da der Therapeut eigenständig entscheidet, welche Maßnahmen notwendig sind, entfällt der Umweg über den Arzt für jede Therapieanpassung. Dies kann Behandlungsabläufe beschleunigen und die Versorgung effektiver gestalten.
 
-**Physiotherapeuten** gewinnen durch die Blanko-Verordnung mehr Eigenverantwortung und Flexibilität. Sie können basierend auf ihrem Fachwissen die Behandlung optimal gestalten, ohne an strikte Vorgaben gebunden zu sein. Diese erweiterte Kompetenz wird durch eine neue **physiotherapeutische Diagnostik** untermauert, die als Grundlage für die Planung der Therapie dient.
+**Physiotherapeuten** gewinnen durch die Blankoverordnung mehr Eigenverantwortung und Flexibilität. Sie können basierend auf ihrem Fachwissen die Behandlung optimal gestalten, ohne an strikte Vorgaben gebunden zu sein. Diese erweiterte Kompetenz wird durch eine neue **physiotherapeutische Diagnostik** untermauert, die als Grundlage für die Planung der Therapie dient.
 
 **Ärzte** profitieren insofern, dass sie weniger mit Therapeuten und Patienten über die Wahl der richtigen Methoden diskutieren müssen und die Budegetverantwortung für die Blankoverordnung bei den Physiotherapeuten liegt. Die Verordnung geht also nicht auf das Budget der Ärzte und sie müssen dafür keine Regeresszahlungen fürchten. Zudem können (oft überfüllte) Arztpraxen erheblich entlastet werden wenn die Patienten 16 Wochen lang im Rahmen der Physiotherapie versorgt werden können.
 
 #### Abrechnung und Vergütung
 
-Mit der Einführung der Blanko-Verordnung kommen auch neue **Abrechnungspositionen**:
+Mit der Einführung der Blankoverordnung kommen auch neue **Abrechnungspositionen**:
 
 1. **Versorgungsbezogene Pauschale**: Einmalig pro Verordnung wird eine Pauschale von **55 Euro** (Positionsnummer 20524) abgerechnet, die den zusätzlichen Aufwand abdeckt, den die eigenverantwortliche Therapieplanung mit sich bringt.
    
@@ -48,7 +48,7 @@ Diese neuen Positionen sollen den zusätzlichen Aufwand der Therapeuten honorier
 
 #### Herausforderungen und Risiken
 
-Mit der neuen Verantwortung kommen auch Herausforderungen. Eine der größten Sorgen vieler Praxen ist der **Cashflow**. Da Blanko-Verordnungen eine Laufzeit von bis zu **16 Wochen** haben, kann es bis zu **19 Wochen** dauern, bis die Abrechnung erfolgt und die Einnahmen in die Praxis fließen. Gerade für kleinere Praxen ist dies eine finanzielle Herausforderung, die gut geplant werden muss.
+Mit der neuen Verantwortung kommen auch Herausforderungen. Eine der größten Sorgen vieler Praxen ist der **Cashflow**. Da Blankoverordnungen eine Laufzeit von bis zu **16 Wochen** haben, kann es bis zu **19 Wochen** dauern, bis die Abrechnung erfolgt und die Einnahmen in die Praxis fließen. Gerade für kleinere Praxen ist dies eine finanzielle Herausforderung, die gut geplant werden muss.
 
 Ein weiteres Risiko liegt in der möglichen **Mengenausweitung**, also der Gefahr, dass mehr Behandlungen verordnet werden, als medizinisch notwendig sind. Um dies zu verhindern, wurde ein **Ampelsystem** eingeführt, das eine Orientierung an der üblichen Behandlungsmenge vorgibt. Wird diese überschritten, können **9 % der Vergütung abgezogen** werden.  
 
@@ -66,7 +66,7 @@ Der sektorale Heilpraktiker Erlaubnis der Physiotherapie wiederum, ermöglicht d
 Allerdings müssen Patienten ohne private Versicherung welche Heilpraktikerleistungen abdeckt in der Regel die Kosten vollständig selbst tragen.  
 
 Somit kann die Blankoverordnung eine großartige neue Option sein bei Patienten sein
-- die eine für die Blanko-Verordnung vorgesehene Problematik/Diagnose haben
+- die eine für die Blankoverordnung vorgesehene Problematik/Diagnose haben
 - die GKV-versichert sind
 - die nicht bereit sind die Kosten der Behandlung selbst zu tragen 
 - und nicht den Umweg über den Arzt scheuen.  
