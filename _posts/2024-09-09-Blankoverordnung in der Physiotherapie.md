@@ -6,8 +6,7 @@ thumb: /assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jp
 date: 09.09.2024
 fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/blog/Blankoverordnung/Blankoverordnung.jpg"
 excerpt_separator: <!-- more -->
-customamp:
-    - amp-iframe
+
 ---
 <amp-img src="/assets/images/blogBlankoverordnung/Blankoverordnung.webp" width="1480" height="780" layout="responsive" >
     <amp-img src="/assets/images/blogBlankoverordnung/Blankoverordnung.jpg" width="1480" height="780" layout="responsive" fallback></amp-img>  
