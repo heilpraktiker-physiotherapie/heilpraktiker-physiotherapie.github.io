@@ -2,7 +2,7 @@
 layout: post
 title: Die neue Blankoverordnung in der Physiotherapie - Ist der HPphysio jetzt obsolet?
 comments: true
-thumb: /assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jpg
+thumb: /assets/images/blogBlankoverordnung/Blankoverordnung.webp
 date: 09.09.2024
 fbimage: "https://heilpraktiker-physiotherapie.com/assets/images/blog/Blankoverordnung/Blankoverordnung.jpg"
 excerpt_separator: <!-- more -->
