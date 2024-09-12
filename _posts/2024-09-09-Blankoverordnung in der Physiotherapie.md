@@ -56,16 +56,16 @@ Ein weiteres Risiko liegt in der möglichen **Mengenausweitung**, also der Gefah
 
 - Welche Patienten überhaupt eine Verordnung für Physiotherapie erhalten hat weiterhin ein Arzt zu entscheiden. Physiotherapeuten sind also weiterhin nachgelagert und abhängig tätig.
 - Entsprechend können Patienten weiterhin nicht direkt zum Physiotherapeuten gehen, sondern müssen sich immer erst ärztlich untersuchen lassen.
-- Diese Blankoverordnung betrifft zunächst nur bestimmte Diagnosen, für die eine Liste von **114 spezifischen ICD-10-Codes** erstellt wurde. Vor allem **Schulterdiagnosen** spielen dabei eine große Rolle. Aktuell machen diese Fälle wohl ca. 10% der Verordnungen aus. Andere Bereiche können aber weiterhin nur mit klassischen Verordnungen und den Grenzen des Heilmittelkatalogs physiotherapeutisch versorgt werden.
+- Diese Blankoverordnung betrifft zunächst nur bestimmte Diagnosen, für die eine Liste von 114 spezifischen ICD-10-Codes erstellt wurde. Vor allem Schulterdiagnosen spielen dabei eine große Rolle. Aktuell machen diese Fälle wohl ca. 10% der Verordnungen aus. Andere Bereiche können aber weiterhin nur mit klassischen Verordnungen und den Grenzen des Heilmittelkatalogs physiotherapeutisch versorgt werden.
 - Die Blankoverordnung betrifft nur den Bereich der GKV-Versicherten. Für PKV-Patienten gibt es keine entsprechende Neuregelung.
 
 #### Blankoverordnung und physiotherapeutische Heilpraktikererlaubnis: Eine echte Symbiose  
 
-Die Blankoverordnung gibt Physiotherapeuten die Freiheit bei dem jeweiligen Patient über Methode, Frequenz und Umfang der Physiotherapie zu entscheiden. Dennoch bleibt die Abhängigkeit zum Arzt, der vorab die Gefahrenabwehr, ärztliche Diagnostik und Indikationsstellung durchführen muss.  Die Blankoverordnung komtm nur für bestimmte Erkrankungen überhaupt in Frage und ist nur im GKV-System von Bedeutung.  
-Der sektorale Heilpraktiker Erlaubnis der Physiotherapie wiederum, ermöglicht den vollständigen Direktzugang, unabhängig von ärztlicher Verordnung. Der Heilpraktiker für Physiotherapie entscheidet welche Patienten, warum und wie behandelt werden. Das kann er ganz unabhängig von der Versicherung des Patienten. Die Patienten können ohne Umwege physiotherapeutische Hilfe in Anspruch nehmen.  
+Die Blankoverordnung gibt Physiotherapeuten die Freiheit bei dem jeweiligen Patient über **Methode, Frequenz und Umfang** der Physiotherapie zu entscheiden. Dennoch bleibt die Abhängigkeit zum Arzt, der vorab die Gefahrenabwehr, ärztliche Diagnostik und Indikationsstellung durchführen muss.  Die Blankoverordnung kommt **nur für bestimmte Erkrankungen** überhaupt in Frage und ist **nur im GKV-System** von Bedeutung.  
+Die sektorale Heilpraktiker Erlaubnis der Physiotherapie wiederum, ermöglicht den vollständigen Direktzugang, unabhängig von ärztlicher Verordnung. Der Heilpraktiker für Physiotherapie entscheidet welche Patienten, warum und wie behandelt werden. Das kann er ganz unabhängig von der Versicherung des Patienten. Die Patienten können ohne Umwege physiotherapeutische Hilfe in Anspruch nehmen.  
 Allerdings müssen Patienten ohne private Versicherung welche Heilpraktikerleistungen abdeckt in der Regel die Kosten vollständig selbst tragen.  
 
-Somit kann die Blankoverordnung eine großartige neue Option sein bei Patienten sein
+Somit kann die Blankoverordnung eine großartige neue Option bei Patienten sein
 - die eine für die Blankoverordnung vorgesehene Problematik/Diagnose haben
 - die GKV-versichert sind
 - die nicht bereit sind die Kosten der Behandlung selbst zu tragen 
@@ -75,7 +75,7 @@ Für alle anderen Fälle bleibt die klassische ärztliche Verordnung oder die vo
 
 #### Fazit
 
-Die Blankoverordnung ist ein wertvoller Schritt in Richtung Autonomie der Physiotherapie, bleibt jedoch in sehr engen Grenzen. Zum Tragen kommt sie zunächst vorallem in der Versorgung von Schulterpatienten bei GKV-Versicherten. Wer vollständige Entscheidungsautonomie für die Patientenversorgung im Rahmen der Physiotehrapie will, benötigt weiterhin die sektorale Heilpraktikererlaubnis.
+Die Blankoverordnung ist ein wertvoller Schritt in Richtung Autonomie der Physiotherapie, bleibt jedoch in sehr engen Grenzen. Zum Tragen kommt sie zunächst vorallem in der Versorgung von Schulterpatienten bei GKV-Versicherten. Wer vollständige Entscheidungsautonomie für die Patientenversorgung im Rahmen der Physiotherapie will, benötigt weiterhin die sektorale Heilpraktikererlaubnis.
 
 #### Detailiertes Fachwissen zum sicheren Umgang mit der Blankversorgung  
 
