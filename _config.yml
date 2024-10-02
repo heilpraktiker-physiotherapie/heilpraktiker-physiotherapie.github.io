@@ -17,7 +17,7 @@ logo600jpg: "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT600.
 Bannerjpg: "https://heilpraktiker-physiotherapie.com/assets/images/BannerHPPT.jpg"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://heilpraktiker-physiotherapie.com" # the base hostname & protocol for your site
-repository: heilpraktiker-physiotherapie/website-staging
+repository: heilpraktiker-physiotherapie/
 
 
 paginate:	10 # The number of posts to show per page on your homepage
