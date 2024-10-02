@@ -5,5 +5,8 @@
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
 User-agent: *
-Disallow: /
-Disallow: /cgi-bin/
+
+Sitemap: {{ site.url }}/sitemap.xml
+Disallow:/googlea2efe33e4d1983b4.html
+Disallow: /website-staging
+
