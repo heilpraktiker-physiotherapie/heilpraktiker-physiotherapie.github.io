@@ -134,14 +134,16 @@ nav {
     border-bottom-style: solid;
     border-bottom-width: thin;
     border-bottom-color: #a1a1a1;
-    .navbuttonsbar {
-        position: absolute;
-        top: 4px;
-        height: 36px;
-        right: 0px;
-        .barbuttons {
-            padding: 5px;
-        }
+}
+.navbuttonsbar {
+    position: absolute;
+    top: 4px;
+    height: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .barbuttons {
+        padding: 5px;
     }
 }
 
