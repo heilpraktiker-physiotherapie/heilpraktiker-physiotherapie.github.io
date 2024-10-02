@@ -9,8 +9,8 @@ $first-accent-color: #3f93b1;
 $secondary-accent-color: rgb(236, 251, 255);
 
 $bg-red: #ea2634;
-
-$bg-midgrey: #aaaaaa;
+$bg-lightgray: #d6d6d6;
+$bg-midgray: #7c7c7c;
 $general-max-width: 120rem;
 
 /*        _________________________________________________________*/
@@ -180,7 +180,7 @@ amp-sidebar {
         padding-bottom: 0.4rem;
         padding-top: 0.4rem;
         margin: 1px;
-        border: 2px solid grey;
+        border: 2px solid gray;
         display: inline-block;
         width: 100%;
         &:link {
@@ -302,9 +302,6 @@ blockquote {
 }
 
 
-.remove-on-mobile{
-}
-
 .betweenTextImage {
     width: 30%;
     margin: 1em;
@@ -338,8 +335,12 @@ blockquote {
     background-color: $secondary-color;
 }
 
-.midgrey {
-    background-color: $bg-midgrey;
+.midgray {
+    background-color: $bg-midgray;
+}
+
+.lightgray{
+    background-color: $bg-lightgray;
 }
 .text-white {
     color: #ffffff;
