@@ -28,32 +28,32 @@ Ebenso ist auf dieser Grundlage ein umfangreicher Video-Podcast im Gespräch mit
 
 ### Ergebnisse der Umfrage  
 Insgesamt nahmen 69 Heilpraktiker für Physiotherapie an der Umfrage teil. Viele dieser Teilnehmer hatten aber zu dem Zeitpunkt noch keine Rechnung als Heilpraktiker für Physiotherapie gestellt oder nur sehr wenige Fragen der Umfrage beantwortet, so dass am Ende die Daten von 50 Teilnehmern weiter ausgewertet wurden.
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/WieVieleRechnungenBereitsGestellt.jpg" alt="Wie viele Rechnungen wurden schon als Heilpraktiker Physiotherapie gestellt?" height="516" width="659" layout="responsive"></amp-img>
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/WieVieleRechnungenBereitsGestellt.jpg" alt="Wie viele Rechnungen wurden schon als Heilpraktiker Physiotherapie gestellt?" height="516" width="659" layout="responsive"></amp-img>
   
 
 ### Wie legen Heilpraktiker für Physiotherapie Ihre Preise fest?
 Im Austausch mit Physiotherapeuten bekommt man selten den Eindruck, dass der Preis kalkuliert wird. Vielmehr, wird der Preis als gegeben angenommen. Bei den GKV-Patienten trifft dies durch die Rahmenverträge ja auch erstmal zu. Die Preise für Zusatzleistungen und die Behandlung von Beihilfe oder Privatpatienten, können jedoch frei bestimmt werden. Doch auch hier wird häufig das genommen, was die Erstattungstabellen vorsehen und nicht was der Praxisinhaber benötigt, um ein angemessenes Gehalt zahlen zu können, in echte Qualitätsverbesserung und Innovation zu investieren und ganz besonders auch eigene Rücklagen zu bilden. Ein bisschen was zum Leben sollte dann auch noch übrigbleiben. Wenn der Preis aber auf dem niedrigen Niveau akzeptiert wird, muss überall gespart werden um nicht insolvent zu werden.  
 Auch der HPphysio kann seine Preise selbst festlegen und sollte dies auch selbstbewusst tun.  
 Wir haben gefragt: "Wie kalkulierst Du Deine Preise?"
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Wie kalkulieren HPphysios Ihre Preise.jpg" alt="Wie kalkulieren HPphysios ihre Preise?" height="592" width="920" layout="responsive"></amp-img>   
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Wie kalkulieren HPphysios Ihre Preise.jpg" alt="Wie kalkulieren HPphysios ihre Preise?" height="592" width="920" layout="responsive"></amp-img>   
 Der größte Teil der Befragten bestimmt also, was er/sie pro Minute haben möchte, unabhängig von der konkreten Maßnahme. Nur wenige orientieren sich an den jeweiligen Versicherungsbedingungen und der zu erwartenden Erstattung. Viele nehmen die Preise, die für vergleichbare Leistungen von privaten Physiotherapiepatienten genommen werden und etwas mehr als 1/5tel nimmt die Preise entsprechend dem GebüH. 
 Wir wollten dann ebenfalls wissen: "Wie hoch sind Deine Preise in etwa im Durchschnitt pro 10 Minuten?"  
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Preis pro 10 Minuten.jpg" alt="Übliche Preise eines sektoralen Heilpraktiker für Physiotherapie" height="477" width="608" layout="responsive"></amp-img>   
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Preis pro 10 Minuten.jpg" alt="Übliche Preise eines sektoralen Heilpraktiker für Physiotherapie" height="477" width="608" layout="responsive"></amp-img>   
   
 
 ### Welche Verzeichnisse und Ziffern nutzen Heilpraktiker für Physiotherapie zur Abrechnung?  
 Der Heilpraktiker für Physiotherapie ist zur Abrechnung nicht an eine Verordnung gebunden, sondern darf die Ausgestaltung der Rechnung frei bestimmen. Es muss nur daraus hervorgehen, welche Maßnahmen stattgefunden haben und wie diese berechnet werden. Der Standard ist das Gebührenverzeichnis der Heilpraktiker [GebüH](https://goo.gl/NfpwYN){:target="_blank"}.  
 Wenn ein Patient zum Heilpraktiker geht, muss er davon ausgehen, dass die Preise in etwa im Rahmen der GebüH liegen, da dies als üblicher Preis für Heilpraktiker angesehen wird. Durch einen Behandlungsvertrag sind aber andere Abrechnungsgrundlagen und Kosten festlegbar.  Dies könnten z.B. Ziffern aus der [Gebührenordnung für Ärzte](https://goo.gl/wUAK9P){:target="_blank"} sein, welche für Ärzte verpflichtend ist aber nicht allein den Ärzten vorbehalten ist, oder physiotherapeutische Ziffern entsprechend dem Heilmittelkatalog oder auch ganz eigene Abrechnungsziffern.
 Wir haben gefragt: "Welche Abrechnungsgrundlage benutzt Du in der Regel?"
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Welche Gebührenverzeichnisse.jpg" alt="Welches Gebührenverzeichnis nutzen Heilpraktiker für Physiotherapie" height="575" width="592" layout="responsive"></amp-img>
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Welche Gebührenverzeichnisse.jpg" alt="Welches Gebührenverzeichnis nutzen Heilpraktiker für Physiotherapie" height="575" width="592" layout="responsive"></amp-img>
 
 
 ### Wie häufig stellen HPphysios Verordnung aus und warum?
 Eine weitere Möglichkeit neben der Durchführung und Abrechnung der Therapie als HPphysio, ist die Ausstellung von Verordnungen. Dann hat der Patient, genau wie bei der Verordnung durch einen Arzt, die freie Therapeutenwahl unter den Physiotherapeuten. Jeder Physio kann daraufhin behandeln, auch ohne die sektorale Heilpraktikererlaubnis. Das kann dann ein Kollege in der Praxis sein, aber auch aus anderen Praxen oder auch die gleiche Person, die zuvor als Heilpraktiker die Verordnung ausgestellt hat. Diese würde dann im Prinzip als Heilpraktiker die Diagnostik durchführen und abrechnen und später als Physiotherapeut die weitere Therapie durchführen und abrechnen.  
 Wir haben gefragt: "Wie oft stellst Du als Heilpraktiker Verordnungen für Physiotherapie aus?" und "Wer soll auf die Verordnung hin behandeln?"
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Wie oft stellst Du eine Verordnung aus.jpg" alt="Wie oft stellen Heilpraktiker für Physiotherapie Verordnungen aus" height="529" width="892" layout="responsive"></amp-img>  
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Wie oft stellst Du eine Verordnung aus.jpg" alt="Wie oft stellen Heilpraktiker für Physiotherapie Verordnungen aus" height="529" width="892" layout="responsive"></amp-img>  
 <div/>
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/WerSollAufVerordnungTherapieren.jpg" alt="Wer behandelt bei Verordnung vom Heilpraktiker für Physiotherapie" height="315" width="782" layout="responsive"></amp-img> 
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/WerSollAufVerordnungTherapieren.jpg" alt="Wer behandelt bei Verordnung vom Heilpraktiker für Physiotherapie" height="315" width="782" layout="responsive"></amp-img> 
 
   
 ### Wie gut klappt die Erstattung der Kosten?  
@@ -61,32 +61,32 @@ Der Heilpraktiker hat einen Vertrag mit seinem Patienten. Die anfallenden Kosten
 Dennoch ist es indirekt doch für viele HPPhysios wichtig wie gut die Erstattung klappt, da nicht alle sich die vollen Kosten selbst leisten können und auch vermögendere Patienten zufriedener sind, wenn weniger Kosten selber bezahlen müssen.   
 Wir haben gefragt: "Wie viel Prozent der Kosten erhalten Deine Patienten im Schnitt von Ihrer Versicherung zurück (darf auch geschätzt werden)?"
 
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/wie viel bekommen die Patienten erstattet.jpg" alt="wie viel Prozent der Kosten bekommen Patienten in der Regel erstattet" height="389" width="668" layout="responsive"></amp-img> 
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/wie viel bekommen die Patienten erstattet.jpg" alt="wie viel Prozent der Kosten bekommen Patienten in der Regel erstattet" height="389" width="668" layout="responsive"></amp-img> 
 
 und "Wieviel Prozent der Patienten melden sich wegen Schwierigkeiten bei der Erstattung?"  
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Rückmeldung wegen Problemen bei Erstattung.jpg" alt="wie häufig kommt es zu Rückmeldungen wegen Erstattungsproblemen" height="356" width="728" layout="responsive"></amp-img>  
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Rückmeldung wegen Problemen bei Erstattung.jpg" alt="wie häufig kommt es zu Rückmeldungen wegen Erstattungsproblemen" height="356" width="728" layout="responsive"></amp-img>  
 
 Etwas genauer wollten wir auch erfahren, welche Art von Problemen dabei bislang aufgetreten sind: „Welche Art von Schwierigkeiten mit der Erstattung beklagen die Patienten?"
 
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Welche Probleme bei Erstattung.jpg" alt="Probleme bei der Erstattung" height="464" width="898" layout="responsive"></amp-img>  
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Welche Probleme bei Erstattung.jpg" alt="Probleme bei der Erstattung" height="464" width="898" layout="responsive"></amp-img>  
   
 
 ### Individuelle Anpassung der Rechnung und Auswirkungen
 Wir wollten auch herausfinden, ob HPphysios die Rechnungsgestaltung individuell zum Zwecke einer optimalen Erstattung anpassen und inwiefern sich dies auf die tatsächliche Erstattung auswirkt und den Anteil an Patienten die Schwierigkeiten bei der Erstattung beklagen.
 
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Rechnungsanpassung.jpg" alt="Passen HPphysios die Rechnungsstellung an die Versicherungsbedingungen an" height="526" width="687" layout="responsive"></amp-img> 
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Rechnungsanpassung.jpg" alt="Passen HPphysios die Rechnungsstellung an die Versicherungsbedingungen an" height="526" width="687" layout="responsive"></amp-img> 
 
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Wie viel Prozent bekommen Patienten erstattet in Äbhängigkeit der Anpassung.jpg" alt="Einfluss Anpassung auf Erstattung" height="346" width="947" layout="responsive"></amp-img>
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Wie viel Prozent bekommen Patienten erstattet in Äbhängigkeit der Anpassung.jpg" alt="Einfluss Anpassung auf Erstattung" height="346" width="947" layout="responsive"></amp-img>
 
-<amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/Wie viel Patienten beschweren sich je nach Anpassung.jpg" alt="Einfluss Anpassung auf Beschwerden" height="329" width="863" layout="responsive"></amp-img>
+<amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/Wie viel Patienten beschweren sich je nach Anpassung.jpg" alt="Einfluss Anpassung auf Beschwerden" height="329" width="863" layout="responsive"></amp-img>
 
 Darüber hinaus haben wir auch versucht herauszufinden, ob ein höherer Preis zu einer anteilig schlechteren Erstattung und zu mehr Schwierigkeiten mit der Erstattung insgesamt führen. Dafür haben wir jeweils die Korrelation bestimmt, wie unten zu sehen ist.  
 Um dies kurz zusammenzufassen: Anhand der Umfrage lässt sich kein Zusammenhang feststellen zwischen der Höhe des Preises/10min und der anteiligen Erstattung die der Patient erhält. 
 
- <amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/KorrelationPreisErstattung.jpg" alt="Korrelation zwischen Preis und Erstattungsanteil" height="334" width="611" layout="responsive"></amp-img>  
+ <amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/KorrelationPreisErstattung.jpg" alt="Korrelation zwischen Preis und Erstattungsanteil" height="334" width="611" layout="responsive"></amp-img>  
 
 Auch der Anteil an Patienten, die über Schwierigkeiten bei der Erstattung klagen, nimmt nur sehr geringfügig mit dem Preis/10min zu.  
- <amp-img class="maxwidth800 maxheight800" src="/assets/images/blog/Abrechnung/KorrelationPreisBeschwerden.jpg" alt="Korrelation zwischen Preis und Beschwerden" height="280" width="737" layout="responsive"></amp-img>  
+ <amp-img class="max-width-800 max-height-800" src="/assets/images/blog/Abrechnung/KorrelationPreisBeschwerden.jpg" alt="Korrelation zwischen Preis und Beschwerden" height="280" width="737" layout="responsive"></amp-img>  
 
 Ein höherer Preis und im besten Falle mehr Qualität der Behandlung, scheint demnach für Therapeut und Patient die bessere Wahl, als eine übermäßig ausgeprägte Kostenminimierung. 
   

@@ -85,8 +85,8 @@ In **Sachsen-Anhalt** müssen Fortbildungen die entsprechende Verwaltungsrichtli
 
 <div markdown="0">
   <section class="green button fullwidthtextbar">
-    <div class="textaligncenter">
-      <a href="{{site.baseurl}}/termine-und-anmeldung/" class="standardbutton textcolorwhite">
+    <div class="text-white">
+      <a href="{{site.baseurl}}/termine-und-anmeldung/" class="button-standard text-white">
       <h2>Buche jetzt Deine Fortbildung</h2></a>
     </div>
   </section>

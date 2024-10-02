@@ -46,12 +46,12 @@
               Auch für uns sind Informationen über die Nutzung unserer Website wichtig. Wir möchten Dir aber die Kontrolle über Deine Daten geben. Deshalb kannst Du hier entscheiden, welche Daten wir sammeln dürfen.
             </p>
             <div class="choices">
-              <label class="consentLabel" for="consent-purpose-social">
+              <label class="consent-label" for="consent-purpose-social">
                 <input id="consent-purpose-social" type="checkbox" aria-label="Social Media Zustimmung" on="change:siteConsent.setPurpose(purpose-social=event.checked)">
                 Social Media
               </label>
               <br>
-              <label class="consentLabel" for="consent-purpose-analytics">
+              <label class="consent-label" for="consent-purpose-analytics">
                 <input id="consent-purpose-analytics" type="checkbox" aria-label="Google Analytics Zustimmung" on="change:siteConsent.setPurpose(purpose-analytics=event.checked)">
                 Google analytics
               </label>
@@ -66,7 +66,7 @@
 
       <!--the parent of amp-sidebar must be body -->
        <amp-sidebar id="sidebar" layout="nodisplay" side="right">
-        <amp-img class="amp-close-image hoveropacity midgrey" src="{{site.baseurl}}/assets/images/closeX.svg" width="40" height="40" alt="close sidebar" on="tap:sidebar.toggle" role="button" tabindex="0"></amp-img>
+        <amp-img class="amp-close-image hover-opacity midgrey" src="{{site.baseurl}}/assets/images/closeX.svg" width="40" height="40" alt="close sidebar" on="tap:sidebar.toggle" role="button" tabindex="0"></amp-img>
           <ul>
               <li><a class="" href="{{ site.baseurl }}/termine-und-anmeldung/">Termine</a></li>
               <li><a class="" href="{{ site.baseurl }}/fortbildung-zum-heilpraktiker-physiotherapie/">Die Fortbildung</a></li>

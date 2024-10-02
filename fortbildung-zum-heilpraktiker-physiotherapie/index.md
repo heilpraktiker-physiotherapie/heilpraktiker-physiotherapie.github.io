@@ -27,7 +27,7 @@ Zusätzlich geben wir viele wertvolle Quellen an die Hand, um eigenständig auf 
  > Einige Einblicke von unseren Fortbildungen findest Du auch [hier im Blog]({{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/)  
 
 <div markdown="0">
-                 <amp-carousel class="dozentencarousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="4000">
+                 <amp-carousel class="dozenten-carousel" width="852" height="400" layout="responsive" type="slides" autoplay delay="4000">
        {% for image in site.static_files %}
             {% if image.path contains 'images/fortbildung-caroussel1' %}
                 <amp-img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400" width="852" layout="responsive"></amp-img>
@@ -52,12 +52,12 @@ Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinm
 Weniger als die beste Besetzung solltest Du nicht akzeptieren.
 Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
 <div markdown="0">
-                 <amp-carousel id="mainDozentenCarousel"  class="dozentencarousel" width="852" height="400" layout="responsive"
+                 <amp-carousel id="mainDozentenCarousel"  class="dozenten-carousel" width="852" height="400" layout="responsive"
             type="slides" autoplay delay="7000">
             {% for dozent in site.data.dozenten %}
             {% assign picwidth = dozent.width | divided_by: 8.52 %}
             <div>
-                <div class="imagewrapper" style="width: {{picwidth}}%">
+                <div class="image-wrapper" style="width: {{picwidth}}%">
                     <amp-img class="carousel-halffaceimg"
                         alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
                         src="/assets/images/webP/{{dozent.halffaceimg}}.webp" width="{{dozent.width}}" height="400"
@@ -71,11 +71,11 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
                       >
                       </amp-img></amp-img>
                 </div>
-                <div class="dozenttext" style="width: {{99 | minus: picwidth}}%">
-                    <div class="dozentquote">
+                <div class="dozent-text" style="width: {{99 | minus: picwidth}}%">
+                    <div class="dozent-quote">
                         "{{dozent.zitat}}"
                     </div>
-                    <div class="dozentname">
+                    <div class="dozent-name">
                         <span>{{dozent.name}}</span> <br /> {{dozent.beruf}}
                     </div>
                 </div>

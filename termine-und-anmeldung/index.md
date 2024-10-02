@@ -67,11 +67,11 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
           <span>Frühbucherpreis: {{ kurs.fruehbucher }}€ bis {{ kurs.fruehbucherdatum }} (begrenzte Plätze)</span> <br/>
         {% endif %}
         {% if kurs.preislink  and kurs.preislink != empty%}
-          <span>Preis: Infos auf <a target="_blank" href="{{ kurs.preislink }}">Seite des Veranstalters</a></span> <br/>
+          <span>Preis: Infos auf <a target="_blank" href="{{ kurs.preislink }}" class="box-link">Seite des Veranstalters</a></span> <br/>
         {% elsif kurs.preis %}
           <span>Preis: {{ kurs.preis }}€</span> <br/>
         {% endif %}
-        <a target="_blank" href="{{ kurs.enrollmentLink }}" class="anmelde_link">Hier klicken zur Anmeldung</a>
+        <a target="_blank" href="{{ kurs.enrollmentLink }}" class="anmelde_link  box-link">Hier klicken zur Anmeldung</a>
         {% if kurs.courseMode == 'Online' %}
           <div class="iselearning">Webinar</div>
         {% elsif kurs.courseMode == 'Onsite' %}
