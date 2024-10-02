@@ -20,6 +20,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 
 gem "webrick"
 gem "base64"
+gem 'jekyll-sitemap'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

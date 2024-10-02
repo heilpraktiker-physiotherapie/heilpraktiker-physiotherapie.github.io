@@ -134,14 +134,16 @@ nav {
     border-bottom-style: solid;
     border-bottom-width: thin;
     border-bottom-color: #a1a1a1;
-    .navbuttonsbar {
-        position: absolute;
-        top: 4px;
-        height: 36px;
-        right: 0px;
-        .barbuttons {
-            padding: 5px;
-        }
+}
+.navbuttonsbar {
+    position: absolute;
+    top: 4px;
+    height: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .barbuttons {
+        padding: 5px;
     }
 }
 
@@ -172,7 +174,7 @@ amp-sidebar {
         padding-left: 8px;
     }
     a {
-        background-color: lightblue;
+        background-color: $secondary-color;
         color: #333333;
         padding: 2px;
         padding-bottom: 0.4rem;
@@ -189,7 +191,7 @@ amp-sidebar {
         }
         &:hover {
             text-decoration: none;
-            background-color: $first-accent-color;
+            background-color: $primary-color;
             color: white;
         }
         &:active {
@@ -299,9 +301,9 @@ blockquote {
     padding-left: 1em;
 }
 
-/*_________________________________________________________________*/
 
-/*_________________________________________________________________*/
+.remove-on-mobile{
+}
 
 .betweenTextImage {
     width: 30%;
@@ -761,6 +763,9 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     .navbuttonsbar {
         display: none;
     }
+    .remove-on-mobile{
+        display: none;
+    }
     nav {
         height: 50px;
         background-color: transparent;
@@ -841,15 +846,8 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
     }
     .dozentencarousel {
         .dozenttext {
-            font-size: 0.4rem;
+            font-size: 0.55rem;
         }
-    }
-    #AuswahlSection button {
-        font-size: 1em;
-        width: 96%;
-    }
-    #AuswahlSection .standardbutton {
-        min-height: 4em;
     }
     .betweenTextImage {
         width: 100%;
@@ -867,6 +865,11 @@ footer #emailbutton:hover + #contactform + #contactform:hover + #newsletterform 
 @media (max-width: 400px) {
     #consentDialog {
         max-width: 95%; // Responsive Anpassung für kleinere Bildschirme
+    }
+    .dozentencarousel {
+        .dozenttext {
+            font-size: 0.4rem;
+        }
     }
 }
 @media (max-width: 360px) {
