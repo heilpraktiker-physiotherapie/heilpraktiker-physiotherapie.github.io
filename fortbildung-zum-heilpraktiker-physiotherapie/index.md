@@ -52,12 +52,12 @@ Geht es um einen Überblick zur Diagnostik innerer Erkrankungen, sind Allgemeinm
 Weniger als die beste Besetzung solltest Du nicht akzeptieren.
 Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns anreisen, hinterher wissen, dass sich der Weg gelohnt hat.
 <div markdown="0">
-                 <amp-carousel id="mainDozentenCarousel"  class="dozenten-carousel" width="852" height="400" layout="responsive"
+                  <amp-carousel id="mainDozentenCarousel" class="dozentencarousel" width="852" height="400" layout="responsive"
             type="slides" autoplay delay="7000">
             {% for dozent in site.data.dozenten %}
             {% assign picwidth = dozent.width | divided_by: 8.52 %}
             <div>
-                <div class="image-wrapper" style="width: {{picwidth}}%">
+                <div class="imagewrapper" style="width: {{picwidth}}%">
                     <amp-img class="carousel-halffaceimg"
                         alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
                         src="/assets/images/webP/{{dozent.halffaceimg}}.webp" width="{{dozent.width}}" height="400"
@@ -71,11 +71,11 @@ Unser Ziel ist es, dass auch alle Teilnehmer die quer durch Deutschland zu uns a
                       >
                       </amp-img></amp-img>
                 </div>
-                <div class="dozent-text" style="width: {{99 | minus: picwidth}}%">
-                    <div class="dozent-quote">
+                <div class="dozenttext" style="width: {{99 | minus: picwidth}}%">
+                    <div class="dozentquote">
                         "{{dozent.zitat}}"
                     </div>
-                    <div class="dozent-name">
+                    <div class="dozentname">
                         <span>{{dozent.name}}</span> <br /> {{dozent.beruf}}
                     </div>
                 </div>
