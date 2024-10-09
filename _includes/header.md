@@ -1,7 +1,13 @@
 <header class="site-header">
     <nav>
-        <div class="green" id="topline"></div>
-        <button id="sidebartogglebutton" on="tap:sidebar.toggle" class="barbuttons">
+        <div class="logo-container" width="100%">
+            <!-- White Circle -->
+            <div class="circle-background"></div>
+            <a href="{{site.baseurl}}/">
+                <amp-img src="{{site.baseurl}}\assets\images\LogoHPPT.svg" width="60px" height="60px"></amp-img>
+            </a>
+        </div>
+        <button id="sidebartogglebutton" on="tap:sidebar.toggle" class="barbuttons burger-menu">
             <amp-img src="{{site.baseurl}}/assets/images/Burger.svg" alt="Menü öffnen" layout="fixed" width="40px" height="36px"></amp-img>
         </button>
         <div class="navbuttonsbar">
