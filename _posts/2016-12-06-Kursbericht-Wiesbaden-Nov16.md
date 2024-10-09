@@ -26,7 +26,7 @@ Der Samstag begann dann mit dem ärztlichen Teil von Konstantin. Mit großem Int
 <amp-img layout="responsive" width="1200" height="636" src="/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg"></amp-img>
   
   Vielen Dank an alle Teilnehmer/Innen für das große Interesse, welches sehr geholfen hat die Fortbildung so lebendig zu gestalten. Danke auch für euer positives Feedback. 
-<amp-carousel class="dozentencarousel" width="1200" height="675" layout="responsive" type="slides" autoplay delay="2000">
+<amp-carousel class="dozenten-carousel" width="1200" height="675" layout="responsive" type="slides" autoplay delay="2000">
  <amp-img layout="responsive" width="1200" height="675" src="/assets/images/blog/Wiesbaden-Nov16/Hirnnerven-Fortbildung-Heilpraktiker-Physiotherapie.jpg"></amp-img>
  <amp-img layout="responsive" width="1200" height="675" src="/assets/images/blog/Wiesbaden-Nov16/Hirnnerven2-Fortbildung-Heilpraktiker-Physiotherapie.jpg"></amp-img>
  <amp-img layout="responsive" width="1200" height="675" src="/assets/images/blog/Wiesbaden-Nov16/Screening-Fortbildung-Heilpraktiker-Physiotherapie.jpg"></amp-img>
