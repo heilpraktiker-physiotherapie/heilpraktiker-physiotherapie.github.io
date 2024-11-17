@@ -1,6 +1,6 @@
 <header class="site-header">
     <nav>
-        <div class="logo-container" width="100%">
+        <div class="logo-container">
             <!-- White Circle -->
             <div class="circle-background"></div>
             <a href="{{site.baseurl}}/">
