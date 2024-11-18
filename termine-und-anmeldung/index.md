@@ -9,11 +9,11 @@ customamp:
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  
 Gute Entscheidung! Versprochen ;-)  
-Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern, Berlin und Thüringen unterwegs, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
+Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern und Thüringen, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  Die Vorgaben zur Erlaubniserteilung sind jedoch nicht überall gleich. Genau Informationen dazu erhälst Du unter <a href="{{site.baseurl}}/voraussetzungen-und-anerkennung/">Voraussetzungen</a>.
 
 
-<amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="/assets/images/gmapsplaceholder.jpg" placeholder></amp-img></amp-iframe>  
+<amp-iframe id="gmaps" src="https://arnold85.github.io/websiteassets/googlemaps/gmaps.html" width="400" height="400" layout="responsive" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin"><amp-img layout="fill" src="{{site.baseurl}}/assets/images/webP/gmapsplaceholder.webp" placeholder></amp-img></amp-iframe>  
 
 ## Unsere aktuellen Termine sind:
 
@@ -35,57 +35,60 @@ Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, w
       ]
     }
 </script>
-{% assign var bgcolor = 'green' %}
+{% assign var bgcolor = 'midgray' %}
 {% for kurs in site.data.kurstermine %}
 {% if kurs.show == true %}
-<div id="{{kurs.kursnummer}}" markdown="0" class="kurstermincontainer">
+<div id="{{ kurs.kursnummer }}" markdown="0" class="kurstermincontainer">
    {% if forloop.first == true %}
-        {% assign bgcolor = 'green' %}
-    {% elsif bgcolor == 'green' %}
-        {% assign bgcolor = 'blue' %}
-    {% elsif bgcolor == 'blue' %}
-        {% assign bgcolor = 'red' %}
-    {% elsif bgcolor == 'red' %}
-        {% assign bgcolor = 'green' %}
+        {% assign bgcolor = 'midgray' %}
+    {% elsif bgcolor == 'midgray' %}
+        {% assign bgcolor = 'lightgray' %}
+    {% elsif bgcolor == 'lightgray' %}
+        {% assign bgcolor = 'midgray' %}
   {% endif %}
-   <div class="kursbackground  {{bgcolor}}"></div>
-   <div class="kurstermincontent">
-   {% if kurs.elearning==true and kurs.ort  %}
-   <span>Prüfungsort(e): {{kurs.ort}}</span> <br/>
-   {% elsif  kurs.elearning==true%}
-  <span>Kursort: <b>E-learning von beliebigem Ort</b> </span> <br/>
-   {% elsif  kurs.ort%}
-  <span>Kursort: <b>{{kurs.ort}}</b> in {{kurs.land}}</span> <br/>
+   <div class="kursbackground {{ bgcolor }}"></div>
+  <div class="kurstermincontent">
+  <details>
+    <summary>
+   {% if kurs.courseMode == 'Online' %}
+   <span>Kursort: <b>E-learning von beliebigem Ort</b></span> <br/>
+   {% elsif kurs.ort %}
+   <span>Kursort: <b>{{ kurs.ort }}</b> in {{ kurs.land }}</span> <br/>
    {% endif %}
-    <span>Kurstage: {{kurs.datum}}</span> <br/>
-    {% if kurs.ablauf %}
-    <span><small>Ablauf: {{kurs.ablauf}}</small></span> <br/>
-    {% endif %}
-    <span>Veranstalter: {{kurs.veranstalter}}</span> <br/>
-    {% if kurs.abgesagt==true %}
+    <span>Kurstage: {{ kurs.datum }}</span> <br/>
+    {% if kurs.courseMode == 'Online' %}
+          <div class="iselearning">Webinar</div>
+        {% elsif kurs.courseMode == 'Onsite' %}
+          <div class="ispresence">Präsenzkurs</div>
+        {% elsif kurs.courseMode == 'Blended' %}
+          <div class="ishybrid">Blended: Webinar und Präsenzkurs</div>
+        {% endif %}
+        </summary>
+            {% if kurs.ablauf %}
+    <span><small>Ablauf: {{ kurs.ablauf }}</small></span> <br/>
+    {% endif %} 
+    <span>Veranstalter: {{ kurs.veranstalter }}</span> <br/>
+    {% if kurs.abgesagt == true %}
       <div class="abgesagt">Kurs wurde abgesagt</div>
     {% else %}
-        {% if kurs.fruehbucher %}
-          <span>Frühbucherpreis: {{kurs.fruehbucher}}€ bis {{kurs.fruehbucherdatum}} (begrenzte Plätze)</span> <br/>
+        {% if kurs.fruehbucher  and kurs.fruehbucher != empty%}
+          <span>Frühbucherpreis: {{ kurs.fruehbucher }}€ bis {{ kurs.fruehbucherdatum }} (begrenzte Plätze)</span> <br/>
         {% endif %}
-        {% if kurs.preislink %}
-          <span>Preis: Infos auf <a target="_blank" href="{{kurs.preislink}}">Seite des Veranstalters</a></span> <br/>
-            {% elsif kurs.preis %}
-                <span>Preis: {{kurs.preis}}€</span> <br/>
+        {% if kurs.preislink  and kurs.preislink != empty%}
+          <span>Preis: Infos auf <a target="_blank" href="{{ kurs.preislink }}" class="box-link">Seite des Veranstalters</a></span> <br/>
+        {% elsif kurs.preis %}
+          <span>Preis: {{ kurs.preis }}€</span> <br/>
         {% endif %}
-        <a target="_blank" href="{{kurs.link}}" class="anmelde_link">Hier klicken zur Anmeldung</a>
-        {% if kurs.elearning==true %}
-          <div class="iselearning">E-Learning</div>
-        {% elsif kurs.elearning==false %}
-          <div class="ispresence">Präsenzkurs</div>
-        {% elsif kurs.elearning=='hybrid' %}
-          <div class="ishybrid">Hybrid: E-Learning und Präsenzkurs</div>
-        {% endif %}
-        {% if kurs.warteliste==true %}
+        <a target="_blank" href="{{ kurs.enrollmentLink }}" class="anmelde_link  box-link">Hier klicken zur Anmeldung</a>
+       
+        {% if kurs.warteliste == true %}
           <div class="warteliste">Warteliste</div>
         {% endif %}
     {% endif %}
-    </div>
+   </details>
+   
+    
+   </div>
 </div>
 {% endif %}
 {% endfor %}
