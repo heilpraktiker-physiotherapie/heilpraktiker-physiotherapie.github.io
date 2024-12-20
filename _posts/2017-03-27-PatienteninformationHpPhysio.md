@@ -19,8 +19,8 @@ Dein Physiotherapeut ist darauf fokussiert, dass Du Dein Leben aktiv gestalten u
 Wir helfen Dir Dich besser zu bewegen. Egal ob Du Schwierigkeiten hast Dich aus dem Liegen hinzusetzen oder das Gefühl hast Dein volles Potenzial im Hochleistungssport nicht abrufen zu können. Physiotherapeuten decken die ganze Bandbreite der Verbesserung von Bewegungsabläufen ab.  
 Auch wenn es "einfach nur weh tut", in Ruhe oder Bewegung, steht Dein Physiotherapeut als erster Ansprechpartner zur Verfügung.  
 2 Minuten reden und dann Schmerzmittel bekommen? Das musst Du beim Physiotherapeuten nicht befürchten. Stattdessen erwartet Dich eine intensive 1-zu-1-Betreuung. Deine Physiotherapeutin begleitet Dich dabei, Deinem Problem auf den Grund zu gehen und entwickelt mit Dir einen umfassenden Plan, um das Beste für Dich herauszuholen und Deine Ziele zu erreichen.  So kannst Du selbst die Kontrolle zurückgewinnen, Deine Potenziale ausschöpfen und Hindernisse aus dem Weg räumen. 
-<div class="halfwidth left"><amp-img  src="/assets/images/blog/Patienteninfo/Laufband1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img></div>
-<div class="halfwidth right"><amp-img  src="/assets/images/blog/Patienteninfo/Seilzug1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img> </div><div class="clearfix"/>  
+<div class="half-width left"><amp-img  src="/assets/images/blog/Patienteninfo/Laufband1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img></div>
+<div class="half-width right"><amp-img  src="/assets/images/blog/Patienteninfo/Seilzug1200x900edited.jpg" width="1200" height="900" layout="responsive"></amp-img> </div><div class="clearfix"/>  
 Die Methoden der Physiotherapie sind enorm vielfältig. So lässt sich auch für Dich ein optimaler Therapieplan zusammenstellen.  
 Im Vordergrund stehen dabei meist
 

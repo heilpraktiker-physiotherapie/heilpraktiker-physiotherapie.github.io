@@ -5,37 +5,47 @@
         "@type": "Course",
         "name": "Fortbildung Heilpraktiker Physiotherapie {{include.event.ort}}",
         "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Physiotherapie",
+        "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
+        "image": [
+            "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
+            "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
+            "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
+        ],
+        "provider": {
+            "@type": "Organization",
+            "name": "heilpraktiker-physiotherapie.com",
+            "sameAs": "https://heilpraktiker-physiotherapie.com",
+            "logo": "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT300.jpg"
+        },
+        "offers": {
+            "@type": "Offer",
+            "category": "Paid",
+            "price": "{{include.event.preis}}",
+            "priceCurrency": "EUR",
+            "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
+            "availability": "http://schema.org/InStock"
+        },
         "hasCourseInstance": [
             {
                 "@type": "CourseInstance",
-                "courseMode": "synchronous",
+                "courseMode": "{{include.event.courseMode}}",
                 "startDate": "{{include.event.startdate}}",
                 "endDate": "{{include.event.enddate}}",
-                "url": "{{include.event.link}}",
                 "location": {
                     "@type": "Place",
                     "name": "{{include.event.ortsbezeichnung}}",
                     "address": "{{include.event.str}}, {{include.event.plz}} {{include.event.ort}}, Germany"
                 },
-                "image":[
-                    "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
-                    "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
-                    "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
-                    
-                ]
-
+                "offers": {
+                    "@type": "Offer",
+                    "category": "Paid",
+                    "price": "{{include.event.preis}}",
+                    "priceCurrency": "EUR",
+                    "url": "{{include.event.enrollmentLink}}",
+                    "availability": "http://schema.org/InStock"
+                },
+                "courseWorkload": "PT64H"
             }
-        ],
-        "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
-        "image":[
-            "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
-            "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
-            "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"  
-        ],
-        "provider": {
-            "@type": "Organization",
-            "name": "heilpraktiker-physiotherapie.com",
-            "sameAs": "https://heilpraktiker-physiotherapie.com"
-        }
+        ]
     }
 }

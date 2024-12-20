@@ -1,453 +1,433 @@
-- datum: 22.01.2022 bis 23.01.2022 und 04.02.2022 bis 07.02.2022
-  startdate: 2022-01-22t09:00
-  enddate: 2022-02-07t18:00 
-  ablauf: Teil 1 am 22.01 und 23.01. wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Vom 04.02. bis 07.02. findet der Unterricht in Würzburg statt.
-  ortsbezeichnung: tbz - Therapeutisches Bildungszentrum Würzburg
-  ort: Würzburg
-  plz: 97080
-  str: Petrinistraße 14-16
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 13.09.2024 bis 15.09.2024 und 02.11.2024 bis 04.11.2024
+  enddate: 2024-11-04t18:00
+  enrollmentLink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  kursnummer: HPPT117c
+  land: Rheinland-Pfalz
+  ort: Monsheim
+  ortsbezeichnung: Fortbildungsakademie Ahlhorn
+  plz: 67590
   preis: 795
-  link: http://pschick-group.de/fortbildungsakademie/anmeldeformular/ 
-  kursnummer: HPPT81
-  elearning: hybrid
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   show: false
-  
-- datum: 22.01.2022 bis 23.01.2022 und 18.02.2022 bis 21.02.2022
-  startdate: 2022-01-22t09:00
-  enddate: 2022-02-21t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark A15
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2F9B87F5-6C62-5972-0147-4C259342BEF9&add-to-cart=12520
-  kursnummer: HPPT82
-  elearning: hybrid
-  show: false
-  
-- datum: 12.02.2022 bis 13.02.2022 und 03.03.2022 bis 06.03.2022
-  startdate: 2022-02-12t09:00
-  enddate: 2022-03-06t18:00
-  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Private Massageschule Inntal
-  ort: Rosenheim
-  plz: 83026
-  str: Klepperstraße 28
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=637795D0-5B97-A207-ED9A-1D12A6072F8D&add-to-cart=12520
-  kursnummer: HPPT83
-  elearning: hybrid
-  show: false
-  
-- datum: 12.03.2022 bis 14.03.2022 und 25.03.2022 bis 27.03.2022
-  startdate: 2022-03-12t12:00
-  enddate: 2022-03-27t18.00
-  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
-  ortsbezeichnung: Bei Dir zuhause ;-)
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT84
-  elearning: true
-  show: false
-  warteliste: true
-  
-- datum: 12.03.2022 bis 13.03.2022 und 06.05.2022 bis 09.05.2022
-  startdate: 2022-03-12t09:00
-  enddate: 2022-05-09t18:00
-  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil des Kurses ist dann in Präsenz vor Ort.
-  ortsbezeichnung: Eva Hüser Physiotherapieschule 
-  ort: Bad Laer
-  plz: 49196
-  str: Remseder Straße 3
-  land: NRW
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=95635C8D-E578-8EC2-18E5-B19E7FEAA1E8&add-to-cart=12520
-  kursnummer: HPPT85
-  elearning: hybrid
-  show: false
-  
-- datum: 13.05.2022 bis 15.05.2022 und 10.06.2022 bis 12.06.2022
-  startdate: 2022-05-13t12:00
-  enddate: 2022-06-12t18.00
-  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
-  ortsbezeichnung: Bei Dir zuhause ;-)
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT86
-  elearning: true
-  show: false
-  
-- datum: 25.06.2022 bis 26.06.2022 und 22.07.2022 bis 25.07.2022
-  startdate: 2022-06-25t09:00
-  enddate: 2022-07-25t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark A15
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT87
-  elearning: hybrid
-  show: false
-  
-- datum: 26.08.2022 bis 28.08.2022 und 16.09.2022 bis 18.09.2022
-  startdate: 2021-08-28t09:00
-  enddate: 2021-09-19t18:00 
-  ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt. Es ist unser einziger vollständiger Präsenzkurs in diesem Jahr.
-  ortsbezeichnung: IFEAS 
-  ort: Stadthagen
-  plz: 31655
-  str: Dorfstraße 2
-  land: Niedersachsen
-  veranstalter: IFEAS
-  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
-  preis: 670
-  link: https://ifeas.javis.de/onlineregistration/415/registration
-  kursnummer: HPPT88
-  show: false
-  elearning: false
-  
-- datum: 10.09.2022 bis 11.09.2022 und 30.09.2022 bis 03.10.2022
-  startdate: 2022-09-10t09:00
-  enddate: 2022-10-03t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark A15
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  http://pschick-group.de/fortbildungsakademie/anmeldeformular/
-  kursnummer: HPPT89
-  elearning: hybrid
-  show: false
- 
-- datum: 10.09.2022 bis 11.09.2022 und 18.11.2022 bis 21.11.2022
-  startdate: 2022-09-10t09:00
-  enddate: 2022-21-07t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: tbz - Therapeutisches Bildungszentrum Würzburg
-  ort: Würzburg
-  plz: 97080
-  str: Petrinistraße 14-16
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=F0B237D6-7B80-751D-9A6A-2DE1BCC6BE00&add-to-cart=12520
-  kursnummer: HPPT90
-  elearning: hybrid
-  show: false
-  
-- datum: 24.09.2022 bis 26.09.2022 und 22.10.2022 bis 24.10.2022
-  startdate: 2022-09-24t09:00
-  enddate: 2022-10-24t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: MediPhys Jena
-  ort: Jena
-  plz: 07743
-  str: Ernst-Abbe-Platz 3-4
-  land: Thüringen
-  veranstalter: MediPhys Jena
-  preislink: https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=622&tx_hfa_pi2%5Bback%5D=298
-  preis: 795
-  link:  https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=622&tx_hfa_pi2%5Bback%5D=298
-  kursnummer: HPPT91
-  elearning: hybrid
-  show: false
-  
-   
-- datum: 24.09.2022 bis 25.09.2022 und 29.10.2022 bis 01.11.2022
-  startdate: 2022-09-24t09:00
-  enddate: 2022-11-01t18:00
-  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Private Massageschule Inntal
-  ort: Rosenheim
-  plz: 83026
-  str: Klepperstraße 28
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=C2F8E2B1-3E78-91BA-3FBB-7D3B33C796C0&add-to-cart=12520
-  kursnummer: HPPT91a
-  elearning: hybrid
-  show: false
-  
-- datum: 14.10.2022 bis 16.10.2022 und 11.11.2022 bis 13.11.2022
-  startdate: 2022-10-14t12:00
-  enddate: 2022-11-13t18.00
-  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Die Rückmeldungen aus anderen Bundesländern stehen noch aus. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür werden wir verschiedene Prüfungsorte über Deutschland verteilt anbieten. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
-  ortsbezeichnung: Bei Dir zuhause ;-)
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT92
-  elearning: true
-  show: false
-  warteliste: true
- 
-- datum: 14.10.2022 bis 16.10.2022 und 09.12.2022 bis 11.12.2022
-  startdate: 2022-10-14t12:00
-  enddate: 2022-12-11t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
-  ort: Düsseldorf
-  plz: 40225
-  str: Moorenstraße 5
-  land: NRW
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  warteliste: false 
-  kursnummer: HPPT93
-  elearning: hybrid
-  show: false
+  startdate: 2024-09-13t12:00
+  str: Carl-Benz-Str. 6
+  veranstalter: Fortbildungsakademie Ahlhorn
+  warteliste: false
 
-- datum: 14.01.2023 bis 15.01.2023 und 10.02.2023 bis 12.02.2023
-  startdate: 2023-14-01t09:00
-  enddate: 2022-21-07t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Vitova Physiotherapie Hochheim
-  ort: Hochheim am Main 
-  plz: 65239 
-  str: 65239 
-  land: Hessen
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 27.09.2024 bis 29.09.2024 und 02.11.2024 bis 04.11.2024
+  enddate: 2024-11-04t18:00
+  enrollmentLink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  kursnummer: HPPT117d
+  land: Rheinland-Pfalz
+  ort: Monsheim
+  ortsbezeichnung: Fortbildungsakademie Ahlhorn
+  plz: 67590
   preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=5E949897-EFE1-7468-A2C7-BB305737639A&add-to-cart=12520
-  kursnummer: HPPT94
-  elearning: hybrid
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   show: false
-  abgesagt: true
-  
-- datum: 21.01.2023 bis 22.01.2023 und 17.02.2023 bis 20.02.2023
-  startdate: 2023-01-21t09:00
-  enddate: 2023-02-20t18:00
-  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Private Massageschule Inntal
-  ort: Rosenheim
-  plz: 83026
-  str: Klepperstraße 28
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=7EB37788-49FE-F737-A43E-519FD59305AA&add-to-cart=12520
-  kursnummer: HPPT95
-  elearning: hybrid
-  show: true
-  
-- datum: 21.01.2023 bis 22.01.2023 und 10.03.2023 bis 13.03.2023
-  startdate: 2023-01-21t09:00
-  enddate: 2023-03-13t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark A15
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=9EF6EE22-72E6-08B2-8E16-6FF16EDAC7C0&add-to-cart=12520
-  kursnummer: HPPT96
-  elearning: hybrid
-  show: true
-  
-- datum: 11.02.2023 bis 12.02.2023 und 17.03.2023 bis 20.03.2023
-  startdate: 2023-02-11t09:00
-  enddate: 2023-03-20t18:00 
-  ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt. Es ist unser einziger vollständiger Präsenzkurs in diesem Jahr.
-  ortsbezeichnung: IFEAS 
-  ort: Stadthagen
-  plz: 31655
-  str: Dorfstraße 2
-  land: Niedersachsen
-  veranstalter: IFEAS
-  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
-  preis: 690
-  link: https://ifeas.javis.de/onlineregistration/504/registration
-  kursnummer: HPPT97
-  show: true
-  elearning: false
-  
-- datum: 03.03.2023 bis 05.03.2023 und 19.05.2023 bis 21.05.2023
-  startdate: 2023-03-03t12:00
-  enddate: 2023-05-21t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Lehrakademie für Physiotherapie
-  ort: Berlin
-  plz: 14052
-  str: Reichsstraße 92a
-  land: Berlin
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 720
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  warteliste: false 
-  kursnummer: HPPT98
-  elearning: hybrid
-  show: true
-  
-- datum: 03.03.2023 bis 05.03.2023 und 21.04.2023 bis 23.04.2023
-  startdate: 2023-03-03t12:00
-  enddate: 2023-04-23t18.00
-  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten ist eine Präsenzprüfung bei uns notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
+  startdate: 2024-09-27t12:00
+  str: Carl-Benz-Str. 6
+  veranstalter: Fortbildungsakademie Ahlhorn
+  warteliste: false
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang ist in NRW, Mecklenburg-Vorpommern und teilweise in Hessen möglich. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In RLP wird ab dem 1.7.24 erwartet das 50% der Fortbildung in Präsenz stattfindet. Dafür einen beliebigen unserer Hybridkurse wählen. In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs.)
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 13.09.2024 bis 15.09.2024 und 22.11.2024 bis 24.11.2024
+  enddate: 2024-11-24t18.00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT121
+  land: ''
+  ort: ''
   ortsbezeichnung: Bei Dir zuhause ;-)
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT99
-  elearning: true
-  show: true
-  
-- datum: 03.03.2023 bis 05.03.2023 und 12.05.2023 bis 14.05.2023
-  startdate: 2023-03-03t12:00
-  enddate: 2023-05-14t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Badhaus Schwarz
-  ort: Wiesbaden
-  plz: 65203
-  str: Rathausstr. 57
-  land: Hessen
-  veranstalter: heilpraktiker-physiotherapie.com
+  plz: ''
   preis: 720
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  warteliste: false 
-  kursnummer: HPPT100
-  elearning: hybrid
-  show: true
-  
-- datum: 17.06.2023 bis 18.06.2023 und 11.08.2023 bis 14.08.2023
-  startdate: 2023-06-17t09:00
-  enddate: 2023-08-14t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  preislink: ''
+  show: false
+  startdate: 2024-09-13t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang ist in NRW, Mecklenburg-Vorpommern und teilweise in Hessen möglich. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In RLP wird ab dem 1.7.24 erwartet das 50% der Fortbildung in Präsenz stattfindet. Dafür einen beliebigen unserer Hybridkurse wählen. In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs.)
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 27.09.2024 bis 29.09.2024 und 22.11.2024 bis 24.11.2024
+  enddate: 2024-11-24t18.00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT121b
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: ''
+  show: false
+  startdate: 2024-09-27t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 27.09.2024 bis 29.09.2024 und 25.10.2024 bis 27.10.2024
+  enddate: 2024-10-27t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
+  kursnummer: HPPT118
+  land: Bayern
+  ort: Rosenheim
+  ortsbezeichnung: Private Massageschule Inntal
+  plz: 83026
+  preis: 795
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  show: false
+  startdate: 2024-09-27t12:00
+  str: Klepperstraße 28
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 27.09.2024 bis 29.09.2024 und 29.11.2024 bis 01.12.2024
+  enddate: 2024-12-01t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520
+  kursnummer: HPPT119
+  land: Bayern
   ort: Regensburg
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   plz: 93059
+  preis: 795
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  show: false
+  startdate: 2024-09-27t12:00
   str: Im Gewerbepark D75
-  land: Bayern
   veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
-  kursnummer: HPPT101
-  elearning: hybrid
-  show: true
-  
-- datum: 17.06.2023 bis 18.06.2023 und 18.08.2023 bis 21.08.2023
-  startdate: 2023-06-17t09:00
-  enddate: 2023-08-21t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ort: Würzburg
-  plz: 97080
-  str: Petrinistraße 14-16
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=68B0AC99-D67E-251F-8CC9-1C4E6BB516BE&add-to-cart=12520
-  kursnummer: HPPT102
-  elearning: hybrid
-  show: true
-  
-- datum: 01.09.2023 bis 03.09.2023 und 20.10.2023 bis 22.10.2023
-  startdate: 2023-09-01t12:00
-  enddate: 2023-10-22t18.00
-  ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist bislang in NRW, RLP und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. 
-  ortsbezeichnung: Bei Dir zuhause ;-)
-  veranstalter: heilpraktiker-physiotherapie.com
-  preis: 690
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT103
-  elearning: true
-  show: true
-    
-- datum: 07.10.2023 bis 08.10.2023 und 27.10.2023 bis 30.10.2023
-  startdate: 2023-10-07t09:00
-  enddate: 2023-11-27t18:00 
-  ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Private Massageschule Inntal
-  ort: Rosenheim
-  plz: 83026
-  str: Klepperstraße 28
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link:  https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=EB3996FD-6AF8-C57E-434C-81B7B8E6E1EA&add-to-cart=12520
-  kursnummer: HPPT104
-  elearning: hybrid
-  show: true
-  
-- datum: 07.10.2023 bis 08.10.2023 und 24.11.2023 bis 27.11.2023
-  startdate: 2023-10-07t09:00
-  enddate: 2023-11-27t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ort: Würzburg
-  plz: 97080
-  str: Petrinistraße 14-16
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
-  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
-  preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
-  kursnummer: HPPT105
-  elearning: hybrid
-  show: true  
-  
-- datum: 11.11.2023 bis 12.11.2023 und 08.12.2023 bis 11.12.2023
-  startdate: 2023-11-11t09:00
-  enddate: 2023-12-11t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: MediPhys Jena
-  ort: Jena
-  plz: 07743
-  str: Ernst-Abbe-Platz 3-4
+
+- ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 27.09.2024 bis 29.09.2024 und 01.11.2023 bis 03.11.2023
+  enddate: 2024-11-03t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=86413ECC-85BA-56F0-3EA2-6EF03F31D258&add-to-cart=12520
+  kursnummer: HPPT120
   land: Thüringen
-  veranstalter: MediPhys Jena
-  preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
+  ort: Jena
+  ortsbezeichnung: MediPhys Jena
+  plz: 4067
   preis: 795
-  link:  https://www.mediphysjena.de/kurse/buchen/?tx_hfa_pi2%5Bcourse%5D=692&tx_hfa_pi2%5Bback%5D=389
-  kursnummer: HPPT106
-  elearning: hybrid
-  show: true
-  
-- datum: 11.11.2023 bis 12.11.2023 und 01.12.2023 bis 04.12.2023
-  startdate: 2023-11-11t09:00
-  enddate: 2023-12-04t18:00 
-  ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
-  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
-  ort: Regensburg
-  plz: 93059
-  str: Im Gewerbepark D75
-  land: Bayern
-  veranstalter: Fortbildungs-Akademie Pschick
   preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  show: false
+  startdate: 2024-27-09t12:00
+  str: Ernst-Abbe-Platz 3-4
+  veranstalter: MediPhys Jena
+
+- ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 08.11.2024 bis 10.11.2024 und 06.12.2024 bis 08.12.2024
+  enddate: 2024-12-08t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=0A4C1AB1-C0E2-9622-4C4D-3111A0829C8C&add-to-cart=12520
+  kursnummer: HPPT123
+  land: Bayern
+  ort: Würzburg
+  ortsbezeichnung: ''
+  plz: 97080
   preis: 795
-  link: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=2C240576-825C-B7E4-1B48-9CC7B1044C54&add-to-cart=12520 
-  kursnummer: HPPT107
-  elearning: hybrid
-  show: false  
+  preislink: https://pschick-group.de/fortbildungsakademie/wp-content/uploads/sites/11/2019/10/Kurzinfo-Sektoraler-Heilpraktiker.pdf
+  show: false
+  startdate: 2024-11-08t12:00
+  str: Petrinistraße 14-16
+  veranstalter: Fortbildungs-Akademie Pschick
   
+- ablauf: Teil 1  wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 08.11.2024 bis 10.11.2024 und 13.12.2024 bis 15.12.2024
+  enddate: 2024-12-15t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT122
+  land: NRW
+  ort: Düsseldorf
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  plz: 40225
+  preis: 795
+  preislink: ''
+  show: false
+  startdate: 2024-11-08t13:00
+  str: Moorenstraße 5
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt.
+  courseMode: Onsite
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 07.02.2025 bis 09.02.2025 und 07.03.2025 bis 09.03.2025
+  enddate: 2025-03-09t18:00
+  enrollmentLink: https://ifeas.javis.de/onlineregistration/597/registration
+  kursnummer: HPPT124
+  land: Niedersachsen
+  ort: Stadthagen
+  ortsbezeichnung: IFEAS
+  plz: 31655
+  preis: 720
+  preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
+  show: true
+  startdate: 2025-02-07t12:00
+  str: Dorfstraße 2
+  veranstalter: IFEAS
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist zur Zeit für NRW und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs).
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 31.01.2025 bis 02.02.2025 und 28.03.2025 bis 30.03.2025
+  enddate: 2025-03-30t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT125
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: ''
+  show: true
+  startdate: 2025-01-31t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 31.01.2025 bis 02.02.2025 und 21.03.2025 bis 23.03.2025
+  enddate: 2025-03-23t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=47B91C3A-7355-D4A7-9AE9-CF8332277663&add-to-cart=12520
+  kursnummer: HPPT126
+  land: Bayern
+  ort: Regensburg
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  plz: 93059
+  preis: 795
+  preislink: 
+  show: true
+  startdate: 2025-01-31t12:00
+  str: Im Gewerbepark D75
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 31.01.2025 bis 02.02.2025 und 04.04.2025 bis 06.04.2025
+  enddate: 2025-04-06t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=FC54070B-3810-3E5E-BD19-DBAAC52C09C1&add-to-cart=12520
+  kursnummer: HPPT127
+  land: Bayern
+  ort: Rosenheim
+  ortsbezeichnung: Private Massageschule Inntal
+  plz: 83026
+  preis: 795
+  preislink: 
+  show: true
+  startdate: 2025-01-31t12:00
+  str: Klepperstraße 28
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist zur Zeit für NRW und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs).
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 14.03.2025 bis 16.03.2025 und 28.03.2025 bis 30.03.2025
+  enddate: 2025-03-30t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT128
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: 
+  show: true
+  startdate: 2025-03-14t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 14.03.2025 bis 16.03.2025 und 16.05.2025 bis 18.05.2025
+  enddate: 2025-05-18t18:00
+  enrollmentLink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  kursnummer: HPPT129
+  land: Rheinland-Pfalz
+  ort: Monsheim
+  ortsbezeichnung: Fortbildungsakademie Ahlhorn
+  plz: 67590
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-03-14t12:00
+  str: Carl-Benz-Str. 6
+  veranstalter: Fortbildungsakademie Ahlhorn
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 14.03.2025 bis 16.03.2025 und 23.05.2025 bis 25.05.2025
+  enddate: 2025-05-25t18:00
+  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=E83C061E-2578-EFD5-5996-475798B5393C&add-to-cart=12520
+  kursnummer: HPPT130
+  land: Bayern
+  ort: Würzburg
+  ortsbezeichnung: ''
+  plz: 97080
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-03-14t12:00
+  str: Petrinistraße 14-16
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist zur Zeit für NRW und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs).
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 09.05.2025 bis 11.05.2025 und 06.06.2025 bis 08.06.2025
+  enddate: 2025-06-08t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT131
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: ''
+  show: true
+  startdate: 2025-05-09t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 09.05.2025 bis 11.05.2025 und 13.06.2025 bis 15.06.2025
+  enddate: 2025-06-15t18:00
+  enrollmentLink: ''
+  kursnummer: HPPT132
+  land: Bayern
+  ort: Regensburg
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  plz: 93059
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-05-09t12:00
+  str: Im Gewerbepark D75
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 10.10.2025 bis 12.10.2025 und 14.11.2025 bis 16.11.2025
+  enddate: 2025-11-16t18:00
+  enrollmentLink: ''
+  kursnummer: HPPT133
+  land: Bayern
+  ort: Rosenheim
+  ortsbezeichnung: Private Massageschule Inntal
+  plz: 83026
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-10-10t12:00
+  str: Klepperstraße 28
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist zur Zeit für NRW und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs).
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 10.10.2025 bis 12.10.2025 und 28.11.2025 bis 30.11.2025
+  enddate: 2025-11-30t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT134
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: ''
+  show: true
+  startdate: 2025-10-10t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist zur Zeit für NRW und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs).
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 07.11.2025 bis 09.11.2025 und 28.11.2025 bis 30.11.2025
+  enddate: 2025-11-30t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT135
+  land: ''
+  ort: ''
+  ortsbezeichnung: Bei Dir zuhause ;-)
+  plz: ''
+  preis: 720
+  preislink: ''
+  show: true
+  startdate: 2025-11-07t12:00
+  str: ''
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 07.11.2025 bis 09.11.2025 und 05.12.2025 bis 07.12.2025
+  enddate: 2025-12-07t18:00
+  enrollmentLink: ''
+  kursnummer: HPPT136
+  land: Bayern
+  ort: Regensburg
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  plz: 93059
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-11-07t12:00
+  str: Im Gewerbepark D75
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 07.11.2025 bis 09.11.2025 und 12.12.2025 bis 14.12.2025
+  enddate: 2025-12-14t18:00
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  kursnummer: HPPT137
+  land: NRW
+  ort: Düsseldorf
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  plz: 40225
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-11-07t12:00
+  str: Moorenstraße 5
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 07.11.2025 bis 09.11.2025 und 19.12.2025 bis 21.12.2025
+  enddate: 2025-12-21t18:00
+  enrollmentLink: ''
+  kursnummer: HPPT138
+  land: Bayern
+  ort: Würzburg
+  ortsbezeichnung: ''
+  plz: 97080
+  preis: 795
+  preislink: ''
+  show: true
+  startdate: 2025-11-07t12:00
+  str: Petrinistraße 14-16
+  veranstalter: Fortbildungs-Akademie Pschick
