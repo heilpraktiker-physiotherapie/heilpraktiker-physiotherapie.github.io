@@ -1,39 +1,23 @@
-- name: Arne Brödel, B.Sc.
+- name: Arne Brödel, M.Sc.
   vorname: Arne
   nachname: Brödel
-  halffaceimg: /assets/images/halfFaceArne.jpg
+  halffaceimg: halfFaceArne
   width: 168
-  beruf: sektoraler Heilpraktiker für Physiotherapie
+  beruf: Sektoraler Heilpraktiker für Physiotherapie
   zitat: Der sektorale Heilpraktiker ist die Chance für alle Physiotherapeuten, sich auf dem Gesundheitsmarkt neu zu positionieren.
   
 - name: Benjamin Alt
   vorname: Benjamin
   nachname: Alt
-  halffaceimg: /assets/images/halfFaceBenjamin.jpg
+  halffaceimg: halfFaceBenjamin
   width: 168
   beruf: Rechtsanwalt, Schwerpunkt Medizinrecht
   zitat: Ich zeige Ihnen die sicheren Pfade für dauerhaften Erfolg als Heilpraktiker Physiotherapie.
 
-- name: Dr. med. Mareike Frank
-  vorname: Mareike
-  nachname: Frank
-  halffaceimg: /assets/images/halfFaceMareike.jpg
-  width: 175
-  beruf: Ärztin
-  zitat: Gemeinsam verbessern wir die Anamnese und Untersuchung als wichtige Grundlagen des physiotherapeutischen Heilpraktikers.
-
-- name: Dr. med. Konstantin Hauß
-  vorname: Konstantin
-  nachname: Hauß
-  halffaceimg: /assets/images/halfFaceKonni.jpg
-  width: 168
-  beruf: Arzt, Allgemeinmediziner
-  zitat: Ich freue mich darauf, gemeinsam mit den Teilnehmern, an den Methoden der klinischen Untersuchung zu arbeiten.
-
 - name: Dr. med. Julia Karpienski
   vorname: Julia
   nachname: Karpienski
-  halffaceimg: /assets/images/halfFaceJulia.jpg
+  halffaceimg: halfFaceJulia
   width: 168
   beruf: Ärztin und Physiotherapeutin
   zitat: Als Ärztin mit physiotherapeutischen Wurzeln, freue ich mich Ihnen weitere Untersuchungstechniken mit auf den Weg zu geben.
@@ -41,7 +25,7 @@
 - name: Dr. med. Karl Busch-Petersen
   vorname: Karl
   nachname: Busch-Petersen
-  halffaceimg: /assets/images/halfFaceKarl.jpg
+  halffaceimg: halfFaceKarl
   width: 176
   beruf: Arzt
   zitat: Die Zusammenarbeit mit Physios war für mich stets eine Bereicherung. Ich freue mich Ihnen Fertigkeiten für eine freiere Tätigkeit mitgeben zu können.

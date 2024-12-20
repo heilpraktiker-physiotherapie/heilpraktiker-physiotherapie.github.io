@@ -3,17 +3,28 @@ layout: default
 customamp:
 - amp-carousel
 - amp-youtube
-- amp-facebook
+- amp-iframe
+
 metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
 ---
-
-<div id="mainheader" class="boxshadow">
-    <h1>Erfolgreich im Direktzugang als Heilpraktiker Physiotherapie</h1>
-    <h2 class="green">Deine Physiotherapie, selbstbestimmt und ohne Umwege. Für therapeutische und
-        betriebswirtschaftliche Freiheit.</h2>
+<div class="spacer remove-on-mobile"></div>
+<div class="mainheader">
+    <h1>Erfolgreich im Direktzugang als Heilpraktiker*in für Physiotherapie
+    <span><br>Deine Physiotherapie, selbstbestimmt und ohne Umwege.</span>
+    </h1>
 </div>
 <div class="clearfix"></div>
 <main>
+    <section class="secondary-color">
+        <div class="spacer remove-on-mobile"></div>
+        <div id="welcometext" class="post textaligncenter">
+            <article>
+                Seit 2014 durften wir schon weit über eintausend Physiotherapeut*innen aus ganz Deutschland mit Freude, Engagement und Expertise zur sektoralen Heilpraktikererlaubnis und einer sicheren Berufsausübung im Direktzugang begleiten.
+                <br>
+                <strong>Gut, dass Du uns gefunden hast!</strong>
+            </article>
+        </div>
+    </section>
     <section>
         <amp-carousel id="mainDozentenCarousel" class="dozentencarousel" width="852" height="400" layout="responsive"
             type="slides" autoplay delay="7000">
@@ -23,8 +34,16 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
                 <div class="imagewrapper" style="width: {{picwidth}}%">
                     <amp-img class="carousel-halffaceimg"
                         alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
-                        src="{{dozent.halffaceimg}}" width="{{dozent.width}}" height="400"
-                        layout="responsive"></amp-img>
+                        src="/assets/images/webP/{{dozent.halffaceimg}}.webp" width="{{dozent.width}}" height="400"
+                        layout="responsive">
+                        <amp-img
+                        alt="{{dozent.name}}, {{dozent.beruf}}, Dozent in der Fortbildung sektoraler Heilpraktiker Physiotherapie}}"
+                        fallback
+                        width="{{dozent.width}}"
+                        height="400"
+                        src="/assets/images/fallbackJPGs/{{dozent.halffaceimg}}.jpg"
+                      >
+                      </amp-img></amp-img>
                 </div>
                 <div class="dozenttext" style="width: {{99 | minus: picwidth}}%">
                     <div class="dozentquote">
@@ -37,172 +56,184 @@ metatitle: Fortbildung sektoraler Heilpraktiker Physiotherapie
             </div>
             {% endfor %}
         </amp-carousel>
-
+        <section class="green button">
+            <div class="textaligncenter">
+                <a class="standardbutton text-white" href="{{site.baseurl}}/termine-und-anmeldung/">
+                    <h2>Buche jetzt Deine Fortbildung</h2>
+                </a>
+            </div>
+        </section>
 
     </section>
-    <section class="lightgrey fontalt fullwidthtextbar">
-
-        <div class="welcometext post">
+    <section class="secondary-color">
+        <div class="spacer"></div>
+        <div class="post textaligncenter">
             <article>
-                <strong>Schön, dass Du uns gefunden hast</strong>
-                <br>und damit die umfassendste Quelle für Informationen zum
-                <h3> sektoralen Heilpraktiker für Physiotherapie </h3> und das hingabevollste Team für die
-                <h3> Fortbildung zur Anerkennung nach Aktenlage.</h3>
-                <br>
-                <br>Schon mehrere hundert Physiotherapeuten und Physiotherapeutinnen aus ganz Deutschland, konnten mit
-                unserem Engagement erfolgreich in den Direktzugang starten.
-                <br>
+            Egal ob die Fortbildung vollständig online, in Präsenz oder als Hybrid-Veranstaltung absolviert wurde, unsere Teilnehmenden zeigen sich begeistert, was sich auch in den vielen 5-Sterne Google-Bewertungen wiederspiegelt.
             </article>
         </div>
+        <div class="spacer"></div>
+    </section>
+    <section style="margin: auto;">
+        <amp-img id="ReviewImage"
+            alt="Ein Bild welches Kundenbewertungen darstellt. Wenn es angeklickt werden alle aktuellen Kundenbewertungen von Google geöffnet."
+            role="button"
+            tabindex="0"
+            layout="responsive"
+            src="{{site.baseurl}}/assets/images/webP/ReviewsPlaceholder.webp" 
+            on="tap:elfsight_widget.show, ReviewImage.hide"
+            width="846" height="351">
+        </amp-img>
+        <amp-iframe
+            id="elfsight_widget"
+            class="elfsight_widget"
+            width="600"
+            height="340"
+            layout="responsive"
+            sandbox="allow-scripts allow-same-origin"
+            frameborder="0"
+            hidden 
+            src="https://d958d1a13eca433fbf51ac8fdfbdcc6c.elf.site">
+            <amp-img placeholder src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" layout="fill" alt="placeholder"></amp-img>
+        </amp-iframe>
     </section>
     <section>
-        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-        <div class="elfsight-app-d958d1a1-3eca-433f-bf51-ac8fdfbdcc6c"></div>
-        <br>
-        <br>
-    </section>
-    <section class="lightgrey fontalt fullwidthtextbar">
-        <div class="welcometext post">
+        <div class="spacer"></div>
+        <div class="post textaligncenter">
             <article>
-                Auch Du kannst Dich hoffentlich bald dazu zählen. Diese Entscheidung wird Deinen Berufsalltag verändern.
-                <br>
-                <br>Unsere Kurse in Präsenz, Online oder auch "Hybrid" findest Du unter <a
-                    href="{{site.baseurl}}/termine-und-anmeldung/">Termine und Anmeldung</a>
+                <strong>Auch Du kannst Dich hoffentlich bald dazu zählen.</strong>
+                <br>Diese Entscheidung wird Deinen Berufsalltag verändern.
             </article>
         </div>
+        <div class="spacer"></div>
     </section>
-    <section class="green button fullwidthtextbar">
-        <div class="textaligncenter">
-            <a class="standardbutton textcolorwhite" href="{{site.baseurl}}/termine-und-anmeldung/">
-                <h2>Buche jetzt Deine Fortbildung</h2>
-            </a>
-        </div>
-    </section>
-    <section>
-        <br />
+
+    <section class="post">
         <h3>Ein kleiner Eindruck unserer Fortbildung zum Heilpraktiker für Physiotherapie</h3>
         <br />
-        <span>mit einigen Sequenzen aus unseren Unterricht in Präsenz, aber auch online als Webinar</span>
+        <span>mit einigen Sequenzen aus unserem Unterricht in Präsenz, aber auch online als Webinar</span>
         <br>
         <br>
-        <amp-youtube data-videoid="3Em8LPI3aEw" layout="responsive" width="1280" height="720">
-        </amp-youtube>
-    </section>
-    <section>
-        <br/>
-        <!--
-        <h3>Deine Ziele für 2024 sofort angehen: Starte noch im Januar Deinen Weg in den Direktzugang</h3>
-        <a  href="https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/" target="_blank">
-            <div>
-                <amp-img src="/assets/images/IFEASFacebookLandscape.jpg" width="1200" height="630" layout="responsive" alt="Fortbildung Heilpraktiker Physiotherie Stadthagen-Niedersachsen"></amp-img>
-            </div>
-        </a>
-        
-        <br/>
-        <span>Nachdem zuletzt die meisten Fortbildungen früh ausgebucht waren, besteht nun die Möglichkeit noch kurzfristig einen Platz zu bekommen.<br/>
-        Dabei ist unsere Fortbildung in Stadthagen-Niedersachsen wirklich etwas besonderes. Der zurzeit einzige Kurs der vollständig in Präsenz stattfindet, und das an einem der schönsten Fortbildungszentren in Deutschland, IFEAS auf dem Reit- und Therapiehof Steffan.</span>
-    </section>
-    <section class="green button fullwidthtextbar">
-        <div class="textaligncenter">
-            <a class="standardbutton textcolorwhite" href="https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/" target="_blank">
-                <h2>Fortbildung in Stadthagen buchen</h2>
-            </a>
-        </div>
-    </section>
-    -->
-    <section>
-        <br />
-        <h3>Wähle Deinen nächsten Schritt zum Heilpraktiker für Physiotherapie</h3>
+        <amp-img id="YoutubeVorschauImage"
+        role="button"
+        tabindex="0"
+        alt="Video Eindruck der Fortbildung. Klick auf das Bild um ein YouTube Video zu laden."
+        src="{{site.baseurl}}/assets/images/webP/YoutubeVorschau.webp" width="1000" height="563"
+        layout="responsive" 
+        on="tap:YoutubeImpressionVid.show, YoutubeVorschauImage.hide">
+            <amp-img
+            alt="Video Eindruck der Fortbildung"
+            role="button"
+            tabindex="0"
+            fallback
+            width="500"
+            height="282"
+            src="{{site.baseurl}}/assets/images/fallbackJPGs/YoutubeVorschau.jpg"
+            layout="responsive" 
+            on="tap:YoutubeImpressionVid.show, YoutubeVorschauImage.hide">
+            </amp-img>
+        </amp-img>
 
-        <div id="AuswahlSection">
-            <a href="{{site.baseurl}}/termine-und-anmeldung/" class="blue hoveropacity standardbutton">
-                <h3>Ich will den Direkt<wbr/>zugang als HP Physio!</h3> <br /><strong>Wann und wo geht es los?</strong>
+        <amp-youtube id="YoutubeImpressionVid" data-videoid="3Em8LPI3aEw" layout="responsive" width="1200" height="675" credentials="omit" hidden>
+            <amp-img placeholder src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" layout="fill" alt="placeholder"></amp-img>
+        </amp-youtube>
+            
+    </section>
+    <section class="green button">
+        <div class="textaligncenter">
+            <a class="standardbutton text-white" href="{{site.baseurl}}/termine-und-anmeldung/">
+                <h2>Buche jetzt Deine Fortbildung</h2>
             </a>
-            <a href="{{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/"
-                class="green hoveropacity standardbutton">mehr Informationen zur Fortbildung</a>
-            <a href="{{site.baseurl}}/voraussetzungen-und-anerkennung/" class="midgrey hoveropacity standardbutton">mehr
-                Informationen zu Voraus<wbr/>setzungen und Anerkennung </a>
-            <a href="{{site.baseurl}}/was-ist-ein-heilpraktiker-physiotherapie/"
-                class="red hoveropacity standardbutton">mehr Informationen zum HP Physio</a>
         </div>
     </section>
     <section id="shortintros">
         <h2>Die wichtigsten Informationen zum Heilpraktiker für Physiotherapie zusammengefasst</h2>
 
-        <article class="lightgrey fullwidthtextbar">
+        <article class="secondary-color">
             <h3>Kurstermine</h3>
+            <span>
             Unsere Fortbildung zum sektoralen Heilpraktiker für Physiotherapie findet wechselnd in verschiedenen Städten
             und Bundesländern statt (z.B. Düsseldorf-NRW, Wiesbaden-Hessen, Regensburg-Bayern, Stadthagen-Niedersachsen,
             Jena-Thüringen, Berlin).<br />
             <blockquote>Erfahre mehr zu den Terminen und Kursorten unter <a
-                    href="{{site.baseurl}}/termine-und-anmeldung/">Termine</a></blockquote>
+                    href="{{site.baseurl}}/termine-und-anmeldung/" class="box-link">Termine</a></blockquote>
+            </span>
         </article>
 
         <article>
             <h3>Anerkennung nach Aktenlage</h3>
+            <span>
             Unterwegs sind wir bislang vor allem in NRW, Niedersachsen, Hessen, Rheinland-Pfalz und Bayern.<br />
             Eine Anerkennung unserer Fortbildung und damit die Erlaubniserteilung nach Aktenlage, ist aber auch in den
-            meisten anderen Bundesländern wie z.B. in Brandenburg, Mecklenburg-Vorpommern oder Berlin entsprechend der
-            dort gültigen Verwaltungsvorschrift möglich. <br />
+            meisten anderen Bundesländern, wie z.B. in Brandenburg, Mecklenburg-Vorpommern oder Berlin, entsprechend der
+            dort gültigen Verwaltungsvorschrift möglich. <br /> In anderen Bundesländern wie Thüringen, Baden-Württemberg oder Schleswig-Holstein wird nur sehr selten nach Aktenlage entschieden und meist eine zusätzliche mündliche Prüfung beim Gesundheitsamt verlangt. Aber auch darauf bist Du mit unserer Fortbildung bestmöglich vorbereitet. 
             <blockquote>Mehr zu den Voraussetzungen zur Anerkennung nach Aktenlage findest Du unter <a
-                    href="{{site.baseurl}}/voraussetzungen-und-anerkennung/">Voraussetzungen</a>.</blockquote>
+                    href="{{site.baseurl}}/voraussetzungen-und-anerkennung/" class="box-link">Voraussetzungen</a>.</blockquote>
+            </span>
         </article>
 
-        <article class="lightgrey fullwidthtextbar">
+        <article class="secondary-color">
             <h3>Die Fortbildung zum Heilpraktiker Physiotherapie</h3>
+            <span>
             Die Fortbildung zum <em>HP Physio</em> ist mit insgesamt 2 mal 3 Tagen Umfang recht überschaubar.<br />
             Diese Zeit wird dafür von uns umso intensiver genutzt. <br />
-            Schon vorab werden wir Dich mit entsprechenden Lernmaterialen ausstatten, um Dich optimal vorbereiten zu
+            Schon vorab werden wir Dich mit entsprechenden Lernmaterialien ausstatten, um Dich optimal vorbereiten zu
             können.<br />
-            Dazu dienen unsere Skripte, multimediale Sequenzen und weitere informative Hand-outs im Kurs.<br />
+            Dazu dienen unsere Skripte, multimediale Sequenzen und weitere informative Handouts im Kurs.<br />
             So sollen alle zukünftigen <em>Heilpraktiker Physiotherapie</em> nicht nur auf die Prüfung, sondern vor
             allem auch auf die erfolgreiche Praxis im Direktzugang vorbereitet werden.<br />
-            <blockquote>Wenn Du mehr Überzeugung brauchst, um uns Dein Vertrauen für die Fortbildung zu geben findest Du
+            <blockquote>Wenn Du mehr Überzeugung brauchst, um uns Dein Vertrauen für die Fortbildung zu geben, findest Du
                 hierzu weitere Infos unter <a
-                    href="{{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/">Fortbildung</a>.</blockquote>
+                    href="{{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/" class="box-link">Fortbildung</a>.</blockquote>
+            </span>
         </article>
 
         <article>
             <h3>Was ist ein Heilpraktiker für Physiotherapie?</h3>
-            Der sektorale Heilpraktiker für Physiotherapie ist eine riesen Chance für alle Physios, die sich mehr
+            <span>
+            Der sektorale Heilpraktiker für Physiotherapie ist eine riesengroße Chance für alle Physios, die sich mehr
             Eigenständigkeit und Selbstbestimmung wünschen.<br />
             Die Physiotherapie ist eine äußerst wichtige Säule in der Versorgung von Patienten mit Beschwerden am
             Bewegungsapparat und vielen weiteren Einschränkungen und Leiden. <br />
-            Durch die strikte Weisungsgebundenheit an den Arzt, wird das Potential aber enorm beschnitten.<br />
+            Durch die strikte Weisungsgebundenheit an den Arzt wird das Potential aber enorm beschnitten.<br />
             Der <em>HP Physio</em> ist dieser Einschränkung kaum noch ausgesetzt.<br />
             Jeder Patient kann so direkt zum Physiotherapeut gehen und sich den "Umweg" über den Arzt sparen.<br />
             Therapeut und Patient können sich direkt einig werden über Maßnahmen, Umfang, Frequenz und auch Kosten der
             Therapie. Dies kann eine wesentliche Bereicherung der Arbeit als Physiotherapeut sein.<br />
             <blockquote>Wenn Du mehr Informationen zum <em>Heilpraktiker Physiotherapie</em> im Allgemeinen haben
                 möchtest und mehr zu den Vorteilen, Chancen aber auch neuen Aufgaben erfahren möchtest, klick einfach
-                auf <a href="{{site.baseurl}}/was-ist-ein-heilpraktiker-physiotherapie/">Infos zum HP Physio</a>.
+                auf <a href="{{site.baseurl}}/was-ist-ein-heilpraktiker-physiotherapie/" class="box-link">Infos zum HP Physio</a>.
             </blockquote>
+            </span>
         </article>
 
-        <article class="lightgrey fullwidthtextbar">
+        <article class="secondary-color">
             <h3>Wenn Du Fragen hast, helfen wir gerne</h3>
-            Dein Erfolg und Deine Zufriedenheit liegt uns wirklich am Herzen.<br />
+            <span>Dein Erfolg und Deine Zufriedenheit liegt uns wirklich am Herzen.<br />
             Wenn Du vor Deiner Entscheidung zu uns zukommen Fragen hast, dann kontaktiere uns wann immer es Dir
             beliebt.<br />
             Arne übernimmt den größten Teil der Kommunikation mit Dir. Erreichbar über Facebook, Twitter und Co. aber
-            natürlich auch telefonisch und am aller besten per Email, kannst Du immer auf schnelle und verlässliche
+            natürlich auch telefonisch und am aller besten per E-Mail, kannst Du immer auf schnelle und verlässliche
             Information zum <em>Heilpraktiker Physiotherapie</em>, unserer Fortbildung und der Anerkennung nach
             Aktenlage zählen.<br />
-            <blockquote>Die besten Wege uns zu erreichen, findest Du unter <a
-                    href="{{site.baseurl}}/kontakt/">Kontakt</a>.</blockquote>
+            <blockquote>Die besten Wege um uns zu erreichen, findest Du unter <a
+                    href="{{site.baseurl}}/kontakt/" class="box-link">Kontakt</a>.</blockquote>
+            </span>
         </article>
 
         <article>
             <h3>Spannende Artikel in unserem Blog</h3>
-            Es gibt wirklich viel spannendes zu Erfahren zum <em>Heilpraktiker Physiotherapie</em> und dem
+            <span>
+            Es gibt wirklich viel Spannendes zu Erfahren zum <em>Heilpraktiker Physiotherapie</em> und dem
             Direktzugang.<br /> Das wirst Du in der Fortbildung erleben. Aber auch darüber hinaus, ist es uns ein
             Anliegen, einen Beitrag zu leisten zu bestmöglicher Qualität der Physiotherapie, vor allem im
             Direktzugang.<br />
             Daher soll sich auch unser Blog immer mehr füllen, mit spannenden Artikeln zu nationalen und internationalen
             Entwicklungen und Erkenntnissen in der Physiotherapie.<br />
             <blockquote>Schau doch einfach öfter mal vorbei in unserm Blog, den Du hier findest unter <a
-                    href="{{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/">Blog</a>.
+                    href="{{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/" class="box-link">Blog</a>.
             </blockquote>
+            </span>
         </article>
     </section>
 </main>
