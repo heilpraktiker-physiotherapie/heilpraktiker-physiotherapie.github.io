@@ -203,14 +203,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 31.01.2025 bis 02.02.2025 und 21.03.2025 bis 23.03.2025
   enddate: 2025-03-23t18:00
-  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=47B91C3A-7355-D4A7-9AE9-CF8332277663&add-to-cart=12520
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=55
   kursnummer: HPPT126
   land: Bayern
   ort: Regensburg
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   plz: 93059
   preis: 795
-  preislink: 
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=55
   show: true
   startdate: 2025-01-31t12:00
   str: Im Gewerbepark D75
@@ -221,14 +221,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 31.01.2025 bis 02.02.2025 und 04.04.2025 bis 06.04.2025
   enddate: 2025-04-06t18:00
-  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=FC54070B-3810-3E5E-BD19-DBAAC52C09C1&add-to-cart=12520
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=59
   kursnummer: HPPT127
   land: Bayern
   ort: Rosenheim
   ortsbezeichnung: Private Massageschule Inntal
   plz: 83026
   preis: 795
-  preislink: 
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=59
   show: true
   startdate: 2025-01-31t12:00
   str: Klepperstraße 28
@@ -264,7 +264,7 @@
   ortsbezeichnung: Fortbildungsakademie Ahlhorn
   plz: 67590
   preis: 795
-  preislink: ''
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
   show: true
   startdate: 2025-03-14t12:00
   str: Carl-Benz-Str. 6
@@ -275,14 +275,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 14.03.2025 bis 16.03.2025 und 23.05.2025 bis 25.05.2025
   enddate: 2025-05-25t18:00
-  enrollmentLink: https://pschick-group.de/fortbildungsakademie/warenkorb/?enroll-course=12520&event=E83C061E-2578-EFD5-5996-475798B5393C&add-to-cart=12520
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=40
   kursnummer: HPPT130
   land: Bayern
   ort: Würzburg
-  ortsbezeichnung: ''
+  ortsbezeichnung: TBZ Würzburg
   plz: 97080
   preis: 795
-  preislink: ''
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=40
   show: true
   startdate: 2025-03-14t12:00
   str: Petrinistraße 14-16
@@ -311,17 +311,35 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 09.05.2025 bis 11.05.2025 und 13.06.2025 bis 15.06.2025
   enddate: 2025-06-15t18:00
-  enrollmentLink: ''
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=60
   kursnummer: HPPT132
   land: Bayern
   ort: Regensburg
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   plz: 93059
   preis: 795
-  preislink: ''
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=60
   show: true
   startdate: 2025-05-09t12:00
   str: Im Gewerbepark D75
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Bad Laer statt.
+  courseMode: Onsite
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 05.09.2025 bis 07.09.2025 und 03.10.2025 bis 05.10.2025
+  enddate: 2025-10-05t18:00
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=71
+  kursnummer: HPPT133
+  land: Niedersachsen
+  ort: Bad Laer
+  ortsbezeichnung: Eva Hüser Schule
+  plz: 49196
+  preis: 795
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=71
+  show: true
+  startdate: 2025-09-05t12:00
+  str: Remseder Str. 3
   veranstalter: Fortbildungs-Akademie Pschick
 
 - ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
@@ -329,14 +347,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 10.10.2025 bis 12.10.2025 und 14.11.2025 bis 16.11.2025
   enddate: 2025-11-16t18:00
-  enrollmentLink: ''
-  kursnummer: HPPT133
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=64
+  kursnummer: HPPT134
   land: Bayern
   ort: Rosenheim
   ortsbezeichnung: Private Massageschule Inntal
   plz: 83026
   preis: 795
-  preislink: ''
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=64
   show: true
   startdate: 2025-10-10t12:00
   str: Klepperstraße 28
@@ -348,7 +366,7 @@
   datum: 10.10.2025 bis 12.10.2025 und 28.11.2025 bis 30.11.2025
   enddate: 2025-11-30t18:00
   enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT134
+  kursnummer: HPPT135
   land: ''
   ort: ''
   ortsbezeichnung: Bei Dir zuhause ;-)
@@ -366,7 +384,7 @@
   datum: 07.11.2025 bis 09.11.2025 und 28.11.2025 bis 30.11.2025
   enddate: 2025-11-30t18:00
   enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT135
+  kursnummer: HPPT136
   land: ''
   ort: ''
   ortsbezeichnung: Bei Dir zuhause ;-)
@@ -383,14 +401,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 07.11.2025 bis 09.11.2025 und 05.12.2025 bis 07.12.2025
   enddate: 2025-12-07t18:00
-  enrollmentLink: ''
-  kursnummer: HPPT136
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=63
+  kursnummer: HPPT137
   land: Bayern
   ort: Regensburg
   ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
   plz: 93059
   preis: 795
-  preislink: ''
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=63
   show: true
   startdate: 2025-11-07t12:00
   str: Im Gewerbepark D75
@@ -402,7 +420,7 @@
   datum: 07.11.2025 bis 09.11.2025 und 12.12.2025 bis 14.12.2025
   enddate: 2025-12-14t18:00
   enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT137
+  kursnummer: HPPT138
   land: NRW
   ort: Düsseldorf
   ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
@@ -419,14 +437,14 @@
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 07.11.2025 bis 09.11.2025 und 19.12.2025 bis 21.12.2025
   enddate: 2025-12-21t18:00
-  enrollmentLink: ''
-  kursnummer: HPPT138
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=62
+  kursnummer: HPPT139
   land: Bayern
   ort: Würzburg
   ortsbezeichnung: ''
   plz: 97080
   preis: 795
-  preislink: ''
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=62
   show: true
   startdate: 2025-11-07t12:00
   str: Petrinistraße 14-16
