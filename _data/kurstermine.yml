@@ -360,6 +360,24 @@
   str: Klepperstraße 28
   veranstalter: Fortbildungs-Akademie Pschick
 
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 10.10.2025 bis 12.10.2025 und 31.10.2025 bis 02.11.2025
+  enddate: 2025-11-02t18:00
+  enrollmentLink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=64
+  kursnummer: HPPT134b
+  land: Thüringen
+  ort: Jena
+  ortsbezeichnung: MediPhys Jena
+  plz: 07743
+  preis: 795
+  preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
+  show: true
+  startdate: 2025-10-10t12:00
+  str: Ernst-Abbe-Platz 3-4
+  veranstalter: MediPhys Jena Gbr
+
 - ablauf: Der komplette Kurs wird online unterrichtet. Du kannst es Dir also zuhause gemütlich machen. Die Abschlussprüfung kann in Präsenz oder online schriftlich durchgeführt werden. Die Anerkennung der Onlineprüfung ist zur Zeit für NRW und Mecklenburg-Vorpommern bestätigt. Ansonsten wäre eine Präsenzprüfung notwendig. Dafür kommen verschiedene Standorte in Deutschland in Frage, welche wir am Bedarf der Teilnehmer*innen orientiert aussuchen werden. (In Niedersachsen wird eine Fortbildung in Präsenz verlangt. Bucht dafür unseren Kurs in Stadthagen. In RLP muss die Hälfte des Kurses in Präsenz erfolgen. Bucht dafür einen beliebigen Blended-Kurs).
   courseMode: Online
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
