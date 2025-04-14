@@ -175,7 +175,7 @@
   plz: 31655
   preis: 720
   preislink: https://www.ifeas.de/fortbildungen/physiotherapie/sektoraler-heilpraktiker-physiotherapie/
-  show: true
+  show: false
   startdate: 2025-02-07t12:00
   str: Dorfstraße 2
   veranstalter: IFEAS
@@ -193,7 +193,7 @@
   plz: ''
   preis: 720
   preislink: ''
-  show: true
+  show: false
   startdate: 2025-01-31t12:00
   str: ''
   veranstalter: heilpraktiker-physiotherapie.com
@@ -211,7 +211,7 @@
   plz: 93059
   preis: 795
   preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=55
-  show: true
+  show: false
   startdate: 2025-01-31t12:00
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
@@ -229,7 +229,7 @@
   plz: 83026
   preis: 795
   preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=59
-  show: true
+  show: false
   startdate: 2025-01-31t12:00
   str: Klepperstraße 28
   veranstalter: Fortbildungs-Akademie Pschick
@@ -247,7 +247,7 @@
   plz: ''
   preis: 720
   preislink: 
-  show: true
+  show: false
   startdate: 2025-03-14t12:00
   str: ''
   veranstalter: heilpraktiker-physiotherapie.com
