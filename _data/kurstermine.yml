@@ -477,7 +477,7 @@
   kursnummer: HPPT139
   land: Bayern
   ort: Würzburg
-  ortsbezeichnung: ''
+  ortsbezeichnung: A&G Akademie Würzburg (TBZ)
   plz: 97080
   preis: 895
   preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=62
@@ -485,3 +485,238 @@
   startdate: 2025-11-07t12:00
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 23.01.2026 bis 25.01.2026 und 13.02.2026 bis 15.02.2026
+  startdate: 2026-01-23T12:00
+  enddate: 2026-02-15T18:00
+  kursnummer: HPPT140
+  enrollmentLink: 
+  land: Bayern
+  ort: Regensburg
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  plz: 93059
+  preis: 895
+  preislink: 
+  show: true
+  str: Im Gewerbepark D75
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 23.01.2026 bis 25.01.2026 und 27.02.2026 bis 01.03.2026
+  startdate: 2026-01-23T12:00
+  enddate: 2026-03-01T18:00
+  kursnummer: HPPT141
+  enrollmentLink: 
+  land: Bayern
+  ort: Rosenheim
+  ortsbezeichnung: Pschick Group Schule
+  plz: 83026
+  preis: 895
+  preislink: 
+  show: true
+  str: Klepperstraße 28
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet online statt.
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 23.01.2026 bis 25.01.2026 und 20.03.2026 bis 22.03.2026
+  startdate: 2026-01-23T12:00
+  enddate: 2026-03-22T18:00
+  kursnummer: HPPT142
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  land: 
+  ort: Online
+  ortsbezeichnung: Bei dir zuhause;-)
+  plz: 
+  preis: 795
+  preislink: 
+  show: true
+  str: 
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet online statt.
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 06.03.2026 bis 08.03.2026 und 20.03.2026 bis 22.03.2026
+  startdate: 2026-03-06T12:00
+  enddate: 2026-03-22T18:00
+  kursnummer: HPPT143
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  land: 
+  ort: Online
+  ortsbezeichnung: Bei dir zuhause;-)
+  plz: 
+  preis: 795
+  preislink: 
+  show: true
+  str: 
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 06.03.2026 bis 08.03.2026 und 17.04.2026 bis 19.04.2026
+  startdate: 2026-03-06T12:00
+  enddate: 2026-04-19T18:00
+  kursnummer: HPPT144
+  enrollmentLink: 
+  land: Rheinland-Pfalz
+  ort: Monsheim
+  ortsbezeichnung: Fortbildungsakademie Ahlhorn
+  plz: 67590
+  preis: 895
+  preislink: https://www.fobi-ahlhorn.de/fortbildungen/sektoraler-heilpraktiker-f%C3%BCr-physiotherapie/
+  show: true
+  str: Carl-Benz-Str. 6
+  veranstalter: Fortbildungsakademie Ahlhorn
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 08.05.2026 bis 10.05.2026 und 29.05.2026 bis 31.05.2026
+  startdate: 2026-05-08T12:00
+  enddate: 2026-05-31T18:00
+  kursnummer: HPPT145
+  enrollmentLink: 
+  land: Bayern
+  ort: Würzburg
+  ortsbezeichnung: A&G Akademie Würzburg (TBZ)
+  plz: 97080
+  preis: 895
+  preislink: 
+  show: true
+  str: Petrinistraße 14-16
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 08.05.2026 bis 10.05.2026 und 05.06.2026 bis 07.06.2026
+  startdate: 2026-05-08T12:00
+  enddate: 2026-06-07T18:00
+  kursnummer: HPPT146
+  enrollmentLink: 
+  land: Thüringen
+  ort: Jena
+  ortsbezeichnung: MediPhys Jena
+  plz: 07743
+  preis: 895
+  preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
+  show: true
+  str: Ernst-Abbe-Platz 3-4
+  veranstalter: MediPhys Jena Gbr
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 08.05.2026 bis 10.05.2026 und 12.06.2026 bis 14.06.2026
+  startdate: 2026-05-08T12:00
+  enddate: 2026-06-14T18:00
+  kursnummer: HPPT147
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  land: NRW
+  ort: Düsseldorf
+  ortsbezeichnung: Schule für Physiotherapie UK Düsseldorf
+  plz: 40225
+  preis: 795
+  preislink: 
+  show: true
+  str: Moorenstraße 5
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Bad Laer statt.
+  courseMode: Onsite
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 15.05.2026 bis 17.05.2026 und 19.06.2026 bis 21.06.2026
+  startdate: 2026-05-15T12:00
+  enddate: 2026-06-21T18:00
+  kursnummer: HPPT148
+  enrollmentLink: 
+  land: Niedersachsen
+  ort: Bad Laer
+  ortsbezeichnung: Eva Hüser Schule
+  plz: 49196
+  preis: 895
+  preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=71
+  show: true
+  str: Remseder Str. 3
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 09.10.2026 bis 11.10.2026 und 27.11.2026 bis 29.11.2026
+  startdate: 2026-10-09T12:00
+  enddate: 2026-11-29T18:00
+  kursnummer: HPPT149
+  enrollmentLink: 
+  land: Bayern
+  ort: Würzburg
+  ortsbezeichnung: A&G Akademie Würzburg (TBZ)
+  plz: 97080
+  preis: 895
+  preislink: 
+  show: true
+  str: Petrinistraße 14-16
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet online statt.
+  courseMode: Online
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 09.10.2026 bis 11.10.2026 und 20.11.2026 bis 22.11.2026
+  startdate: 2026-10-09T12:00
+  enddate: 2026-11-22T18:00
+  kursnummer: HPPT150
+  enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
+  land: 
+  ort: Online
+  ortsbezeichnung: Bei dir zuhause;-)
+  plz: 
+  preis: 795
+  preislink: 
+  show: true
+  str: 
+  veranstalter: heilpraktiker-physiotherapie.com
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 06.11.2026 bis 08.11.2026 und 04.12.2026 bis 06.12.2026
+  startdate: 2026-11-06T12:00
+  enddate: 2026-12-06T18:00
+  kursnummer: HPPT151
+  enrollmentLink: 
+  land: Bayern
+  ort: Rosenheim
+  ortsbezeichnung: Pschick Group Schule
+  plz: 83026
+  preis: 895
+  preislink: 
+  show: true
+  str: Klepperstraße 28
+  veranstalter: Fortbildungs-Akademie Pschick
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 06.11.2026 bis 08.11.2026 und 11.12.2026 bis 13.12.2026
+  startdate: 2026-11-06T12:00
+  enddate: 2026-12-13T18:00
+  kursnummer: HPPT152
+  enrollmentLink: 
+  land: Bayern
+  ort: Regensburg
+  ortsbezeichnung: Fortbildungsakademie - Markus Pschick GmbH
+  plz: 93059
+  preis: 895
+  preislink: 
+  show: true
+  str: Im Gewerbepark D75
+  veranstalter: Fortbildungs-Akademie Pschick
+
