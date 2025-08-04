@@ -191,7 +191,7 @@
   plz: 49196
   preis: 895
   preislink: https://pschick-group.simplyorg-seminare.de/qualification-details?qualification_id=71
-  show: true
+  show: false
   startdate: 2025-09-05t12:00
   str: Remseder Str. 3
   veranstalter: Fortbildungs-Akademie Pschick
@@ -336,7 +336,7 @@
   plz: 93059
   preis: 895
   preislink: 
-  show: false
+  show: true
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
 
@@ -354,7 +354,7 @@
   plz: 83026
   preis: 895
   preislink: 
-  show: false
+  show: true
   str: Klepperstraße 28
   veranstalter: Fortbildungs-Akademie Pschick
 
@@ -426,7 +426,7 @@
   plz: 97080
   preis: 895
   preislink: 
-  show: false
+  show: true
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
 
@@ -444,7 +444,7 @@
   plz: 07743
   preis: 895
   preislink: https://www.mediphysjena.de/kurse/sektoraler-heilpraktiker-fuer-physiotherapie/
-  show: false
+  show: true
   str: Ernst-Abbe-Platz 3-4
   veranstalter: MediPhys Jena Gbr
 
@@ -498,7 +498,7 @@
   plz: 97080
   preis: 895
   preislink: 
-  show: false
+  show: true
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
 
@@ -534,7 +534,7 @@
   plz: 83026
   preis: 895
   preislink: 
-  show: false
+  show: true
   str: Klepperstraße 28
   veranstalter: Fortbildungs-Akademie Pschick
 
@@ -552,7 +552,8 @@
   plz: 93059
   preis: 895
   preislink: 
-  show: false
+  show: true
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
+
 
