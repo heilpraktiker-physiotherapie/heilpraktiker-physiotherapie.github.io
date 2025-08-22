@@ -322,6 +322,24 @@
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
 
+- ablauf: Bei diesem Kurs findet der Unterricht vollständig in Präsenz in Stadthagen statt.
+  courseMode: Onsite
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 09.01.2026 bis 11.01.2026 und 20.02.2026 bis 22.02.2026
+  enddate: 2026-02-22t18:00
+  enrollmentLink: https://ifeas.javis.de/onlineregistration/597/registration
+  kursnummer: HPPT139b
+  land: Niedersachsen
+  ort: Stadthagen
+  ortsbezeichnung: IFEAS
+  plz: 31655
+  preis: 720
+  preislink: https://ifeas.javis.de/onlineregistration/772/registration
+  show: true
+  startdate: 2026-01-09t12:00
+  str: Dorfstraße 2
+  veranstalter: IFEAS
+
 - ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
   courseMode: Blended
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
@@ -555,5 +573,6 @@
   show: true
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
+
 
 
