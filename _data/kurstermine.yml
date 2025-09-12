@@ -238,7 +238,7 @@
   datum: 10.10.2025 bis 12.10.2025 und 28.11.2025 bis 30.11.2025
   enddate: 2025-11-30t18:00
   enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT135
+  kursnummer: HPPT135A
   land: ''
   ort: ''
   ortsbezeichnung: Bei Dir zuhause ;-)
@@ -256,7 +256,7 @@
   datum: 07.11.2025 bis 09.11.2025 und 28.11.2025 bis 30.11.2025
   enddate: 2025-11-30t18:00
   enrollmentLink: https://forms.office.com/Pages/ResponsePage.aspx?id=Jmn6R-JAyE2w1Ee-q3bEQTzLy2hEnqhJhg70Z0uZ3eRUM0lPVTdQWENESDVTMzIyVkEwUUE4V1JJRi4u
-  kursnummer: HPPT136
+  kursnummer: HPPT135B
   land: ''
   ort: ''
   ortsbezeichnung: Bei Dir zuhause ;-)
@@ -573,6 +573,7 @@
   show: true
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
+
 
 
 
