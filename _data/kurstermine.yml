@@ -433,6 +433,25 @@
 - ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
   courseMode: Blended
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 06.03.2026 bis 08.03.2026 und 24.04.2026 bis 26.04.2026
+  enddate: 2026-04-26T18:00
+  enrollmentLink: https://vpt-nordost.de/fortbildungen
+  kursnummer: HPPT144b
+  land: Brandenburg
+  ort: Hoppegarten
+  ortsbezeichnung: Schulungszentrum VPT Nord-Ost
+  plz: 15366
+  preis: 895
+  preislink: https://vpt-nordost.de/fort-weiterbildung/fortbildungen/fortbildung-details/sektoraler-heilpraktiker-ausbildung-2026/
+  show: true
+  startdate: 2026-03-06T12:00
+  str: Rennbahnallee 110
+  veranstalter: Verband für Physiotherapie (VPT) e.V. Landesgruppe Nord-Ost
+
+
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
   datum: 08.05.2026 bis 10.05.2026 und 29.05.2026 bis 31.05.2026
   startdate: 2026-05-08T12:00
   enddate: 2026-05-31T18:00
@@ -520,6 +539,25 @@
   str: Petrinistraße 14-16
   veranstalter: Fortbildungs-Akademie Pschick
 
+- ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet am angegebenen Kursort als Präsenzunterricht statt.
+  courseMode: Blended
+  courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
+  datum: 09.10.2026 bis 11.10.2026 und 27.11.2026 bis 29.11.2026
+  enddate: 2026-11-29T18:00
+  enrollmentLink: https://vpt-nordost.de/fortbildungen
+  kursnummer: HPPT149b
+  land: Brandenburg
+  ort: Hoppegarten
+  ortsbezeichnung: Schulungszentrum VPT Nord-Ost
+  plz: 15366
+  preis: 895
+  preislink: https://vpt-nordost.de/fort-weiterbildung/fortbildungen/fortbildung-details/sektoraler-heilpraktiker-ausbildung-2026/
+  show: true
+  startdate: 2026-10-09T12:00
+  str: Rennbahnallee 110
+  veranstalter: Verband für Physiotherapie (VPT) e.V. Landesgruppe Nord-Ost
+
+
 - ablauf: Teil 1 wird online unterrichtet, so dass ihr bequem von Hause dem Unterricht folgen könnt. Teil 2 findet online statt.
   courseMode: Online
   courseWorkload: 6 Tage live Fortbildung mit insgesamt ca. 64 Unterrichtsstunden
@@ -573,6 +611,7 @@
   show: true
   str: Im Gewerbepark D75
   veranstalter: Fortbildungs-Akademie Pschick
+
 
 
 
