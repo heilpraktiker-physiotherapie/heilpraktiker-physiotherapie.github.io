@@ -12,7 +12,7 @@ Intensives multimediales Lernen, vermittelt kompakt alle Grundlagen des Direktzu
 
 Die komplette Fortbildung zum <em>HP Physio</em> dauert bei uns üblicherweise 6 Tage, aufgeteilt auf 2 mal 3 Tage, und beinhaltet 64 Unterrichtsstunden.  
 Wir beginnen meist freitags gegen 12 Uhr und verabschieden uns sonntags gegen 18 Uhr.
-Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt.  
+Die Prüfung findet zum Abschluss des letzten Fortbildungstages statt. Bei reinen Onlinefortbildungen gibt es mehrere Termine zur Wahl. 
 Auch wenn das Niveau durchaus hoch ist, bestehen die meisten Teilnahme dank der effektiven Vorbereitung die Prüfung auf Anhieb. Wenn ein Teilnehmer die notwendige Punktzahl nicht erreichen sollte, so sind Nachprüfungen problemlos und kostenfrei möglich.  
 
 Der Inhalt wird präsentiert von echten Experten auf Ihrem Gebiet.  
